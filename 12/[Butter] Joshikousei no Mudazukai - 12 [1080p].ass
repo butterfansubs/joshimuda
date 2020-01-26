@@ -1,0 +1,617 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Song,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-2,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Subtitle,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
+Style: Subtitle-2,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
+Style: Caption-3,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-4,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-5,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-6,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-7,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-8,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-9,Open Sans Semibold,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-10,Open Sans Semibold,23,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-11,Open Sans Semibold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-12,Open Sans Semibold,39,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-13,Open Sans Semibold,34,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Caption-14,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.33,0:00:03.21,Song,,0,0,0,,Yo
+Dialogue: 0,0:00:04.33,0:00:05.21,Song,,0,0,0,,Mic check
+Dialogue: 0,0:00:06.17,0:00:07.08,Song,,0,0,0,,JK
+Dialogue: 0,0:00:07.96,0:00:08.46,Song,,0,0,0,,Eh?
+Dialogue: 0,0:00:08.46,0:00:08.96,Song,,0,0,0,,Hai!
+Dialogue: 0,0:00:08.96,0:00:10.88,Song,,0,0,0,,Soko wa futsuu one-two ga best?
+Dialogue: 0,0:00:10.88,0:00:12.67,Song,,0,0,0,,Tsuki tte hiruma wa shizuka na beast
+Dialogue: 0,0:00:12.67,0:00:14.54,Song,,0,0,0,,Tsuki ga nan datte? Ikinari toutotsu
+Dialogue: 0,0:00:14.54,0:00:16.42,Song,,0,0,0,,Yoru ni natte kara kurayami magirete
+Dialogue: 0,0:00:16.42,0:00:18.04,Song,,0,0,0,,Kirakira shichatte tereyasan
+Dialogue: 0,0:00:18.04,0:00:19.92,Song,,0,0,0,,Ayakaritai lunatic girls
+Dialogue: 0,0:00:19.92,0:00:22.04,Song,,0,0,0,,Sore binjou shitai no, kirakira JK
+Dialogue: 0,0:00:22.04,0:00:23.04,Song,,0,0,0,,Genjyou shotchuu
+Dialogue: 0,0:00:23.04,0:00:24.13,Song,,0,0,0,,Daradara OK~!
+Dialogue: 0,0:00:24.25,0:00:27.54,Song,,0,0,0,,Atamannaka zenbu
+Dialogue: 0,0:00:27.54,0:00:29.21,Song,,0,0,0,,Karappo ni dekita nara yuunou
+Dialogue: 0,0:00:29.21,0:00:30.33,Song,,0,0,0,,Sou na no? You know?
+Dialogue: 0,0:00:30.33,0:00:31.63,Song,,0,0,0,,Yasei no honnou (Nya~)
+Dialogue: 0,0:00:31.75,0:00:36.00,Song,,0,0,0,,Seken ni hitokoto otome no otakebi
+Dialogue: 0,0:00:36.00,0:00:36.83,Song,,0,0,0,,Wawawawawa~!
+Dialogue: 0,0:00:36.83,0:00:37.88,Song,,0,0,0,,Zanshin shout
+Dialogue: 0,0:00:37.88,0:00:39.33,Song,,0,0,0,,Wawawawawawawa~!
+Dialogue: 0,0:00:39.33,0:00:43.13,Song,,0,0,0,,Tsuki tte usagi inai ndane
+Dialogue: 0,0:00:43.13,0:00:46.75,Song,,0,0,0,,Dassu tte doitsugo nan dane
+Dialogue: 0,0:00:46.75,0:00:50.29,Song,,0,0,0,,Karakute nakinagara curry ga tabetakunaru BGM!
+Dialogue: 0,0:00:51.58,0:00:53.13,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:00:53.13,0:00:53.96,Song,,0,0,0,,Wa ni natte
+Dialogue: 0,0:00:53.96,0:00:55.08,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:00:55.08,0:00:57.38,Song,,0,0,0,,Mic check JK one-two JK one-two
+Dialogue: 0,0:00:57.38,0:00:59.46,Song,,0,0,0,,Nan datte OK everyday
+Dialogue: 0,0:00:59.46,0:01:00.63,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:01:00.63,0:01:01.46,Song,,0,0,0,,Iki sutte
+Dialogue: 0,0:01:01.46,0:01:02.63,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:01:02.63,0:01:04.96,Song,,0,0,0,,Shiisuu ramen gyudon tonkatsu kishimen
+Dialogue: 0,0:01:04.96,0:01:07.00,Song,,0,0,0,,Nandemo tabetakunaru BGM
+Dialogue: 0,0:01:07.00,0:01:08.83,Song,,0,0,0,,Kosei wa zettai dashioshimi shinai
+Dialogue: 0,0:01:08.83,0:01:10.79,Song,,0,0,0,,Kusuburu honnou minna de wa! tto
+Dialogue: 0,0:01:10.79,0:01:12.54,Song,,0,0,0,,Odorokashite sa, mada minu hou e
+Dialogue: 0,0:01:12.54,0:01:14.58,Song,,0,0,0,,Muda demo let's go, itsushika treasure
+Dialogue: 0,0:01:14.58,0:01:15.71,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:01:15.71,0:01:16.58,Song,,0,0,0,,Nakitai toki wa
+Dialogue: 0,0:01:16.58,0:01:17.63,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:01:17.63,0:01:20.00,Song,,0,0,0,,Omoikitte naite naite tsuukai
+Dialogue: 0,0:01:20.00,0:01:21.96,Song,,0,0,0,,Soukai na kibun sa every day
+Dialogue: 0,0:01:21.96,0:01:23.17,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:01:23.17,0:01:24.00,Song,,0,0,0,,Hora sono ato wa
+Dialogue: 0,0:01:24.00,0:01:25.13,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:01:25.13,0:01:27.50,Song,,0,0,0,,Iya demo kitto harete sou egao ni narusa
+Dialogue: 0,0:01:27.50,0:01:29.83,Song,,0,0,0,,Wa! Moon! Dass! Cry! Every day
+Dialogue: 0,0:01:43.38,0:01:45.13,Subtitle,,0,0,0,,Th-this could be...
+Dialogue: 0,0:01:45.13,0:01:46.83,Subtitle,,0,0,0,,quite bad!
+Dialogue: 0,0:01:47.50,0:01:48.92,Subtitle,,0,0,0,,Hey, Sis, the bath is...
+Dialogue: 0,0:01:48.92,0:01:49.75,Subtitle,,0,0,0,,What's wrong?
+Dialogue: 0,0:01:49.75,0:01:50.75,Subtitle,,0,0,0,,Kohaku!
+Dialogue: 0,0:01:50.75,0:01:51.42,Subtitle,,0,0,0,,Huh? Wait, whoa, what's going on?
+Dialogue: 0,0:01:51.42,0:01:53.17,Subtitle-2,,0,0,0,,Wh-wh-what should I do?\NHuh? Wait, whoa, what's going on?
+Dialogue: 0,0:01:53.17,0:01:54.63,Subtitle,,0,0,0,,At this rate, Baka-san is...
+Dialogue: 0,0:01:54.63,0:01:56.25,Subtitle,,0,0,0,,Baka-san will...!
+Dialogue: 0,0:01:57.71,0:01:59.00,Subtitle,,0,0,0,,I'm bored.
+Dialogue: 0,0:01:59.00,0:02:00.25,Subtitle,,0,0,0,,Wanna go do something?
+Dialogue: 0,0:02:00.25,0:02:01.42,Subtitle,,0,0,0,,Such as?
+Dialogue: 0,0:02:01.42,0:02:02.63,Subtitle,,0,0,0,,A New Year's shrine visit.
+Dialogue: 0,0:02:03.04,0:02:04.88,Subtitle,,0,0,0,,But it's March.
+Dialogue: 0,0:02:05.17,0:02:06.71,Subtitle,,0,0,0,,Plus, it's cold.
+Dialogue: 0,0:02:07.00,0:02:08.21,Subtitle,,0,0,0,,Right.
+Dialogue: 0,0:02:08.88,0:02:11.75,Subtitle,,0,0,0,,Hey, would you get mad if I cracked a fart in here?
+Dialogue: 0,0:02:11.75,0:02:13.50,Subtitle,,0,0,0,,I would erase your existence.
+Dialogue: 0,0:02:16.08,0:02:17.58,Subtitle,,0,0,0,,What are you grinning about?
+Dialogue: 0,0:02:17.88,0:02:18.67,Subtitle,,0,0,0,,Hey!
+Dialogue: 0,0:02:18.67,0:02:19.25,Subtitle,,0,0,0,,You seriously suck! Get out of here!
+Dialogue: 0,0:02:19.25,0:02:20.92,Subtitle-2,,0,0,0,,I haven't fired anything off. Not yet!\NYou seriously suck! Get out of here!
+Dialogue: 0,0:02:20.92,0:02:21.42,Subtitle-2,,0,0,0,,I haven't fired anything off. Not yet!
+Dialogue: 0,0:02:21.42,0:02:24.21,Subtitle,,0,0,0,,What do you mean, "not yet"?\NYou were totally going to do it!
+Dialogue: 0,0:02:24.21,0:02:26.33,Subtitle,,0,0,0,,It's complete: Himeji Castle.
+Dialogue: 0,0:02:28.13,0:02:30.04,Subtitle,,0,0,0,,That's on you, so you'd better eat it.
+Dialogue: 0,0:02:30.04,0:02:33.17,Subtitle,,0,0,0,,My nose is running. Grab me a tissue, Wota.
+Dialogue: 0,0:02:33.17,0:02:34.29,Subtitle,,0,0,0,,Get it yourself.
+Dialogue: 0,0:02:34.29,0:02:36.58,Subtitle,,0,0,0,,Oh, come on. You're closer.
+Dialogue: 0,0:02:36.58,0:02:38.46,Subtitle,,0,0,0,,Barely. And don't scooch away.
+Dialogue: 0,0:02:38.46,0:02:41.13,Subtitle,,0,0,0,,No, you are closer, by eight centimeters.\NI just measured!
+Dialogue: 0,0:02:41.13,0:02:42.92,Subtitle,,0,0,0,,Measured it how?
+Dialogue: 0,0:02:42.92,0:02:44.79,Subtitle,,0,0,0,,Base times height divided by two.
+Dialogue: 0,0:02:44.79,0:02:46.08,Subtitle,,0,0,0,,The only thing "base" here is you.
+Dialogue: 0,0:02:47.04,0:02:49.75,Subtitle,,0,0,0,,Eew, now it's starting to drip!
+Dialogue: 0,0:02:49.75,0:02:51.13,Subtitle,,0,0,0,,Now Wota's house will be coated with snot,\Na stain that will never be removed!
+Dialogue: 0,0:02:51.13,0:02:53.63,Subtitle-2,,0,0,0,,If you've got time to talk, you've got time to blow.\NNow Wota's house will be coated with snot,\Na stain that will never be removed!
+Dialogue: 0,0:02:53.63,0:02:54.25,Subtitle,,0,0,0,,Now Wota's house will be coated with snot,\Na stain that will never be removed!
+Dialogue: 0,0:02:54.58,0:02:56.46,Subtitle,,0,0,0,,I've led... a good life.
+Dialogue: 0,0:02:56.46,0:02:57.75,Subtitle,,0,0,0,,Blow your nose already!
+Dialogue: 0,0:02:57.75,0:03:00.96,Subtitle,,0,0,0,,And you, Robo, don't make the\NToyotomi family tree out of mandarin oranges!
+Dialogue: 0,0:03:03.00,0:03:05.38,Subtitle,,0,0,0,,I thought I was gonna drown in a sea of snot.
+Dialogue: 0,0:03:05.38,0:03:07.88,Subtitle,,0,0,0,,Hey, Robo, are you the type who\Nlooks at the tissue after blowing?
+Dialogue: 0,0:03:07.88,0:03:08.63,Subtitle,,0,0,0,,Indeed.
+Dialogue: 0,0:03:08.63,0:03:10.25,Subtitle,,0,0,0,,Yeah, I thought so!
+Dialogue: 0,0:03:10.25,0:03:11.67,Subtitle,,0,0,0,,Wota, what about...?
+Dialogue: 0,0:03:12.42,0:03:13.63,Subtitle,,0,0,0,,What the hell?!
+Dialogue: 0,0:03:13.63,0:03:15.79,Subtitle-2,,0,0,0,,I don't know why, but Wota's losing it.\NDrowning in a "sea of snot"?
+Dialogue: 0,0:03:15.79,0:03:16.33,Subtitle-2,,0,0,0,,I don't know why, but Wota's losing it.\NWho's ever heard of someone dying like that?!
+Dialogue: 0,0:03:16.33,0:03:17.63,Subtitle-2,,0,0,0,,Her funny bone is more like a funny ligament.\NWho's ever heard of someone dying like that?!
+Dialogue: 0,0:03:17.63,0:03:19.21,Subtitle-2,,0,0,0,,Her funny bone is more like a funny ligament.
+Dialogue: 0,0:03:19.21,0:03:21.08,Subtitle,,0,0,0,,Good God...
+Dialogue: 0,0:03:26.29,0:03:28.38,Subtitle,,0,0,0,,I'm bored. Wanna go do something?
+Dialogue: 0,0:03:28.38,0:03:29.42,Subtitle,,0,0,0,,Such as?
+Dialogue: 0,0:03:29.42,0:03:30.67,Subtitle,,0,0,0,,A New Year's shrine visit.
+Dialogue: 0,0:03:30.67,0:03:32.13,Subtitle,,0,0,0,,But it's March.
+Dialogue: 0,0:03:32.13,0:03:33.38,Subtitle,,0,0,0,,Plus, it's cold.
+Dialogue: 0,0:03:33.38,0:03:34.67,Subtitle,,0,0,0,,Right...
+Dialogue: 0,0:03:36.83,0:03:38.29,Subtitle,,0,0,0,,This is nice, isn't it?
+Dialogue: 0,0:03:38.29,0:03:39.67,Subtitle,,0,0,0,,Yeah, it's nice.
+Dialogue: 0,0:03:39.67,0:03:42.92,Subtitle,,0,0,0,,You know, for the next 10 or 20 years,
+Dialogue: 0,0:03:42.92,0:03:45.75,Subtitle,,0,0,0,,we're probably gonna be repeating the same\Nconversation over and over again, huh?
+Dialogue: 0,0:03:47.08,0:03:48.88,Subtitle,,0,0,0,,What? What did you just say?
+Dialogue: 0,0:03:48.88,0:03:50.67,Subtitle,,0,0,0,,How many times must I say it?
+Dialogue: 0,0:03:50.67,0:03:54.50,Subtitle,,0,0,0,,If you don't do your best on your final exams,\Nyou will be held back a year.
+Dialogue: 0,0:03:54.50,0:03:55.79,Subtitle,,0,0,0,,I am unflinchingly serious.
+Dialogue: 0,0:03:55.79,0:03:59.71,Subtitle,,0,0,0,,I have also been nagging you almost every day about it.
+Dialogue: 0,0:03:59.71,0:04:02.17,Subtitle,,0,0,0,,Surely you didn't think I was joking, did you?
+Dialogue: 0,0:04:02.17,0:04:03.00,Subtitle,,0,0,0,,That's what I thought.
+Dialogue: 0,0:04:03.00,0:04:04.25,Subtitle,,0,0,0,,Would a blow to the head help?
+Dialogue: 0,0:04:04.25,0:04:08.00,Subtitle,,0,0,0,,Believe me when I say that if you\Nget an F on even one subject,
+Dialogue: 0,0:04:08.00,0:04:10.29,Subtitle,,0,0,0,,you will be held back, Tanaka.
+Dialogue: 0,0:04:10.50,0:04:12.04,Subtitle,,0,0,0,,Held... back?
+Dialogue: 0,0:04:12.04,0:04:13.79,Subtitle,,0,0,0,,That's totally what he said!
+Dialogue: 0,0:04:15.17,0:04:15.92,Subtitle,,0,0,0,,Uh, there's nothing funny about that at all.
+Dialogue: 0,0:04:15.92,0:04:17.63,Subtitle-2,,0,0,0,,And he was looking way serious!\NUh, there's nothing funny about that at all.
+Dialogue: 0,0:04:17.63,0:04:19.33,Subtitle,,0,0,0,,I think your nervous system is broken.
+Dialogue: 0,0:04:19.33,0:04:20.71,Subtitle,,0,0,0,,Are you really okay?
+Dialogue: 0,0:04:20.71,0:04:21.58,Subtitle,,0,0,0,,Huh?
+Dialogue: 0,0:04:21.58,0:04:22.46,Subtitle,,0,0,0,,The heck is this?
+Dialogue: 0,0:04:22.46,0:04:25.08,Subtitle,,0,0,0,,I thought it might help reality sink in a little.
+Dialogue: 0,0:04:25.58,0:04:27.25,Subtitle,,0,0,0,,Baka-san! Baka-san! Baka-san!
+Dialogue: 0,0:04:27.25,0:04:28.58,Subtitle,,0,0,0,,Hey there! It's been a week.
+Dialogue: 0,0:04:28.58,0:04:29.25,Subtitle,,0,0,0,,Good morning.
+Dialogue: 0,0:04:29.25,0:04:31.29,Subtitle,,0,0,0,,I-I knew it! It's just like the fortune said!
+Dialogue: 0,0:04:33.21,0:04:34.04,Subtitle,,0,0,0,,Oh dear.
+Dialogue: 0,0:04:34.04,0:04:35.50,Subtitle,,0,0,0,,Hey, what...? Not this again!
+Dialogue: 0,0:04:35.75,0:04:38.46,Subtitle,,0,0,0,,It's been a while since I've run.
+Dialogue: 0,0:04:38.46,0:04:40.79,Subtitle,,0,0,0,,Yeah, well... You said a fortune, right?
+Dialogue: 0,0:04:40.79,0:04:44.63,Subtitle,,0,0,0,,Yes. My fortune-telling is almost never wrong.
+Dialogue: 0,0:04:44.63,0:04:46.04,Subtitle,,0,0,0,,Are you okay?
+Dialogue: 0,0:04:46.04,0:04:49.04,Subtitle,,0,0,0,,This isn't the time for you to be\Nworried about someone else, is it?
+Dialogue: 0,0:04:49.04,0:04:52.04,Subtitle,,0,0,0,,You've missed so many days\Nthat you're in trouble too, right?
+Dialogue: 0,0:04:52.79,0:04:54.29,Subtitle,,0,0,0,,There's nothing to worry about!
+Dialogue: 0,0:04:54.29,0:04:57.38,Subtitle,,0,0,0,,For a while now, I've actually been\Ndoing a special study method!
+Dialogue: 0,0:04:57.38,0:04:58.38,Subtitle,,0,0,0,,"Special"?
+Dialogue: 0,0:04:58.38,0:04:59.25,Subtitle,,0,0,0,,You plebs...
+Dialogue: 0,0:04:59.63,0:05:01.13,Subtitle,,0,0,0,,It's called "sleep-learning."
+Dialogue: 0,0:05:01.50,0:05:02.88,Subtitle,,0,0,0,,Do you know it?
+Dialogue: 0,0:05:03.79,0:05:06.63,Subtitle,,0,0,0,,I saw it on TV recently.
+Dialogue: 0,0:05:06.63,0:05:09.88,Subtitle,,0,0,0,,Apparently, people's brains can learn\Nwhile they're sleeping.
+Dialogue: 0,0:05:09.88,0:05:11.63,Subtitle,,0,0,0,,Oh, really?
+Dialogue: 0,0:05:11.63,0:05:13.17,Subtitle-2,,0,0,0,,Yeah, so now I'm sleeping 12 hours a day!
+Dialogue: 0,0:05:13.17,0:05:13.88,Subtitle,,0,0,0,,Robo, this is...\NYeah, so now I'm sleeping 12 hours a day!
+Dialogue: 0,0:05:13.88,0:05:14.63,Subtitle,,0,0,0,,Robo, this is...\NSo, I'm auto-learning like crazy. Like, for real!
+Dialogue: 0,0:05:14.63,0:05:16.21,Subtitle,,0,0,0,,Yes. This is precarious.\NSo, I'm auto-learning like crazy. Like, for real!
+Dialogue: 0,0:05:16.21,0:05:16.67,Subtitle-2,,0,0,0,,So, I'm auto-learning like crazy. Like, for real!
+Dialogue: 0,0:05:16.67,0:05:18.79,Subtitle,,0,0,0,,Isn't sleep-learning awesome?
+Dialogue: 0,0:05:19.13,0:05:20.83,Subtitle,,0,0,0,,Baka, the thing is...
+Dialogue: 0,0:05:21.46,0:05:26.13,Subtitle,,0,0,0,,It's only sleep-learning\Nif you've slept after you've studied.
+Dialogue: 0,0:05:26.42,0:05:29.96,Subtitle,,0,0,0,,If you haven't studied,\Nit's just regular sleep. It's meaningless.
+Dialogue: 0,0:05:29.96,0:05:32.13,Subtitle,,0,0,0,,You're sleeping way too much, Baka.
+Dialogue: 0,0:05:33.54,0:05:34.46,Subtitle,,0,0,0,,Really?
+Dialogue: 0,0:05:34.46,0:05:35.33,Subtitle,,0,0,0,,Really.
+Dialogue: 0,0:05:36.71,0:05:38.63,Subtitle,,0,0,0,,H-hey, this is bad!
+Dialogue: 0,0:05:38.63,0:05:40.17,Subtitle,,0,0,0,,Finals are coming up soon!
+Dialogue: 0,0:05:40.17,0:05:43.13,Subtitle,,0,0,0,,That's on you! Why did you think things\Nwould work out if you just slept?!
+Dialogue: 0,0:05:43.13,0:05:45.13,Subtitle,,0,0,0,,I thought I could take the easy route\Nand when I went to bed,
+Dialogue: 0,0:05:45.13,0:05:46.79,Subtitle,,0,0,0,,I could remember what I heard in class.
+Dialogue: 0,0:05:46.79,0:05:48.00,Subtitle-2,,0,0,0,,The truth comes out.\NBut you sleep in class too!
+Dialogue: 0,0:05:48.00,0:05:48.83,Subtitle,,0,0,0,,But you sleep in class too!
+Dialogue: 0,0:05:48.83,0:05:50.17,Subtitle,,0,0,0,,Oh. You're right!
+Dialogue: 0,0:05:50.17,0:05:51.17,Subtitle,,0,0,0,,I swear...
+Dialogue: 0,0:05:51.42,0:05:54.58,Subtitle,,0,0,0,,All that sleep has improved your skin,\Nbut it's just wasted on you!
+Dialogue: 0,0:05:54.92,0:05:57.58,Subtitle,,0,0,0,,I'm sure your blood would be\Nquite pretty if drawn right now...
+Dialogue: 0,0:05:58.13,0:06:01.46,Subtitle,,0,0,0,,The thing is, even on my best days,\NI'll score about a 20 on my tests.
+Dialogue: 0,0:06:01.46,0:06:04.54,Subtitle,,0,0,0,,So, it's kinda impossible for me to get\Nover a 40 on all subjects, right?
+Dialogue: 0,0:06:04.54,0:06:06.13,Subtitle,,0,0,0,,Don't you guys think so?
+Dialogue: 0,0:06:06.13,0:06:09.67,Subtitle,,0,0,0,,Aah, I really might be the only one\Nwho has to repeat a grade.
+Dialogue: 0,0:06:09.67,0:06:10.88,Subtitle,,0,0,0,,Baka-san...
+Dialogue: 0,0:06:12.29,0:06:17.08,Subtitle,,0,0,0,,Even if we're in different grades, please let me\Neat lunch with you sometimes, Paisen.
+Dialogue: 0,0:06:20.04,0:06:23.54,Subtitle,,0,0,0,,How long you plan on living\Nin slumber land? Snap out of it!
+Dialogue: 0,0:06:23.54,0:06:26.92,Subtitle,,0,0,0,,Well, next, I thought I'd take the easy route\Nand take some protein to improve brain-
+Dialogue: 0,0:06:26.92,0:06:30.04,Subtitle,,0,0,0,,Listen up: You do not sleep a wink until exam time!
+Dialogue: 0,0:06:30.04,0:06:32.46,Subtitle,,0,0,0,,That's how hard you have to study!
+Dialogue: 0,0:06:32.46,0:06:33.83,Subtitle,,0,0,0,,You got that?!
+Dialogue: 0,0:06:35.13,0:06:37.21,Subtitle,,0,0,0,,U-understood, Paisen.
+Dialogue: 0,0:06:37.21,0:06:38.04,Subtitle,,0,0,0,,Look, you really need to cut that out!
+Dialogue: 0,0:06:38.04,0:06:39.79,Subtitle-2,,0,0,0,,Ow!\NLook, you really need to cut that out!
+Dialogue: 0,0:06:39.79,0:06:40.04,Subtitle-2,,0,0,0,,Ow!
+Dialogue: 0,0:06:40.42,0:06:42.38,Subtitle,,0,0,0,,Okay, let's start with Japanese history.
+Dialogue: 0,0:06:42.38,0:06:46.17,Subtitle,,0,0,0,,The treaty signed in 1895 after\Nthe Sino-Japanese War was...?
+Dialogue: 0,0:06:46.17,0:06:47.50,Subtitle,,0,0,0,,To critical acclaim.
+Dialogue: 0,0:06:47.50,0:06:49.04,Subtitle,,0,0,0,,"Acclaim" has nothing to do with it!
+Dialogue: 0,0:06:49.04,0:06:50.71,Subtitle,,0,0,0,,It was the Treaty of Shimonoseki!
+Dialogue: 0,0:06:50.71,0:06:53.63,Subtitle,,0,0,0,,So, after that, what were the three countries\Nof the Triple Intervention,
+Dialogue: 0,0:06:53.63,0:06:56.04,Subtitle,,0,0,0,,which called for the return of the Liaodong Peninsula?
+Dialogue: 0,0:06:56.04,0:06:58.00,Subtitle,,0,0,0,,Uh, gimme three choices, please.
+Dialogue: 0,0:06:58.00,0:07:00.04,Subtitle,,0,0,0,,That would be giving you the answers!
+Dialogue: 0,0:07:00.04,0:07:02.54,Subtitle,,0,0,0,,You're just being mean and\Ngiving me the hard ones, meanie!
+Dialogue: 0,0:07:02.54,0:07:04.71,Subtitle,,0,0,0,,Anyone in elementary school\Ncould get these, you halfwit!
+Dialogue: 0,0:07:04.71,0:07:05.21,Subtitle-2,,0,0,0,,You know, the way you word\Nthese questions is super confusing!
+Dialogue: 0,0:07:05.21,0:07:07.21,Subtitle,,0,0,0,,Um, Saginomiya-san?\NYou know, the way you word\Nthese questions is super confusing!
+Dialogue: 0,0:07:07.21,0:07:07.75,Subtitle-2,,0,0,0,,You know, the way you word\Nthese questions is super confusing!
+Dialogue: 0,0:07:07.75,0:07:08.17,Subtitle-2,,0,0,0,,I'm just reading them the way they're written!
+Dialogue: 0,0:07:08.17,0:07:09.42,Subtitle,,0,0,0,,Is it true that the next test will determine\Nif Tanaka-san can move up a grade?\NI'm just reading them the way they're written!
+Dialogue: 0,0:07:09.42,0:07:11.88,Subtitle,,0,0,0,,Is it true that the next test will determine\Nif Tanaka-san can move up a grade?\NThen how you're reading them means\Nsomething must be wrong with your brain.
+Dialogue: 0,0:07:11.88,0:07:12.63,Subtitle,,0,0,0,,Is it true that the next test will determine\Nif Tanaka-san can move up a grade?\NWhat does that even mean?\NYou just want to mouth off at me, don't you?!
+Dialogue: 0,0:07:12.63,0:07:14.54,Subtitle,,0,0,0,,Yes, it would seem to be true.\NWhat does that even mean?\NYou just want to mouth off at me, don't you?!
+Dialogue: 0,0:07:14.54,0:07:15.13,Subtitle-2,,0,0,0,,What does that even mean?\NYou just want to mouth off at me, don't you?!
+Dialogue: 0,0:07:15.13,0:07:16.25,Subtitle-2,,0,0,0,,If you don't take this seriously, I'll rip your bangs off!
+Dialogue: 0,0:07:16.25,0:07:17.38,Subtitle,,0,0,0,,Kikuchi-san!\NIf you don't take this seriously, I'll rip your bangs off!
+Dialogue: 0,0:07:18.46,0:07:20.00,Subtitle,,0,0,0,,In my opinion...
+Dialogue: 0,0:07:20.00,0:07:23.96,Subtitle,,0,0,0,,it's not possible to teach Tanaka-san\Nusing so-called "orthodox" methods.
+Dialogue: 0,0:07:23.96,0:07:27.71,Subtitle,,0,0,0,,I believe that would be like\Ntrying to teach an insect to do tricks.
+Dialogue: 0,0:07:27.71,0:07:29.71,Subtitle,,0,0,0,,Please, let me handle this!
+Dialogue: 0,0:07:30.21,0:07:32.13,Subtitle,,0,0,0,,Majime!
+Dialogue: 0,0:07:32.88,0:07:34.29,Subtitle,,0,0,0,,And so, to dive right into it...
+Dialogue: 0,0:07:34.29,0:07:35.75,Subtitle,,0,0,0,,We shall begin with this.
+Dialogue: 0,0:07:35.75,0:07:36.83,Subtitle,,0,0,0,,The heck is that?
+Dialogue: 0,0:07:36.83,0:07:41.08,Subtitle,,0,0,0,,Is "H-He-Li-Be" a spell to summon up\Na dead pirate or something?
+Dialogue: 0,0:07:41.08,0:07:44.21,Subtitle,,0,0,0,,It's a mnemonic to help memorize the periodic table.
+Dialogue: 0,0:07:44.21,0:07:47.71,Subtitle,,0,0,0,,Still, the problem is how to make her\Nremember a mnemonic.
+Dialogue: 0,0:07:47.83,0:07:50.42,Subtitle,,0,0,0,,You won't forget if you create\Na mental image when memorizing.
+Dialogue: 0,0:07:50.42,0:07:53.42,Subtitle,,0,0,0,,Liebe means "love" in German...
+Dialogue: 0,0:07:53.42,0:07:56.42,Subtitle,,0,0,0,,So, if you use "H-He-Li-Be-B-C-N-O-F-Ne" to imagine...
+Dialogue: 0,0:07:56.42,0:08:02.67,Subtitle,,0,0,0,,"Handsome Hero, LiBe, Brushing Cheeks\NNuzzling on Frigate Nearby," you can remember it.
+Dialogue: 0,0:08:02.79,0:08:04.75,Subtitle,,0,0,0,,Well, it certainly packs a punch...
+Dialogue: 0,0:08:04.75,0:08:10.08,Subtitle,,0,0,0,,Still, what is that next "Nature's Magic, All Milk"\Nthing supposed to be? I seriously don't get it.
+Dialogue: 0,0:08:10.08,0:08:11.29,Subtitle,,0,0,0,,Well, you see...
+Dialogue: 0,0:08:11.54,0:08:15.79,Subtitle,,0,0,0,,Once upon a time, there lived a handsome hero\Nwho loved his frigate a little too much...
+Dialogue: 0,0:08:16.33,0:08:17.46,Subtitle,,0,0,0,,...and they lived happily ever after.
+Dialogue: 0,0:08:17.46,0:08:18.63,Subtitle,,0,0,0,,That counts as a happy ending?
+Dialogue: 0,0:08:18.63,0:08:22.67,Subtitle,,0,0,0,,And so! This mnemonic is all about handsome heroes\Non the high seas. What do you think?
+Dialogue: 0,0:08:22.67,0:08:24.25,Subtitle,,0,0,0,,Yeah! I totally memorized it!
+Dialogue: 0,0:08:24.25,0:08:25.21,Subtitle,,0,0,0,,What? With that?
+Dialogue: 0,0:08:25.21,0:08:27.50,Subtitle,,0,0,0,,I'm glad you get better, Mr. Seaman!
+Dialogue: 0,0:08:27.50,0:08:28.88,Subtitle,,0,0,0,,Okay, let's keep going.
+Dialogue: 0,0:08:28.88,0:08:29.75,Subtitle,,0,0,0,,Yeah!
+Dialogue: 0,0:08:31.58,0:08:34.46,Subtitle,,0,0,0,,Okay, next. What does photosynthesis require?
+Dialogue: 0,0:08:34.46,0:08:35.75,Subtitle,,0,0,0,,Water and determination.
+Dialogue: 0,0:08:35.75,0:08:37.96,Subtitle,,0,0,0,,You know that's not it. Use common sense!
+Dialogue: 0,0:08:37.96,0:08:40.71,Subtitle,,0,0,0,,And you, Robo! Don't do that here!\NUse common sense!
+Dialogue: 0,0:08:42.50,0:08:45.67,Subtitle,,0,0,0,,2X squared minus 3A times base...
+Dialogue: 0,0:08:45.67,0:08:47.58,Subtitle,,0,0,0,,Are you a follower of the Church of Base or something?!
+Dialogue: 0,0:08:47.58,0:08:48.54,Subtitle,,0,0,0,,Start again!
+Dialogue: 0,0:08:48.54,0:08:50.50,Subtitle,,0,0,0,,At this point, she might be the founder of that church.
+Dialogue: 0,0:08:52.75,0:08:55.63,Subtitle,,0,0,0,,Nah, it's no good. I just wanna sleep for a-
+Dialogue: 0,0:08:55.96,0:08:59.42,Subtitle,,0,0,0,,No sleeping! That nap will cost you everything!
+Dialogue: 0,0:08:59.42,0:09:00.96,Subtitle,,0,0,0,,Y-yes, Ma'am.
+Dialogue: 0,0:09:03.08,0:09:05.50,Subtitle,,0,0,0,,Ari-ori-haberi-imasokari.
+Dialogue: 0,0:09:05.50,0:09:08.13,Subtitle,,0,0,0,,Tori-sugari-no-ariyoshi. Dararai dararai-
+Dialogue: 0,0:09:08.13,0:09:08.92,Subtitle-2,,0,0,0,,Wrong!\NTori-sugari-no-ariyoshi. Dararai dararai-
+Dialogue: 0,0:09:08.92,0:09:10.25,Subtitle-2,,0,0,0,,Do that part one more time!
+Dialogue: 0,0:09:10.25,0:09:11.00,Subtitle-2,,0,0,0,,Ari-ori-haberi-imasokari...
+Dialogue: 0,0:09:11.00,0:09:12.50,Subtitle,,0,0,0,,Ah! N-Nino!\NAri-ori-haberi-imasokari...
+Dialogue: 0,0:09:12.50,0:09:13.83,Subtitle,,0,0,0,,Hey, Loli. 'Morning.\NKari-gurashi-no-arirarira.
+Dialogue: 0,0:09:13.83,0:09:14.63,Subtitle,,0,0,0,,Wrong! One more time!\NKari-gurashi-no-arirarira.
+Dialogue: 0,0:09:14.63,0:09:15.33,Subtitle,,0,0,0,,Wrong! One more time!\NButt-of-the-rishiri-kelp-riri...
+Dialogue: 0,0:09:15.33,0:09:16.79,Subtitle,,0,0,0,,Oh. It's Baka, huh?\NButt-of-the-rishiri-kelp-riri...
+Dialogue: 0,0:09:16.79,0:09:18.71,Subtitle-2,,0,0,0,,Ari-ori-haberi-imasokari.
+Dialogue: 0,0:09:18.71,0:09:19.88,Subtitle-2,,0,0,0,,Giant-anteater-waited-upon...
+Dialogue: 0,0:09:19.88,0:09:20.63,Subtitle,,0,0,0,,Tanaka-san, good morning.\NGiant-anteater-waited-upon...
+Dialogue: 0,0:09:20.63,0:09:22.00,Subtitle,,0,0,0,,Tanaka-san, good morning.\NOne-year-passed-since-husband-was-killed....
+Dialogue: 0,0:09:22.00,0:09:23.04,Subtitle,,0,0,0,,How far have you gotten?\NOne-year-passed-since-husband-was-killed....
+Dialogue: 0,0:09:23.04,0:09:23.75,Subtitle,,0,0,0,,How far have you gotten?\NWidow-still-in-her-prime...
+Dialogue: 0,0:09:23.75,0:09:25.00,Subtitle-2,,0,0,0,,Widow-still-in-her-prime...
+Dialogue: 0,0:09:25.46,0:09:28.08,Subtitle,,0,0,0,,Next up, let's do Japanese history.
+Dialogue: 0,0:09:28.08,0:09:29.79,Subtitle,,0,0,0,,Ugh, that again?
+Dialogue: 0,0:09:29.79,0:09:31.42,Subtitle,,0,0,0,,Stop whining and get to it!
+Dialogue: 0,0:09:31.42,0:09:34.08,Subtitle,,0,0,0,,There's a lot of memorization\Non the first and second days,
+Dialogue: 0,0:09:34.08,0:09:36.50,Subtitle,,0,0,0,,so I think it would be better to tackle that first.
+Dialogue: 0,0:09:36.50,0:09:38.25,Subtitle,,0,0,0,,I'm hungry.
+Dialogue: 0,0:09:38.25,0:09:39.96,Subtitle,,0,0,0,,We barely just finished second period!
+Dialogue: 0,0:09:40.88,0:09:43.58,Subtitle,,0,0,0,,Eat something sweet to get yourself motivated!
+Dialogue: 0,0:09:43.58,0:09:46.33,Subtitle,,0,0,0,,Loli... Blessings upon you!
+Dialogue: 0,0:09:46.79,0:09:48.50,Subtitle,,0,0,0,,These are for everyone!
+Dialogue: 0,0:09:48.50,0:09:49.29,Subtitle,,0,0,0,,Thank you for this!
+Dialogue: 0,0:09:49.29,0:09:50.08,Subtitle-2,,0,0,0,,Thanks.\NThank you!
+Dialogue: 0,0:09:50.08,0:09:52.92,Subtitle,,0,0,0,,Hey! Don't eat 'em! Those are mine!
+Dialogue: 0,0:09:52.92,0:09:56.08,Subtitle,,0,0,0,,I-it's not like I brought these snacks for you, you know.
+Dialogue: 0,0:09:56.08,0:09:57.17,Subtitle,,0,0,0,,Now's my chance!
+Dialogue: 0,0:09:57.17,0:09:58.96,Subtitle,,0,0,0,,Hey! That's just nasty.
+Dialogue: 0,0:09:58.96,0:10:00.92,Subtitle,,0,0,0,,Now, all those belong to me!
+Dialogue: 0,0:10:00.92,0:10:02.46,Subtitle-2,,0,0,0,,Are you for real?
+Dialogue: 0,0:10:02.46,0:10:04.46,Subtitle,,0,0,0,,Yet another misfortune!\NNow they're just filthy!
+Dialogue: 0,0:10:04.46,0:10:06.25,Subtitle,,0,0,0,,Please calm down. It's all right.\NIn one instant, those sweets turned into filth!
+Dialogue: 0,0:10:06.25,0:10:07.79,Subtitle,,0,0,0,,The ones in the box are still clean.\NHey! You need to apologize to Loli\Nand then pay for those!
+Dialogue: 0,0:10:07.79,0:10:09.88,Subtitle,,0,0,0,,We just have to throw out the\Nnon-chocolate parts used to hold them.\NHey! You need to apologize to Loli\Nand then pay for those!
+Dialogue: 0,0:10:09.88,0:10:10.63,Subtitle,,0,0,0,,We just have to throw out the\Nnon-chocolate parts used to hold them.\NWhat's this? What are you all up to?
+Dialogue: 0,0:10:10.63,0:10:12.04,Subtitle,,0,0,0,,Oh no! What should I do?\NWhat's this? What are you all up to?
+Dialogue: 0,0:10:12.04,0:10:12.96,Subtitle,,0,0,0,,Oh no! What should I do?\NThey should still be edible.
+Dialogue: 0,0:10:12.96,0:10:14.04,Subtitle-2,,0,0,0,,Worst-case scenario, we could wash them...
+Dialogue: 0,0:10:14.04,0:10:15.42,Subtitle,,0,0,0,,Oh, sweets.
+Dialogue: 0,0:10:15.75,0:10:17.04,Subtitle,,0,0,0,,I claim one!
+Dialogue: 0,0:10:19.79,0:10:21.46,Subtitle,,0,0,0,,Don't just steal one!!
+Dialogue: 0,0:10:25.83,0:10:27.71,Subtitle-2,,0,0,0,,Lily!\NSomeya-san!
+Dialogue: 0,0:10:27.71,0:10:29.67,Subtitle-2,,0,0,0,,Lily! Medic! Medic! Nurse!\NSpit it! Spit that thing out!
+Dialogue: 0,0:10:29.67,0:10:31.21,Subtitle-2,,0,0,0,,Lily! Medic! Medic! Nurse!\NHang in there! We'll get you to the nurse's office!
+Dialogue: 0,0:10:31.21,0:10:33.21,Subtitle,,0,0,0,,And so, a sacrifice has finally appeared...\NFirst off, just hurry and spit that out.
+Dialogue: 0,0:10:33.21,0:10:33.71,Subtitle,,0,0,0,,And so, a sacrifice has finally appeared...\NThrow up everything you've eaten. All of it!
+Dialogue: 0,0:10:33.71,0:10:35.21,Subtitle-2,,0,0,0,,Throw up everything you've eaten. All of it!
+Dialogue: 0,0:10:37.58,0:10:38.63,Subtitle-2,,0,0,0,,Goliath frog...
+Dialogue: 0,0:10:38.63,0:10:39.96,Subtitle,,0,0,0,,Okay, next.\NGoliath frog...
+Dialogue: 0,0:10:39.96,0:10:42.21,Subtitle,,0,0,0,,Who is the author of "I Am a Cat"?
+Dialogue: 0,0:10:42.21,0:10:43.75,Subtitle,,0,0,0,,Natsume Soseki.
+Dialogue: 0,0:10:43.75,0:10:44.58,Subtitle,,0,0,0,,Good.
+Dialogue: 0,0:10:44.58,0:10:46.92,Subtitle,,0,0,0,,And what year did the Manchurian Incident occur?
+Dialogue: 0,0:10:46.92,0:10:48.46,Subtitle,,0,0,0,,The year one-nine-three-one.
+Dialogue: 0,0:10:48.46,0:10:50.83,Subtitle,,0,0,0,,Correct. You've burned through a lot of this, huh?
+Dialogue: 0,0:10:50.83,0:10:53.54,Subtitle,,0,0,0,,At this rate, you can probably make\Nmore than 40 on all subjects!
+Dialogue: 0,0:10:55.29,0:10:57.67,Subtitle,,0,0,0,,My stomach's not doing so good...
+Dialogue: 0,0:10:57.67,0:10:59.54,Subtitle,,0,0,0,,Maybe it's Loli and Lily's curse.
+Dialogue: 0,0:10:59.54,0:11:02.63,Subtitle,,0,0,0,,It hurts! It really hurts!
+Dialogue: 0,0:11:02.63,0:11:03.33,Subtitle,,0,0,0,,The biggest wave in human history\Nis splashing on my shores!
+Dialogue: 0,0:11:03.33,0:11:05.67,Subtitle-2,,0,0,0,,J-just hurry up and go to the toilet!\NThe biggest wave in human history\Nis splashing on my shores!
+Dialogue: 0,0:11:09.83,0:11:11.46,Subtitle,,0,0,0,,That solder stinks, Robo.
+Dialogue: 0,0:11:11.46,0:11:14.00,Subtitle,,0,0,0,,Oh? I think it smells nice.
+Dialogue: 0,0:11:16.38,0:11:18.42,Subtitle,,0,0,0,,Man, that cleared things out!
+Dialogue: 0,0:11:18.42,0:11:21.29,Subtitle,,0,0,0,,I guess all this unfamiliar "studying"\Nmade me constipated!
+Dialogue: 0,0:11:21.63,0:11:24.17,Subtitle,,0,0,0,,Your face really looks nice and refreshed.
+Dialogue: 0,0:11:24.17,0:11:25.29,Subtitle,,0,0,0,,Huh? It does?
+Dialogue: 0,0:11:25.29,0:11:28.63,Subtitle,,0,0,0,,Hold on. You didn't refresh\Nyour brain as well, did you?
+Dialogue: 0,0:11:28.63,0:11:31.13,Subtitle,,0,0,0,,You didn't core dump your memory\Nwhile taking a dump, right?!
+Dialogue: 0,0:11:31.13,0:11:33.71,Subtitle,,0,0,0,,What a funny thing to say, Wota!
+Dialogue: 0,0:11:33.71,0:11:35.38,Subtitle,,0,0,0,,Who is the author of "I Am a Cat"?
+Dialogue: 0,0:11:36.00,0:11:37.21,Subtitle,,0,0,0,,Uh...
+Dialogue: 0,0:11:37.21,0:11:39.38,Subtitle,,0,0,0,,What year did the Manchurian Incident occur?
+Dialogue: 0,0:11:39.96,0:11:41.38,Subtitle,,0,0,0,,I don't remember.
+Dialogue: 0,0:11:41.71,0:11:45.00,Subtitle,,0,0,0,,Hey! You knew the answers to these\Njust a minute ago...!
+Dialogue: 0,0:11:45.00,0:11:46.42,Subtitle,,0,0,0,,Wait a minute.
+Dialogue: 0,0:11:46.42,0:11:49.33,Subtitle,,0,0,0,,Don't tell me you've forgotten everything\Nyou've memorized in these last few days!
+Dialogue: 0,0:11:49.58,0:11:52.79,Subtitle,,0,0,0,,Nah, as if! There's no way that... That...
+Dialogue: 0,0:11:53.33,0:11:55.29,Subtitle,,0,0,0,,Uh, yeah. Maybe.
+Dialogue: 0,0:11:56.71,0:11:58.29,Subtitle,,0,0,0,,This can't be happening!
+Dialogue: 0,0:11:58.29,0:12:01.38,Subtitle,,0,0,0,,There's no time left, and now you have to\Nlearn everything all over again?!
+Dialogue: 0,0:12:01.38,0:12:03.88,Subtitle,,0,0,0,,Seriously, what kind of brain do you have in there?!\NAll over again? No! No, I don't want to!\NI don't wanna study anymore!
+Dialogue: 0,0:12:03.88,0:12:05.50,Subtitle-2,,0,0,0,,All over again? No! No, I don't want to!\NI don't wanna study anymore!
+Dialogue: 0,0:12:06.08,0:12:07.92,Subtitle,,0,0,0,,I've rearranged the schedule.
+Dialogue: 0,0:12:07.92,0:12:11.88,Subtitle,,0,0,0,,If you follow this precisely, you should\Nbe able to just barely hit 40 points.
+Dialogue: 0,0:12:12.17,0:12:13.96,Subtitle,,0,0,0,,Wh-what about time for sleeping?
+Dialogue: 0,0:12:13.96,0:12:16.96,Subtitle,,0,0,0,,Or eating, or taking baths?\NOr going to the bathroom?!
+Dialogue: 0,0:12:16.96,0:12:17.79,Subtitle,,0,0,0,,There is none.
+Dialogue: 0,0:12:17.79,0:12:20.54,Subtitle,,0,0,0,,You fool! Either you do this, or it's game over!
+Dialogue: 0,0:12:20.54,0:12:22.67,Subtitle,,0,0,0,,Forget it, forgot it, four goats and a tit!
+Dialogue: 0,0:12:22.67,0:12:23.88,Subtitle,,0,0,0,,This will totally kill me!
+Dialogue: 0,0:12:23.88,0:12:25.00,Subtitle,,0,0,0,,Now listen up!
+Dialogue: 0,0:12:25.00,0:12:28.96,Subtitle,,0,0,0,,In this fight, you will either die or\Nmove on to the next grade!
+Dialogue: 0,0:12:29.42,0:12:31.21,Subtitle,,0,0,0,,Um, I...
+Dialogue: 0,0:12:31.21,0:12:35.08,Subtitle,,0,0,0,,I... I give up being a high school girl!
+Dialogue: 0,0:12:35.33,0:12:37.42,Subtitle,,0,0,0,,What?! H-hey!
+Dialogue: 0,0:12:38.83,0:12:41.33,Subtitle,,0,0,0,,What are we supposed to do now?
+Dialogue: 0,0:12:48.92,0:12:51.46,Subtitle,,0,0,0,,Tanaka is absent again?
+Dialogue: 0,0:12:52.33,0:12:54.50,Subtitle,,0,0,0,,That makes three days now, right?
+Dialogue: 0,0:12:54.50,0:12:58.04,Subtitle,,0,0,0,,Could it be that she doesn't plan on coming back?
+Dialogue: 0,0:12:58.04,0:13:02.17,Subtitle,,0,0,0,,N-no! I don't want to part with Baka-san like this!
+Dialogue: 0,0:13:08.17,0:13:09.92,Subtitle,,0,0,0,,Apparently, she's here.
+Dialogue: 0,0:13:11.88,0:13:14.42,Subtitle,,0,0,0,,That's what Baka's mom told me.
+Dialogue: 0,0:13:15.63,0:13:19.08,Subtitle,,0,0,0,,Still, why a hog farm?
+Dialogue: 0,0:13:19.08,0:13:22.21,Subtitle,,0,0,0,,There must be plenty of other part-jobs.
+Dialogue: 0,0:13:22.21,0:13:23.63,Subtitle,,0,0,0,,It is like her, though.
+Dialogue: 0,0:13:23.63,0:13:25.38,Subtitle,,0,0,0,,Yeah, but still...
+Dialogue: 0,0:13:27.04,0:13:28.29,Subtitle,,0,0,0,,You want one?
+Dialogue: 0,0:13:28.58,0:13:30.13,Subtitle,,0,0,0,,Thank you.
+Dialogue: 0,0:13:32.63,0:13:35.50,Subtitle,,0,0,0,,It sure is quiet without Baka around, huh?
+Dialogue: 0,0:13:35.50,0:13:36.67,Subtitle,,0,0,0,,That's true.
+Dialogue: 0,0:13:37.29,0:13:39.67,Subtitle,,0,0,0,,You know, I thought of something.
+Dialogue: 0,0:13:40.96,0:13:43.17,Subtitle,,0,0,0,,Maybe the reason I've hung out with her...
+Dialogue: 0,0:13:43.17,0:13:48.21,Subtitle,,0,0,0,,is that sense of security from having\Nsomeone "beneath" me.
+Dialogue: 0,0:13:48.21,0:13:49.92,Subtitle,,0,0,0,,If that were true...
+Dialogue: 0,0:13:49.92,0:13:52.54,Subtitle,,0,0,0,,I think that would make me a horrible person.
+Dialogue: 0,0:13:53.13,0:13:55.63,Subtitle,,0,0,0,,Still, it turns out that's not the case, huh?
+Dialogue: 0,0:13:56.04,0:13:58.17,Subtitle,,0,0,0,,That makes me glad. For real.
+Dialogue: 0,0:14:03.67,0:14:08.50,Subtitle,,0,0,0,,I was sure the office staff said that\Nshe's working around here...
+Dialogue: 0,0:14:08.83,0:14:10.63,Subtitle,,0,0,0,,Blgh! It stinks like animals!
+Dialogue: 0,0:14:10.92,0:14:13.50,Subtitle,,0,0,0,,It's the scent of animals engaging in activity.
+Dialogue: 0,0:14:13.50,0:14:14.58,Subtitle,,0,0,0,,I don't mind it.
+Dialogue: 0,0:14:14.58,0:14:16.92,Subtitle,,0,0,0,,You've got sort of a weird smell fetish, Robo.
+Dialogue: 0,0:14:16.92,0:14:18.04,Subtitle,,0,0,0,,Ah. Over there.
+Dialogue: 0,0:14:23.71,0:14:24.63,Subtitle-2,,0,0,0,,Hey, Ba-!\NYou sure eat a lot, Wota.
+Dialogue: 0,0:14:24.63,0:14:26.08,Subtitle,,0,0,0,,You sure eat a lot, Wota.
+Dialogue: 0,0:14:26.08,0:14:28.54,Subtitle,,0,0,0,,You eat much more, and you'll lose that figure.
+Dialogue: 0,0:14:28.54,0:14:30.54,Subtitle,,0,0,0,,Oh, wait. You never really had one!
+Dialogue: 0,0:14:32.04,0:14:34.92,Subtitle,,0,0,0,,Robo, you're as emotionless as always.
+Dialogue: 0,0:14:34.92,0:14:38.08,Subtitle,,0,0,0,,Still, how come you're so popular with the guys? Jeez!
+Dialogue: 0,0:14:38.08,0:14:38.63,Subtitle,,0,0,0,,Oink.
+Dialogue: 0,0:14:38.63,0:14:41.63,Subtitle,,0,0,0,,Guys sure do like the silent type, huh?
+Dialogue: 0,0:14:41.63,0:14:43.96,Subtitle,,0,0,0,,Oh, Loli! Wanna get up on my shoulders?
+Dialogue: 0,0:14:43.96,0:14:47.63,Subtitle,,0,0,0,,And, Lily! You don't break out into hives\Nwhen I touch you anymore, huh?
+Dialogue: 0,0:14:47.63,0:14:49.13,Subtitle,,0,0,0,,You self-conscious jerk!
+Dialogue: 0,0:14:49.13,0:14:51.83,Subtitle,,0,0,0,,And quit harping on everything, Majime!
+Dialogue: 0,0:14:51.83,0:14:54.29,Subtitle,,0,0,0,,Plus, I don't get 95% of what you say.
+Dialogue: 0,0:14:54.29,0:14:58.58,Subtitle,,0,0,0,,And YOU, you're like, "I don't want to hang out with\Nthe group," but you're so easily tempted by food.
+Dialogue: 0,0:14:58.58,0:15:00.63,Subtitle,,0,0,0,,It's not like I hate you, though, Yamai.
+Dialogue: 0,0:15:01.00,0:15:05.92,Subtitle,,0,0,0,,And you need to stop just silently\Nstaring off into space, Majo. It's freaky!
+Dialogue: 0,0:15:08.92,0:15:11.38,Subtitle,,0,0,0,,I'm not going back! I don't wanna study anymore!
+Dialogue: 0,0:15:11.38,0:15:12.83,Subtitle,,0,0,0,,I'm done being a high school girl!
+Dialogue: 0,0:15:12.83,0:15:16.13,Subtitle,,0,0,0,,Plus, I have lots of friends here and I don't have to study!
+Dialogue: 0,0:15:16.46,0:15:17.75,Subtitle,,0,0,0,,Is this for real?
+Dialogue: 0,0:15:17.75,0:15:19.42,Subtitle,,0,0,0,,Yup. It's for real!
+Dialogue: 0,0:15:19.42,0:15:21.71,Subtitle,,0,0,0,,Oh. Well, that's a waste.
+Dialogue: 0,0:15:22.00,0:15:26.25,Subtitle,,0,0,0,,Being a "high school girl" is the most powerful\Nof weapons, yet you're tossing it aside.
+Dialogue: 0,0:15:27.29,0:15:32.00,Subtitle,,0,0,0,,I'll be fine! I may not be a high school girl,\Nbut I'm super popular here!
+Dialogue: 0,0:15:32.25,0:15:35.58,Subtitle,,0,0,0,,I've got handsome male swine\Nchasing me around every day!
+Dialogue: 0,0:15:35.58,0:15:37.54,Subtitle,,0,0,0,,All right, fine. I get it...
+Dialogue: 0,0:15:38.38,0:15:40.75,Subtitle,,0,0,0,,But what about ME?
+Dialogue: 0,0:15:41.08,0:15:44.58,Subtitle,,0,0,0,,Someone like you, who's worthy of\Nmy scathing retorts, is a rare find.
+Dialogue: 0,0:15:44.58,0:15:48.29,Subtitle,,0,0,0,,If you're not around, my days will get so boring\Nthat I'll just give up and die!
+Dialogue: 0,0:15:49.88,0:15:53.00,Subtitle,,0,0,0,,Without you, Baka,\Nthere's no point in me attending Saijo.
+Dialogue: 0,0:15:53.00,0:15:56.17,Subtitle,,0,0,0,,That's right! For your sake and ours,\Ncome back already!
+Dialogue: 0,0:15:56.17,0:15:59.25,Subtitle,,0,0,0,,Come talk that stupid talk you always do! C'mon!
+Dialogue: 0,0:16:01.04,0:16:04.88,Subtitle,,0,0,0,,The truth is, this work is pretty tough...
+Dialogue: 0,0:16:04.88,0:16:07.21,Subtitle,,0,0,0,,I have to get up early and\Nthere's so much I have to learn.
+Dialogue: 0,0:16:07.21,0:16:12.00,Subtitle,,0,0,0,,I've started to think that I can try to run away,\Nbut nothing good will come of it.
+Dialogue: 0,0:16:12.00,0:16:12.88,Subtitle,,0,0,0,,Baka...
+Dialogue: 0,0:16:12.88,0:16:14.92,Subtitle,,0,0,0,,If either choice is just as tough...
+Dialogue: 0,0:16:14.92,0:16:17.42,Subtitle,,0,0,0,,I'll buckle down and study!
+Dialogue: 0,0:16:17.42,0:16:20.25,Subtitle,,0,0,0,,Then, we can all be 2nd-years together!
+Dialogue: 0,0:16:20.63,0:16:23.92,Subtitle,,0,0,0,,I... I'm gonna quit my quit being a high school girl!
+Dialogue: 0,0:16:25.71,0:16:26.75,Subtitle,,0,0,0,,Baka!
+Dialogue: 0,0:16:33.54,0:16:36.46,Subtitle,,0,0,0,,Robo... Wota!
+Dialogue: 0,0:16:36.92,0:16:38.54,Subtitle,,0,0,0,,Thank you, Wota!
+Dialogue: 0,0:16:38.54,0:16:39.71,Subtitle-2,,0,0,0,,Uh, I don't think that's who she should be grateful to...\NThank you, Wota!
+Dialogue: 0,0:16:39.71,0:16:41.13,Subtitle-2,,0,0,0,,Uh, I don't think that's who she should be grateful to...
+Dialogue: 0,0:16:41.13,0:16:42.83,Subtitle-2,,0,0,0,,Still, the sentiment is not mistaken.\NRobo! Thank you!
+Dialogue: 0,0:16:42.83,0:16:43.88,Subtitle-2,,0,0,0,,Hey!\NRobo! Thank you!
+Dialogue: 0,0:16:45.67,0:16:47.17,Subtitle,,0,0,0,,Yeah, but still...
+Dialogue: 0,0:16:47.17,0:16:50.75,Subtitle,,0,0,0,,The fact that Baka's in danger of being\Nkept back hasn't changed at all.
+Dialogue: 0,0:16:50.75,0:16:52.75,Subtitle,,0,0,0,,What do we do now, Robo?
+Dialogue: 0,0:16:53.33,0:16:55.63,Subtitle,,0,0,0,,Whoa, hey! What are you doing?!
+Dialogue: 0,0:16:55.63,0:16:58.04,Subtitle,,0,0,0,,I'm using tactile means to make her learn.
+Dialogue: 0,0:16:58.04,0:17:00.42,Subtitle,,0,0,0,,You can erase this once you've memorized it.
+Dialogue: 0,0:17:00.42,0:17:02.50,Subtitle,,0,0,0,,Will this even come off?
+Dialogue: 0,0:17:02.50,0:17:04.42,Subtitle,,0,0,0,,Sure enough, it won't come off!
+Dialogue: 0,0:17:04.42,0:17:06.42,Subtitle,,0,0,0,,Dammit! It's un-erasable! It's unbelievable!
+Dialogue: 0,0:17:06.42,0:17:07.13,Subtitle-2,,0,0,0,,Well, I guess it kinda does work...\NDammit! It's un-erasable! It's unbelievable!
+Dialogue: 0,0:17:07.13,0:17:08.29,Subtitle-2,,0,0,0,,Well, I guess it kinda does work...\NThis is a pen!
+Dialogue: 0,0:17:08.29,0:17:11.38,Subtitle,,0,0,0,,Also... When you get sleepy, put this on.
+Dialogue: 0,0:17:11.63,0:17:15.71,Subtitle,,0,0,0,,S-sine... cosine. In... In...
+Dialogue: 0,0:17:16.67,0:17:18.13,Subtitle,,0,0,0,,The effects are confirmed.
+Dialogue: 0,0:17:18.13,0:17:19.92,Subtitle,,0,0,0,,Pretend you don't know her. You don't know her...
+Dialogue: 0,0:17:53.58,0:17:56.38,Subtitle-2,,0,0,0,,Sawa-sawa-sawa-sawa... Warsaw sawa-sa...
+Dialogue: 0,0:17:56.38,0:17:58.42,Subtitle,,0,0,0,,Don't you think she’s about at her limit?\NOne nine five five five.
+Dialogue: 0,0:17:58.42,0:18:00.96,Subtitle,,0,0,0,,Tests begin tomorrow, so this does not look good.\NCzech-czech-czech... Czechoslovakia....
+Dialogue: 0,0:18:00.96,0:18:01.67,Subtitle,,0,0,0,,Tests begin tomorrow, so this does not look good.\NGary-gary-gary-gary Hungary...
+Dialogue: 0,0:18:01.67,0:18:03.58,Subtitle,,0,0,0,,I-I finished it, Baka-san!\NGary-gary-gary-gary Hungary...
+Dialogue: 0,0:18:03.58,0:18:05.21,Subtitle,,0,0,0,,I'm sorry I kept you waiting!
+Dialogue: 0,0:18:05.21,0:18:07.38,Subtitle,,0,0,0,,Please, down this all at once!
+Dialogue: 0,0:18:09.63,0:18:11.54,Subtitle,,0,0,0,,Wh-what did you make her drink, Majo?!
+Dialogue: 0,0:18:11.54,0:18:13.13,Subtitle,,0,0,0,,Also, are you okay with your absentee rate?
+Dialogue: 0,0:18:13.13,0:18:18.04,Subtitle,,0,0,0,,She'll be fine. It's an energy enhancer\NI made in order to change her fate.
+Dialogue: 0,0:18:18.71,0:18:20.33,Subtitle,,0,0,0,,What's in it?
+Dialogue: 0,0:18:20.33,0:18:22.00,Subtitle,,0,0,0,,I can't say.
+Dialogue: 0,0:18:22.00,0:18:22.67,Subtitle,,0,0,0,,Why not?
+Dialogue: 0,0:18:22.67,0:18:23.17,Subtitle-2,,0,0,0,,Wow. Seriously, wow...\NWhy not?
+Dialogue: 0,0:18:23.17,0:18:26.25,Subtitle-2,,0,0,0,,Wow. Seriously, wow...\NThe dosage is rather close to the lethal limit.
+Dialogue: 0,0:18:26.25,0:18:27.92,Subtitle-2,,0,0,0,,It's all so clear now.\NSo what's in it?!
+Dialogue: 0,0:18:28.29,0:18:29.00,Subtitle,,0,0,0,,Majo, thank you!
+Dialogue: 0,0:18:29.00,0:18:30.04,Subtitle-2,,0,0,0,,She's all hopped up!\NMajo, thank you!
+Dialogue: 0,0:18:30.04,0:18:30.83,Subtitle-2,,0,0,0,,She's all hopped up!
+Dialogue: 0,0:18:31.08,0:18:32.83,Subtitle,,0,0,0,,A-are you okay, Tanaka-san?
+Dialogue: 0,0:18:32.83,0:18:35.42,Subtitle,,0,0,0,,We don't have time, so come on!\NWe gotta hurry and keep going!
+Dialogue: 0,0:18:35.42,0:18:37.63,Subtitle,,0,0,0,,Ah, I suppose I'll study with you as well.
+Dialogue: 0,0:18:37.63,0:18:38.88,Subtitle,,0,0,0,,Me too!
+Dialogue: 0,0:18:38.88,0:18:40.00,Subtitle,,0,0,0,,Popo... Po.
+Dialogue: 0,0:18:40.00,0:18:42.71,Subtitle-2,,0,0,0,,Next, let's go over the periodic table.\NShe's losing it. Go get some water.
+Dialogue: 0,0:18:42.71,0:18:45.04,Subtitle-2,,0,0,0,,Ari-ori-haberi-imasokari.\NWhat? Splashing that on her would be too cruel!
+Dialogue: 0,0:18:45.04,0:18:46.38,Subtitle-2,,0,0,0,,And no "poppopo."\NIt's for her to drink, you fool!
+Dialogue: 0,0:18:46.38,0:18:48.08,Subtitle-2,,0,0,0,,The Warsaw Pact, 1955.\NPoppopo... Portsmouth!
+Dialogue: 0,0:18:48.08,0:18:50.71,Subtitle,,0,0,0,,She truly has some good friends.
+Dialogue: 0,0:18:50.71,0:18:52.21,Subtitle,,0,0,0,,Indeed.
+Dialogue: 0,0:18:52.21,0:18:54.38,Subtitle,,0,0,0,,Tanaka will probably be all right...
+Dialogue: 0,0:18:54.38,0:18:56.63,Subtitle,,0,0,0,,Though, in another sense, she is not all right.
+Dialogue: 0,0:18:56.63,0:18:59.58,Subtitle,,0,0,0,,However, the real problem here...
+Dialogue: 0,0:19:03.58,0:19:05.88,Subtitle,,0,0,0,,...is you, Yamamoto.
+Dialogue: 0,0:19:05.88,0:19:07.88,Subtitle,,0,0,0,,Would you mind coming with me?
+Dialogue: 0,0:19:07.88,0:19:10.25,Subtitle,,0,0,0,,I'm sure you know the reason why.
+Dialogue: 0,0:19:14.00,0:19:15.33,Subtitle,,0,0,0,,I don't knowee!
+Dialogue: 0,0:19:45.04,0:19:50.75,Subtitle,,0,0,0,,I am Sawatari, and I'll be in charge\Nof Class 2-2 for the next year.
+Dialogue: 0,0:19:50.75,0:19:54.79,Subtitle,,0,0,0,,For those of you from Class 1-2 who chose to\Nmove forward pursuing Liberal Arts,
+Dialogue: 0,0:19:54.79,0:19:58.63,Subtitle,,0,0,0,,it's hardly worth mentioning at this point, but...
+Dialogue: 0,0:20:00.50,0:20:02.29,Subtitle,,0,0,0,,And so, Robo!
+Dialogue: 0,0:20:02.29,0:20:07.13,Subtitle,,0,0,0,,I thought it was a cat, so I was all\N"Meow, meow" as I moved closer,
+Dialogue: 0,0:20:07.13,0:20:09.42,Subtitle,,0,0,0,,but when I picked it up, it was just a wig!
+Dialogue: 0,0:20:09.42,0:20:12.29,Subtitle,,0,0,0,,There's no way you'd think a wig\Nwould be lying in the street, right?
+Dialogue: 0,0:20:12.29,0:20:15.33,Subtitle,,0,0,0,,I bet they're totally looking for it right now!
+Dialogue: 0,0:20:15.58,0:20:16.79,Subtitle,,0,0,0,,Hey, Baka.
+Dialogue: 0,0:20:16.79,0:20:19.92,Subtitle,,0,0,0,,Oh, Yamai! I'm glad you were able to do\Nmakeup work and move forward.
+Dialogue: 0,0:20:19.92,0:20:22.29,Subtitle,,0,0,0,,We might be in a bit of trouble here, you know.
+Dialogue: 0,0:20:22.29,0:20:23.50,Subtitle,,0,0,0,,Why's that?
+Dialogue: 0,0:20:23.50,0:20:24.88,Subtitle,,0,0,0,,It's possible that...
+Dialogue: 0,0:20:24.88,0:20:27.67,Subtitle,,0,0,0,,we've been transferred to another world.
+Dialogue: 0,0:20:27.67,0:20:29.63,Subtitle,,0,0,0,,Huh? You mean, that thing that's totally popular now?
+Dialogue: 0,0:20:29.63,0:20:31.04,Subtitle,,0,0,0,,It's actually not so much anymore.
+Dialogue: 0,0:20:31.04,0:20:33.04,Subtitle,,0,0,0,,Look at the members of this guild.
+Dialogue: 0,0:20:33.04,0:20:35.54,Subtitle,,0,0,0,,Aren't you seeing a group of unfamiliar faces?
+Dialogue: 0,0:20:35.79,0:20:36.63,Subtitle,,0,0,0,,Now that you mention it...
+Dialogue: 0,0:20:36.63,0:20:37.92,Subtitle-2,,0,0,0,,Uh, um...\NNow that you mention it...
+Dialogue: 0,0:20:38.50,0:20:40.96,Subtitle,,0,0,0,,Who the hell are you?! You're not even Robo, are you?!
+Dialogue: 0,0:20:40.96,0:20:42.13,Subtitle,,0,0,0,,You're saying that NOW?
+Dialogue: 0,0:20:42.13,0:20:44.63,Subtitle,,0,0,0,,Do you know about parallel worlds?
+Dialogue: 0,0:20:44.63,0:20:45.96,Subtitle,,0,0,0,,Not one bit.
+Dialogue: 0,0:20:45.96,0:20:47.29,Subtitle,,0,0,0,,I thought as much.
+Dialogue: 0,0:20:47.29,0:20:51.25,Subtitle,,0,0,0,,For whatever reason, we've somehow\Nslipped into a world that looks familiar,
+Dialogue: 0,0:20:51.25,0:20:53.67,Subtitle,,0,0,0,,but is quite different from our own.
+Dialogue: 0,0:20:53.67,0:20:55.79,Subtitle,,0,0,0,,As proof of that: look.
+Dialogue: 0,0:20:57.13,0:20:58.58,Subtitle,,0,0,0,,W-Wasedaaaaaaa?!
+Dialogue: 0,0:20:58.58,0:21:00.79,Subtitle-2,,0,0,0,,The Waseda of this world has become extremely old!\NW-Wasedaaaaaaa?!
+Dialogue: 0,0:21:00.79,0:21:02.25,Subtitle-2,,0,0,0,,The Waseda of this world has become extremely old!
+Dialogue: 0,0:21:03.50,0:21:04.71,Subtitle,,0,0,0,,Waseda?
+Dialogue: 0,0:21:05.17,0:21:06.25,Subtitle,,0,0,0,,There are two of them?
+Dialogue: 0,0:21:06.83,0:21:08.75,Subtitle,,0,0,0,,I'm terribly sorry.
+Dialogue: 0,0:21:08.75,0:21:09.29,Subtitle,,0,0,0,,To think, students from my class\Nwould cause such trouble...
+Dialogue: 0,0:21:09.29,0:21:11.00,Subtitle-2,,0,0,0,,What the heck, Young Waseda?!\NTo think, students from my class\Nwould cause such trouble...
+Dialogue: 0,0:21:11.00,0:21:12.21,Subtitle-2,,0,0,0,,Why are there two of you?\NTo think, students from my class\Nwould cause such trouble...
+Dialogue: 0,0:21:12.21,0:21:13.67,Subtitle-2,,0,0,0,,Which is the real you?\NOh. So that's it.
+Dialogue: 0,0:21:13.67,0:21:14.04,Subtitle-2,,0,0,0,,If you're really you, then answer this: Which do you\Nprefer, high school girls or college women?\NOh. So that's it.
+Dialogue: 0,0:21:14.04,0:21:15.83,Subtitle-2,,0,0,0,,If you're really you, then answer this: Which do you\Nprefer, high school girls or college women?\NPlease excuse us now.
+Dialogue: 0,0:21:15.83,0:21:18.67,Subtitle-2,,0,0,0,,If a standard interview business suit or\Na middy blouse school uniform was on the ground,\NBe quiet! Your classroom is this way.
+Dialogue: 0,0:21:18.67,0:21:20.29,Subtitle-2,,0,0,0,,which would you deliver to the police-\NBe quiet! Your classroom is this way.
+Dialogue: 0,0:21:20.29,0:21:22.63,Subtitle,,0,0,0,,Oh, yeah. We're 2nd-years as of today.
+Dialogue: 0,0:21:23.46,0:21:25.67,Subtitle,,0,0,0,,At last, I have achieved a higher station in-
+Dialogue: 0,0:21:25.67,0:21:26.25,Subtitle-2,,0,0,0,,Enough! Walk on your own\Nand get over here, you idiots!\NAt last, I have achieved a higher station in-
+Dialogue: 0,0:21:26.25,0:21:28.75,Subtitle-2,,0,0,0,,Enough! Walk on your own\Nand get over here, you idiots!
+Dialogue: 0,0:21:28.75,0:21:30.13,Subtitle,,0,0,0,,Those are 2nd-years?
+Dialogue: 0,0:21:30.13,0:21:32.46,Subtitle,,0,0,0,,Is this school okay?
+Dialogue: 0,0:22:19.83,0:22:22.42,Subtitle,,0,0,0,,Hey, can I say something amazing right now?
+Dialogue: 0,0:22:22.42,0:22:23.29,Subtitle,,0,0,0,,Like what?
+Dialogue: 0,0:22:23.29,0:22:26.25,Subtitle,,0,0,0,,You can eat panettone,\Nbut you can't eat panties, can you?
+Dialogue: 0,0:22:26.25,0:22:29.38,Subtitle,,0,0,0,,Even though you're a 2nd-year,\Nyou still like going on about panties, huh?
+Dialogue: 0,0:22:29.38,0:22:31.75,Subtitle,,0,0,0,,Why didn't you use frying pans or pandas instead?
+Dialogue: 0,0:22:31.75,0:22:34.38,Subtitle,,0,0,0,,Also, a high school girl is a high school girl, but-
+Dialogue: 0,0:22:35.13,0:22:37.21,Subtitle,,0,0,0,,Stop that, Ma-kun!
+Dialogue: 0,0:22:37.21,0:22:39.54,Subtitle,,0,0,0,,Come on, Miu-Miu. You were enjoying it too.
+Dialogue: 0,0:22:39.54,0:22:42.63,Subtitle,,0,0,0,,No, stop it! Ma-kun, you meanie!
+Dialogue: 0,0:22:42.63,0:22:44.83,Subtitle,,0,0,0,,It's your fault for being too cute, Miu-Miu.
+Dialogue: 0,0:22:44.83,0:22:46.88,Subtitle,,0,0,0,,Huh? Cut that out!
+Dialogue: 0,0:22:46.88,0:22:48.50,Subtitle,,0,0,0,,Miu-Miu, I swear...
+Dialogue: 0,0:22:50.00,0:22:51.71,Subtitle,,0,0,0,,The ones who are popular...
+Dialogue: 0,0:22:51.71,0:22:55.58,Subtitle,,0,0,0,,are the few with pretty faces, and the ones who go\Nto co-ed schools where there aren't many girls.
+Dialogue: 0,0:22:56.83,0:22:59.29,Subtitle,,0,0,0,,Reality sure is tough, huh?
+Dialogue: 0,0:23:01.04,0:23:04.25,Subtitle,,0,0,0,,Robo! Did you just make a face\Nlike this doesn't concern you?!
+Dialogue: 0,0:23:04.25,0:23:07.13,Subtitle,,0,0,0,,Robo, we're all on the same side, right?
+Dialogue: 0,0:23:07.46,0:23:08.63,Subtitle,,0,0,0,,Right?!
+Dialogue: 0,0:23:11.17,0:23:14.08,Subtitle,,0,0,0,,Say something!
+Dialogue: 0,0:23:14.08,0:23:16.04,Subtitle,,0,0,0,,SOMETHING!
+Dialogue: 0,0:23:16.04,0:23:17.63,Subtitle-2,,0,0,0,,...Tapeworm.\NSOMETHING!
+Dialogue: 0,0:23:19.08,0:23:20.33,Subtitle,,0,0,0,,What was that about.
+Dialogue: 0,0:23:20.33,0:23:21.63,Subtitle,,0,0,0,,I don't get it.
+Dialogue: 0,0:23:32.63,0:23:34.33,Subtitle,,0,0,0,,Anyway, what's so amazing?
+Dialogue: 0,0:23:34.33,0:23:35.63,Subtitle,,0,0,0,,I don't mind listening.
+Dialogue: 0,0:23:35.63,0:23:38.58,Subtitle,,0,0,0,,Oh, yeah! So, don't tell anyone, okay?
+Dialogue: 0,0:23:38.58,0:23:40.42,Subtitle,,0,0,0,,But high school girls are actually...
+Dialogue: 0,0:01:31.83,0:01:34.46,Caption,,0,0,0,,{\pos(345.6,252)}{\an7}In mid-ceremony
+Dialogue: 0,0:01:31.83,0:01:34.46,Caption-2,,0,0,0,,{\pos(729.6,302.4)}{\an7}Except
+Dialogue: 0,0:01:31.83,0:01:34.46,Caption-2,,0,0,0,,{\pos(755.2,352.8)}{\an7}Kohaku
+Dialogue: 0,0:01:31.84,0:01:34.46,Caption,,0,0,0,,{\pos(524.8,424.8)}{\an7}Keep out!
+Dialogue: 0,0:01:55.13,0:01:58.88,Caption,,0,0,0,,{\pos(115.2,475.2)}{\an7}Friends
+Dialogue: 0,0:02:57.75,0:03:00.96,Caption-3,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: Toyotomi Hideyoshi was the samurai general who unified Japan
+Dialogue: 0,0:04:29.25,0:04:31.29,Caption-4,,0,0,0,,{\pos(486.4,165.6)}{\an7}Held Back
+Dialogue: 0,0:06:12.29,0:06:17.08,Caption-5,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: Slang for "Senpai"
+Dialogue: 0,0:07:00.04,0:07:03.79,Caption-6,,0,0,0,,{\pos(691.2,50.4)}{\an7}Elementary-School Science
+Dialogue: 0,0:07:00.04,0:07:03.79,Caption-6,,0,0,0,,{\pos(640,100.8)}{\an7}Even a Monkey Could Understand
+Dialogue: 0,0:07:47.83,0:07:56.42,Caption-6,,0,0,0,,{\pos(537.6,64.8)}{\an7}Love
+Dialogue: 0,0:07:47.83,0:07:56.42,Caption-6,,0,0,0,,{\pos(524.8,237.6)}{\an7}Lie-be
+Dialogue: 0,0:07:57.04,0:08:01.88,Caption-4,,0,0,0,,{\pos(960,424.8)}{\an7}I love me
+Dialogue: 0,0:07:57.04,0:08:01.88,Caption-4,,0,0,0,,{\pos(972.8,475.2)}{\an7}some boat
+Dialogue: 0,0:08:28.96,0:08:31.21,Caption-7,,0,0,0,,{\pos(576,86.4)}{\an7}Accepting Applications for Upcoming Semester
+Dialogue: 0,0:12:05.71,0:12:10.63,Caption-5,,0,0,0,,{\pos(716.8,57.6)}{\an7}The Toilet is Prohibited!!
+Dialogue: 0,0:12:47.08,0:12:49.58,Caption-6,,0,0,0,,{\pos(166.4,295.2)}{\an7}Attendance Log
+Dialogue: 0,0:13:07.63,0:13:11.75,Caption-8,,0,0,0,,{\pos(819.2,79.2)}{\an7}Green Tea
+Dialogue: 0,0:13:07.63,0:13:11.75,Caption-8,,0,0,0,,{\pos(358.4,151.2)}{\an7}Loquat
+Dialogue: 0,0:13:14.63,0:13:15.50,Caption-8,,0,0,0,,{\pos(614.4,568.8)}{\an7}Help Wanted
+Dialogue: 0,0:17:14.67,0:17:15.92,Caption-8,,0,0,0,,{\pos(755.2,460.8)}{\an7}Mathematics
+Dialogue: 0,0:17:15.92,0:17:19.92,Caption-9,,0,0,0,,{\pos(102.4,439.2)}{\an7}Guidelines on
+Dialogue: 0,0:17:15.92,0:17:19.92,Caption-9,,0,0,0,,{\pos(115.2,489.6)}{\an7}Tax Evasion
+Dialogue: 0,0:17:42.96,0:17:45.96,Caption-9,,0,0,0,,{\pos(704,633.6)}{\an7}Akane Kikuchi
+Dialogue: 0,0:19:04.58,0:19:07.88,Caption-10,,0,0,0,,{\pos(819.2,208.8)}{\an7}Attention required!!
+Dialogue: 0,0:19:27.67,0:19:32.21,Caption-11,,0,0,0,,{\pos(563.2,151.2)}{\an7}Akane Kikuchi
+Dialogue: 0,0:19:27.67,0:19:32.21,Caption-11,,0,0,0,,{\pos(640,324)}{\an7}My dream
+Dialogue: 0,0:19:27.67,0:19:32.21,Caption-11,,0,0,0,,{\pos(371.2,511.2)}{\an7}I want to be a manga artist!
+Dialogue: 0,0:19:27.67,0:19:32.21,Caption-12,,0,0,0,,{\pos(640,597.6)}{\an7}I will definitely become one!
+Dialogue: 0,0:20:00.29,0:20:02.29,Caption-8,,0,0,0,,{\pos(908.8,396)}{\an7}School Entrance Guide
+Dialogue: 0,0:21:46.92,0:21:48.92,Caption-13,,0,0,0,,{\pos(499.2,417.6)}{\an7}No Tree Climbing
+Dialogue: 0,0:22:51.33,0:22:55.58,Caption-14,,0,0,0,,{\pos(883.2,439.2)}{\an7}Aaaaaaaaaaaaa
+Dialogue: 0,0:22:55.58,0:22:59.58,Caption-14,,0,0,0,,{\pos(102.4,439.2)}{\an7}Aaaaaaaaaaaaa
