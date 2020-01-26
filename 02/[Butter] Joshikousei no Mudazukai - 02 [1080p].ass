@@ -16,9 +16,10 @@ Video File: [KnK & Owlolf] Joshikousei no Mudazukai - 02 VOSTFR [BD 1080p AAC].m
 Keyframes File: [KnK & Owlolf] Joshikousei no Mudazukai - 02 VOSTFR [BD 1080p AAC]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 1
-Video Position: 80
+Video Zoom Percent: 0.375000
+Scroll Position: 325
+Active Line: 330
+Video Position: 23044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,14 +65,18 @@ Dialogue: 0,0:02:51.02,0:02:53.31,Default,,0,0,0,,Sleepy...
 Dialogue: 0,0:02:53.90,0:02:55.78,Default,,0,0,0,,Whoa! For real?!
 Dialogue: 0,0:02:55.78,0:02:59.28,Default,,0,0,0,,Teishotoku-P-san's uploaded a new song! Yes!
 Comment: 0,0:02:59.32,0:03:01.49,Default,,0,0,0,,{\an8}Nice!\N{\an5}Heart-wrenching...\N{\an5}This part's sick!\N{\an5}Hits you hard.
+Dialogue: 0,0:02:59.32,0:03:01.49,TS,,0,0,0,,{\an4}{Account name}Teishotoku P
+Dialogue: 0,0:02:59.32,0:03:01.49,TS,,0,0,0,,{\an7}{Video description}This is Teishotoku. This is my 2nd work.\N{Faded part}To grow older is to grow more regretful.
 Dialogue: 0,0:03:01.45,0:03:05.90,Default,,0,0,0,,The PV and the lyrics are heart-wrenching.\NThis is nice. It's sick!
-Dialogue: 0,0:03:07.20,0:03:09.21,TS,,0,0,0,,{\an4}Tanaka\N{\an1}I'm so bored I'm going all out on selfies.\N{\an1}Don't I look cute?
+Dialogue: 0,0:03:07.20,0:03:09.21,TS,,0,0,0,,{\an4}Tanaka{"Tanaka" is the translation for her avatar. I think it'd be awkward to add unless you do the others as well, so I don't think you need to. For the record, I think the bird is Robo and the cake is Ota.}\N{\an1}I'm so bored I'm going all out on selfies.\N{\an1}Don't I look cute?
 Dialogue: 0,0:03:12.58,0:03:15.11,Default,,0,0,0,,{\an8\i1}That's why I've decided...
 Dialogue: 0,0:03:13.72,0:03:16.84,Default,,0,0,0,,You're like... You're like...
 Dialogue: 0,0:03:15.41,0:03:16.84,Default,,0,0,0,,{\an8\i1}To become stronger for your sake...
 Dialogue: 0,0:03:18.10,0:03:18.84,Default,,0,0,0,,That smile...
 Dialogue: 0,0:03:21.87,0:03:24.79,Default,,0,0,0,,Everyone's so amazing. They've all got talent...
 Dialogue: 0,0:03:25.74,0:03:28.81,Default,,0,0,0,,I wonder what it's like to be judged by society...?
+Dialogue: 0,0:03:31.35,0:03:33.35,TS,,0,0,0,,{speech bubble}Maho
+Dialogue: 0,0:03:31.35,0:03:33.35,TS,,0,0,0,,{sound effect}Thump
 Dialogue: 0,0:03:39.15,0:03:40.36,Default,,0,0,0,,Someday I too...
 Dialogue: 0,0:03:40.36,0:03:43.26,Default,,0,0,0,,will become famous and have\Nthe dream life of living off royalties!
 Dialogue: 0,0:04:00.29,0:04:01.88,Default,,0,0,0,,No really, don't ignore me.
@@ -144,10 +149,12 @@ Dialogue: 0,0:06:54.68,0:06:56.97,Default,,0,0,0,,I don't like hanging out in gr
 Dialogue: 0,0:06:56.97,0:07:00.48,Default,,0,0,0,,Plus, the food in this lower realm\Ndoesn't suite my tastes, you see.
 Dialogue: 0,0:07:00.94,0:07:01.78,Default,,0,0,0,,See ya.
 Dialogue: 0,0:07:05.52,0:07:07.53,TS,,0,0,0,,{\an5}Green Tea
-Dialogue: 0,0:07:07.53,0:07:08.32,TS,,0,0,0,,{\an5}Black Rabbit (Kuroto)
-Dialogue: 0,0:07:08.32,0:07:10.03,TS,,0,0,0,,{\an5}Meal by myself now\NThe convenience store's sandwiches are delish.\NI prefer eating the tuna one last.
-Dialogue: 0,0:07:19.58,0:07:22.08,TS,,0,0,0,,{\an5}Why do women immediately\N{\an5}want to hang out in groups?\N{\an5}That kinda thing is a hassle.\N{\an5}Compared to normal girls,
-Dialogue: 0,0:07:19.58,0:07:22.08,TS,,0,0,0,,{\an5}I'm kinda chill, you see.
+Dialogue: 0,0:07:07.53,0:07:08.32,TS,,0,0,0,,{\an6}Draft{下書き}
+Dialogue: 0,0:07:07.53,0:07:08.32,TS,,0,0,0,,{\an6}Post{投稿}
+Dialogue: 0,0:07:07.53,0:07:08.32,TS,,0,0,0,,{\an5}Black Rabbit (Kuroto){This is the account name}
+Dialogue: 0,0:07:07.53,0:07:08.28,TS,,0,0,0,,{\an7}Solo meal rn lololol{"rn" as in "right now". "w" means "lol", so add as many "ol" as you see fit when animating the keystrokes}
+Dialogue: 0,0:07:08.32,0:07:10.03,TS,,0,0,0,,{\an5}Convenience store sandwiches are delish.\NI like eating the tuna one last lol
+Dialogue: 0,0:07:19.58,0:07:22.08,TS,,0,0,0,,{\an5}{First post}Solo meal rn lololol{match the number of lololol as the previous one}\N{\an5}{Second post}Why do girls like to hang out in groups lol\N{\an5}{Third post}That stuff is a pain. {alt: I can't be bothered with that stuff.}\N{\an5}Compared to regular girls, I'm kinda chill lolol
 Dialogue: 0,0:07:20.02,0:07:22.00,Default,,0,0,0,,I'm an idiot.
 Dialogue: 0,0:07:22.42,0:07:24.38,Default,,0,0,0,,I should probably head back now.
 Dialogue: 0,0:07:24.38,0:07:25.00,Default,,0,0,0,,Whoa!
@@ -191,7 +198,7 @@ Dialogue: 0,0:08:45.83,0:08:47.59,Default,,0,0,0,,Huh?! Wait, who was that just 
 Dialogue: 0,0:08:47.59,0:08:48.08,Default,,0,0,0,,Oh...!
 Dialogue: 0,0:08:48.08,0:08:49.41,Default,,0,0,0,,Suzuki.
 Dialogue: 0,0:08:49.41,0:08:51.96,Default,,0,0,0,,I found it on my way to school this morning.
-Dialogue: 0,0:08:51.96,0:09:01.22,TS,,0,0,0,,{\an5}Officer\N{\an5}Masayoshi Suzuki
+Dialogue: 0,0:08:51.96,0:09:01.22,TS,,0,0,0,,{\an5}Officer\N{\an5}Suzuki Masayoshi
 Dialogue: 0,0:08:51.96,0:08:54.18,Default,,0,0,0,,That he'd lose his police ID is, well...
 Dialogue: 0,0:08:54.18,0:08:55.97,Default,,0,0,0,,He certainly fails as a police officer, this Suzuki...
 Dialogue: 0,0:08:55.97,0:08:59.51,Default,,0,0,0,,Anyway, why does putting out Suzuki\Nmean that Robo wins, huh?!
@@ -228,7 +235,7 @@ Dialogue: 0,0:10:26.73,0:10:28.04,Default,,0,0,0,,You know that's how it'd end u
 Dialogue: 0,0:10:28.04,0:10:30.18,Default,,0,0,0,,It would. For sure.
 Dialogue: 0,0:10:30.18,0:10:31.94,Default,,0,0,0,,That's why, please...!
 Dialogue: 0,0:10:31.94,0:10:34.69,Default,,0,0,0,,Then, I'll go ahead and read it right away.
-Dialogue: 0,0:10:33.86,0:10:34.69,Default,,0,0,0,,{\an5}Magic by Maho
+Dialogue: 0,0:10:33.86,0:10:34.69,TS,,0,0,0,,{\an5}Magic by Maho
 Dialogue: 0,0:10:36.60,0:10:38.85,Default,,0,0,0,,I can't even describe this moment in time...
 Dialogue: 0,0:10:46.73,0:10:47.45,Default,,0,0,0,,I read it...
 Dialogue: 0,0:10:48.53,0:10:49.96,Default,,0,0,0,,H-h-h-how was it?!
@@ -237,7 +244,8 @@ Dialogue: 0,0:10:54.50,0:10:55.71,Default,,0,0,0,,regarding the energy problem, 
 Dialogue: 0,0:10:55.71,0:10:58.57,Default,,0,0,0,,No, it's thoroughly just a shojo manga.
 Dialogue: 0,0:10:58.57,0:11:00.71,Default,,0,0,0,,There's a little something that's bugging me, though.
 Dialogue: 0,0:11:00.71,0:11:02.09,Default,,0,0,0,,What?! Where, where?!
-Dialogue: 0,0:11:02.09,0:11:03.18,TS,,0,0,0,,{\an4}It's a secret between\N{\an5}Maho-chan and me
+Dialogue: 0,0:11:02.09,0:11:03.18,TS,,0,0,0,,{\an7}{top left}That can't be, can it?{Hopefully this is enough to fill the space, because I have no idea what the text actually says}
+Dialogue: 0,0:11:02.09,0:11:03.18,TS,,0,0,0,,{\an4}{right}Only {*}Maho{*-chan} and I\N{\an5}{left}share this secret.
 Dialogue: 0,0:11:02.09,0:11:03.49,Default,,0,0,0,,This scene...
 Dialogue: 0,0:11:04.05,0:11:07.89,Default,,0,0,0,,These two remain seated and don't appear to move,
 Dialogue: 0,0:11:07.89,0:11:10.22,Default,,0,0,0,,but the microwave-like thing in the back
@@ -291,11 +299,12 @@ Dialogue: 0,0:13:20.65,0:13:23.44,Default,,0,0,0,,Leon-kun's... knees...
 Dialogue: 0,0:13:23.44,0:13:25.36,Default,,0,0,0,,Give them back!
 Dialogue: 0,0:13:25.36,0:13:29.37,Default,,0,0,0,,That's the auto skill that triggers\Nwhen her feelings are out of control!
 Dialogue: 0,0:13:29.37,0:13:31.84,Default,,0,0,0,,Pena-Sonic!
-Dialogue: 0,0:13:31.04,0:13:33.29,TS,,0,0,0,,{\an5}Pena-Sonic\N{\an1}Electronic appliances are drawn in and then let loose
+Dialogue: 0,0:13:31.04,0:13:33.29,TS,,0,0,0,,{\an5}Pena-Sonic\N{\an1}Electronic appliances get pulled in and released
 Dialogue: 0,0:13:48.51,0:13:49.34,Default,,0,0,0,,Not good...
 Dialogue: 0,0:13:50.05,0:13:52.10,Default,,0,0,0,,I'm taking a day off today.
 Dialogue: 0,0:13:54.71,0:13:56.60,Default,,0,0,0,,Huh? Is Wota absent today?
-Dialogue: 0,0:13:57.02,0:13:59.10,TS,,0,0,0,,{\an4}Breakfasts\N{\an4}of the World
+Dialogue: 0,0:13:57.02,0:13:59.10,TS,,0,0,0,,{\an4}{Blackboard}Several months until Halloween{"Halloween" is yellow, "several months" is thick white, "until" is thin white.}
+Dialogue: 0,0:13:57.02,0:13:59.10,TS,,0,0,0,,{\an4}{Book title}Breakfasts\N{\an4}Around the World
 Dialogue: 0,0:13:57.02,0:13:58.60,Default,,0,0,0,,Have you heard anything?
 Dialogue: 0,0:13:58.60,0:13:59.35,Default,,0,0,0,,I don't know.
 Dialogue: 0,0:13:59.35,0:14:01.84,Default,,0,0,0,,Maybe her knees aren't doing well...
@@ -305,9 +314,9 @@ Dialogue: 0,0:14:06.15,0:14:07.61,Default,,0,0,0,,That is way too cute!
 Dialogue: 0,0:14:07.61,0:14:08.86,Default,,0,0,0,,{\an5}Like\NOf course, he'd cry!
 Dialogue: 0,0:14:09.16,0:14:12.18,Default,,0,0,0,,If he was that cute, then not only would I cry,\NI'd be bleeding too!
 Dialogue: 0,0:14:12.18,0:14:15.50,Default,,0,0,0,,Oh! Don't! If he gets that close, then...!
-Dialogue: 0,0:14:15.50,0:14:17.50,TS,,0,0,0,,{\an5}So cute
-Dialogue: 0,0:14:15.50,0:14:17.50,TS,,0,0,0,,{\an4}Shut up!
-Dialogue: 0,0:14:15.50,0:14:17.50,TS,,0,0,0,,{\an4}Oh!
+Dialogue: 0,0:14:15.50,0:14:17.50,TS,,0,0,0,,{\an5}{right}So cute
+Dialogue: 0,0:14:15.50,0:14:17.50,TS,,0,0,0,,{\an4}{right part of left bubble}Shut up!
+Dialogue: 0,0:14:15.50,0:14:17.50,TS,,0,0,0,,{\an4}{left part of left bubble}Oh!
 Dialogue: 0,0:14:15.50,0:14:17.50,Default,,0,0,0,,All right! Thankya!
 Dialogue: 0,0:14:17.50,0:14:20.13,Default,,0,0,0,,I got to enjoy him "licking tears"! Thankya!
 Dialogue: 0,0:14:20.52,0:14:22.39,Default,,0,0,0,,I can't take this... This is beyond awesome...
@@ -349,8 +358,9 @@ Dialogue: 0,0:15:39.33,0:15:41.92,Default,,0,0,0,,For sure, no matter how you lo
 Dialogue: 0,0:15:41.92,0:15:43.08,Default,,0,0,0,,Well, of course!
 Dialogue: 0,0:15:43.63,0:15:46.09,Default,,0,0,0,,Oh, I'm gonna go to the restroom.
 Dialogue: 0,0:15:50.84,0:15:53.84,Default,,0,0,0,,Wase-Gotsu was easily doable...!
-Dialogue: 0,0:16:01.10,0:16:02.85,TS,,0,0,0,,{\an8}Ace A
-Dialogue: 0,0:16:02.85,0:16:04.61,Default,,0,0,0,,{\an8}Why would you\N{\an5}say that?\N{\an5}I am thinking of your sake...\N{\an5}I don't want to hear that!\N{\an4}I didn't want to hear\N{\an5}something like that!\N{\an1}DASH!
+Dialogue: 0,0:16:01.10,0:16:02.85,TS,,0,0,0,,{\an8}{main title}Ace A
+Dialogue: 0,0:16:01.10,0:16:02.85,TS,,0,0,0,,{\an8}{green text}Officer Frog\Ncalendar
+Dialogue: 0,0:16:02.85,0:16:04.61,TS,,0,0,0,,{\an8}{first}Why would you\N{\an5}say that?\N{\an5}{second}I… was only thinking of you…\N{\an5}{third}I don't want to hear that!\N{\an4}{fourth}That's not what I wanted to hear!\N{\an1}{sfx}DASH!
 Dialogue: 0,0:16:03.57,0:16:04.61,Default,,0,0,0,,To be blunt...
 Dialogue: 0,0:16:05.04,0:16:09.00,Default,,0,0,0,,I don't quite have confidence in the story,\Nand my drawings suck...
 Dialogue: 0,0:16:09.00,0:16:11.99,Default,,0,0,0,,Just what was it that I was trying to\Nmake in the first place...?
@@ -368,24 +378,27 @@ Dialogue: 0,0:16:44.35,0:16:45.77,Default,,0,0,0,,The impact of the title...
 Dialogue: 0,0:16:47.09,0:16:49.94,Default,,0,0,0,,What? The main character is a burdock root?
 Dialogue: 0,0:16:49.94,0:16:52.61,Default,,0,0,0,,Was this a story about a burdock root falling in love?
 Dialogue: 0,0:16:52.61,0:16:56.91,Default,,0,0,0,,Oh, I see. This is a love that started with\Nthe kinpira gobo as the trigger.
-Dialogue: 0,0:16:56.91,0:16:58.99,TS,,0,0,0,,{\an7}You've got kinpira\N{\an7}on your head!
+Dialogue: 0,0:16:56.91,0:16:58.99,TS,,0,0,0,,{\an7}You've got kinpira\N{\an7}on your head!{There's a Wikipedia article for Kinpira, so I guess we'll leave it untranslated.}
 Dialogue: 0,0:16:57.41,0:17:00.25,Default,,0,0,0,,I was shocked because the subject was\Nbased completely on the burdock root.
 Dialogue: 0,0:17:00.25,0:17:01.79,Default,,0,0,0,,{\an7}Kinpira gobo\N{\an8}Oh! It's because\N{\an8}I ate it for breakfast!\N{\an4}How embarrassing!
 Dialogue: 0,0:17:00.25,0:17:01.79,Default,,0,0,0,,It's beyond the level of just being on her!
 Dialogue: 0,0:17:02.15,0:17:04.80,Default,,0,0,0,,This is only the cover and the first page...?!
-Dialogue: 0,0:17:05.92,0:17:09.04,TS,,0,0,0,,{\an5}Character Introductions\N{\an5}Alice\N{\an5}Rikuto\N{\an5}Cat
+Comment: 0,0:17:05.92,0:17:09.04,TS,,0,0,0,,{\an5}{first}Hey\N{second}You've got kinpira on your head!\N{third}Wha? That's from my breakfast!\N{fourth}So embarrassing…
+Comment: 0,0:17:05.92,0:17:09.04,TS,,0,0,0,,{\an5}Character Introductions\N{\an5}Alice\NHer favourite food is eel.\N{\an5}Rikuto\NHis favourite food is ramen\N*Shio ramen\N{\an5}Cat\NIts favourite food is pork cutlet.
 Dialogue: 0,0:17:05.92,0:17:09.04,Default,,0,0,0,,Now this looks like I'm gonna get busy tonight.
 Dialogue: 0,0:17:10.05,0:17:11.85,Default,,0,0,0,,Hey, fourth grade Akane.
 Dialogue: 0,0:17:11.85,0:17:16.68,Default,,0,0,0,,The Akane who's become a 1st-year in high school\Nwill show you her real abilities for witty retorts...
-Dialogue: 0,0:17:16.68,0:17:17.30,TS,,0,0,0,,{\an8}Favorite food is Eel
-Dialogue: 0,0:17:17.93,0:17:19.89,TS,,0,0,0,,{\an8}Building\N{\an5}Trudge trudge trudge\N{\an4}Apartments
-Dialogue: 0,0:17:20.01,0:17:21.77,TS,,0,0,0,,{\an5}You can have this!\N{\an4}You like them, right?
-Dialogue: 0,0:17:21.93,0:17:23.81,TS,,0,0,0,,{\an8}A chocolate bar!\N{\an8}Yay!\N{\an4}Thank you
-Dialogue: 0,0:17:24.06,0:17:25.56,TS,,0,0,0,,{\an7}Heart-thumping\N{\an8}He's nice sometimes\N{\an5}and mean sometimes...\N{\an4}Which is real?
-Dialogue: 0,0:17:24.06,0:17:25.56,TS,,0,0,0,,{\an5}Desk
-Dialogue: 0,0:17:25.73,0:17:28.48,TS,,0,0,0,,{\an7}This is\N{\an4}a classroom\N{\an5}Door
-Dialogue: 0,0:17:28.69,0:17:30.48,TS,,0,0,0,,{\an8}Actually...
-Dialogue: 0,0:17:30.69,0:17:31.61,TS,,0,0,0,,{\an7}DASH\N{\an5}Wait
+Dialogue: 0,0:17:16.68,0:17:17.30,TS,,0,0,0,,{\an8}Her favourite food is eel{"eel" is on the next line}
+Dialogue: 0,0:17:17.93,0:17:19.89,TS,,0,0,0,,{\an8}{arrows}Apartment\NBuilding\NBuilding
+Dialogue: 0,0:17:17.93,0:17:19.89,TS,,0,0,0,,{\an5}{walking sfx}Trudge trudge trudge
+Dialogue: 0,0:17:20.01,0:17:21.77,TS,,0,0,0,,{\an5}{first}You can have this!\N{\an4}{second}You like them, right?
+Dialogue: 0,0:17:21.93,0:17:23.81,TS,,0,0,0,,{\an8}{right}You like them, right?\N{middle}A chocolate bar!\N{\an8}Yay!\N{\an4}{left}Thank you
+Dialogue: 0,0:17:24.06,0:17:25.56,TS,,0,0,0,,{\an7}{girl sfx}Thump-thump\N{\an8}{first bubble}Sometimes he's nice\N{\an5}and sometimes he's mean...\N{\an4}{second bubble}Which is real?
+Dialogue: 0,0:17:24.06,0:17:25.56,TS,,0,0,0,,{\an5}{top arrow}Lockers
+Dialogue: 0,0:17:24.06,0:17:25.56,TS,,0,0,0,,{\an5}Desk{on all four desks}
+Dialogue: 0,0:17:25.73,0:17:28.48,TS,,0,0,0,,{\an7}{left}This is\N{\an4}a classroom\N{\an5}{both doors}Door\N{left head}Friend\N{centre head}Alice's head\N{right head}Friend
+Dialogue: 0,0:17:28.69,0:17:30.48,TS,,0,0,0,,{\an8}{bubble}Actually...\N{arrow}stairs
+Dialogue: 0,0:17:30.69,0:17:31.61,TS,,0,0,0,,{\an7}{sfx}DASH\N{\an5}{bubble}Wait
 Dialogue: 0,0:17:17.84,0:17:19.85,Default,,0,0,0,,The buildings are all like chocolate bars!
 Dialogue: 0,0:17:19.85,0:17:21.77,Default,,0,0,0,,What happened to the back of his head?!
 Dialogue: 0,0:17:21.77,0:17:23.81,Default,,0,0,0,,And a real chocolate bar has appeared too?!
@@ -395,8 +408,10 @@ Dialogue: 0,0:17:28.69,0:17:30.48,Default,,0,0,0,,What is up with these stage-li
 Dialogue: 0,0:17:30.48,0:17:31.61,Default,,0,0,0,,His running style!
 Dialogue: 0,0:17:36.59,0:17:41.28,Default,,0,0,0,,I guess I wasn't good at drawing joints,\Nstarting from around that time, huh...?
 Dialogue: 0,0:17:41.28,0:17:42.74,Default,,0,0,0,,Huh? It's already over?
-Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}I love you!!\N{\an5}The End
-Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}What?!
+Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{TS for previous pages should carry over}
+Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}{top right bubble}I love you!!
+Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}{left}The End
+Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}{bottom right え—}Whaaat?
 Dialogue: 0,0:17:43.12,0:17:45.25,Default,,0,0,0,,At such an odd half-way point...?
 Dialogue: 0,0:17:45.25,0:17:48.00,Default,,0,0,0,,{\an8}Afterword\N{\an4}So, what happens to Alice after Rikuto has confessed\N{\an4}his love to her? Actually, they start dating.\N{\an4}On the following Sunday, the two of them go on a date\N{\an4}to the aquarium and they run into the rival, Marika.\N{\an4}She asks, "do you two love each other?" and Rikuto says...\NThe important part was explained in the afterword!
 Dialogue: 0,0:17:45.56,0:17:48.00,Default,,0,0,0,,The important part was explained in the afterword!
@@ -406,8 +421,7 @@ Dialogue: 0,0:17:54.01,0:17:56.76,Default,,0,0,0,,Not to mention, I kinda faintl
 Dialogue: 0,0:17:57.41,0:18:00.01,Default,,0,0,0,,Even to the very end, there never was\Nan appearance of this cat!
 Dialogue: 0,0:18:00.29,0:18:01.72,Default,,0,0,0,,This was awful...
 Dialogue: 0,0:18:01.72,0:18:04.20,Default,,0,0,0,,This was more awful than I thought...
-Dialogue: 0,0:18:07.14,0:18:09.77,TS,,0,0,0,,{\an5}I am thinking of your sake...\N{\an5}I don't want to hear that!\N{\an5}I didn't want to hear\N{\an5}something like that!\N{\an4}DASH!
-Dialogue: 0,0:18:07.14,0:18:11.90,TS,,0,0,0,,{\an5}Why would you\N{\an5}say that?
+Dialogue: 0,0:18:07.14,0:18:09.77,TS,,0,0,0,,{\an5}{first}Why would you\N{\an5}say that?\N{\an5}{second}I… was only thinking of you…\N{\an5}{third}I don't want to hear that!\N{\an4}{fourth}That's not what I wanted to hear!\N{\an1}{sfx}DASH!
 Dialogue: 0,0:18:07.93,0:18:09.77,Default,,0,0,0,,But, you know...
 Dialogue: 0,0:18:09.77,0:18:11.90,Default,,0,0,0,,if I look at things starting from the past...
 Dialogue: 0,0:18:12.61,0:18:15.40,Default,,0,0,0,,It looks like I have really improved...
@@ -421,11 +435,10 @@ Dialogue: 0,0:18:27.46,0:18:28.78,Default,,0,0,0,,I did it!
 Dialogue: 0,0:18:35.26,0:18:37.17,Default,,0,0,0,,I kinda feel a little motivated.
 Dialogue: 0,0:18:37.52,0:18:39.05,Default,,0,0,0,,All right!
 Dialogue: 0,0:18:40.94,0:18:43.06,Default,,0,0,0,,I guess I'll give it another go!
-Dialogue: 0,0:18:45.31,0:18:46.06,TS,,0,0,0,,{\an8}Why would you\N{\an5}say that?
-Dialogue: 0,0:18:46.06,0:18:47.56,TS,,0,0,0,,{\an8}Please\N{\an4}make it
-Dialogue: 0,0:18:46.06,0:18:47.56,TS,,0,0,0,,{\an4}in time
+Dialogue: 0,0:18:45.31,0:18:46.06,TS,,0,0,0,,{\an8}Why would you\N{\an5}say that?{Reuse the previous lines for the bits at the bottom}
+Dialogue: 0,0:18:46.06,0:18:47.56,TS,,0,0,0,,{\an8}{left pane, right bubble}Please\N{\an4}{left pane, left bubble}make it in time {drop "in time" if it's too long}\N{bottom}Train
 Dialogue: 0,0:18:46.82,0:18:49.21,Default,,0,0,0,,And yet! The knees still haven't improved!
-Dialogue: 0,0:18:47.81,0:18:50.06,Default,,0,0,0,,{\an5}Train
+Dialogue: 0,0:18:47.81,0:18:50.06,TS,,0,0,0,,{\an5}Train
 Dialogue: 0,0:20:21.19,0:20:22.32,Default,,0,0,0,,Well, well.
 Dialogue: 0,0:20:22.60,0:20:25.82,Default,,0,0,0,,You're gonna need my power soon, right?
 Dialogue: 0,0:20:25.82,0:20:29.12,TS,,0,0,0,,{\an5}Theory of Relativity
@@ -433,14 +446,14 @@ Dialogue: 0,0:20:26.22,0:20:29.08,Default,,0,0,0,,I can see right through everyt
 Dialogue: 0,0:20:33.85,0:20:34.46,Default,,0,0,0,,Huh?
 Dialogue: 0,0:20:35.09,0:20:37.10,Default,,0,0,0,,It's not talking to me again today.
 Dialogue: 0,0:20:37.85,0:20:38.71,Default,,0,0,0,,Yamamoto.
-Dialogue: 0,0:20:38.71,0:20:41.21,TS,,0,0,0,,{\an5}Career Guidance Room
+Dialogue: 0,0:20:38.71,0:20:41.21,TS,,0,0,0,,{\an5}Guidance Counsel Room
 Dialogue: 0,0:20:39.10,0:20:41.21,Default,,0,0,0,,Do you know why you were called here today?
 Dialogue: 0,0:20:41.78,0:20:42.84,Default,,0,0,0,,I don't knowee.
 Dialogue: 0,0:20:42.84,0:20:45.93,Default,,0,0,0,,That word doesn't exist in Japanese, Yamamoto.
 Dialogue: 0,0:20:45.93,0:20:48.47,Default,,0,0,0,,The back of the test you did today...
-Dialogue: 0,0:20:48.47,0:20:51.06,Default,,0,0,0,,{\an8}Usable only for\N{\an8}light attributes\N{\an8}Extreme Flash
-Dialogue: 0,0:20:48.51,0:20:51.06,Default,,0,0,0,,{\an5}Killer\N{\an5}Health recovers\N{\an5}Love Stream Shot\N{\an5}Kill Breath (Poison)\N{\an5}Heart Break\N{\an5}Galaxy
-Dialogue: 0,0:20:48.47,0:20:51.06,Default,,0,0,0,,{\an5}Salamander Hurricane\NEternal Galaxy Blizzard
+Dialogue: 0,0:20:48.47,0:20:51.06,TS,,0,0,0,,{\an8}Usable only for\N{\an8}light attributes\N{\an8}Extreme Flash
+Dialogue: 0,0:20:48.51,0:20:51.06,TS,,0,0,0,,{\an5}Killer\N{\an5}Health recovers\N{\an5}Love Stream Shot\N{\an5}Kill Breath (Poison)\N{\an5}Heart Break\N{\an5}Galaxy
+Dialogue: 0,0:20:48.47,0:20:51.06,TS,,0,0,0,,{\an5}Salamander Hurricane\NEternal Galaxy Blizzard
 Dialogue: 0,0:20:48.83,0:20:51.06,Default,,0,0,0,,Just what exactly is this?
 Dialogue: 0,0:20:52.81,0:20:55.19,Default,,0,0,0,,What's wrong? Is it something hard to say out loud?
 Dialogue: 0,0:20:55.93,0:20:57.60,Default,,0,0,0,,The black cat is...
@@ -495,7 +508,9 @@ Dialogue: 0,0:23:09.99,0:23:11.99,Default,,0,0,0,,Thank you, good citizen.
 Dialogue: 0,0:23:11.99,0:23:13.24,Default,,0,0,0,,Shut it.
 Dialogue: 0,0:23:13.24,0:23:16.49,Default,,0,0,0,,Now that I know about the issue\Nof the back of the test...
 Dialogue: 0,0:23:16.82,0:23:22.56,Default,,0,0,0,,How do you intend to explain this score\Non the front side, Yamamoto?!
-Dialogue: 0,0:23:17.54,0:23:19.37,TS,,0,0,0,,{\an8}Math: Mini test\N{\an8}Minami Yamamoto
+Dialogue: 0,0:23:17.54,0:23:19.37,TS,,0,0,0,,{\an8}{left box}Math: Quiz{Math is smaller}{\an8}{middle box}Full name: Yamamoto Minami{Yamamoto Minami is handwritten}\N{right box}Points
+Dialogue: 0,0:23:17.54,0:23:19.37,TS,,0,0,0,,{\an8}{first question}Simplify the following expressions
+Dialogue: 0,0:23:17.54,0:23:19.37,TS,,0,0,0,,{\an8}{second question}Expand the following expressions
 Dialogue: 0,0:23:22.42,0:23:24.75,Default,,0,0,0,,What?! No way! Dark Soul?
 Dialogue: 0,0:23:24.75,0:23:26.09,Default,,0,0,0,,Um, uh...
 Dialogue: 0,0:23:26.09,0:23:27.38,Default,,0,0,0,,Gotta go to the restroom...
