@@ -23,7 +23,7 @@ Fansubs by ButterFS for the anime "Joshikousei no Mudazukai".
 | 12 | ✓  |     |     |    |    |    |    |
 | 13 | ✓  |     |     |    |    |    |    |
 
-## Staff
+## Credits
 
 * **Translation:** HIDIVE (taken from the HorribleSubs release)
 * **Translation Check:** bucket3432
