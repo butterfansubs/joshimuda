@@ -21,7 +21,6 @@ Fansubs by ButterFS for the anime "Joshikousei no Mudazukai".
 | 10 | ✓  |     |     |    |    |    |    |
 | 11 | ✓  |     |     |    |    |    |    |
 | 12 | ✓  |     |     |    |    |    |    |
-| 13 | ✓  |     |     |    |    |    |    |
 
 ## Credits
 
