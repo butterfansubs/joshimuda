@@ -413,7 +413,7 @@ Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}{top right bubble}I love you!
 Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}{left}The End
 Dialogue: 0,0:17:41.33,0:17:42.74,TS,,0,0,0,,{\an5}{bottom right え—}Whaaat?
 Dialogue: 0,0:17:43.12,0:17:45.25,Default,,0,0,0,,At such an odd half-way point...?
-Dialogue: 0,0:17:45.25,0:17:48.00,Default,,0,0,0,,{\an8}Afterword\N{\an4}So, what happens to Alice after Rikuto has confessed\N{\an4}his love to her? Actually, they start dating.\N{\an4}On the following Sunday, the two of them go on a date\N{\an4}to the aquarium and they run into the rival, Marika.\N{\an4}She asks, "do you two love each other?" and Rikuto says...\NThe important part was explained in the afterword!
+Dialogue: 0,0:17:45.25,0:17:48.00,TS,,0,0,0,,{\an8}Afterword\N{\an4}So, what happens to Alice after Rikuto has confessed\N{\an4}his love to her? Actually, they start dating.\N{\an4}On the following Sunday, the two of them go on a date\N{\an4}to the aquarium and they run into the rival, Marika.\N{\an4}She asks, "do you two love each other?" and Rikuto says...\NThe important part was explained in the afterword!
 Dialogue: 0,0:17:45.56,0:17:48.00,Default,,0,0,0,,The important part was explained in the afterword!
 Dialogue: 0,0:17:48.68,0:17:50.75,Default,,0,0,0,,A-amazing...
 Dialogue: 0,0:17:50.75,0:17:54.01,Default,,0,0,0,,Elementary students are way too carefree.
