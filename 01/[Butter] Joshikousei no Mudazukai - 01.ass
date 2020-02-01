@@ -21,11 +21,11 @@ Video Position: 1339
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,88,88,36,1
-Style: default 2,Tiresias Infofont,48,&H00EEEEEE,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,88,88,36,1
+Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,36,1
+Style: Alternate,Tiresias Infofont,48,&H00EEEEEE,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,8,160,160,36,1
 Style: handwritten,Segoe Script,80,&H0090928D,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,15,1
 Style: underline,Seagull Md BT,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,15,1
-Style: notes,Tiresias Infofont,44,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,5,0,7,20,20,20,1
+Style: TL Notes,Tiresias Infofont,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,88,88,36,1
 Style: chalk,Pipecleaners,40,&H00D9DED4,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,20,20,20,1
 Style: songs eng,JanieHmkBold,50,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,50,50,50,1
 Style: songs jap,JanieHmkBold,50,&H00020713,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,50,50,50,1
