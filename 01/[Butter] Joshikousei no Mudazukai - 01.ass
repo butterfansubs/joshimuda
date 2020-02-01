@@ -216,7 +216,7 @@ Dialogue: 0,0:10:49.80,0:10:52.80,Default,,0,0,0,,Oh! Yeah, that's it! Like that
 Dialogue: 0,0:10:52.80,0:10:54.59,Default,,0,0,0,,Head makes up half her body.\NHome probably stinks.
 Dialogue: 0,0:10:54.59,0:10:56.59,Default,,0,0,0,,Air pollution. Gorilla. Protein junkie.
 Dialogue: 0,0:10:56.59,0:10:57.85,Default,,0,0,0,,Walking dissonance.
-Dialogue: 0,0:10:57.85,0:10:59.06,default 2,,0,0,0,,Hey...!
+Dialogue: 0,0:10:57.85,0:10:59.06,Alternate,,0,0,0,,Hey...!
 Dialogue: 0,0:10:57.85,0:10:59.06,Default,,0,0,0,,Family are nudists...
 Dialogue: 0,0:10:59.06,0:11:02.18,Default,,0,0,0,,You're casually mixing in insults here and there!
 Dialogue: 0,0:11:02.18,0:11:04.56,Default,,0,0,0,,What the hell is up with your insult sensor?
@@ -295,7 +295,7 @@ Dialogue: 1,0:13:22.66,0:13:22.78,Default,bord,0,0,0,done,{\bord0\blur1.5\clip(m
 Comment: 0,0:13:22.78,0:13:24.53,Default,*bord,0,0,0,,{\blur1\t(0,319,\blur0)}Family Are Nudists, where do you live?
 Dialogue: 0,0:13:22.78,0:13:24.53,Default,bord,0,0,0,done,{\1c&H020713&\bord2.5\blur1\t(0,319,\blur0)}Family Are Nudists, where do you live?
 Dialogue: 1,0:13:22.78,0:13:24.53,Default,bord,0,0,0,done,{\bord0\blur1\t(0,319,\blur0)}Family Are Nudists, where do you live?
-Dialogue: 0,0:13:24.53,0:13:26.24,default 2,,0,0,0,,Dubai... that's in the US, right?
+Dialogue: 0,0:13:24.53,0:13:26.24,Alternate,,0,0,0,,Dubai... that's in the US, right?
 Dialogue: 0,0:13:24.87,0:13:27.54,Default,,0,0,0,,U-um... Family Are...
 Dialogue: 0,0:13:28.87,0:13:30.37,Default,,0,0,0,,Miss Family Are Nudists.
 Dialogue: 0,0:13:32.58,0:13:36.30,Default,,0,0,0,,Just what am I supposed to do about my nickname?!
@@ -338,7 +338,7 @@ Dialogue: 0,0:14:58.41,0:14:59.79,Default,,0,0,0,,Yeah, yeah...
 Dialogue: 0,0:15:00.04,0:15:02.75,Default,,0,0,0,,{\i1}Ugh! Waseda's tastes are so… wew!
 Dialogue: 0,0:15:03.29,0:15:03.79,Default,,0,0,0,,Huh?
 Dialogue: 0,0:15:04.33,0:15:05.67,Default,,0,0,0,,Oh, I solved it.
-Dialogue: 0,0:15:05.54,0:15:07.67,default 2,,0,0,0,,Is that so? See, you can do it if—
+Dialogue: 0,0:15:05.54,0:15:07.67,Alternate,,0,0,0,,Is that so? See, you can do it if—
 Dialogue: 0,0:15:07.17,0:15:09.42,Default,,0,0,0,,It's not that I wasn't popular with guys…
 Dialogue: 0,0:15:09.67,0:15:12.43,Default,,0,0,0,,I just didn't realize that I actually was!
 Dialogue: 0,0:15:12.43,0:15:16.43,Default,,0,0,0,,Will you give me back\Nmy moment of pure hope, please?
@@ -438,7 +438,7 @@ Dialogue: 0,0:19:00.36,0:19:02.49,Default,,0,0,0,,… is by taking the "interest
 Dialogue: 0,0:19:02.49,0:19:04.57,Default,,0,0,0,,{\i1}She's just barely self-aware\Nthat she's being made fun of.
 Dialogue: 0,0:19:04.57,0:19:05.66,Default,,0,0,0,,{\i1}Thank goodness!
 Dialogue: 0,0:19:05.66,0:19:06.66,Default,,0,0,0,,Or...
-Dialogue: 0,0:19:06.12,0:19:07.24,default 2,,0,0,0,,{\i1\an2}There's more?
+Dialogue: 0,0:19:06.12,0:19:07.24,Alternate,,0,0,0,,{\i1\an2}There's more?
 Dialogue: 0,0:19:06.66,0:19:09.99,Default,,0,0,0,,{\fad(0,345)}when a hot guy is feeding the pigeons at the park...
 Dialogue: 0,0:19:13.00,0:19:13.76,Imagine,,0,0,0,,{\blur3}Whoa!
 Dialogue: 0,0:19:13.76,0:19:14.80,Default,,0,0,0,,You...!
@@ -784,9 +784,9 @@ Dialogue: 0,0:03:48.17,0:03:49.96,Default,,0,0,0,,{\blur0.5\fs50\fnArial\bord4\c
 Dialogue: 0,0:04:20.16,0:04:23.37,underline,,0,0,0,,{\blur0.5\c&H5F7D7F&\3c&H2A2B30&\pos(551.467,388.467)}Sainotama Girls' High School
 Dialogue: 0,0:07:22.30,0:07:23.84,Default,,0,0,0,,{\blur0.5\fs30\bord2\fnArial\c&H868789&\3c&HF2F3F5&\i0\frz32.74\fscx112\fscy112\move(74,57,698,351.667,28,570)}Poteriodendron
 Dialogue: 0,0:08:50.93,0:08:57.27,Default,,0,0,0,,{\blur0.5\fnArial Rounded MT Bold\fs60\c&H423E4F&\3c&HF3F3F5&\pos(650,443)\b0}Ninomae
-Dialogue: 0,0:10:11.88,0:10:14.68,notes,,0,0,0,,{\blur0.5}Waseda University is a consistently top-ranked university in Tokyo
-Dialogue: 0,0:10:15.93,0:10:17.31,notes,,0,0,0,,{\blur0.5}Majime, meaing "serious" or "earnest"
-Dialogue: 0,0:10:17.31,0:10:18.68,notes,,0,0,0,,{\blur0.5}Yamai, meaning "sickness"
+Dialogue: 0,0:10:11.88,0:10:14.68,TL Notes,,0,0,0,,{\blur0.5}Waseda University is a consistently top-ranked university in Tokyo
+Dialogue: 0,0:10:15.93,0:10:17.31,TL Notes,,0,0,0,,{\blur0.5}Majime, meaing "serious" or "earnest"
+Dialogue: 0,0:10:17.31,0:10:18.68,TL Notes,,0,0,0,,{\blur0.5}Yamai, meaning "sickness"
 Dialogue: 0,0:11:06.15,0:11:06.19,chalk,,0,0,0,,{=1}{\blur0.5\an8\fs22\pos(413.34,26)}DON'T MIND\N\N\N\N\NFamily are nudists\N\N\N\N\N\N\NHead makes up\Nhalf her body\N\N\N\N\N\N\NMinor character\N\N\N\N\N\N\NWalking dissonance
 Dialogue: 0,0:11:06.19,0:11:06.35,chalk,,0,0,0,,{=1}{\blur0.5\an8\fs22\pos(413.33,26)\iclip(m 508 431 b 503 426 495 416 491 411 490 413 489 417 488 420 487 415 484 406 482 401 483 401 486 400 487 400 487 397 488 393 488 391 491 390 497 387 500 386 502 384 504 379 505 377 508 378 514 379 517 380 519 384 521 392 523 396 525 397 531 399 533 400)}DON'T MIND\N\N\N\N\NFamily are nudists\N\N\N\N\N\N\NHead makes up\Nhalf her body\N\N\N\N\N\N\NMinor character\N\N\N\N\N\N\NWalking dissonance
 Dialogue: 0,0:11:06.35,0:11:06.40,chalk,,0,0,0,,{=1}{\blur0.5\an8\fs22\pos(413.33,25.99)}DON'T MIND\N\N\N\N\NFamily are nudists\N\N\N\N\N\N\NHead makes up\Nhalf her body\N\N\N\N\N\N\NMinor character\N\N\N\N\N\N\NWalking dissonance
