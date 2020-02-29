@@ -24,11 +24,11 @@ Fansubs by ButterFS for the anime "Joshikousei no Mudazukai".
 
 ## Credits
 
-* **Translation:** HIDIVE (taken from the HorribleSubs release)
-* **Translation Check:** bucket3432
+* **Translation:** HIDIVE (via HorribleSubs)
+* **Translation Checking:** bucket3432
 * **Encoding:**
 * **Editing:** bucket3432
-* **Timing:** bucket3432 (1), gsk\_ (2+)
+* **Timing:** gsk\_
 * **Styling:** bucket3432
-* **Typesetting:** bucket3432, gsk\_ (2+)
+* **Typesetting:** gsk\_, bucket3432 
 * **Quality Checking:** bucket3432
