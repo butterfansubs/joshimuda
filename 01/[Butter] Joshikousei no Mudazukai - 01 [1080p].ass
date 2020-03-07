@@ -11,15 +11,15 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
-Video File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
+Audio File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
+Video File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
 Keyframes File: [KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 738
-Active Line: 746
-Video Position: 5333
+Video Zoom Percent: 0.500000
+Scroll Position: 471
+Active Line: 474
+Video Position: 34005
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -402,8 +402,8 @@ Dialogue: 5,0:17:25.89,0:17:28.94,Default,,0,0,0,,{\fad(0,647)}… when he bumps
 Dialogue: 0,0:17:27.79,0:17:29.31,Imagine,,0,0,0,,{\an8\blur4.5}Ow, that hurts...
 Dialogue: 0,0:17:29.67,0:17:32.12,Imagine,,0,0,0,,{\blur4.5}Crap! She's gonna cause a scene!
 Dialogue: 0,0:17:32.12,0:17:34.28,Imagine,,0,0,0,,{\an8\blur4.5}What are you panicking\Nand hiding your face for?!
-Dialogue: 5,0:17:32.94,0:17:36.20,Default,,0,0,0,,Or so he thinks, but it turns out\Nthat I don't know him and...
-Dialogue: 0,0:17:34.02,0:17:36.20,Imagine,,0,0,0,,{\an8\blur4.5}What?! Have you got a face that'll get you in trouble?
+Dialogue: 5,0:17:33.09,0:17:36.20,Default,,0,0,0,,Or so he thinks, but it turns out\Nthat I don't know him and...
+Dialogue: 0,0:17:34.28,0:17:36.20,Imagine,,0,0,0,,{\an8\blur4.5}What?! Have you got a face that'll get you in trouble?
 Dialogue: 0,0:17:36.20,0:17:38.17,Imagine,,0,0,0,,{\blur4.5}You really don't know who I am?
 Dialogue: 0,0:17:38.17,0:17:39.12,Imagine,,0,0,0,,{\blur4.5}Huh?!
 Dialogue: 0,0:17:39.12,0:17:42.07,Imagine,,0,0,0,,{\blur4.5}I don't care. Hurry up and apologize!
@@ -431,8 +431,8 @@ Dialogue: 0,0:18:39.21,0:18:40.34,Imagine,,0,0,0,,{\blur4.5}… little boy.
 Dialogue: 0,0:18:40.34,0:18:41.42,Imagine,,0,0,0,,{\blur4.5}Damn it!
 Dialogue: 5,0:18:41.42,0:18:41.97,Default,,0,0,0,,{\i1}Here it comes...
 Dialogue: 0,0:18:42.39,0:18:44.60,Imagine,,0,0,0,,{\blur4.5}What is up with that mademoiselle?!
-Dialogue: 5,0:18:45.95,0:18:46.89,Default,,0,0,0,,Here it comes.
-Dialogue: 0,0:18:47.56,0:18:48.98,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
+Dialogue: 5,0:18:45.95,0:18:46.84,Default,,0,0,0,,Here it comes.
+Dialogue: 0,0:18:47.37,0:18:48.98,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
 Dialogue: 5,0:18:48.98,0:18:50.77,Default,,0,0,0,,{\i1}You really like that.
 Dialogue: 5,0:18:50.77,0:18:54.11,Default,,0,0,0,,What's up with that "interesting woman" phrase\Nthat keeps coming up?
 Dialogue: 5,0:18:54.11,0:18:55.47,Default,,0,0,0,,You're way too into it.
@@ -486,10 +486,10 @@ Dialogue: 5,0:22:21.37,0:22:23.75,Default,,0,0,0,,No, it gets amazing from here.
 Dialogue: 5,0:22:23.75,0:22:25.96,Default,,0,0,0,,Show a bit more interest in it, won't you?
 Dialogue: 5,0:22:25.96,0:22:27.97,Default,,0,0,0,,If you look at us objectively,
 Dialogue: 5,0:22:27.97,0:22:29.79,Default,,0,0,0,,our faces and fashion sense are low-mid tier.
-Dialogue: 5,0:22:29.79,0:22:31.99,Default,,0,0,0,,On top of that, our personalities are rotten,
-Dialogue: 5,0:22:31.99,0:22:33.92,Default,,0,0,0,,and we're in no way popular with guys, right?
-Dialogue: 5,0:22:33.92,0:22:37.35,Default,,0,0,0,,Since we have no other redeeming traits,\Nour one weapon is…
-Dialogue: 5,0:22:37.35,0:22:39.50,Default,,0,0,0,,Yes! It's our youth!
+Dialogue: 5,0:22:29.79,0:22:31.77,Default,,0,0,0,,On top of that, our personalities are rotten,
+Dialogue: 5,0:22:31.77,0:22:33.74,Default,,0,0,0,,and we're in no way popular with guys, right?
+Dialogue: 5,0:22:33.74,0:22:38.05,Default,,0,0,0,,Since we have no other redeeming traits,\Nour one weapon is…
+Dialogue: 5,0:22:38.05,0:22:39.50,Default,,0,0,0,,Yes! It's our youth!
 Dialogue: 5,0:22:39.50,0:22:42.25,Default,,0,0,0,,Then that means now's our only chance, right?
 Dialogue: 5,0:22:42.79,0:22:46.23,Default,,0,0,0,,We're at our most powerful right now,\Nwith us being high school girls as our weapon.
 Dialogue: 5,0:22:46.23,0:22:47.76,Default,,0,0,0,,If we don't do our best now,
@@ -504,9 +504,9 @@ Dialogue: 5,0:23:05.72,0:23:07.21,Default,,0,0,0,,Robo, what did you think?
 Dialogue: 5,0:23:07.21,0:23:08.52,Default,,0,0,0,,I thought it was amazing.
 Dialogue: 5,0:23:08.52,0:23:09.28,Default,,0,0,0,,Oh?
 Dialogue: 5,0:23:10.37,0:23:15.29,Default,,0,0,0,,I thought it was amazing\Nthat you'd overrate yourself at low-mid tier.
-Dialogue: 5,0:23:15.62,0:23:16.31,Default,,0,0,0,,What...?
-Dialogue: 5,0:23:21.62,0:23:22.25,Default,,0,0,0,,Uh...
-Dialogue: 5,0:23:32.35,0:23:32.88,Default,,0,0,0,,Uh...
+Dialogue: 5,0:23:15.62,0:23:16.40,Default,,0,0,0,,What...?
+Dialogue: 5,0:23:21.62,0:23:22.29,Default,,0,0,0,,Uh...
+Dialogue: 5,0:23:32.40,0:23:33.04,Default,,0,0,0,,Uh...
 Dialogue: 5,0:23:33.52,0:23:34.39,Default,,0,0,0,,Low?
 Dialogue: 5,0:23:35.78,0:23:37.02,Default,,0,0,0,,High-low tier...?
 Dialogue: 5,0:23:38.26,0:23:39.37,Default,,0,0,0,,Lowest of the low?!
