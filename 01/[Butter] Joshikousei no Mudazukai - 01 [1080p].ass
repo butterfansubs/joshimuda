@@ -11,15 +11,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
-Video File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
-Keyframes File: [KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC]_keyframes.txt
+Audio File: [Butter] Joshikousei no Mudazukai - 01 [1080p].mkv
+Video File: [Butter] Joshikousei no Mudazukai - 01 [1080p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 471
-Active Line: 474
-Video Position: 34005
+Video Zoom Percent: 0.250000
+Active Line: 2
+Video Position: 1072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +35,7 @@ Style: Imagine,Tiresias LPfont,72,&H00FFFFFF,&H000019FF,&HC0020814,&H00000000,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 5,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
 Dialogue: 5,0:00:43.64,0:00:44.64,Default,,0,0,0,,Whoa!
-Dialogue: 5,0:00:44.64,0:00:45.40,Default,,0,0,0,,Oh!
+Dialogue: 5,0:00:44.64,0:00:45.40,Default,TM,0,0,0,,Oh!
 Dialogue: 5,0:00:45.40,0:00:46.19,Default,,0,0,0,,Watch out!
 Dialogue: 5,0:00:47.11,0:00:51.19,Default,,0,0,0,,I want to be an amazing high school girl.
 Dialogue: 5,0:00:51.19,0:00:54.82,Default,,0,0,0,,I want to become an amazing high school girl\Nand be really popular with the boys.
