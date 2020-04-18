@@ -32,6 +32,9 @@ Style: Imagine,Tiresias LPfont,72,&H00FFFFFF,&H000019FF,&HC0020814,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/joshimuda
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 5,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
 Dialogue: 5,0:00:43.64,0:00:44.64,Default,,0,0,0,,Whoa!
 Dialogue: 5,0:00:44.64,0:00:45.40,Default,,0,0,0,,Oh!
@@ -512,6 +515,7 @@ Dialogue: 5,0:23:32.40,0:23:33.04,Default,,0,0,0,,Uh...
 Dialogue: 5,0:23:33.52,0:23:34.39,Default,,0,0,0,,Low?
 Dialogue: 5,0:23:35.78,0:23:37.02,Default,,0,0,0,,High-low tier...?
 Dialogue: 5,0:23:38.26,0:23:39.37,Default,,0,0,0,,Lowest of the low?!
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 Dialogue: 0,0:00:16.37,0:00:16.45,handwritten,,0,0,0,,{\fs97.5\blur0.75\bord0\c&H81827E&\b0\frz5.091\pos(1750.8,196.1)}Kikuchi Akane
 Dialogue: 0,0:00:16.45,0:00:16.57,handwritten,,0,0,0,,{\fs97.5\blur0.75\bord0\c&H81827E&\fn\b0\frz5.252\pos(1533.6,176.9)}Kikuchi Akane
 Dialogue: 0,0:00:16.57,0:00:16.62,handwritten,,0,0,0,,{\fs97.5\blur0.75\bord0\c&H81827E&\fn\b0\frz6.245\pos(1244.685,164.155)}Kikuchi Akane
