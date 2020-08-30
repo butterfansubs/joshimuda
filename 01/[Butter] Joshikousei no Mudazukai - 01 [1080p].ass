@@ -553,7 +553,7 @@ Comment: 0,0:13:15.64,0:13:17.90,Signs,,0,0,0,,# Nudist Family
 Dialogue: 0,0:13:15.64,0:13:17.90,Signs,,0,0,0,,{\blur0.75\fs120\pos(1011,177)}Nudist Family
 Comment: 0,0:13:44.01,0:13:48.01,Signs,,0,0,0,,# Supplementary lessons
 Dialogue: 0,0:13:44.01,0:13:48.01,Signs,,0,0,0,,{\blur0.75\fs37.5\c&HB4C28F&\pos(1269,243)}Supplementary\NLessons\NDay 3
-Dialogue: 5,0:20:20.69,0:20:24.99,Signs,,0,0,0,,# Idiot settle
+Comment: 5,0:20:20.69,0:20:24.99,Signs,,0,0,0,,# Idiot settle
 Dialogue: 5,0:20:20.69,0:20:24.99,Signs,,0,0,0,,{\an7\blur0.75\bord0\fs120\fnArial Black\b1\bord0\shad0\pos(1429.5,576)}They\Nsettled\Non “Idiot”
 
 [Aegisub Extradata]
