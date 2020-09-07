@@ -35,472 +35,472 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/joshimuda
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
-Comment: 5,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
-Dialogue: 5,0:00:43.64,0:00:44.64,Default,,0,0,0,,Whoa!
-Dialogue: 5,0:00:44.64,0:00:45.40,Default,,0,0,0,,Oh!
-Dialogue: 5,0:00:45.40,0:00:46.19,Default,,0,0,0,,Watch out!
-Dialogue: 5,0:00:47.11,0:00:51.19,Default,,0,0,0,,I want to be an awesome high school girl.
-Dialogue: 5,0:00:51.19,0:00:54.82,Default,,0,0,0,,I wanna become an awesome high school girl\Nand be really popular with the boys.
-Dialogue: 5,0:00:54.82,0:00:59.24,Default,,0,0,0,,And then I wanna get\Na really hot boyfriend and go out on dates.
-Dialogue: 5,0:00:59.24,0:00:59.33,Default,,0,0,0,,{\1a&H33&}And then I want to get\Na really hot boyfriend and go out on dates.
-Dialogue: 6,0:00:59.24,0:00:59.33,Default,,0,0,0,,{\iclip(m 1209 780 l 1260 1074 1716 1077 1695 816)}And then I want to get\Na really hot boyfriend and go out on dates.
-Dialogue: 5,0:00:59.33,0:00:59.41,Default,,0,0,0,,{\1a&H33&\iclip(m 765 744 l 807 1071 1908 1071 1890 696)}And then I want to get\Na really hot boyfriend and go out on dates.
-Dialogue: 6,0:00:59.33,0:00:59.41,Default,,0,0,0,,{\iclip(m 399 738 l 441 1077 1908 1071 1890 696)}And then I want to get\Na really hot boyfriend and go out on dates.
-Dialogue: 5,0:01:03.84,0:01:04.79,Default,,0,0,0,,What an idiot.
-Comment: 0,0:01:05.96,0:01:05.96,Default,chptr,0,0,0,,{OP}OP
-Comment: 0,0:02:36.01,0:02:36.01,Default,chptr,0,0,0,,{Part A}Part A
-Dialogue: 5,0:03:10.71,0:03:12.21,Default,,0,0,0,,Long time no see.
-Dialogue: 5,0:03:21.22,0:03:22.22,Default,,0,0,0,,Whoa...
-Dialogue: 5,0:03:25.38,0:03:26.81,Default,,0,0,0,,Why do you have jam?!
-Dialogue: 5,0:03:28.18,0:03:29.80,Default,,0,0,0,,And you're gonna use it?!
-Dialogue: 5,0:03:31.26,0:03:32.66,Default,,0,0,0,,That's nasty!
-Dialogue: 5,0:03:37.45,0:03:39.53,Default,,0,0,0,,Oh! We're in the same class!
-Dialogue: 5,0:03:41.20,0:03:43.20,Default,,0,0,0,,And...
-Dialogue: 5,0:03:45.20,0:03:47.20,Default,,0,0,0,,We're in the same class.
-Dialogue: 5,0:03:47.85,0:03:51.96,Default,,0,0,0,,Starting today, you are all high school students.
-Dialogue: 5,0:03:51.96,0:03:54.71,Default,,0,0,0,,A boundless future lies ahead of you.
-Dialogue: 5,0:03:54.71,0:03:56.84,Default,,0,0,0,,During your three years of high school life...
-Dialogue: 5,0:03:57.21,0:04:01.57,Default,,0,0,0,,Hey. So, I made a really big mistake\Nthat I can't walk back.
-Dialogue: 5,0:04:01.57,0:04:02.22,Default,,0,0,0,,Like what?
-Dialogue: 5,0:04:02.22,0:04:04.93,Default,,0,0,0,,This is a girls' school.
-Dialogue: 5,0:04:07.43,0:04:09.77,Default,,0,0,0,,Why did it take you till now to realize?
-Dialogue: 5,0:04:09.77,0:04:13.19,Default,,0,0,0,,Because no matter where I looked during\Nthe entrance ceremony, it was all just girls.
-Dialogue: 5,0:04:13.19,0:04:16.27,Default,,0,0,0,,You'd already know that by\Nlooking at the high school's name.
-Dialogue: 5,0:04:16.27,0:04:19.19,Default,,0,0,0,,I thought it was just the name of the school.
-Dialogue: 5,0:04:19.19,0:04:20.69,Default,,0,0,0,,What kind of name is that?
-Dialogue: 5,0:04:20.69,0:04:22.40,Default,,0,0,0,,Wait, why didn't you realize it\Nduring the entrance exam?
-Dialogue: 5,0:04:22.40,0:04:23.22,Default,,0,0,0,,I was asleep.
-Dialogue: 5,0:04:23.22,0:04:24.71,Default,,0,0,0,,How'd you pass?!
-Dialogue: 5,0:04:24.71,0:04:28.41,Default,,0,0,0,,Why is attending a girls' high school\Na mistake that can't be undone?
-Dialogue: 5,0:04:28.41,0:04:29.87,Default,,0,0,0,,Well, if there are no guys,
-Dialogue: 5,0:04:29.87,0:04:31.91,Default,,0,0,0,,then even if I want to be popular with them, I can't!
-Dialogue: 5,0:04:32.43,0:04:35.54,Default,,0,0,0,,It's incredible is that you think\Nyou'd be popular if it were coed.
-Dialogue: 5,0:04:35.54,0:04:38.84,Default,,0,0,0,,Worst case scenario, I guess there's\Nthe teacher route, huh?
-Dialogue: 5,0:04:38.84,0:04:41.05,Default,,0,0,0,,There's the possibility\Nthat the homeroom teacher
-Dialogue: 5,0:04:41.05,0:04:43.47,Default,,0,0,0,,will be a young hot guy who's fresh out of college...
-Dialogue: 5,0:04:51.24,0:04:55.73,Default,,0,0,0,,Um, I will be in charge of Class 1-2 for the next year.
-Dialogue: 5,0:04:55.73,0:04:57.02,Default,,0,0,0,,My name is Sawatari.
-Dialogue: 5,0:04:57.02,0:05:00.69,Default,,0,0,0,,First of all, there are several things\NI want to tell all of you from the onset.
-Dialogue: 5,0:05:01.60,0:05:03.95,Default,,0,0,0,,I prefer college women.
-Dialogue: 5,0:05:04.25,0:05:06.41,Default,,0,0,0,,Just because I have been\Nassigned to a girls' school,
-Dialogue: 5,0:05:06.41,0:05:09.95,Default,,0,0,0,,I am often looked at enviously by those around me.
-Dialogue: 5,0:05:10.18,0:05:13.00,Default,,0,0,0,,Acquaintances have said that\NI won't be found out if I secretly seduce a girl,
-Dialogue: 5,0:05:13.00,0:05:16.65,Default,,0,0,0,,and there are some jerks who say ridiculous things\Nlike "introduce me", but...
-Dialogue: 5,0:05:16.65,0:05:17.88,Default,,0,0,0,,I will say this again and again.
-Dialogue: 5,0:05:18.27,0:05:21.09,Default,,0,0,0,,I prefer college women.
-Dialogue: 5,0:05:21.44,0:05:23.82,Default,,0,0,0,,I am a graduate of a prestigious university,
-Dialogue: 5,0:05:23.82,0:05:25.06,Default,,0,0,0,,a civil servant,
-Dialogue: 5,0:05:25.06,0:05:28.43,Default,,0,0,0,,handsome, twenty-seven years of age,\Nand single with no girlfriend.
-Dialogue: 5,0:05:28.43,0:05:30.26,Default,,0,0,0,,But I want you please to bear in mind
-Dialogue: 5,0:05:30.26,0:05:34.23,Default,,0,0,0,,that although it may be unavoidable\Nto develop a crush on me,
-Dialogue: 5,0:05:34.23,0:05:39.36,Default,,0,0,0,,unfortunately for you, there is no chance of reciprocation.
-Dialogue: 5,0:05:39.36,0:05:41.40,Default,,0,0,0,,Also, one more thing...
-Dialogue: 5,0:05:41.40,0:05:43.86,Default,,0,0,0,,In the situation where a male adult\Nand a female high school student
-Dialogue: 5,0:05:43.86,0:05:47.91,Default,,0,0,0,,get involved and have sexual relations,\Nthe adult will be charged with sexual misconduct,
-Dialogue: 5,0:05:47.91,0:05:49.87,Default,,0,0,0,,unless there is parental guardian approval or they are engaged.{CPS is way to high, edit?}
-Dialogue: 5,0:05:49.87,0:05:53.24,Default,,0,0,0,,However, in the eyes of the law,\Nif it is a serious relationship,
-Dialogue: 5,0:05:53.24,0:05:55.25,Default,,0,0,0,,then it is possible to marry\Na female high school student...
-Dialogue: 5,0:05:55.25,0:06:01.09,Default,,0,0,0,,However, how would they make it clear\Nthat they are serious about their relationship
-Dialogue: 5,0:06:01.09,0:06:04.38,Default,,0,0,0,,or that they are together\Nwith the intent to marry and so on?
-Dialogue: 5,0:06:05.60,0:06:07.13,Default,,0,0,0,,Do they get the parental guardian to approve?
-Dialogue: 5,0:06:07.13,0:06:12.00,Default,,0,0,0,,For something like that, in most cases\Nhe'd immediately get reported and his life is over!
-Dialogue: 5,0:06:12.00,0:06:15.47,Default,,0,0,0,,In the end, a romance with a high school girl\Nis just a fantasy, you know!
-Dialogue: 5,0:06:15.69,0:06:17.81,Default,,0,0,0,,Then why not just change the law!
-Dialogue: 5,0:06:17.81,0:06:19.56,Default,,0,0,0,,Idiots!
-Dialogue: 5,0:06:27.59,0:06:28.73,Default,,0,0,0,,That will be all.
-Dialogue: 5,0:06:30.06,0:06:31.57,Default,,0,0,0,,I look forward to being with you all this year.
-Dialogue: 5,0:06:34.37,0:06:41.83,Default,,0,0,0,,Creep.
-Dialogue: 5,0:06:42.11,0:06:43.34,Default,,0,0,0,,Creep...
-Dialogue: 5,0:06:43.92,0:06:45.28,Default,,0,0,0,,This guy's a creep!
-Dialogue: 5,0:06:48.45,0:06:52.62,Default,TM,0,0,0,,Gah, I want a boyfriend!\NWhy aren't there any guys around!
-Dialogue: 5,0:06:53.22,0:06:55.67,Default,,0,0,0,,Just where do I gotta go to meet some?
-Dialogue: 5,0:06:55.67,0:06:57.10,Default,,0,0,0,,Why don't you get a part-time job?
-Dialogue: 5,0:06:57.10,0:06:58.48,Default,,0,0,0,,Oh, hell no!
-Dialogue: 5,0:06:58.48,0:07:01.48,Default,,0,0,0,,There's no way I'll have\Npeople pushing me around like that.
-Dialogue: 5,0:07:01.48,0:07:06.16,Default,,0,0,0,,How do the ones at girls' schools\Nwith boyfriends meet them anyway?
-Dialogue: 5,0:07:06.16,0:07:08.99,Default,,0,0,0,,Don't they get friends to introduce them\Nor something like that?
-Dialogue: 5,0:07:08.99,0:07:10.49,Default,,0,0,0,,Get friends to introduce them...
-Dialogue: 5,0:07:11.90,0:07:12.49,Default,,0,0,0,,Nope.
-Dialogue: 5,0:07:12.49,0:07:15.35,Default,,0,0,0,,Yeah, no. There's no chance Kikuchi knows any lookers.
-Dialogue: 5,0:07:15.35,0:07:18.00,Default,,0,0,0,,Even if I did, I'd rather die\Nthan introduce them to you!
-Comment: 5,0:07:17.75,0:07:18.50,Default,,0,0,0,,Oh...{I will be removing this, since I don't feel like keeping such vague words and these can be ommited on situation}
-Dialogue: 5,0:07:21.34,0:07:22.88,Default,,0,0,0,,Poteriodendron...
-Dialogue: 5,0:07:23.39,0:07:27.38,Default,,0,0,0,,A Phytomastigina Chrysomonadina\NOchromonas family...
-Dialogue: 5,0:07:38.16,0:07:40.52,Default,,0,0,0,,Introduce me to one of your hunk friends.
-Dialogue: 5,0:07:40.52,0:07:42.48,Default,,0,0,0,,Huh?! Wh-where did that just come from?!
-Dialogue: 5,0:07:42.48,0:07:44.52,Default,,0,0,0,,And not like a microorganism or anything like that.
-Dialogue: 5,0:07:44.91,0:07:45.64,Default,,0,0,0,,Uh.
-Dialogue: 5,0:07:46.48,0:07:50.03,Default,,0,0,0,,Unfortunately, I don't have\Nthat sort of friend down here.
-Dialogue: 5,0:07:50.65,0:07:51.40,Default,,0,0,0,,I...
-Dialogue: 5,0:07:52.80,0:07:56.91,Default,,0,0,0,,...happen to know someone\Nwho's a mage of the Dragonia race.
-Dialogue: 5,0:07:57.24,0:08:02.79,Default,,0,0,0,,Except that he just pledged his loyalty\Nto the princess of the Altania Kingdom, so...
-Dialogue: 5,0:08:02.79,0:08:03.92,Default,,0,0,0,,Uh.
-Dialogue: 5,0:08:04.29,0:08:05.33,Default,,0,0,0,,That girl's so small!
-Dialogue: 5,0:08:05.33,0:08:06.13,Default,,0,0,0,,So adorable.
-Dialogue: 5,0:08:06.13,0:08:08.71,Default,,0,0,0,,Cute as a button! {Note for timer, probably cut this line off shorter?}
-Dialogue: 5,0:08:13.22,0:08:14.09,Default,,0,0,0,,I wanna take her home!
-Dialogue: 5,0:08:14.09,0:08:15.18,Default,,0,0,0,,I wanna put her on display!{Are you sure you wanna keep all this? It just creates distraction imo}
-Dialogue: 5,0:08:15.18,0:08:16.05,Default,,0,0,0,,She looked this way!
-Dialogue: 5,0:08:16.05,0:08:17.05,Default,,0,0,0,,{\i1}Damn it.
-Dialogue: 5,0:08:17.05,0:08:19.93,Default,,0,0,0,,{\i1}Yours truly has an appearance complex you know.
-Dialogue: 5,0:08:19.93,0:08:21.98,Default,,0,0,0,,{\i1}I gotta make sure nobody looks down on me.
-Dialogue: 5,0:08:23.81,0:08:25.98,Default,,0,0,0,,S-Stop looking at me, you scum!
-Dialogue: 5,0:08:30.07,0:08:30.94,Default,,0,0,0,,Wha?!
-Dialogue: 5,0:08:32.03,0:08:33.70,Default,,0,0,0,,Whaddya think you're doing? Hey!
-Dialogue: 5,0:08:34.57,0:08:36.26,Default,,0,0,0,,I thought maybe, you wanna get on?
-Dialogue: 5,0:08:35.58,0:08:36.72,Default,TM,0,0,0,,Absolutely not!
-Dialogue: 5,0:08:36.72,0:08:38.99,Default,,0,0,0,,Then introduce me to a hunk friend.
-Dialogue: 5,0:08:38.99,0:08:40.70,Default,,0,0,0,,How did we even get here?! {Original line was "What kind of logic is that?" This feels more flavourful, but if QC/Bucket wants to purge I'm open to it}
-Dialogue: 5,0:08:44.23,0:08:45.25,Default,,0,0,0,,"Ichi"?
-Dialogue: 5,0:08:46.96,0:08:49.39,Default,,0,0,0,,Isn't that just the character for "one"?
-Dialogue: 5,0:08:49.39,0:08:49.96,Default,,0,0,0,,Oh.
-Dialogue: 5,0:08:50.36,0:08:52.59,Default,,0,0,0,,It is written as the character for one,\Nbut it is read as "Ninomae".
-Dialogue: 5,0:08:52.59,0:08:53.72,Default,,0,0,0,,Ninomae?
-Dialogue: 5,0:08:53.72,0:08:56.30,Default,,0,0,0,,Apparently you can read it that way\Nbecause it means "before two", which is one.
-Dialogue: 5,0:08:56.65,0:08:58.50,Default,,0,0,0,,Oh! That's cool!
-Dialogue: 5,0:08:58.50,0:09:00.06,Default,,0,0,0,,Wow! Ninomae!
-Dialogue: 5,0:09:00.06,0:09:01.82,Default,,0,0,0,,It is rare, isn't it?
-Dialogue: 5,0:09:01.82,0:09:05.06,Default,,0,0,0,,I've heard that only about four hundred people in the\Ncountry have that name, if I remember correctly.
-Dialogue: 5,0:09:05.06,0:09:07.69,Default,,0,0,0,,There are apparently a lot of them\Nin Kumamoto and Niigata.
-Dialogue: 5,0:09:07.69,0:09:08.64,Default,,0,0,0,,Huh.
-Dialogue: 5,0:09:08.64,0:09:11.57,Default,,0,0,0,,By the way, why do you always wear headphones?
-Dialogue: 5,0:09:11.57,0:09:12.57,Default,,0,0,0,,Is it a fashion statement?
-Dialogue: 5,0:09:12.57,0:09:13.74,Default,,0,0,0,,Oh, no.
-Dialogue: 5,0:09:13.74,0:09:16.82,Default,,0,0,0,,This is so that I can keep up\Nwith financial reports.
-Dialogue: 5,0:09:16.82,0:09:19.54,Default,,0,0,0,,Plus, this way I can check things\Nlike stock prices right away.
-Dialogue: 5,0:09:19.54,0:09:20.83,Default,,0,0,0,,Y-you...
-Dialogue: 5,0:09:21.13,0:09:22.58,Default,,0,0,0,,You're an earnest person, aren't you?!
-Dialogue: 5,0:09:22.83,0:09:23.83,Default,,0,0,0,,An earnest person?!
-Dialogue: 5,0:09:23.83,0:09:25.21,Default,,0,0,0,,Whatever, that's fine.
-Dialogue: 5,0:09:25.21,0:09:27.75,Default,,0,0,0,,Introduce me to one of your hot guy friends.
-Dialogue: 5,0:09:27.75,0:09:28.75,Default,,0,0,0,,A hot guy?
-Dialogue: 5,0:09:29.34,0:09:33.96,Default,,0,0,0,,Oh, that I don't mind, but what do\Nyou define as a hot guy?
-Dialogue: 5,0:09:33.96,0:09:36.13,Default,,0,0,0,,Even if one were to make an\Novergeneralization about hot guys—
-Dialogue: 5,0:09:36.13,0:09:38.59,Default,,0,0,0,,for example, there are pleasant types, wild types,
-Dialogue: 5,0:09:38.59,0:09:40.10,Default,,0,0,0,,and a variety of others—
-Dialogue: 5,0:09:40.10,0:09:43.02,Default,,0,0,0,,Moreover, as to whether or not\NI have hot guy friends,
-Dialogue: 5,0:09:43.02,0:09:46.19,Default,,0,0,0,,I must first evaluate what I consider a friend.
-Dialogue: 5,0:09:46.19,0:09:46.85,Default,,0,0,0,,According to the dictionary—
-Dialogue: 5,0:09:46.85,0:09:50.11,Default,,0,0,0,,Nope. Everyone here is useless.
-Dialogue: 5,0:09:50.11,0:09:52.00,Default,,0,0,0,,You're the most useless one of all.
-Dialogue: 5,0:09:52.00,0:09:55.82,Default,,0,0,0,,I also tried asking Doorknob, Giant Squid, and Greece,
-Dialogue: 5,0:09:55.82,0:09:57.15,Default,,0,0,0,,but there's no point talking to them!
-Dialogue: 5,0:09:57.15,0:10:00.03,Default,,0,0,0,,Who the heck are Doorknob and Giant Squid?
-Dialogue: 5,0:10:00.03,0:10:01.53,Default,,0,0,0,,In a sudden flash of inspiration,
-Dialogue: 5,0:10:01.53,0:10:04.04,Default,,0,0,0,,I gave nicknames to everyone in class, you see.
-Dialogue: 5,0:10:04.04,0:10:04.82,Default,,0,0,0,,Here.
-Dialogue: 5,0:10:07.69,0:10:08.50,Default,,0,0,0,,Oxbridge...
-Dialogue: 5,0:10:08.50,0:10:10.97,Default,,0,0,0,,Oh. That's the homeroom teacher\Nwho likes college women.
-Dialogue: 5,0:10:10.97,0:10:12.94,Default,,0,0,0,,Doesn't he seem like the Oxbridge type?
-Dialogue: 5,0:10:12.94,0:10:13.75,Default,,0,0,0,,The others are...
-Dialogue: 5,0:10:14.30,0:10:15.01,Default,,0,0,0,,Lolita...
-Dialogue: 5,0:10:15.45,0:10:16.38,Default,,0,0,0,,Earnest...
-Dialogue: 5,0:10:16.76,0:10:17.76,Default,,0,0,0,,Edgelord...
-Dialogue: 5,0:10:17.76,0:10:19.01,Default,,0,0,0,,You're bored, aren't you?
-Dialogue: 5,0:10:19.01,0:10:20.89,Default,,0,0,0,,I thought up of ones for you girls too.
-Dialogue: 5,0:10:20.89,0:10:23.64,Default,,0,0,0,,Saginomiya, since your emotions\Nhave gone extinct, you're "Robot".
-Dialogue: 5,0:10:23.64,0:10:25.68,Default,,0,0,0,,Kikuchi, since you're a creepy nerd, you're "Nerd".
-Dialogue: 5,0:10:25.68,0:10:27.48,Default,,0,0,0,,What?! I am not creepy!
-Dialogue: 5,0:10:28.10,0:10:32.57,Default,,0,0,0,,Must be nice huh!\NBeing the only ones with identifying traits!
-Dialogue: 5,0:10:32.57,0:10:35.88,Default,,0,0,0,,Next time you randomly shout, I'll smack you.
-Dialogue: 5,0:10:35.88,0:10:38.61,Default,,0,0,0,,I want un, ain't there somethin'?
-Dialogue: 5,0:10:38.61,0:10:41.12,Default,,0,0,0,,Some kinda quality or 'em identity things.
-Dialogue: 5,0:10:41.12,0:10:44.95,Default,,0,0,0,,There she goes with the weirdo\Nfirst-person Kansai dialect like acting.
-Dialogue: 5,0:10:44.95,0:10:46.13,Default,,0,0,0,,Super annoying.
-Dialogue: 5,0:10:48.07,0:10:48.87,Default,,0,0,0,,Student B.
-Dialogue: 5,0:10:48.87,0:10:51.83,Default,,0,0,0,,Oh! Yeah, that's it! Like that stuff! Gimme more!
-Dialogue: 5,0:10:51.83,0:10:53.63,Default,,0,0,0,,Midget.\NHome probably stinks. {filthy?}
-Dialogue: 5,0:10:53.63,0:10:55.63,Default,,0,0,0,,Waste of oxygen. Gorilla. Protein junkie.
-Dialogue: 5,0:10:55.63,0:10:56.77,Default,,0,0,0,,Walking dissonance.
-Dialogue: 5,0:10:56.77,0:10:58.09,Alternate,,0,0,0,,Hey!
-Dialogue: 5,0:10:56.77,0:10:58.09,Default,,0,0,0,,Nudist Family.
-Dialogue: 5,0:10:58.09,0:11:01.22,Default,,0,0,0,,You're just randomly throwing in insults now!
-Dialogue: 5,0:11:01.22,0:11:03.60,Default,,0,0,0,,What the heck is your definition of an insult?
-Dialogue: 5,0:11:06.27,0:11:07.85,Default,,0,0,0,,These ones I don't mind.
-Dialogue: 5,0:11:07.85,0:11:10.34,Default,,0,0,0,,I'd basically never want to be called these ones.
-Dialogue: 5,0:11:12.35,0:11:13.15,Default,,0,0,0,,All right...
-Dialogue: 5,0:11:14.97,0:11:16.36,Default,,0,0,0,,"Midget" it is.
-Comment: 0,0:11:21.99,0:11:21.99,Default,chptr,0,0,0,,{Part B}Part B
-Dialogue: 5,0:11:22.36,0:11:24.49,Default,,0,0,0,,For this one, let's have...
-Dialogue: 5,0:11:25.97,0:11:26.62,Default,,0,0,0,,Tanaka.
-Dialogue: 5,0:11:28.51,0:11:31.83,Default,,0,0,0,,Picking me when you know that I can't answer it.
-Dialogue: 5,0:11:31.83,0:11:33.58,Default,,0,0,0,,Not cool, Sir.
-Dialogue: 5,0:11:34.45,0:11:36.96,Default,,0,0,0,,Are you trying to ruin the lesson?
-Dialogue: 5,0:11:37.26,0:11:39.84,Default,,0,0,0,,You were supposed to learn this in middle school.
-Dialogue: 5,0:11:40.12,0:11:42.47,Default,,0,0,0,,What were you doing for those three years?
-Dialogue: 5,0:11:42.79,0:11:45.21,Default,,0,0,0,,I was killing time.
-Dialogue: 5,0:11:45.21,0:11:46.60,Default,,0,0,0,,If I were to elaborate...
-Dialogue: 5,0:11:46.60,0:11:49.22,Default,,0,0,0,,I was mainly killing pimples!
-Dialogue: 5,0:11:52.90,0:11:55.73,Default,,0,0,0,,You're getting supplementary lessons\Nfor a week starting today, all right?
-Dialogue: 5,0:11:56.32,0:11:57.36,Default,,0,0,0,,This girl...
-Dialogue: 5,0:11:57.36,0:11:59.57,Default,,0,0,0,,Her rebellious attitude towards a teacher,
-Dialogue: 5,0:11:59.57,0:12:02.74,Default,,0,0,0,,and her cool head in response to the\Nthe murmur of the class means...
-Dialogue: 5,0:12:04.77,0:12:07.03,Default,,0,0,0,,She's no ordinary human!
-Dialogue: 5,0:12:08.95,0:12:10.41,Default,,0,0,0,,Hey, hey! Hey Lolita!
-Dialogue: 5,0:12:10.75,0:12:12.44,Default,,0,0,0,,L-Lolita?!
-Dialogue: 5,0:12:12.44,0:12:13.85,Default,,0,0,0,,Don't call me Lolita!
-Dialogue: 5,0:12:13.85,0:12:16.38,Default,,0,0,0,,I saw you at the mall last sunday.
-Dialogue: 5,0:12:16.38,0:12:16.92,Default,,0,0,0,,Wha?
-Dialogue: 5,0:12:16.92,0:12:19.05,Default,,0,0,0,,You were with your grandma at the food court, right?
-Dialogue: 5,0:12:19.05,0:12:21.55,Default,,0,0,0,,You had like, a totally different vibe\Nthan when you're at school.
-Dialogue: 5,0:12:21.55,0:12:23.68,Default,,0,0,0,,You're like a total grandma's girl.
-Dialogue: 5,0:12:25.93,0:12:28.97,Default,,0,0,0,,S-she's hitting me where it hurts.
-Dialogue: 5,0:12:28.97,0:12:30.18,Default,,0,0,0,,How despicable!
-Dialogue: 5,0:12:30.18,0:12:31.14,Default,,0,0,0,,Tanaka!
-Dialogue: 5,0:12:31.14,0:12:33.49,Default,,0,0,0,,I knew this moron wasn't to be trusted!
-Dialogue: 5,0:12:33.49,0:12:34.85,Default,,0,0,0,,You jerk...
-Dialogue: 5,0:12:34.85,0:12:36.65,Default,,0,0,0,,Someday I'm gonna crush you for sure!
-Dialogue: 5,0:12:38.28,0:12:40.69,Default,,0,0,0,,If you're gonna crush something,\Nthen keep it to just pimples, okay?
-Dialogue: 5,0:12:40.69,0:12:42.70,Default,,0,0,0,,Pimples can scar, so don't crush them!
-Dialogue: 5,0:12:42.70,0:12:45.18,Default,,0,0,0,,Don't ever do it again, got it? Mi–
-Dialogue: 5,0:12:45.18,0:12:45.74,Default,,0,0,0,,Huh?
-Dialogue: 5,0:12:45.74,0:12:47.12,Default,,0,0,0,,Midget!
-Dialogue: 5,0:12:48.59,0:12:52.75,Default,,0,0,0,,You know what, it's irritating to be called\N"Midget" to my face after all.
-Dialogue: 5,0:12:52.75,0:12:55.03,Default,,0,0,0,,Especially when it's Lolita.
-Dialogue: 5,0:12:55.03,0:12:56.58,Default,,0,0,0,,"Student B" it is then. {@ GSK the timing on this sign is borked}
-Dialogue: 5,0:12:57.38,0:12:59.63,Default,,0,0,0,,Hey Lolita!
-Dialogue: 5,0:12:59.63,0:13:01.26,Default,,0,0,0,,Get a move on!
-Dialogue: 5,0:13:01.26,0:13:03.63,Default,,0,0,0,,Sh-shut up, Student B!
-Dialogue: 5,0:13:04.24,0:13:06.01,Default,,0,0,0,,Student B, did you finish the homework?
-Dialogue: 5,0:13:06.49,0:13:08.39,Default,,0,0,0,,Watcha eating, Student B?
-Dialogue: 5,0:13:10.69,0:13:11.39,Default,,0,0,0,,Well,
-Dialogue: 5,0:13:11.65,0:13:14.69,Default,,0,0,0,,"Student B" also subtly\Nwhittles away at me mentally.
-Dialogue: 5,0:13:14.69,0:13:15.64,Default,,0,0,0,,Then,
-Dialogue: 5,0:13:15.89,0:13:17.50,Default,,0,0,0,,go with "Nudist family."
-Dialogue: 5,0:13:18.69,0:13:19.40,Default,,0,0,0,,Oh!
-Dialogue: 5,0:13:19.40,0:13:21.03,Default,,0,0,0,,Nudist family!
-Comment: 5,0:13:21.03,0:13:21.23,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 1317 633 b 1329 639 1354.5 652.5 1368 660 1389 714 1432.5 822 1467 876 1483.5 922.5 1492.5 1023 1506 1077)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.03,0:13:21.23,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 1317 633 b 1329 639 1354.5 652.5 1368 660 1389 714 1432.5 822 1467 876 1483.5 922.5 1492.5 1023 1506 1077)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.03,0:13:21.23,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 1317 633 b 1329 639 1354.5 652.5 1368 660 1389 714 1432.5 822 1467 876 1483.5 922.5 1492.5 1023 1506 1077)}Nudist Family, where do you live?
-Comment: 5,0:13:21.23,0:13:21.32,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 1185 615 b 1201.5 627 1237.5 649.5 1254 661.5 1278 715.5 1324.5 823.5 1348.5 877.5 1363.5 946.5 1384.5 1030.5 1384.5 1075.5)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.23,0:13:21.32,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 1185 615 b 1201.5 627 1237.5 649.5 1254 661.5 1278 715.5 1324.5 823.5 1348.5 877.5 1363.5 946.5 1384.5 1030.5 1384.5 1075.5)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.23,0:13:21.32,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 1185 615 b 1201.5 627 1237.5 649.5 1254 661.5 1278 715.5 1324.5 823.5 1348.5 877.5 1363.5 946.5 1384.5 1030.5 1384.5 1075.5)}Nudist Family, where do you live?
-Comment: 5,0:13:21.32,0:13:21.48,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 1053 580.5 1134 667.5 1233 886.5 b 1243.5 934.5 1263 1029 1266 1080)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.32,0:13:21.48,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 1053 580.5 1134 667.5 1233 886.5 b 1243.5 934.5 1263 1029 1266 1080)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.32,0:13:21.48,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 1053 580.5 1134 667.5 1233 886.5 b 1243.5 934.5 1263 1029 1266 1080)}Nudist Family, where do you live?
-Comment: 5,0:13:21.48,0:13:21.57,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 921 558 1027.5 669 1126.5 900 1162.5 1080)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.48,0:13:21.57,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 921 558 1027.5 669 1126.5 900 1162.5 1080)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.48,0:13:21.57,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 921 558 1027.5 669 1126.5 900 1162.5 1080)}Nudist Family, where do you live?
-Comment: 5,0:13:21.57,0:13:21.73,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 783 531 901.5 654 1003.5 912 b 1020 957 1033.5 1036.5 1030.5 1081.5)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.57,0:13:21.73,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 783 531 901.5 654 1003.5 912 b 1020 957 1033.5 1036.5 1030.5 1081.5)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.57,0:13:21.73,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 783 531 901.5 654 1003.5 912 b 1020 957 1033.5 1036.5 1030.5 1081.5)}Nudist Family, where do you live?
-Comment: 5,0:13:21.73,0:13:21.82,Default,*bord,0,0,0,,{\blur2.25\clip(m 1914 1077 l 1914 624 439.5 643.5 498 804 535.5 873 b 538.5 925.5 559.5 1029 571.5 1078.5)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.73,0:13:21.82,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur2.25\clip(m 1914 1077 l 1914 624 439.5 643.5 498 804 535.5 873 b 538.5 925.5 559.5 1029 571.5 1078.5)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.73,0:13:21.82,Default,bord,0,0,0,done,{\bord0\blur2.25\clip(m 1914 1077 l 1914 624 439.5 643.5 498 804 535.5 873 b 538.5 925.5 559.5 1029 571.5 1078.5)}Nudist Family, where do you live?
-Comment: 5,0:13:21.82,0:13:23.57,Default,*bord,0,0,0,,{\blur1.5\t(0,319,\blur0)}Nudist Family, where do you live?
-Dialogue: 5,0:13:21.82,0:13:23.53,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur1.5\t(0,319,\blur0)}Nudist Family, where do you live?
-Dialogue: 6,0:13:21.82,0:13:23.53,Default,bord,0,0,0,done,{\bord0\blur1.5\t(0,319,\blur0)}Nudist Family, where do you live?
-Dialogue: 5,0:13:23.53,0:13:25.37,Alternate,,0,0,0,,Dubai... that's in the US, right?
-Dialogue: 5,0:13:23.94,0:13:26.53,Default,,0,0,0,,U-um, Nudist–
-Dialogue: 5,0:13:27.91,0:13:29.37,Default,,0,0,0,,Miss Nudist Family.
-Dialogue: 5,0:13:31.62,0:13:35.25,Default,,0,0,0,,What the heck am I gonna do with my nickname?!
-Dialogue: 5,0:13:35.25,0:13:37.92,Default,,0,0,0,,Haven't you lost sight of your objective,\NNudist Family?
-Dialogue: 5,0:13:37.92,0:13:39.88,Default,,0,0,0,,Stop calling me that!
-Dialogue: 5,0:13:41.38,0:13:42.25,Default,,0,0,0,,It's no use.
-Dialogue: 5,0:13:42.48,0:13:44.01,Default,,0,0,0,,I just don't get it.
-Dialogue: 5,0:13:44.01,0:13:47.09,Default,,0,0,0,,Sorry, what part don't you get?
-Dialogue: 5,0:13:47.09,0:13:48.01,Default,,0,0,0,,Why?
-Dialogue: 5,0:13:48.84,0:13:51.74,Default,TM,0,0,0,,Why am I this unpopular with guys?\N I don't get it!{line split wrong?}
-Dialogue: 5,0:13:51.74,0:13:54.20,Default,,0,0,0,,Which problem was that on the sheet?
-Dialogue: 5,0:13:54.20,0:13:55.93,Default,,0,0,0,,Huh? A life problem, maybe?
-Dialogue: 5,0:13:55.93,0:13:58.42,Default,,0,0,0,,Worry about the math problems first.
-Dialogue: 5,0:13:58.42,0:13:59.44,Default,,0,0,0,,You idiot.
-Dialogue: 5,0:13:59.44,0:14:01.02,Default,,0,0,0,,Yeah, but...
-Dialogue: 5,0:14:01.02,0:14:03.57,Default,,0,0,0,,Instead of trying to solve this pointless equation,
-Dialogue: 5,0:14:03.57,0:14:05.78,Default,,0,0,0,,shouldn't I be solving why I'm not popular with guys?
-Dialogue: 5,0:14:05.78,0:14:08.41,Default,,0,0,0,,Isn't that just way more important in the end?
-Dialogue: 5,0:14:08.74,0:14:09.94,Default,,0,0,0,,What are you gonna do
-Dialogue: 5,0:14:09.94,0:14:13.12,Default,,0,0,0,,if I end up single for the rest of my life?
-Dialogue: 5,0:14:16.59,0:14:19.12,Default,,0,0,0,,Solve five problems within thirty minutes.
-Dialogue: 5,0:14:19.12,0:14:20.75,Default,,0,0,0,,Do that and a man will come near you.
-Dialogue: 5,0:14:21.18,0:14:24.17,Default,,0,0,0,,What a half-assed attempt at motivation.
-Dialogue: 5,0:14:24.80,0:14:26.47,Default,,0,0,0,,Oh, by the way,
-Dialogue: 5,0:14:26.47,0:14:29.00,Default,,0,0,0,,you said you like college women,
-Dialogue: 5,0:14:29.00,0:14:31.58,Default,,0,0,0,,but what is it about them that you like?
-Dialogue: 5,0:14:31.58,0:14:34.64,Default,,0,0,0,,That has nothing to do with\Nany of the problems on that sheet, you know.
-Dialogue: 5,0:14:34.64,0:14:36.18,Default,,0,0,0,,It does.
-Dialogue: 5,0:14:36.18,0:14:39.02,Default,,0,0,0,,If you don't answer it'll bug me and I won't be able to focus.
-Dialogue: 5,0:14:41.02,0:14:42.78,Default,,0,0,0,,Well, alright.
-Dialogue: 5,0:14:42.78,0:14:45.03,Default,,0,0,0,,A kid like you probably won't understand, but...
-Dialogue: 5,0:14:45.37,0:14:46.77,Default,,0,0,0,,If I had to say...
-Dialogue: 5,0:14:47.71,0:14:50.65,Default,,0,0,0,,The traditional blazer worn by\Njob-seeking students.{Is the lead out is intentional}
-Dialogue: 5,0:14:50.65,0:14:51.41,Default,,0,0,0,,That's what.
-Dialogue: 5,0:14:52.13,0:14:54.54,Default,,0,0,0,,Hey! Don't give me that look.
-Dialogue: 5,0:14:54.54,0:14:56.04,Default,TM,0,0,0,,This isn't about me anyway.\NHurry up and finish that worksheet, won't you?
-Dialogue: 5,0:14:57.59,0:14:58.79,Default,,0,0,0,,Yeah, yeah.
-Dialogue: 5,0:14:58.79,0:15:01.67,Default,,0,0,0,,{\i1}Wew! I don't usually kinkshame but damn!
-Dialogue: 5,0:15:02.18,0:15:02.79,Default,,0,0,0,,Huh?
-Dialogue: 5,0:15:03.29,0:15:04.47,Default,,0,0,0,,Oh, I got it.
-Dialogue: 5,0:15:04.47,0:15:06.71,Alternate,,0,0,0,,Is that so? See, you can do it if—
-Dialogue: 5,0:15:05.73,0:15:08.42,Default,,0,0,0,,It's not that I wasn't popular with guys...
-Dialogue: 5,0:15:08.78,0:15:11.25,Default,,0,0,0,,I just didn't realize that I actually was!
-Dialogue: 5,0:15:11.25,0:15:15.11,Default,,0,0,0,,For a moment there I saw some light at the end of the tunnel.
-Dialogue: 5,0:15:15.11,0:15:19.43,Default,,0,0,0,,During elementary and middle school,\Nthey liked me but couldn't say anything.
-Dialogue: 5,0:15:19.82,0:15:24.79,Default,,0,0,0,,Or maybe they were trying to attract me\Nand I was blind to it.
-Dialogue: 5,0:15:25.33,0:15:26.82,Default,,0,0,0,,Oh, oh crap!
-Dialogue: 5,0:15:27.33,0:15:28.65,Default,,0,0,0,,I can't just accept this!
-Dialogue: 5,0:15:28.65,0:15:30.36,Default,,0,0,0,,Hey! Where do you think you're going?!
-Dialogue: 5,0:15:30.36,0:15:30.97,Default,,0,0,0,,Home!
-Dialogue: 5,0:15:30.97,0:15:34.24,Default,,0,0,0,,I'm gonna try and hit up all the guys in my yearbooks!
-Dialogue: 5,0:15:32.97,0:15:34.24,Default,,0,0,0,,Hold up!
-Dialogue: 5,0:15:34.51,0:15:36.49,Default,,0,0,0,,Wait! Wait! Wait! Wait!
-Dialogue: 5,0:15:36.49,0:15:38.83,Default,,0,0,0,,What's making you go that far?
-Dialogue: 5,0:15:39.08,0:15:40.38,Default,,0,0,0,,Mr. Sawatari.
-Dialogue: 5,0:15:40.38,0:15:42.79,Default,,0,0,0,,I really want to be popular with guys.
-Dialogue: 5,0:15:42.79,0:15:47.75,Default,,0,0,0,,Think about how your old classmates would feel\Nbeing interrogated out of the bl—
-Dialogue: 5,0:15:47.34,0:15:49.01,Default,,0,0,0,,Oh! A sweat stain! {Maybe this should be an8? idk}
-Dialogue: 5,0:15:49.01,0:15:50.47,Default,,0,0,0,,What? Impossible!
-Dialogue: 5,0:15:51.72,0:15:52.59,Default,,0,0,0,,You're wide open!
-Dialogue: 5,0:15:52.59,0:15:53.43,Default,,0,0,0,,Wha—
-Dialogue: 5,0:15:54.26,0:15:55.53,Default,,0,0,0,,Stop, Tanaka!
-Dialogue: 5,0:15:55.93,0:15:58.89,Default,,0,0,0,,Don't jump the gun!
-Dialogue: 5,0:16:01.19,0:16:02.30,Default,,0,0,0,,Wait.
-Dialogue: 5,0:16:02.30,0:16:06.82,Default,,0,0,0,,What if all the guys in my classes actually liked me?
-Dialogue: 5,0:16:08.55,0:16:11.32,Default,,0,0,0,,What am I gonna do?!
-Dialogue: 5,0:16:11.32,0:16:13.97,Default,,0,0,0,,You know, I don't really want that anyway.
-Dialogue: 5,0:16:13.97,0:16:17.16,Default,,0,0,0,,I want something more like a fateful encounter.
-Dialogue: 5,0:16:17.16,0:16:18.33,Default,,0,0,0,,For example?
-Dialogue: 5,0:16:18.33,0:16:22.41,Default,,0,0,0,,{\fad(0,392)}Like reuniting with a childhood friend who had moved away a long time ago!
-Dialogue: 0,0:16:23.35,0:16:23.92,Imagine,,0,0,0,,{\blur4.5}No way!
-Dialogue: 0,0:16:24.43,0:16:25.42,Imagine,,0,0,0,,{\blur4.5}Nozomu?
-Dialogue: 0,0:16:25.77,0:16:27.79,Imagine,,0,0,0,,{\blur4.5}K-Kenny?
-Dialogue: 5,0:16:27.79,0:16:30.29,Default,,0,0,0,,{\i1}Except you don't have any childhood friends.
-Dialogue: 5,0:16:30.29,0:16:34.05,Default,,0,0,0,,{\fad(0,345)}Or like trying to grab for the same book\Nat the library I frequent...
-Dialogue: 0,0:16:34.32,0:16:35.30,Imagine,,0,0,0,,{\blur4.5}Oh!
-Dialogue: 5,0:16:35.30,0:16:37.68,Default,,0,0,0,,{\i1}As if you'd ever go to a library.
-Dialogue: 5,0:16:37.68,0:16:41.51,Default,,0,0,0,,Or, a stud gets in a car accident,
-Dialogue: 5,0:16:41.51,0:16:44.69,Default,,0,0,0,,and they need type AB blood,\Nbut there's not enough...
-Dialogue: 5,0:16:44.69,0:16:49.54,Default,,0,0,0,,As fate would have it, I happen to pass by\Nwith my AB blood and share it with him.{em dash why?}
-Dialogue: 5,0:16:49.54,0:16:53.32,Default,,0,0,0,,{\fad(0,476)}I save his life, and when he's feeling better, I go visit him..
-Dialogue: 0,0:16:53.58,0:16:54.70,Imagine,,0,0,0,,{\blur4.5}It's strange,
-Dialogue: 0,0:16:55.24,0:16:57.49,Imagine,,0,0,0,,{\blur4.5}but I don't feel like this is\Nthe first time we've met.
-Dialogue: 5,0:16:57.49,0:16:58.83,Default,,0,0,0,,Or so he says.
-Dialogue: 0,0:16:58.87,0:17:02.67,Imagine,,0,0,0,,{\blur4.5}I was visiting a friend when the nurse\Ncame running up to me..
-Dialogue: 5,0:17:02.87,0:17:06.21,Default,,0,0,0,,He realizes that it was me who saved his life,
-Dialogue: 5,0:17:06.21,0:17:07.33,Default,,0,0,0,,and it makes him confess to me.
-Dialogue: 5,0:17:07.33,0:17:09.18,Default,,0,0,0,,{\i1}Too long.
-Dialogue: 5,0:17:09.18,0:17:10.63,Default,,0,0,0,,{\i1}Besides, you're not even a type AB.
-Dialogue: 5,0:17:10.63,0:17:11.98,Default,,0,0,0,,{\i1}You're definitely a type O.
-Dialogue: 5,0:17:11.98,0:17:15.76,Default,,0,0,0,,{\fad(0,438)}Or, we keep bumping into each other\Nat the same place...
-Dialogue: 0,0:17:16.39,0:17:19.08,Imagine,TM,0,0,0,,{\blur4.5}This has got to be fate or something, isn't it? {Timing is megaborked}
-Dialogue: 5,0:17:18.49,0:17:20.06,Default,,0,0,0,,Then he confesses and...
-Dialogue: 0,0:17:19.27,0:17:20.89,Imagine,,0,0,0,,{\an8\blur4.5}And their soup portions pretty big.
-Dialogue: 5,0:17:20.89,0:17:22.77,Default,,0,0,0,,{\i1}You guys are just frequent customers.
-Dialogue: 5,0:17:22.77,0:17:25.89,Default,,0,0,0,,A super popular star is shopping incognito
-Dialogue: 5,0:17:25.89,0:17:28.94,Default,,0,0,0,,{\fad(0,647)}when he bumps into me and his identity is revealed.
-Dialogue: 0,0:17:27.79,0:17:29.31,Imagine,,0,0,0,,{\an8\blur4.5}Ow, that hurts.
-Dialogue: 0,0:17:29.67,0:17:32.12,Imagine,,0,0,0,,{\blur4.5}Crap! She's gonna cause a scene!
-Dialogue: 0,0:17:32.12,0:17:34.28,Imagine,,0,0,0,,{\an8\blur4.5}What are you panicking\Nand hiding your face for?!
-Dialogue: 5,0:17:33.09,0:17:36.20,Default,,0,0,0,,Or so he thinks, but it turns out\Nthat I don't know him and...
-Dialogue: 0,0:17:34.28,0:17:36.20,Imagine,,0,0,0,,{\an8\blur4.5}What?! Have you got a face that'll get you in trouble?
-Dialogue: 0,0:17:36.20,0:17:38.17,Imagine,,0,0,0,,{\blur4.5}You really don't know who I am?
-Dialogue: 0,0:17:38.17,0:17:39.12,Imagine,,0,0,0,,{\blur4.5}Huh?!
-Dialogue: 0,0:17:39.12,0:17:42.07,Imagine,,0,0,0,,{\blur4.5}I don't care. Hurry up and apologize!
-Dialogue: 0,0:17:42.07,0:17:45.03,Imagine,,0,0,0,,{\blur4.5}You don't know me and you're still talking to me like that...
-Dialogue: 0,0:17:45.75,0:17:47.59,Imagine,,0,0,0,,{\blur4.5}You're an interesting woman.
-Dialogue: 5,0:17:47.59,0:17:48.92,Default,,0,0,0,,...is basically what he says.
-Dialogue: 5,0:17:48.92,0:17:52.42,Default,,0,0,0,,{\fad(0,436)}A busker, who's in a bit of a slump\Nand has lost his confidence...
-Dialogue: 0,0:17:53.41,0:17:54.92,Imagine,,0,0,0,,{\\blur4.5}I can't bear to listen to this.
-Dialogue: 0,0:17:54.92,0:17:57.18,Imagine,,0,0,0,,{\blur4.5}You've been out of tune for a while now.
-Dialogue: 0,0:17:57.18,0:18:00.87,Imagine,,0,0,0,,{\blur4.5}Huh? That can't be right. I have perfect pit—
-Dialogue: 0,0:18:00.87,0:18:02.18,Imagine,,0,0,0,,{\blur4.5}What's out of tune is...
-Dialogue: 0,0:18:02.74,0:18:04.93,Imagine,,0,0,0,,{\blur4.5} your heart.
-Dialogue: 5,0:18:06.31,0:18:07.74,Default,,0,0,0,,{\i1}Tough critic.{TN: "So strict."}
-Dialogue: 5,0:18:07.74,0:18:09.06,Default,,0,0,0,,{\fad(0,264)}And then...
-Dialogue: 0,0:18:09.45,0:18:10.73,Imagine,,0,0,0,,{\blur4.5}How?
-Dialogue: 0,0:18:11.06,0:18:13.68,Imagine,,0,0,0,,{\blur4.5}I feel like I can write songs now.
-Dialogue: 0,0:18:13.68,0:18:14.57,Imagine,,0,0,0,,{\blur4.5}You're...
-Dialogue: 0,0:18:17.11,0:18:19.20,Imagine,,0,0,0,,{\blur4.5}an interesting woman.
-Dialogue: 5,0:18:19.53,0:18:21.07,Default,,0,0,0,,Or so he says...
-Dialogue: 5,0:18:21.07,0:18:22.72,Default,,0,0,0,,{\i1}Again with that "interesting woman" thing?
-Dialogue: 5,0:18:22.72,0:18:27.86,Default,,0,0,0,,{\fad(0,688)}At a three Michelin star restaurant, I leave \Nsome leftovers of a dish a prideful chef prepared
-Dialogue: 0,0:18:29.73,0:18:33.34,Imagine,,0,0,0,,{\blur4.5}You couldn't even make me eat a single pea.
-Dialogue: 0,0:18:36.31,0:18:39.21,Imagine,,0,0,0,,{\blur4.5}In the end, that's all that your skills amount to...
-Dialogue: 0,0:18:39.21,0:18:40.34,Imagine,,0,0,0,,{\blur4.5}baby boy.
-Dialogue: 0,0:18:40.34,0:18:41.42,Imagine,,0,0,0,,{\blur4.5}Damn it!
-Dialogue: 5,0:18:41.42,0:18:41.97,Default,,0,0,0,,{\i1}Here it comes.
-Dialogue: 0,0:18:42.39,0:18:44.60,Imagine,,0,0,0,,{\blur4.5}What is up with that mademoiselle?!
-Dialogue: 5,0:18:45.95,0:18:46.84,Default,,0,0,0,,Here it comes.
-Dialogue: 0,0:18:47.37,0:18:48.98,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
-Dialogue: 5,0:18:48.98,0:18:50.77,Default,,0,0,0,,{\i1}You really like that.
-Dialogue: 5,0:18:50.77,0:18:54.11,Default,,0,0,0,,Why are you so zeroed-in on "interesting"?
-Dialogue: 5,0:18:54.11,0:18:55.47,Default,,0,0,0,,You're too hung up over it.
-Dialogue: 5,0:18:55.47,0:18:56.68,Default,,0,0,0,,What's wrong with that?
-Dialogue: 5,0:18:56.68,0:18:59.14,Default,,0,0,0,,The only way for a heroine\Nwho gets made fun of to get a hot guy
-Dialogue: 5,0:18:59.14,0:19:01.24,Default,,0,0,0,,is by being interesting enough to capture his attention!
-Dialogue: 5,0:19:01.24,0:19:03.29,Default,,0,0,0,,{\i1}At least she's somewhat aware that she's being made fun of.
-Dialogue: 5,0:19:03.29,0:19:04.37,Default,,0,0,0,,{\i1}Thank goodness!
-Dialogue: 5,0:19:04.37,0:19:05.07,Default,,0,0,0,,Or...
-Dialogue: 5,0:19:05.07,0:19:06.29,Alternate,,0,0,0,,{\i1\an2}There's more?
-Dialogue: 5,0:19:05.55,0:19:09.04,Default,,0,0,0,,{\fad(0,345)}{\an8}when a total looker is feeding pigeons at the park...
-Dialogue: 0,0:19:12.00,0:19:12.83,Imagine,,0,0,0,,{\blur4.5}Whoa!
-Dialogue: 5,0:19:12.83,0:19:13.75,Default,,0,0,0,,Huh?
-Dialogue: 0,0:19:14.50,0:19:17.86,Imagine,,0,0,0,,{\blur4.5}Y-You're eating filthy\Nbread crumbs off the ground.
-Dialogue: 5,0:19:17.86,0:19:20.36,Default,,0,0,0,,{\i1}Let me guess, she's an "interesting woman"?
-Dialogue: 0,0:19:20.36,0:19:21.51,Imagine,,0,0,0,,{\blur4.5}That's disgusting.
-Dialogue: 5,0:19:21.51,0:19:22.64,Default,,0,0,0,,Or so he says.
-Dialogue: 5,0:19:22.64,0:19:24.03,Default,,0,0,0,,{\i1}He's disgusted?
-Dialogue: 5,0:19:24.03,0:19:25.89,Default,,0,0,0,,{\i1}No, being disgusted is the correct response!
-Dialogue: 5,0:19:25.89,0:19:26.64,Default,,0,0,0,,{\fad(0,227)}But!
-Dialogue: 0,0:19:27.05,0:19:28.98,Imagine,,0,0,0,,{\blur4.5}I'm a typically very tolerant,
-Dialogue: 0,0:19:28.98,0:19:31.60,Imagine,,0,0,0,,{\blur4.5}but nobody has managed to disgust me this much.
-Dialogue: 0,0:19:32.76,0:19:33.97,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
-Dialogue: 5,0:19:33.97,0:19:36.40,Default,,0,0,0,,{\i1}Of course it still went that route, damnit.
-Dialogue: 5,0:19:36.40,0:19:39.90,Default,,0,0,0,,Seems like it's always you getting confessed to.
-Dialogue: 5,0:19:39.90,0:19:41.72,Default,,0,0,0,,When are you gonna pull your weight?
-Dialogue: 5,0:19:41.72,0:19:42.28,Default,,0,0,0,,Huh?!
-Dialogue: 5,0:19:42.67,0:19:43.86,Default,,0,0,0,,I'd never do that!
-Dialogue: 5,0:19:43.86,0:19:45.45,Default,,0,0,0,,{\i1}I kinda got told off. {Kinda want TLC on this line @ bucket}
-Dialogue: 5,0:19:45.45,0:19:46.54,Default,,0,0,0,,Well...
-Dialogue: 5,0:19:47.30,0:19:48.54,Default,,0,0,0,,Well, because I...
-Dialogue: 5,0:19:52.25,0:19:54.33,Default,,0,0,0,,I want someone to fall for me,
-Dialogue: 5,0:19:54.33,0:19:57.50,Default,,0,0,0,,just as I am without me having to do anything.
-Dialogue: 5,0:20:08.10,0:20:10.23,Default,,0,0,0,,You haven't changed at all in all these years.
-Dialogue: 5,0:20:10.23,0:20:13.44,Default,,0,0,0,,Did too! I'm a high school girl now.
-Dialogue: 5,0:20:13.44,0:20:15.40,Default,,0,0,0,,Ah, there's a good nickname for you.
-Dialogue: 5,0:20:15.40,0:20:16.36,Default,,0,0,0,,What is it?
-Dialogue: 5,0:20:16.36,0:20:17.45,Default,,0,0,0,,Interesting woman.
-Dialogue: 5,0:20:17.45,0:20:18.19,Default,,0,0,0,,No.
-Dialogue: 5,0:20:19.73,0:20:20.69,Default,,0,0,0,,Idiot.
-Dialogue: 5,0:20:21.18,0:20:24.45,Default,,0,0,0,,Huh?! What's up with that?!
-Dialogue: 5,0:21:55.68,0:21:58.51,Default,,0,0,0,,Yo, y'all wanna hear something awesome?
-Dialogue: 5,0:21:58.51,0:22:01.71,Default,,0,0,0,,People who say stuff like that basically never have anything interesting to say.
-Dialogue: 5,0:22:01.71,0:22:03.59,Default,,0,0,0,,No, it's pretty awesome.
-Dialogue: 5,0:22:03.59,0:22:06.98,Default,,0,0,0,,It's so cool, it's like when\Na chimpanzee takes a banana—
-Dialogue: 5,0:22:06.98,0:22:08.35,Default,,0,0,0,,Hurry it up already.
-Dialogue: 5,0:22:10.10,0:22:10.85,Default,,0,0,0,,You know...
-Dialogue: 5,0:22:11.46,0:22:12.86,Default,,0,0,0,,aren't we...
-Dialogue: 5,0:22:14.33,0:22:15.98,Default,,0,0,0,,peaking right now?
-Dialogue: 5,0:22:21.37,0:22:23.75,Default,,0,0,0,,No, we keep going up from here. Right?
-Dialogue: 5,0:22:23.75,0:22:25.96,Default,,0,0,0,,It's not as boring as you make it seem!
-Comment: 0,0:20:24.99,0:20:24.99,Default,chptr,0,0,0,,{ED}ED
-Comment: 0,0:21:54.96,0:21:54.96,Default,chptr,0,0,0,,{Outro}Outro
-Dialogue: 5,0:22:25.96,0:22:27.97,Default,,0,0,0,,If you look at us objectively,
-Dialogue: 5,0:22:27.97,0:22:29.79,Default,,0,0,0,,our faces and styles are low-mid tier.
-Dialogue: 5,0:22:29.79,0:22:31.77,Default,,0,0,0,,On top of that, our personalities suck,
-Dialogue: 5,0:22:31.77,0:22:33.74,Default,,0,0,0,,and we're in no way popular with guys, right?
-Dialogue: 5,0:22:33.74,0:22:38.05,Default,,0,0,0,,Since there's no hope in any of those categories, what's left?
-Dialogue: 5,0:22:38.05,0:22:39.50,Default,,0,0,0,,Our youth!
-Dialogue: 5,0:22:39.50,0:22:42.25,Default,,0,0,0,,Then that means it's now or never, yeah?
-Dialogue: 5,0:22:42.79,0:22:46.23,Default,,0,0,0,,We're at our apex right now,\Nwielding our high school girl status.
-Dialogue: 5,0:22:46.23,0:22:47.76,Default,,0,0,0,,If we don't go all out now,
-Dialogue: 5,0:22:47.76,0:22:50.26,Default,,0,0,0,,there's almost no chance we'll get a guy, right?
-Dialogue: 5,0:22:50.51,0:22:53.77,Default,,0,0,0,,Well? Pretty big wake up call if you ask me.
-Dialogue: 5,0:22:53.77,0:22:56.17,Default,,0,0,0,,Like a shot of adrenaline.
-Dialogue: 5,0:22:56.17,0:22:57.93,Default,,0,0,0,,Wow.
-Dialogue: 5,0:22:57.93,0:22:58.77,Default,,0,0,0,,Yeah?
-Dialogue: 5,0:22:59.64,0:23:02.27,Default,,0,0,0,,You're still incredibly stupid.
-Dialogue: 5,0:23:02.73,0:23:03.38,Default,,0,0,0,,Ro–
-Dialogue: 5,0:23:05.72,0:23:07.21,Default,,0,0,0,,Robot, what did you think?
-Dialogue: 5,0:23:07.21,0:23:08.52,Default,,0,0,0,,I thought it was inspiring.
-Dialogue: 5,0:23:08.52,0:23:09.28,Default,,0,0,0,,Oh?
-Dialogue: 5,0:23:10.37,0:23:15.29,Default,,0,0,0,,I thought your self-confidence to rate yourself low-mid tier was inspiring.
-Dialogue: 5,0:23:15.62,0:23:16.40,Default,,0,0,0,,What?
-Dialogue: 5,0:23:21.62,0:23:22.29,Default,,0,0,0,,Uh...
-Dialogue: 5,0:23:32.40,0:23:33.04,Default,,0,0,0,,Uh...
-Dialogue: 5,0:23:33.52,0:23:34.39,Default,,0,0,0,,Low?
-Dialogue: 5,0:23:35.78,0:23:37.02,Default,,0,0,0,,High-low tier...?
-Dialogue: 5,0:23:38.26,0:23:39.37,Default,,0,0,0,,Rock bottom?!
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
+Dialogue: 10,0:00:43.64,0:00:44.64,Default,,0,0,0,,Whoa!
+Dialogue: 10,0:00:44.64,0:00:45.40,Default,,0,0,0,,Oh!
+Dialogue: 10,0:00:45.40,0:00:46.19,Default,,0,0,0,,Watch out!
+Dialogue: 10,0:00:47.11,0:00:51.19,Default,,0,0,0,,I want to be an awesome high school girl.
+Dialogue: 10,0:00:51.19,0:00:54.82,Default,,0,0,0,,I wanna become an awesome high school girl\Nand be really popular with the boys.
+Dialogue: 10,0:00:54.82,0:00:59.24,Default,,0,0,0,,And then I wanna get\Na really hot boyfriend and go out on dates.
+Dialogue: 10,0:00:59.24,0:00:59.33,Default,,0,0,0,,{\1a&H33&}And then I want to get\Na really hot boyfriend and go out on dates.
+Dialogue: 10,0:00:59.24,0:00:59.33,Default,,0,0,0,,{\iclip(m 1209 780 l 1260 1074 1716 1077 1695 816)}And then I want to get\Na really hot boyfriend and go out on dates.
+Dialogue: 10,0:00:59.33,0:00:59.41,Default,,0,0,0,,{\1a&H33&\iclip(m 765 744 l 807 1071 1908 1071 1890 696)}And then I want to get\Na really hot boyfriend and go out on dates.
+Dialogue: 10,0:00:59.33,0:00:59.41,Default,,0,0,0,,{\iclip(m 399 738 l 441 1077 1908 1071 1890 696)}And then I want to get\Na really hot boyfriend and go out on dates.
+Dialogue: 10,0:01:03.84,0:01:04.79,Default,,0,0,0,,What an idiot.
+Comment: 10,0:01:05.96,0:01:05.96,Default,chptr,0,0,0,,{OP}OP
+Comment: 10,0:02:36.01,0:02:36.01,Default,chptr,0,0,0,,{Part A}Part A
+Dialogue: 10,0:03:10.71,0:03:12.21,Default,,0,0,0,,Long time no see.
+Dialogue: 10,0:03:21.22,0:03:22.22,Default,,0,0,0,,Whoa...
+Dialogue: 10,0:03:25.38,0:03:26.81,Default,,0,0,0,,Why do you have jam?!
+Dialogue: 10,0:03:28.18,0:03:29.80,Default,,0,0,0,,And you're gonna use it?!
+Dialogue: 10,0:03:31.26,0:03:32.66,Default,,0,0,0,,That's nasty!
+Dialogue: 10,0:03:37.45,0:03:39.53,Default,,0,0,0,,Oh! We're in the same class!
+Dialogue: 10,0:03:41.20,0:03:43.20,Default,,0,0,0,,And...
+Dialogue: 10,0:03:45.20,0:03:47.20,Default,,0,0,0,,We're in the same class.
+Dialogue: 10,0:03:47.85,0:03:51.96,Default,,0,0,0,,Starting today, you are all high school students.
+Dialogue: 10,0:03:51.96,0:03:54.71,Default,,0,0,0,,A boundless future lies ahead of you.
+Dialogue: 10,0:03:54.71,0:03:56.84,Default,,0,0,0,,During your three years of high school life...
+Dialogue: 10,0:03:57.21,0:04:01.57,Default,,0,0,0,,Hey. So, I made a really big mistake\Nthat I can't walk back.
+Dialogue: 10,0:04:01.57,0:04:02.22,Default,,0,0,0,,Like what?
+Dialogue: 10,0:04:02.22,0:04:04.93,Default,,0,0,0,,This is a girls' school.
+Dialogue: 10,0:04:07.43,0:04:09.77,Default,,0,0,0,,Why did it take you till now to realize?
+Dialogue: 10,0:04:09.77,0:04:13.19,Default,,0,0,0,,Because no matter where I looked during\Nthe entrance ceremony, it was all just girls.
+Dialogue: 10,0:04:13.19,0:04:16.27,Default,,0,0,0,,You'd already know that by\Nlooking at the high school's name.
+Dialogue: 10,0:04:16.27,0:04:19.19,Default,,0,0,0,,I thought it was just the name of the school.
+Dialogue: 10,0:04:19.19,0:04:20.69,Default,,0,0,0,,What kind of name is that?
+Dialogue: 10,0:04:20.69,0:04:22.40,Default,,0,0,0,,Wait, why didn't you realize it\Nduring the entrance exam?
+Dialogue: 10,0:04:22.40,0:04:23.22,Default,,0,0,0,,I was asleep.
+Dialogue: 10,0:04:23.22,0:04:24.71,Default,,0,0,0,,How'd you pass?!
+Dialogue: 10,0:04:24.71,0:04:28.41,Default,,0,0,0,,Why is attending a girls' high school\Na mistake that can't be undone?
+Dialogue: 10,0:04:28.41,0:04:29.87,Default,,0,0,0,,Well, if there are no guys,
+Dialogue: 10,0:04:29.87,0:04:31.91,Default,,0,0,0,,then even if I want to be popular with them, I can't!
+Dialogue: 10,0:04:32.43,0:04:35.54,Default,,0,0,0,,It's incredible that you think\Nyou'd be popular if it were coed.
+Dialogue: 10,0:04:35.54,0:04:38.84,Default,,0,0,0,,Worst case scenario, I guess there's\Nthe teacher route, huh?
+Dialogue: 10,0:04:38.84,0:04:41.05,Default,,0,0,0,,There's the possibility\Nthat the homeroom teacher
+Dialogue: 10,0:04:41.05,0:04:43.47,Default,,0,0,0,,will be a young hot guy who's fresh out of college...
+Dialogue: 10,0:04:51.24,0:04:55.73,Default,,0,0,0,,Um, I will be in charge of Class 1-2 for the next year.
+Dialogue: 10,0:04:55.73,0:04:57.02,Default,,0,0,0,,My name is Sawatari.
+Dialogue: 10,0:04:57.02,0:05:00.69,Default,,0,0,0,,First of all, there are several things\NI want to tell all of you from the onset.
+Dialogue: 10,0:05:01.60,0:05:03.95,Default,,0,0,0,,I prefer college women.
+Dialogue: 10,0:05:04.25,0:05:06.41,Default,,0,0,0,,Just because I have been\Nassigned to a girls' school,
+Dialogue: 10,0:05:06.41,0:05:09.95,Default,,0,0,0,,I am often looked at enviously by those around me.
+Dialogue: 10,0:05:10.18,0:05:13.00,Default,,0,0,0,,Acquaintances have said that\NI won't be found out if I secretly seduce a girl,
+Dialogue: 10,0:05:13.00,0:05:16.65,Default,,0,0,0,,and there are some jerks who say ridiculous things\Nlike "introduce me", but...
+Dialogue: 10,0:05:16.65,0:05:17.88,Default,,0,0,0,,I will say this again and again.
+Dialogue: 10,0:05:18.27,0:05:21.09,Default,,0,0,0,,I prefer college women.
+Dialogue: 10,0:05:21.44,0:05:23.82,Default,,0,0,0,,I am a graduate of a prestigious university,
+Dialogue: 10,0:05:23.82,0:05:25.06,Default,,0,0,0,,a civil servant,
+Dialogue: 10,0:05:25.06,0:05:28.43,Default,,0,0,0,,handsome, twenty-seven years of age,\Nand single with no girlfriend.
+Dialogue: 10,0:05:28.43,0:05:30.26,Default,,0,0,0,,But I want you please to bear in mind
+Dialogue: 10,0:05:30.26,0:05:34.23,Default,,0,0,0,,that although it may be unavoidable\Nto develop a crush on me,
+Dialogue: 10,0:05:34.23,0:05:39.36,Default,,0,0,0,,unfortunately for you, there is no chance of reciprocation.
+Dialogue: 10,0:05:39.36,0:05:41.40,Default,,0,0,0,,Also, one more thing...
+Dialogue: 10,0:05:41.40,0:05:43.86,Default,,0,0,0,,In the situation where a male adult\Nand a female high school student
+Dialogue: 10,0:05:43.86,0:05:47.91,Default,,0,0,0,,get involved and have sexual relations,\Nthe adult will be charged with sexual misconduct,
+Dialogue: 10,0:05:47.91,0:05:49.87,Default,,0,0,0,,unless there is parental guardian approval or they are engaged.{CPS is way to high, edit?}
+Dialogue: 10,0:05:49.87,0:05:53.24,Default,,0,0,0,,However, in the eyes of the law,\Nif it is a serious relationship,
+Dialogue: 10,0:05:53.24,0:05:55.25,Default,,0,0,0,,then it is possible to marry\Na female high school student...
+Dialogue: 10,0:05:55.25,0:06:01.09,Default,,0,0,0,,However, how would they make it clear\Nthat they are serious about their relationship
+Dialogue: 10,0:06:01.09,0:06:04.38,Default,,0,0,0,,or that they are together\Nwith the intent to marry and so on?
+Dialogue: 10,0:06:05.60,0:06:07.13,Default,,0,0,0,,Do they get the parental guardian to approve?
+Dialogue: 10,0:06:07.13,0:06:12.00,Default,,0,0,0,,For something like that, in most cases\Nhe'd immediately get reported and his life is over!
+Dialogue: 10,0:06:12.00,0:06:15.47,Default,,0,0,0,,In the end, a romance with a high school girl\Nis just a fantasy, you know!
+Dialogue: 10,0:06:15.69,0:06:17.81,Default,,0,0,0,,Then why not just change the law!
+Dialogue: 10,0:06:17.81,0:06:19.56,Default,,0,0,0,,Idiots!
+Dialogue: 10,0:06:27.59,0:06:28.73,Default,,0,0,0,,That will be all.
+Dialogue: 10,0:06:30.06,0:06:31.57,Default,,0,0,0,,I look forward to being with you all this year.
+Dialogue: 10,0:06:34.37,0:06:41.83,Default,,0,0,0,,Creep.
+Dialogue: 10,0:06:42.11,0:06:43.34,Default,,0,0,0,,Creep...
+Dialogue: 10,0:06:43.92,0:06:45.28,Default,,0,0,0,,This guy's a creep!
+Dialogue: 10,0:06:48.45,0:06:52.62,Default,TM,0,0,0,,Gah, I want a boyfriend!\NWhy aren't there any guys around!
+Dialogue: 10,0:06:53.22,0:06:55.67,Default,,0,0,0,,Just where do I gotta go to meet some?
+Dialogue: 10,0:06:55.67,0:06:57.10,Default,,0,0,0,,Why don't you get a part-time job?
+Dialogue: 10,0:06:57.10,0:06:58.48,Default,,0,0,0,,Oh, hell no!
+Dialogue: 10,0:06:58.48,0:07:01.48,Default,,0,0,0,,There's no way I'll have\Npeople pushing me around like that.
+Dialogue: 10,0:07:01.48,0:07:06.16,Default,,0,0,0,,How do the ones at girls' schools\Nwith boyfriends meet them anyway?
+Dialogue: 10,0:07:06.16,0:07:08.99,Default,,0,0,0,,Don't they get friends to introduce them\Nor something like that?
+Dialogue: 10,0:07:08.99,0:07:10.49,Default,,0,0,0,,Get friends to introduce them...
+Dialogue: 10,0:07:11.90,0:07:12.49,Default,,0,0,0,,Nope.
+Dialogue: 10,0:07:12.49,0:07:15.35,Default,ED,0,0,0,,Yeah, no. There's no chance Kikuchi knows any lookers.{TN: "Yeah, no." isn't represented in the line. I'd make the "Nope." of the previous line to "Yeah, no." if you want to keep that wording.}
+Dialogue: 10,0:07:15.35,0:07:18.00,Default,,0,0,0,,Even if I did, I'd rather die\Nthan introduce them to you!
+Comment: 10,0:07:17.75,0:07:18.50,Default,,0,0,0,,Oh...{I will be removing this, since I don't feel like keeping such vague words and these can be ommited on situation}
+Dialogue: 10,0:07:21.34,0:07:22.88,Default,,0,0,0,,Poteriodendron...
+Dialogue: 10,0:07:23.39,0:07:27.38,Default,ED,0,0,0,,In the class Phytomastigina, \Norder Chrysomonadina, family Ochromonas.
+Dialogue: 10,0:07:38.16,0:07:40.52,Default,,0,0,0,,Introduce me to one of your hunk friends.
+Dialogue: 10,0:07:40.52,0:07:42.48,Default,,0,0,0,,Huh?! Wh-where did that just come from?!
+Dialogue: 10,0:07:42.48,0:07:44.52,Default,,0,0,0,,And not like a microorganism or anything like that.
+Comment: 10,0:07:44.91,0:07:45.64,Default,,0,0,0,,Uh.
+Dialogue: 10,0:07:46.48,0:07:50.03,Default,,0,0,0,,Unfortunately, I don't have\Nthat sort of friend down here.
+Dialogue: 10,0:07:50.65,0:07:51.40,Default,,0,0,0,,I...
+Dialogue: 10,0:07:52.80,0:07:56.91,Default,,0,0,0,,...happen to know someone\Nwho's a mage of the Dragonia race.
+Dialogue: 10,0:07:57.24,0:08:02.79,Default,,0,0,0,,Except that he just pledged his loyalty\Nto the princess of the Altania Kingdom, so...
+Dialogue: 10,0:08:02.79,0:08:03.92,Default,,0,0,0,,Uh.
+Dialogue: 10,0:08:04.29,0:08:05.33,Default,,0,0,0,,That girl's so small!
+Dialogue: 10,0:08:05.33,0:08:06.13,Default,,0,0,0,,So adorable.
+Dialogue: 10,0:08:06.13,0:08:08.71,Default,TM,0,0,0,,Cute as a button! {Note for timer, probably cut this line off shorter?}
+Dialogue: 10,0:08:13.22,0:08:14.09,Default,,0,0,0,,I wanna take her home!
+Dialogue: 10,0:08:14.09,0:08:15.18,Default,,0,0,0,,I wanna put her on display!{Are you sure you wanna keep all this? It just creates distraction imo}
+Dialogue: 10,0:08:15.18,0:08:16.05,Default,,0,0,0,,She looked this way!
+Dialogue: 10,0:08:16.05,0:08:17.05,Default,,0,0,0,,{\i1}Damn it.
+Dialogue: 10,0:08:17.05,0:08:19.93,Default,,0,0,0,,{\i1}Yours truly has an appearance complex you know.
+Dialogue: 10,0:08:19.93,0:08:21.98,Default,,0,0,0,,{\i1}I gotta make sure nobody looks down on me.
+Dialogue: 10,0:08:23.81,0:08:25.98,Default,,0,0,0,,S-Stop looking at me, you scum!
+Dialogue: 10,0:08:30.07,0:08:30.94,Default,,0,0,0,,Wha?!
+Dialogue: 10,0:08:32.03,0:08:33.70,Default,,0,0,0,,Whaddya think you're doing? Hey!
+Dialogue: 10,0:08:34.57,0:08:36.26,Default,,0,0,0,,I thought maybe, you wanna get on?
+Dialogue: 10,0:08:35.58,0:08:36.72,Default,TM,0,0,0,,Absolutely not!
+Dialogue: 10,0:08:36.72,0:08:38.99,Default,,0,0,0,,Then introduce me to a hunk friend.
+Dialogue: 10,0:08:38.99,0:08:40.70,Default,,0,0,0,,How did we even get here?! {Original line was "What kind of logic is that?" This feels more flavourful, but if QC/Bucket wants to purge I'm open to it}
+Dialogue: 10,0:08:44.23,0:08:45.25,Default,,0,0,0,,"Ichi"?
+Dialogue: 10,0:08:46.96,0:08:49.39,Default,,0,0,0,,Isn't that just the character for "one"?
+Dialogue: 10,0:08:49.39,0:08:49.96,Default,,0,0,0,,Oh.
+Dialogue: 10,0:08:50.36,0:08:52.59,Default,,0,0,0,,It is written as the character for one,\Nbut it is read as "Ninomae".
+Dialogue: 10,0:08:52.59,0:08:53.72,Default,,0,0,0,,Ninomae?
+Dialogue: 10,0:08:53.72,0:08:56.30,Default,,0,0,0,,Apparently you can read it that way\Nbecause it means "before two", which is one.
+Dialogue: 10,0:08:56.65,0:08:58.50,Default,,0,0,0,,Oh! That's cool!
+Dialogue: 10,0:08:58.50,0:09:00.06,Default,,0,0,0,,Wow! Ninomae!
+Dialogue: 10,0:09:00.06,0:09:01.82,Default,,0,0,0,,It is rare, isn't it?
+Dialogue: 10,0:09:01.82,0:09:05.06,Default,,0,0,0,,I've heard that only about four hundred people in the country have that name, if I remember correctly.
+Dialogue: 10,0:09:05.06,0:09:07.69,Default,,0,0,0,,There are apparently a lot of them\Nin Kumamoto and Niigata.
+Dialogue: 10,0:09:07.69,0:09:08.64,Default,,0,0,0,,Huh.
+Dialogue: 10,0:09:08.64,0:09:11.57,Default,,0,0,0,,By the way, why do you always wear headphones?
+Dialogue: 10,0:09:11.57,0:09:12.57,Default,,0,0,0,,Is it a fashion statement?
+Dialogue: 10,0:09:12.57,0:09:13.74,Default,,0,0,0,,Oh, no.
+Dialogue: 10,0:09:13.74,0:09:16.82,Default,,0,0,0,,This is so that I can keep up\Nwith financial reports.
+Dialogue: 10,0:09:16.82,0:09:19.54,Default,,0,0,0,,Plus, this way I can check things\Nlike stock prices right away.
+Dialogue: 10,0:09:19.54,0:09:20.83,Default,,0,0,0,,Y-you...
+Dialogue: 10,0:09:21.13,0:09:22.58,Default,,0,0,0,,You're an earnest person, aren't you?!
+Dialogue: 10,0:09:22.83,0:09:23.83,Default,,0,0,0,,An earnest person?!
+Dialogue: 10,0:09:23.83,0:09:25.21,Default,,0,0,0,,Whatever, that's fine.
+Dialogue: 10,0:09:25.21,0:09:27.75,Default,,0,0,0,,Introduce me to one of your hot guy friends.
+Dialogue: 10,0:09:27.75,0:09:28.75,Default,,0,0,0,,A hot guy?
+Dialogue: 10,0:09:29.34,0:09:33.96,Default,,0,0,0,,Oh, that I don't mind, but what do\Nyou define as a hot guy?
+Dialogue: 10,0:09:33.96,0:09:36.13,Default,,0,0,0,,Even if one were to make an\Novergeneralization about hot guys—
+Dialogue: 10,0:09:36.13,0:09:38.59,Default,,0,0,0,,for example, there are pleasant types, wild types,
+Dialogue: 10,0:09:38.59,0:09:40.10,Default,,0,0,0,,and a variety of others—
+Dialogue: 10,0:09:40.10,0:09:43.02,Default,,0,0,0,,Moreover, as to whether or not\NI have hot guy friends,
+Dialogue: 10,0:09:43.02,0:09:46.19,Default,,0,0,0,,I must first evaluate what I consider a friend.
+Dialogue: 10,0:09:46.19,0:09:46.85,Default,,0,0,0,,According to the dictionary—
+Dialogue: 10,0:09:46.85,0:09:50.11,Default,ED,0,0,0,,Nope.{It's no use.} Everyone here is useless.
+Dialogue: 10,0:09:50.11,0:09:52.00,Default,,0,0,0,,You're the most useless one of all.
+Dialogue: 10,0:09:52.00,0:09:55.82,Default,,0,0,0,,I also tried asking Doorknob, Giant Squid, and Greece,
+Dialogue: 10,0:09:55.82,0:09:57.15,Default,,0,0,0,,but there's no point talking to them!
+Dialogue: 10,0:09:57.15,0:10:00.03,Default,,0,0,0,,Who the heck are Doorknob and Giant Squid?
+Dialogue: 10,0:10:00.03,0:10:01.53,Default,,0,0,0,,In a sudden flash of inspiration,
+Dialogue: 10,0:10:01.53,0:10:04.04,Default,,0,0,0,,I gave nicknames to everyone in class, you see.
+Dialogue: 10,0:10:04.04,0:10:04.82,Default,,0,0,0,,Here.
+Dialogue: 10,0:10:07.69,0:10:08.50,Default,,0,0,0,,Oxbridge...
+Dialogue: 10,0:10:08.50,0:10:10.97,Default,,0,0,0,,Oh. That's the homeroom teacher\Nwho likes college women.
+Dialogue: 10,0:10:10.97,0:10:12.94,Default,,0,0,0,,Doesn't he seem like the Oxbridge type?
+Dialogue: 10,0:10:12.94,0:10:13.75,Default,,0,0,0,,The others are...
+Dialogue: 10,0:10:14.30,0:10:15.01,Default,,0,0,0,,Lolita...
+Dialogue: 10,0:10:15.45,0:10:16.38,Default,,0,0,0,,Earnest...
+Dialogue: 10,0:10:16.76,0:10:17.76,Default,,0,0,0,,Edgelord...
+Dialogue: 10,0:10:17.76,0:10:19.01,Default,,0,0,0,,You're bored, aren't you?
+Dialogue: 10,0:10:19.01,0:10:20.89,Default,,0,0,0,,I thought up of ones for you girls too.
+Dialogue: 10,0:10:20.89,0:10:23.64,Default,,0,0,0,,Saginomiya, since your emotions\Nhave gone extinct, you're "Robot".
+Dialogue: 10,0:10:23.64,0:10:25.68,Default,,0,0,0,,Kikuchi, since you're a creepy nerd, you're "Nerd".
+Dialogue: 10,0:10:25.68,0:10:27.48,Default,,0,0,0,,What?! I am not creepy!
+Dialogue: 10,0:10:28.10,0:10:32.57,Default,,0,0,0,,Must be nice huh!\NBeing the only ones with identifying traits!
+Dialogue: 10,0:10:32.57,0:10:35.88,Default,,0,0,0,,Next time you randomly shout, I'll smack you.
+Dialogue: 10,0:10:35.88,0:10:38.61,Default,,0,0,0,,I want un, ain't there somethin'?
+Dialogue: 10,0:10:38.61,0:10:41.12,Default,,0,0,0,,Some kinda quality or 'em identity things.
+Dialogue: 10,0:10:41.12,0:10:44.95,Default,,0,0,0,,There she goes with the weirdo\Nfirst-person Kansai dialect like acting.
+Dialogue: 10,0:10:44.95,0:10:46.13,Default,,0,0,0,,Super annoying.
+Dialogue: 10,0:10:48.07,0:10:48.87,Default,,0,0,0,,Student B.
+Dialogue: 10,0:10:48.87,0:10:51.83,Default,,0,0,0,,Oh! Yeah, that's it! Like that stuff! Gimme more!
+Dialogue: 10,0:10:51.83,0:10:53.63,Default,,0,0,0,,Midget. Home probably stinks. {filthy?}
+Dialogue: 10,0:10:53.63,0:10:55.63,Default,,0,0,0,,Waste of oxygen. Gorilla. Protein junkie.
+Dialogue: 10,0:10:55.63,0:10:56.77,Default,,0,0,0,,Walking dissonance.
+Dialogue: 10,0:10:56.77,0:10:58.09,Alternate,,0,0,0,,Hey!
+Dialogue: 10,0:10:56.77,0:10:58.09,Default,,0,0,0,,Nudist Family.
+Dialogue: 10,0:10:58.09,0:11:01.22,Default,,0,0,0,,You're just randomly throwing in insults now!
+Dialogue: 10,0:11:01.22,0:11:03.60,Default,,0,0,0,,What the heck is your definition of an insult?
+Dialogue: 10,0:11:06.27,0:11:07.85,Default,,0,0,0,,These ones I don't mind.
+Dialogue: 10,0:11:07.85,0:11:10.34,Default,,0,0,0,,I'd basically never want to be called these ones.
+Dialogue: 10,0:11:12.35,0:11:13.15,Default,,0,0,0,,All right...
+Dialogue: 10,0:11:14.97,0:11:16.36,Default,,0,0,0,,"Midget" it is.
+Comment: 10,0:11:21.99,0:11:21.99,Default,chptr,0,0,0,,{Part B}Part B
+Dialogue: 10,0:11:22.36,0:11:24.49,Default,,0,0,0,,For this one, let's have...
+Dialogue: 10,0:11:25.97,0:11:26.62,Default,,0,0,0,,Tanaka.
+Dialogue: 10,0:11:28.51,0:11:31.83,Default,,0,0,0,,Picking me when you know that I can't answer it.
+Dialogue: 10,0:11:31.83,0:11:33.58,Default,,0,0,0,,Not cool, Sir.
+Dialogue: 10,0:11:34.45,0:11:36.96,Default,,0,0,0,,Are you trying to ruin the lesson?
+Dialogue: 10,0:11:37.26,0:11:39.84,Default,,0,0,0,,You were supposed to learn this in middle school.
+Dialogue: 10,0:11:40.12,0:11:42.47,Default,,0,0,0,,What were you doing for those three years?
+Dialogue: 10,0:11:42.79,0:11:45.21,Default,,0,0,0,,I was killing time.
+Dialogue: 10,0:11:45.21,0:11:46.60,Default,,0,0,0,,If I were to elaborate...
+Dialogue: 10,0:11:46.60,0:11:49.22,Default,,0,0,0,,I was mainly killing pimples!
+Dialogue: 10,0:11:52.90,0:11:55.73,Default,,0,0,0,,You're getting supplementary lessons\Nfor a week starting today, all right?
+Dialogue: 10,0:11:56.32,0:11:57.36,Default,,0,0,0,,This girl...
+Dialogue: 10,0:11:57.36,0:11:59.57,Default,,0,0,0,,Her rebellious attitude towards a teacher,
+Dialogue: 10,0:11:59.57,0:12:02.74,Default,,0,0,0,,and her cool head in response to the\Nthe murmur of the class means...
+Dialogue: 10,0:12:04.77,0:12:07.03,Default,,0,0,0,,She's no ordinary human!
+Dialogue: 10,0:12:08.95,0:12:10.41,Default,,0,0,0,,Hey, hey! Hey Lolita!
+Dialogue: 10,0:12:10.75,0:12:12.44,Default,,0,0,0,,L-Lolita?!
+Dialogue: 10,0:12:12.44,0:12:13.85,Default,,0,0,0,,Don't call me Lolita!
+Dialogue: 10,0:12:13.85,0:12:16.38,Default,,0,0,0,,I saw you at the mall last Sunday.
+Dialogue: 10,0:12:16.38,0:12:16.92,Default,,0,0,0,,Wha?
+Dialogue: 10,0:12:16.92,0:12:19.05,Default,,0,0,0,,You were with your grandma at the food court, right?
+Dialogue: 10,0:12:19.05,0:12:21.55,Default,,0,0,0,,You had like, a totally different vibe\Nthan when you're at school.
+Dialogue: 10,0:12:21.55,0:12:23.68,Default,,0,0,0,,You're like a total grandma's girl.
+Dialogue: 10,0:12:25.93,0:12:28.97,Default,,0,0,0,,S-she's hitting me where it hurts.
+Dialogue: 10,0:12:28.97,0:12:30.18,Default,,0,0,0,,How despicable!
+Dialogue: 10,0:12:30.18,0:12:31.14,Default,,0,0,0,,Tanaka!
+Dialogue: 10,0:12:31.14,0:12:33.49,Default,,0,0,0,,I knew this moron wasn't to be trusted!
+Dialogue: 10,0:12:33.49,0:12:34.85,Default,,0,0,0,,You jerk...
+Dialogue: 10,0:12:34.85,0:12:36.65,Default,,0,0,0,,Someday I'm gonna crush you for sure!
+Dialogue: 10,0:12:38.28,0:12:40.69,Default,,0,0,0,,If you're gonna crush something,\Nthen keep it to just pimples, okay?
+Dialogue: 10,0:12:40.69,0:12:42.70,Default,,0,0,0,,Pimples can scar, so don't crush them!
+Dialogue: 10,0:12:42.70,0:12:45.18,Default,,0,0,0,,Don't ever do it again, got it? Mi–
+Dialogue: 10,0:12:45.18,0:12:45.74,Default,,0,0,0,,Huh?
+Dialogue: 10,0:12:45.74,0:12:47.12,Default,,0,0,0,,Midget!
+Dialogue: 10,0:12:48.59,0:12:52.75,Default,,0,0,0,,You know what, it's irritating to be called\N"Midget" to my face after all.
+Dialogue: 10,0:12:52.75,0:12:55.03,Default,,0,0,0,,Especially when it's Lolita.
+Dialogue: 10,0:12:55.03,0:12:56.58,Default,,0,0,0,,"Student B" it is then. {@ GSK the timing on this sign is borked}
+Dialogue: 10,0:12:57.38,0:12:59.63,Default,,0,0,0,,Hey Lolita!
+Dialogue: 10,0:12:59.63,0:13:01.26,Default,,0,0,0,,Get a move on!
+Dialogue: 10,0:13:01.26,0:13:03.63,Default,,0,0,0,,Sh-shut up, Student B!
+Dialogue: 10,0:13:04.24,0:13:06.01,Default,,0,0,0,,Student B, did you finish the homework?
+Dialogue: 10,0:13:06.49,0:13:08.39,Default,,0,0,0,,Watcha eating, Student B?
+Dialogue: 10,0:13:10.69,0:13:11.39,Default,,0,0,0,,Well,
+Dialogue: 10,0:13:11.65,0:13:14.69,Default,,0,0,0,,"Student B" also subtly\Nwhittles away at me mentally.
+Dialogue: 10,0:13:14.69,0:13:15.64,Default,,0,0,0,,Then,
+Dialogue: 10,0:13:15.89,0:13:17.50,Default,,0,0,0,,go with "Nudist family."
+Dialogue: 10,0:13:18.69,0:13:19.40,Default,,0,0,0,,Oh!
+Dialogue: 10,0:13:19.40,0:13:21.03,Default,,0,0,0,,Nudist family!
+Comment: 10,0:13:21.03,0:13:21.23,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 1317 633 b 1329 639 1354.5 652.5 1368 660 1389 714 1432.5 822 1467 876 1483.5 922.5 1492.5 1023 1506 1077)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.03,0:13:21.23,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 1317 633 b 1329 639 1354.5 652.5 1368 660 1389 714 1432.5 822 1467 876 1483.5 922.5 1492.5 1023 1506 1077)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.03,0:13:21.23,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 1317 633 b 1329 639 1354.5 652.5 1368 660 1389 714 1432.5 822 1467 876 1483.5 922.5 1492.5 1023 1506 1077)}Nudist Family, where do you live?
+Comment: 10,0:13:21.23,0:13:21.32,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 1185 615 b 1201.5 627 1237.5 649.5 1254 661.5 1278 715.5 1324.5 823.5 1348.5 877.5 1363.5 946.5 1384.5 1030.5 1384.5 1075.5)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.23,0:13:21.32,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 1185 615 b 1201.5 627 1237.5 649.5 1254 661.5 1278 715.5 1324.5 823.5 1348.5 877.5 1363.5 946.5 1384.5 1030.5 1384.5 1075.5)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.23,0:13:21.32,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 1185 615 b 1201.5 627 1237.5 649.5 1254 661.5 1278 715.5 1324.5 823.5 1348.5 877.5 1363.5 946.5 1384.5 1030.5 1384.5 1075.5)}Nudist Family, where do you live?
+Comment: 10,0:13:21.32,0:13:21.48,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 1053 580.5 1134 667.5 1233 886.5 b 1243.5 934.5 1263 1029 1266 1080)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.32,0:13:21.48,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 1053 580.5 1134 667.5 1233 886.5 b 1243.5 934.5 1263 1029 1266 1080)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.32,0:13:21.48,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 1053 580.5 1134 667.5 1233 886.5 b 1243.5 934.5 1263 1029 1266 1080)}Nudist Family, where do you live?
+Comment: 10,0:13:21.48,0:13:21.57,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 921 558 1027.5 669 1126.5 900 1162.5 1080)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.48,0:13:21.57,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 921 558 1027.5 669 1126.5 900 1162.5 1080)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.48,0:13:21.57,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 921 558 1027.5 669 1126.5 900 1162.5 1080)}Nudist Family, where do you live?
+Comment: 10,0:13:21.57,0:13:21.73,Default,*bord,0,0,0,,{\blur3\clip(m 1914 1077 l 1914 624 783 531 901.5 654 1003.5 912 b 1020 957 1033.5 1036.5 1030.5 1081.5)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.57,0:13:21.73,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur3\clip(m 1914 1077 l 1914 624 783 531 901.5 654 1003.5 912 b 1020 957 1033.5 1036.5 1030.5 1081.5)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.57,0:13:21.73,Default,bord,0,0,0,done,{\bord0\blur3\clip(m 1914 1077 l 1914 624 783 531 901.5 654 1003.5 912 b 1020 957 1033.5 1036.5 1030.5 1081.5)}Nudist Family, where do you live?
+Comment: 10,0:13:21.73,0:13:21.82,Default,*bord,0,0,0,,{\blur2.25\clip(m 1914 1077 l 1914 624 439.5 643.5 498 804 535.5 873 b 538.5 925.5 559.5 1029 571.5 1078.5)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.73,0:13:21.82,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur2.25\clip(m 1914 1077 l 1914 624 439.5 643.5 498 804 535.5 873 b 538.5 925.5 559.5 1029 571.5 1078.5)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.73,0:13:21.82,Default,bord,0,0,0,done,{\bord0\blur2.25\clip(m 1914 1077 l 1914 624 439.5 643.5 498 804 535.5 873 b 538.5 925.5 559.5 1029 571.5 1078.5)}Nudist Family, where do you live?
+Comment: 10,0:13:21.82,0:13:23.57,Default,*bord,0,0,0,,{\blur1.5\t(0,319,\blur0)}Nudist Family, where do you live?
+Dialogue: 10,0:13:21.82,0:13:23.53,Default,bord,0,0,0,done,{\1c&H020814&\bord3.75\blur1.5\t(0,319,\blur0)}Nudist Family, where do you live?
+Dialogue: 11,0:13:21.82,0:13:23.53,Default,bord,0,0,0,done,{\bord0\blur1.5\t(0,319,\blur0)}Nudist Family, where do you live?
+Dialogue: 10,0:13:23.53,0:13:25.37,Alternate,,0,0,0,,Dubai... that's in the US, right?
+Dialogue: 10,0:13:23.94,0:13:26.53,Default,,0,0,0,,U-um, Nudist–
+Dialogue: 10,0:13:27.91,0:13:29.37,Default,,0,0,0,,Miss Nudist Family.
+Dialogue: 10,0:13:31.62,0:13:35.25,Default,,0,0,0,,What the heck am I gonna do with my nickname?!
+Dialogue: 10,0:13:35.25,0:13:37.92,Default,,0,0,0,,Haven't you lost sight of your objective,\NNudist Family?
+Dialogue: 10,0:13:37.92,0:13:39.88,Default,,0,0,0,,Stop calling me that!
+Dialogue: 10,0:13:41.38,0:13:42.25,Default,,0,0,0,,It's no use.
+Dialogue: 10,0:13:42.48,0:13:44.01,Default,,0,0,0,,I just don't get it.
+Dialogue: 10,0:13:44.01,0:13:47.09,Default,,0,0,0,,Sorry, what part don't you get?
+Dialogue: 10,0:13:47.09,0:13:48.01,Default,,0,0,0,,Why?
+Dialogue: 10,0:13:48.84,0:13:51.74,Default,TM,0,0,0,,Why am I this unpopular with guys?\N I don't get it!{line split wrong?}
+Dialogue: 10,0:13:51.74,0:13:54.20,Default,ED,0,0,0,,Which problem was that on the sheet?{TN: I think this strays too far from the original meaning and doesn't make sense given the next couple of lines. Original: "What kind of problem are you solving?"}
+Dialogue: 10,0:13:54.20,0:13:55.93,Default,,0,0,0,,Huh? A life problem, maybe?
+Dialogue: 10,0:13:55.93,0:13:58.42,Default,,0,0,0,,Worry about the math problems first.
+Dialogue: 10,0:13:58.42,0:13:59.44,Default,,0,0,0,,You idiot.
+Dialogue: 10,0:13:59.44,0:14:01.02,Default,,0,0,0,,Yeah, but...
+Dialogue: 10,0:14:01.02,0:14:03.57,Default,,0,0,0,,Instead of trying to solve this pointless equation,
+Dialogue: 10,0:14:03.57,0:14:05.78,Default,,0,0,0,,shouldn't I be solving why I'm not popular with guys?
+Dialogue: 10,0:14:05.78,0:14:08.41,Default,,0,0,0,,Isn't that just way more important in the end?
+Dialogue: 10,0:14:08.74,0:14:09.94,Default,,0,0,0,,What are you gonna do
+Dialogue: 10,0:14:09.94,0:14:13.12,Default,,0,0,0,,if I end up single for the rest of my life?
+Dialogue: 10,0:14:16.59,0:14:19.12,Default,,0,0,0,,Solve five problems within thirty minutes.
+Dialogue: 10,0:14:19.12,0:14:20.75,Default,,0,0,0,,Do that and a man will come near you.
+Dialogue: 10,0:14:21.18,0:14:24.17,Default,,0,0,0,,What a half-assed attempt at motivation.
+Dialogue: 10,0:14:24.80,0:14:26.47,Default,,0,0,0,,Oh, by the way,
+Dialogue: 10,0:14:26.47,0:14:29.00,Default,,0,0,0,,you said you like college women,
+Dialogue: 10,0:14:29.00,0:14:31.58,Default,,0,0,0,,but what is it about them that you like?
+Dialogue: 10,0:14:31.58,0:14:34.64,Default,,0,0,0,,That has nothing to do with\Nany of the problems on that sheet, you know.
+Dialogue: 10,0:14:34.64,0:14:36.18,Default,,0,0,0,,It does.
+Dialogue: 10,0:14:36.18,0:14:39.02,Default,,0,0,0,,If you don't answer it'll bug me and I won't be able to focus.
+Dialogue: 10,0:14:41.02,0:14:42.78,Default,,0,0,0,,Well, alright.
+Dialogue: 10,0:14:42.78,0:14:45.03,Default,,0,0,0,,A kid like you probably won't understand, but...
+Dialogue: 10,0:14:45.37,0:14:46.77,Default,,0,0,0,,If I had to say...
+Dialogue: 10,0:14:47.71,0:14:50.65,Default,TM,0,0,0,,The traditional blazer worn by\Njob-seeking students.{Is the lead out is intentional}
+Dialogue: 10,0:14:50.65,0:14:51.41,Default,,0,0,0,,That's what.
+Dialogue: 10,0:14:52.13,0:14:54.54,Default,,0,0,0,,Hey! Don't give me that look.{TN: lit. "Stop looking at me so disgustedly."}
+Dialogue: 10,0:14:54.54,0:14:56.04,Default,TM,0,0,0,,This isn't about me anyway.\NHurry up and finish that worksheet, won't you?
+Dialogue: 10,0:14:57.59,0:14:58.79,Default,,0,0,0,,Yeah, yeah.
+Dialogue: 10,0:14:58.79,0:15:01.67,Default,,0,0,0,,{\i1}Wew! I don't usually kinkshame but damn!
+Dialogue: 10,0:15:02.18,0:15:02.79,Default,,0,0,0,,Huh?
+Dialogue: 10,0:15:03.29,0:15:04.47,Default,,0,0,0,,Oh, I got it.
+Dialogue: 10,0:15:04.47,0:15:06.71,Alternate,,0,0,0,,Is that so? See, you can do it if—
+Dialogue: 10,0:15:05.73,0:15:08.42,Default,,0,0,0,,It's not that I wasn't popular with guys...
+Dialogue: 10,0:15:08.78,0:15:11.25,Default,,0,0,0,,I just didn't realize that I actually was!
+Dialogue: 10,0:15:11.25,0:15:15.11,Default,,0,0,0,,For a moment there I saw some light at the end of the tunnel.
+Dialogue: 10,0:15:15.11,0:15:19.43,Default,,0,0,0,,During elementary and middle school,\Nthey liked me but couldn't say anything.
+Dialogue: 10,0:15:19.82,0:15:24.79,Default,,0,0,0,,Or maybe they were trying to attract me\Nand I was blind to it.
+Dialogue: 10,0:15:25.33,0:15:26.82,Default,,0,0,0,,Oh, oh crap!
+Dialogue: 10,0:15:27.33,0:15:28.65,Default,,0,0,0,,I can't just accept this!
+Dialogue: 10,0:15:28.65,0:15:30.36,Default,,0,0,0,,Hey! Where do you think you're going?!
+Dialogue: 10,0:15:30.36,0:15:30.97,Default,,0,0,0,,Home!
+Dialogue: 10,0:15:30.97,0:15:34.24,Default,,0,0,0,,I'm gonna try and hit up all the guys in my yearbooks!
+Dialogue: 10,0:15:32.97,0:15:34.24,Default,,0,0,0,,Hold up!
+Dialogue: 10,0:15:34.51,0:15:36.49,Default,,0,0,0,,Wait! Wait! Wait! Wait!
+Dialogue: 10,0:15:36.49,0:15:38.83,Default,,0,0,0,,What's making you go that far?
+Dialogue: 10,0:15:39.08,0:15:40.38,Default,,0,0,0,,Mr. Sawatari.
+Dialogue: 10,0:15:40.38,0:15:42.79,Default,,0,0,0,,I really want to be popular with guys.
+Dialogue: 10,0:15:42.79,0:15:47.75,Default,,0,0,0,,Think about how your old classmates would feel\Nbeing interrogated out of the bl—
+Dialogue: 10,0:15:47.34,0:15:49.01,Default,,0,0,0,,Oh! A sweat stain! {Maybe this should be an8? idk}
+Dialogue: 10,0:15:49.01,0:15:50.47,Default,,0,0,0,,What? Impossible!
+Dialogue: 10,0:15:51.72,0:15:52.59,Default,,0,0,0,,You're wide open!
+Dialogue: 10,0:15:52.59,0:15:53.43,Default,,0,0,0,,Wha—
+Dialogue: 10,0:15:54.26,0:15:55.53,Default,,0,0,0,,Stop, Tanaka!
+Dialogue: 10,0:15:55.93,0:15:58.89,Default,,0,0,0,,Don't jump the gun!
+Dialogue: 10,0:16:01.19,0:16:02.30,Default,,0,0,0,,Wait.
+Dialogue: 10,0:16:02.30,0:16:06.82,Default,,0,0,0,,What if all the guys in my classes actually liked me?
+Dialogue: 10,0:16:08.55,0:16:11.32,Default,,0,0,0,,What am I gonna do?!
+Dialogue: 10,0:16:11.32,0:16:13.97,Default,,0,0,0,,You know, I don't really want that anyway.
+Dialogue: 10,0:16:13.97,0:16:17.16,Default,,0,0,0,,I want something more like a fateful encounter.
+Dialogue: 10,0:16:17.16,0:16:18.33,Default,,0,0,0,,For example?
+Dialogue: 10,0:16:18.33,0:16:22.41,Default,,0,0,0,,{\fad(0,392)}Like reuniting with a childhood friend who had moved away a long time ago!
+Dialogue: 10,0:16:23.35,0:16:23.92,Imagine,,0,0,0,,{\blur4.5}No way!
+Dialogue: 10,0:16:24.43,0:16:25.42,Imagine,,0,0,0,,{\blur4.5}Nozomu?
+Dialogue: 10,0:16:25.77,0:16:27.79,Imagine,,0,0,0,,{\blur4.5}K-Kenny?
+Dialogue: 10,0:16:27.79,0:16:30.29,Default,,0,0,0,,{\i1}Except you don't have any childhood friends.
+Dialogue: 10,0:16:30.29,0:16:34.05,Default,,0,0,0,,{\fad(0,345)}Or like trying to grab for the same book\Nat the library I frequent...
+Dialogue: 10,0:16:34.32,0:16:35.30,Imagine,,0,0,0,,{\blur4.5}Oh!
+Dialogue: 10,0:16:35.30,0:16:37.68,Default,,0,0,0,,{\i1}As if you'd ever go to a library.
+Dialogue: 10,0:16:37.68,0:16:41.51,Default,,0,0,0,,Or, a stud gets in a car accident,
+Dialogue: 10,0:16:41.51,0:16:44.69,Default,,0,0,0,,and they need type AB− blood,\Nbut there's not enough...
+Dialogue: 10,0:16:44.69,0:16:49.54,Default,,0,0,0,,As fate would have it, I happen to pass by\Nwith my AB− blood and share it with him.
+Dialogue: 10,0:16:49.54,0:16:53.32,Default,,0,0,0,,{\fad(0,476)}I save his life, and when he's feeling better, I go visit him...
+Dialogue: 10,0:16:53.58,0:16:54.70,Imagine,,0,0,0,,{\blur4.5}It's strange,
+Dialogue: 10,0:16:55.24,0:16:57.49,Imagine,,0,0,0,,{\blur4.5}but I don't feel like this is\Nthe first time we've met.
+Dialogue: 10,0:16:57.49,0:16:58.83,Default,,0,0,0,,Or so he says.
+Dialogue: 10,0:16:58.87,0:17:02.67,Imagine,,0,0,0,,{\blur4.5}I was visiting a friend when the nurse\Ncame running up to me...
+Dialogue: 10,0:17:02.87,0:17:06.21,Default,,0,0,0,,He realizes that it was me who saved his life,
+Dialogue: 10,0:17:06.21,0:17:07.33,Default,,0,0,0,,and it makes him confess to me.
+Dialogue: 10,0:17:07.33,0:17:09.18,Default,TM,0,0,0,,{\i1}Too long.
+Dialogue: 10,0:17:09.18,0:17:10.63,Default,TM,0,0,0,,{\i1}Besides, you're not even a type AB.{TM: This line starts around 17:08.44}
+Dialogue: 10,0:17:10.63,0:17:11.98,Default,,0,0,0,,{\i1}You're definitely a type O.
+Dialogue: 10,0:17:11.98,0:17:15.76,Default,,0,0,0,,{\fad(0,438)}Or, we keep bumping into each other\Nat the same place...
+Dialogue: 10,0:17:16.39,0:17:19.08,Imagine,TM,0,0,0,,{\blur4.5}This has got to be fate or something, isn't it? {Timing is megaborked}
+Dialogue: 10,0:17:18.49,0:17:20.06,Default,,0,0,0,,Then he confesses and...
+Dialogue: 10,0:17:19.27,0:17:20.89,Imagine,,0,0,0,,{\an8\blur4.5}And their soup portions pretty big.
+Dialogue: 10,0:17:20.89,0:17:22.77,Default,,0,0,0,,{\i1}You guys are just frequent customers.
+Dialogue: 10,0:17:22.77,0:17:25.89,Default,,0,0,0,,A super popular star is shopping incognito
+Dialogue: 10,0:17:25.89,0:17:28.94,Default,,0,0,0,,{\fad(0,647)}when he bumps into me and his identity is revealed.
+Dialogue: 10,0:17:27.79,0:17:29.31,Imagine,,0,0,0,,{\an8\blur4.5}Ow, that hurts.
+Dialogue: 10,0:17:29.67,0:17:32.12,Imagine,,0,0,0,,{\blur4.5}Crap! She's gonna cause a scene!
+Dialogue: 10,0:17:32.12,0:17:34.28,Imagine,,0,0,0,,{\an8\blur4.5}What are you panicking\Nand hiding your face for?!
+Dialogue: 10,0:17:33.09,0:17:36.20,Default,,0,0,0,,Or so he thinks, but it turns out\Nthat I don't know him and...
+Dialogue: 10,0:17:34.28,0:17:36.20,Imagine,,0,0,0,,{\an8\blur4.5}What?! Have you got a face that'll get you in trouble?
+Dialogue: 10,0:17:36.20,0:17:38.17,Imagine,,0,0,0,,{\blur4.5}You really don't know who I am?
+Dialogue: 10,0:17:38.17,0:17:39.12,Imagine,,0,0,0,,{\blur4.5}Huh?!
+Dialogue: 10,0:17:39.12,0:17:42.07,Imagine,,0,0,0,,{\blur4.5}I don't care. Hurry up and apologize!
+Dialogue: 10,0:17:42.07,0:17:45.03,Imagine,,0,0,0,,{\blur4.5}You don't know me and you're still talking to me like that...
+Dialogue: 10,0:17:45.75,0:17:47.59,Imagine,,0,0,0,,{\blur4.5}You're an interesting woman.
+Dialogue: 10,0:17:47.59,0:17:48.92,Default,,0,0,0,,...is basically what he says.
+Dialogue: 10,0:17:48.92,0:17:52.42,Default,,0,0,0,,{\fad(0,436)}A busker, who's in a bit of a slump\Nand has lost his confidence...
+Dialogue: 10,0:17:53.41,0:17:54.92,Imagine,,0,0,0,,{\\blur4.5}I can't bear to listen to this.
+Dialogue: 10,0:17:54.92,0:17:57.18,Imagine,,0,0,0,,{\blur4.5}You've been out of tune for a while now.
+Dialogue: 10,0:17:57.18,0:18:00.87,Imagine,,0,0,0,,{\blur4.5}Huh? That can't be right. I have perfect pit—
+Dialogue: 10,0:18:00.87,0:18:02.18,Imagine,,0,0,0,,{\blur4.5}What's out of tune is...
+Dialogue: 10,0:18:02.74,0:18:04.93,Imagine,,0,0,0,,{\blur4.5} your heart.
+Dialogue: 10,0:18:06.31,0:18:07.74,Default,,0,0,0,,{\i1}Tough critic.{TN: "So strict."}
+Dialogue: 10,0:18:07.74,0:18:09.06,Default,,0,0,0,,{\fad(0,264)}And then...
+Dialogue: 10,0:18:09.45,0:18:10.73,Imagine,,0,0,0,,{\blur4.5}How?
+Dialogue: 10,0:18:11.06,0:18:13.68,Imagine,,0,0,0,,{\blur4.5}I feel like I can write songs now.
+Dialogue: 10,0:18:13.68,0:18:14.57,Imagine,,0,0,0,,{\blur4.5}You're...
+Dialogue: 10,0:18:17.11,0:18:19.20,Imagine,,0,0,0,,{\blur4.5}an interesting woman.
+Dialogue: 10,0:18:19.53,0:18:21.07,Default,,0,0,0,,Or so he says...
+Dialogue: 10,0:18:21.07,0:18:22.72,Default,,0,0,0,,{\i1}Again with that "interesting woman" thing?
+Dialogue: 10,0:18:22.72,0:18:27.86,Default,,0,0,0,,{\fad(0,688)}At a three Michelin star restaurant, I leave \Nsome leftovers of a dish a prideful chef prepared...
+Dialogue: 10,0:18:29.73,0:18:33.34,Imagine,,0,0,0,,{\blur4.5}You couldn't even make me eat a single pea.
+Dialogue: 10,0:18:36.31,0:18:39.21,Imagine,,0,0,0,,{\blur4.5}In the end, that's all that your skills amount to...
+Dialogue: 10,0:18:39.21,0:18:40.34,Imagine,,0,0,0,,{\blur4.5}baby boy.
+Dialogue: 10,0:18:40.34,0:18:41.42,Imagine,,0,0,0,,{\blur4.5}Damn it!
+Dialogue: 10,0:18:41.42,0:18:41.97,Default,,0,0,0,,{\i1}Here it comes.
+Dialogue: 10,0:18:42.39,0:18:44.60,Imagine,,0,0,0,,{\blur4.5}What is up with that mademoiselle?!
+Dialogue: 10,0:18:45.95,0:18:46.84,Default,,0,0,0,,Here it comes.
+Dialogue: 10,0:18:47.37,0:18:48.98,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
+Dialogue: 10,0:18:48.98,0:18:50.77,Default,,0,0,0,,{\i1}You really like that.
+Dialogue: 10,0:18:50.77,0:18:54.11,Default,,0,0,0,,Why are you so zeroed-in on "interesting"?
+Dialogue: 10,0:18:54.11,0:18:55.47,Default,,0,0,0,,You're too hung up over it.
+Dialogue: 10,0:18:55.47,0:18:56.68,Default,,0,0,0,,What's wrong with that?
+Dialogue: 10,0:18:56.68,0:18:59.14,Default,,0,0,0,,The only way for a heroine\Nwho gets made fun of to get a hot guy
+Dialogue: 10,0:18:59.14,0:19:01.24,Default,,0,0,0,,is by being interesting enough to capture his attention!
+Dialogue: 10,0:19:01.24,0:19:03.29,Default,,0,0,0,,{\i1}At least she's somewhat aware that she's being made fun of.
+Dialogue: 10,0:19:03.29,0:19:04.37,Default,,0,0,0,,{\i1}Thank goodness!
+Dialogue: 10,0:19:04.37,0:19:05.07,Default,,0,0,0,,Or...
+Dialogue: 10,0:19:05.07,0:19:06.29,Alternate,,0,0,0,,{\i1\an2}There's more?
+Dialogue: 10,0:19:05.55,0:19:09.04,Default,,0,0,0,,{\fad(0,345)}{\an8}when a total looker is feeding pigeons at the park...
+Dialogue: 10,0:19:12.00,0:19:12.83,Imagine,,0,0,0,,{\blur4.5}Whoa!
+Dialogue: 10,0:19:12.83,0:19:13.75,Default,,0,0,0,,Huh?
+Dialogue: 10,0:19:14.50,0:19:17.86,Imagine,,0,0,0,,{\blur4.5}Y-You're eating filthy\Nbread crumbs off the ground.
+Dialogue: 10,0:19:17.86,0:19:20.36,Default,,0,0,0,,{\i1}Let me guess, she's an "interesting woman"?
+Dialogue: 10,0:19:20.36,0:19:21.51,Imagine,,0,0,0,,{\blur4.5}That's disgusting.
+Dialogue: 10,0:19:21.51,0:19:22.64,Default,,0,0,0,,Or so he says.
+Dialogue: 10,0:19:22.64,0:19:24.03,Default,,0,0,0,,{\i1}He's disgusted?
+Dialogue: 10,0:19:24.03,0:19:25.89,Default,,0,0,0,,{\i1}No, being disgusted is the correct response!
+Dialogue: 10,0:19:25.89,0:19:26.64,Default,,0,0,0,,{\fad(0,227)}But!
+Dialogue: 10,0:19:27.05,0:19:28.98,Imagine,,0,0,0,,{\blur4.5}I'm a typically very tolerant,
+Dialogue: 10,0:19:28.98,0:19:31.60,Imagine,,0,0,0,,{\blur4.5}but nobody has managed to disgust me this much.
+Dialogue: 10,0:19:32.76,0:19:33.97,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
+Dialogue: 10,0:19:33.97,0:19:36.40,Default,,0,0,0,,{\i1}Of course it still went that route, damnit.
+Dialogue: 10,0:19:36.40,0:19:39.90,Default,,0,0,0,,Seems like it's always you getting confessed to.
+Dialogue: 10,0:19:39.90,0:19:41.72,Default,,0,0,0,,When are you gonna pull your weight?
+Dialogue: 10,0:19:41.72,0:19:42.28,Default,,0,0,0,,Huh?!
+Dialogue: 10,0:19:42.67,0:19:43.86,Default,,0,0,0,,I'd never do that!
+Dialogue: 10,0:19:43.86,0:19:45.45,Default,ED,0,0,0,,{\i1}I kinda got told off. {TN: lit. "She was angered somehow."}
+Dialogue: 10,0:19:45.45,0:19:46.54,Default,,0,0,0,,Well...
+Dialogue: 10,0:19:47.30,0:19:48.54,Default,,0,0,0,,Well, because I...
+Dialogue: 10,0:19:52.25,0:19:54.33,Default,,0,0,0,,I want someone to fall for me,
+Dialogue: 10,0:19:54.33,0:19:57.50,Default,,0,0,0,,just as I am without me having to do anything.
+Dialogue: 10,0:20:08.10,0:20:10.23,Default,,0,0,0,,You haven't changed at all in all these years.
+Dialogue: 10,0:20:10.23,0:20:13.44,Default,,0,0,0,,Did too! I'm a high school girl now.
+Dialogue: 10,0:20:13.44,0:20:15.40,Default,,0,0,0,,Ah, there's a good nickname for you.
+Dialogue: 10,0:20:15.40,0:20:16.36,Default,,0,0,0,,What is it?
+Dialogue: 10,0:20:16.36,0:20:17.45,Default,,0,0,0,,Interesting woman.
+Dialogue: 10,0:20:17.45,0:20:18.19,Default,,0,0,0,,No.
+Dialogue: 10,0:20:19.73,0:20:20.69,Default,,0,0,0,,Idiot.
+Dialogue: 10,0:20:21.18,0:20:24.45,Default,,0,0,0,,Huh?! What's up with that?!
+Dialogue: 10,0:21:55.68,0:21:58.51,Default,,0,0,0,,Yo, y'all wanna hear something awesome?
+Dialogue: 10,0:21:58.51,0:22:01.71,Default,,0,0,0,,People who say stuff like that basically never have anything interesting to say.
+Dialogue: 10,0:22:01.71,0:22:03.59,Default,,0,0,0,,No, it's pretty awesome.
+Dialogue: 10,0:22:03.59,0:22:06.98,Default,,0,0,0,,It's so cool, it's like when\Na chimpanzee takes a banana—
+Dialogue: 10,0:22:06.98,0:22:08.35,Default,,0,0,0,,Hurry it up already.
+Dialogue: 10,0:22:10.10,0:22:10.85,Default,,0,0,0,,You know...
+Dialogue: 10,0:22:11.46,0:22:12.86,Default,,0,0,0,,aren't we...
+Dialogue: 10,0:22:14.33,0:22:15.98,Default,,0,0,0,,peaking right now?
+Dialogue: 10,0:22:21.37,0:22:23.75,Default,,0,0,0,,No, we keep going up from here. Right?
+Dialogue: 10,0:22:23.75,0:22:25.96,Default,,0,0,0,,It's not as boring as you make it seem!
+Comment: 10,0:20:24.99,0:20:24.99,Default,chptr,0,0,0,,{ED}ED
+Comment: 10,0:21:54.96,0:21:54.96,Default,chptr,0,0,0,,{Outro}Outro
+Dialogue: 10,0:22:25.96,0:22:27.97,Default,,0,0,0,,If you look at us objectively,
+Dialogue: 10,0:22:27.97,0:22:29.79,Default,,0,0,0,,our faces and styles are low-mid tier.
+Dialogue: 10,0:22:29.79,0:22:31.77,Default,,0,0,0,,On top of that, our personalities suck,
+Dialogue: 10,0:22:31.77,0:22:33.74,Default,,0,0,0,,and we're in no way popular with guys, right?
+Dialogue: 10,0:22:33.74,0:22:38.05,Default,,0,0,0,,Since there's no hope in any of those categories, what's left?
+Dialogue: 10,0:22:38.05,0:22:39.50,Default,ED;TM,0,0,0,,Yes, our youth!{TM: This line starts at 22:37.60. TN: I don't think we can leave out the rhetorical "yes".}
+Dialogue: 10,0:22:39.50,0:22:42.25,Default,,0,0,0,,Then that means it's now or never, yeah?
+Dialogue: 10,0:22:42.79,0:22:46.23,Default,,0,0,0,,We're at our apex right now,\Nwielding our high school girl status.
+Dialogue: 10,0:22:46.23,0:22:47.76,Default,,0,0,0,,If we don't go all out now,
+Dialogue: 10,0:22:47.76,0:22:50.26,Default,,0,0,0,,there's almost no chance we'll get a guy, right?
+Dialogue: 10,0:22:50.51,0:22:53.77,Default,,0,0,0,,Well? Pretty big wake up call if you ask me.
+Dialogue: 10,0:22:53.77,0:22:56.17,Default,,0,0,0,,Like a shot of adrenaline.
+Dialogue: 10,0:22:56.17,0:22:57.93,Default,,0,0,0,,Wow.
+Dialogue: 10,0:22:57.93,0:22:58.77,Default,,0,0,0,,Yeah?
+Dialogue: 10,0:22:59.64,0:23:02.27,Default,,0,0,0,,You're so incredibly stupid.
+Dialogue: 10,0:23:02.73,0:23:03.38,Default,,0,0,0,,Ro–
+Dialogue: 10,0:23:05.72,0:23:07.21,Default,,0,0,0,,Robot, what did you think?
+Dialogue: 10,0:23:07.21,0:23:08.52,Default,ED,0,0,0,,I thought it was inspiring.{TN: I think "inspiring" is a bit too positive in the follow-up line.}
+Dialogue: 10,0:23:08.52,0:23:09.28,Default,,0,0,0,,Oh?
+Dialogue: 10,0:23:10.37,0:23:15.29,Default,ED,0,0,0,,I thought your self-confidence to rate yourself low-mid tier was inspiring.
+Dialogue: 10,0:23:15.62,0:23:16.40,Default,,0,0,0,,What?
+Dialogue: 10,0:23:21.62,0:23:22.29,Default,,0,0,0,,Uh...
+Dialogue: 10,0:23:32.40,0:23:33.04,Default,,0,0,0,,Uh...
+Dialogue: 10,0:23:33.52,0:23:34.39,Default,,0,0,0,,Low?
+Dialogue: 10,0:23:35.78,0:23:37.02,Default,,0,0,0,,High-low tier...?
+Dialogue: 10,0:23:38.26,0:23:39.37,Default,,0,0,0,,Rock bottom?!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 Comment: 0,0:00:16.28,0:00:18.70,Signs,,0,0,0,,# Kikuchi Akane my dream in
 Dialogue: 0,0:00:16.28,0:00:18.70,Signs,,0,0,0,,{\pos(952,536)}Kikuchi Akane\NMy dream\NI want to be a manga artist!
@@ -512,28 +512,28 @@ Comment: 0,0:00:39.22,0:00:39.72,Signs,,0,0,0,,# Saginomiya Shiroi my dream out
 Dialogue: 0,0:00:39.22,0:00:39.72,Signs,,0,0,0,,Saginomiya Shiori\NMy dream\NMicrobiologist
 Comment: 0,0:00:39.64,0:00:41.35,Signs,,0,0,0,,# Tanaka Nozomu my dream in
 Dialogue: 0,0:00:39.64,0:00:41.35,Signs,,0,0,0,,Tanaka Nozomu\NMy dream\NAwesome high school girl
-Comment: 5,0:02:36.51,0:02:40.47,Title,,0,0,0,,# Title
-Dialogue: 5,0:02:36.51,0:02:40.47,Title,,0,0,0,,{\blur0.75\fad(480,480)\fs90\bord3.75\pos(1671.999,825.499)}Awe{\c&H000001&\3c&HF0F7F5&}some
-Comment: 5,0:02:46.31,0:02:48.31,Signs,,0,0,0,,# Entrance ceremony
-Dialogue: 5,0:02:46.31,0:02:48.31,Signs,,0,0,0,,{Sainotama }Girl's High School\NEntrance Ceremony
-Comment: 5,0:03:33.06,0:03:35.19,Signs,,0,0,0,,# Euglena
-Dialogue: 5,0:03:33.06,0:03:35.19,Signs,,0,0,0,,{\pos(836,520)}Euglena
-Comment: 5,0:03:38.99,0:03:41.20,Signs,,0,0,0,,# 1st-year Class Lists
-Dialogue: 5,0:03:38.99,0:03:41.20,Signs,,0,0,0,,{\pos(964,264)}1st-year Class Lists
-Comment: 5,0:03:42.41,0:03:43.20,Signs,,0,0,0,,# Class List Kikuchi Akane
-Dialogue: 5,0:03:42.41,0:03:43.20,Signs,,0,0,0,,{\blur0.75\fs135\fnArial\bord0\c&H48484A&\pos(1005,811.5)}Kikuchi Akane
-Comment: 5,0:03:43.36,0:03:44.28,Signs,,0,0,0,,# Class List Saginomiya Shiori
-Dialogue: 5,0:03:43.36,0:03:44.28,Signs,,0,0,0,,{\blur0.75\fs135\fnArial\bord0\c&H353536&\pos(1008,823.5)}Saginomiya Shiori
-Comment: 5,0:03:44.37,0:03:45.20,Signs,,0,0,0,,# Class List Tanaka Nozomu
-Dialogue: 5,0:03:44.37,0:03:45.20,Signs,,0,0,0,,{\blur0.75\fs135\fnArial\bord0\c&H454446&\pos(1023,814.5)}Tanaka Nozomu
-Comment: 5,0:03:47.20,0:03:48.95,Signs,,0,0,0,,# 1st year Class Lists full
-Dialogue: 5,0:03:47.20,0:03:48.95,Signs,,0,0,0,,{\blur0.75\fs75\fnArial\bord6\c&H7A7C7B&\3c&HF3F7F8&\frx20\fry0\pos(972,68.5)}1st-year Class Lists
+Comment: 0,0:02:36.51,0:02:40.47,Title,,0,0,0,,# Title
+Dialogue: 0,0:02:36.51,0:02:40.47,Title,,0,0,0,,{\blur0.75\fad(480,480)\fs90\bord3.75\pos(1671.999,825.499)}Awe{\c&H000001&\3c&HF0F7F5&}some
+Comment: 0,0:02:46.31,0:02:48.31,Signs,,0,0,0,,# Entrance ceremony
+Dialogue: 0,0:02:46.31,0:02:48.31,Signs,,0,0,0,,{Sainotama }Girl's High School\NEntrance Ceremony
+Comment: 0,0:03:33.06,0:03:35.19,Signs,,0,0,0,,# Euglena
+Dialogue: 0,0:03:33.06,0:03:35.19,Signs,,0,0,0,,{\pos(836,520)}Euglena
+Comment: 0,0:03:38.99,0:03:41.20,Signs,,0,0,0,,# 1st-year Class Lists
+Dialogue: 0,0:03:38.99,0:03:41.20,Signs,,0,0,0,,{\pos(964,264)}1st-year Class Lists
+Comment: 0,0:03:42.41,0:03:43.20,Signs,,0,0,0,,# Class List Kikuchi Akane
+Dialogue: 0,0:03:42.41,0:03:43.20,Signs,,0,0,0,,{\blur0.75\fs135\fnArial\bord0\c&H48484A&\pos(1005,811.5)}Kikuchi Akane
+Comment: 0,0:03:43.36,0:03:44.28,Signs,,0,0,0,,# Class List Saginomiya Shiori
+Dialogue: 0,0:03:43.36,0:03:44.28,Signs,,0,0,0,,{\blur0.75\fs135\fnArial\bord0\c&H353536&\pos(1008,823.5)}Saginomiya Shiori
+Comment: 0,0:03:44.37,0:03:45.20,Signs,,0,0,0,,# Class List Tanaka Nozomu
+Dialogue: 0,0:03:44.37,0:03:45.20,Signs,,0,0,0,,{\blur0.75\fs135\fnArial\bord0\c&H454446&\pos(1023,814.5)}Tanaka Nozomu
+Comment: 0,0:03:47.20,0:03:48.95,Signs,,0,0,0,,# 1st year Class Lists full
+Dialogue: 0,0:03:47.20,0:03:48.95,Signs,,0,0,0,,{\blur0.75\fs75\fnArial\bord6\c&H7A7C7B&\3c&HF3F7F8&\frx20\fry0\pos(972,68.5)}1st-year Class Lists
 Comment: 0,0:04:19.19,0:04:22.40,Signs,,0,0,0,,# School plaque
 Dialogue: 0,0:04:19.19,0:04:22.40,Signs,,0,0,0,,{\blur0.75\c&H5E7B80&\3c&H2A2B30&\pos(827.2,582.7)}Sainotama Girls' High School
-Comment: 5,0:07:21.33,0:07:22.88,Signs,,0,0,0,,# Poteriodendron
-Dialogue: 5,0:07:21.33,0:07:22.88,Signs,,0,0,0,,{\blur0.75\fs45\bord3\fnArial\c&H868789&\3c&HF2F3F5&\i0\frz32.74\fscx112\fscy112\move(111,85.5,1047,527.5,28,570)}Poteriodendron
-Comment: 5,0:08:49.96,0:08:56.30,Signs,,0,0,0,,# Ninomae name tag
-Dialogue: 5,0:08:49.96,0:08:56.30,Signs,,0,0,0,,{\blur0.75\fnArial Rounded MT Bold\fs90\c&H424050&\3c&HF3F3F5&\pos(975,664.5)\b0}Ninomae
+Comment: 0,0:07:21.33,0:07:22.88,Signs,,0,0,0,,# Poteriodendron
+Dialogue: 0,0:07:21.33,0:07:22.88,Signs,,0,0,0,,{\blur0.75\fs45\bord3\fnArial\c&H868789&\3c&HF2F3F5&\i0\frz32.74\fscx112\fscy112\move(111,85.5,1047,527.5,28,570)}Poteriodendron
+Comment: 0,0:08:49.96,0:08:56.30,Signs,,0,0,0,,# Ninomae name tag
+Dialogue: 0,0:08:49.96,0:08:56.30,Signs,,0,0,0,,{\blur0.75\fnArial Rounded MT Bold\fs90\c&H424050&\3c&HF3F3F5&\pos(975,664.5)\b0}Ninomae
 Comment: 0,0:11:05.22,0:11:05.26,Signs,,0,0,0,,{=1}# Names blackboard
 Dialogue: 0,0:11:05.10,0:11:09.85,Signs,,0,0,0,,{=1}{\blur0.75\an8\fs33\pos(1440.01,63)}Don't mind\N\N\N\N\NNudist Family\N\N\N\N\N\N\NMidget\N\N\N\N\N\N\NStudent B\N\N\N\N\N\N\NWalking dissonance
 Dialogue: 0,0:11:05.10,0:11:09.85,Signs,,0,0,0,,{\blur0.75\fs33\pos(702,271)}Don't want to\Nbe called this\N\N\NWaste of\NOxygen\N\N\NProtein junkie\N\N\NHouse probably\Nstinks
@@ -553,8 +553,8 @@ Comment: 0,0:13:15.64,0:13:17.90,Signs,,0,0,0,,# Nudist Family
 Dialogue: 0,0:13:15.64,0:13:17.90,Signs,,0,0,0,,{\blur0.75\fs120\pos(1011,177)}Nudist Family
 Comment: 0,0:13:44.01,0:13:48.01,Signs,,0,0,0,,# Supplementary lessons
 Dialogue: 0,0:13:44.01,0:13:48.01,Signs,,0,0,0,,{\blur0.75\fs37.5\c&HB4C28F&\pos(1269,243)}Supplementary\NLessons\NDay 3
-Dialogue: 5,0:20:20.69,0:20:24.99,Signs,,0,0,0,,# Idiot settle
-Dialogue: 5,0:20:20.69,0:20:24.99,Signs,,0,0,0,,{\an7\blur0.75\bord0\fs120\fnArial Black\b1\bord0\shad0\pos(1429.5,576)}They\Nsettled\Non “Idiot”
+Comment: 0,0:20:20.69,0:20:24.99,Signs,,0,0,0,,# Idiot settle
+Dialogue: 0,0:20:20.69,0:20:24.99,Signs,,0,0,0,,{\an7\blur0.75\bord0\fs120\fnArial Black\b1\bord0\shad0\pos(1429.5,576)}They\Nsettled\Non “Idiot”
 
 [Aegisub Extradata]
 Data: 1,a-mo,e{"uuid"#3A"64de29fb-abb2-481a-a7a6-f6d5494541d4"#2C"originalText"#3A"{\\blur0.5\\an8\\fs22\\pos(413.333#2C26)}DON'T MIND\\N\\N\\N\\N\\NFamily are nudists\\N\\N\\N\\N\\N\\N\\NHead makes up\\Nhalf her body\\N\\N\\N\\N\\N\\N\\NMinor character\\N\\N\\N\\N\\N\\N\\NWalking dissonance"}
