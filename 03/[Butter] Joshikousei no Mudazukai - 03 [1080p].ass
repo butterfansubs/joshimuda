@@ -10,19 +10,19 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC].mkv
-Video File: ../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC].mkv
-Keyframes File: 03/[KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC]_keyframes.txt
+Last Style Storage: Default
+Audio File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC].mkv
+Video File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC].mkv
+Keyframes File: [KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 93
-Active Line: 105
-Video Position: 5618
+Video Position: 99
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,68,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,15,15,38,1
+Style: Default,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,15,15,55,1
+Style: TS,Fantasque Sans Mono,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -53,7 +53,17 @@ Dialogue: 0,0:00:45.65,0:00:45.69,Default,,0,0,0,,{\blur5\frz358.6\c&H020713&\po
 Dialogue: 1,0:00:45.65,0:00:45.69,Default,,0,0,0,,{\bord0\blur5\frz358.6\4a&HFF&\pos(981.333,857)}There are women who don't have cushions\Nto serve that function, you know!
 Dialogue: 0,0:00:45.69,0:00:48.96,Default,,0,0,0,,There are women who don't have cushions\Nto serve that function, you know!
 Dialogue: 0,0:00:48.96,0:00:50.02,Default,,0,0,0,,Right here!
-Dialogue: 0,0:00:50.28,0:00:51.25,Default,,0,0,0,,That's true!
+Dialogue: 0,0:00:50.02,0:00:50.07,Default,,0,0,0,,{\blur4\c&H020713&}Right here!
+Dialogue: 1,0:00:50.02,0:00:50.07,Default,,0,0,0,,{\bord0\blur4\4a&HFF&}Right here!
+Dialogue: 0,0:00:50.07,0:00:50.11,Default,,0,0,0,,{\blur5\c&H020713&\pos(944,745)\frz26.7}Right here!
+Dialogue: 1,0:00:50.07,0:00:50.11,Default,,0,0,0,,{\bord0\blur5\4a&HFF&\pos(944,745)\frz26.7}Right here!
+Dialogue: 0,0:00:50.23,0:00:50.28,Default,,0,0,0,,{\blur5\frz338.5\pos(1096,305)\c&H020713&}That's true!
+Dialogue: 1,0:00:50.23,0:00:50.28,Default,,0,0,0,,{\bord0\blur5\frz338.5\pos(1096,305)\4a&HFF&}That's true!
+Dialogue: 0,0:00:50.28,0:00:50.32,Default,,0,0,0,,{\blur4\c&H020713&\pos(960,1020)}That's true!
+Dialogue: 1,0:00:50.28,0:00:50.32,Default,,0,0,0,,{\bord0\blur4\4a&HFF&\pos(960,1020)}That's true!
+Dialogue: 0,0:00:50.28,0:00:50.32,Default,,0,0,0,,{\blur4\c&H020713&\pos(956,1004)\frz352.9}That's true!
+Dialogue: 1,0:00:50.28,0:00:50.32,Default,,0,0,0,,{\bord0\blur4\4a&HFF&\pos(956,1004)\frz352.9}That's true!
+Dialogue: 0,0:00:50.32,0:00:51.25,Default,,0,0,0,,That's true!
 Dialogue: 0,0:00:51.25,0:00:55.29,Default,,0,0,0,,That being said, humans ought to have\Nmore unnecessary hair growing thick and wild.
 Dialogue: 0,0:00:55.29,0:00:58.74,Default,,0,0,0,,And yet, isn't everyone in society\Nway too into being smooth?
 Dialogue: 0,0:00:58.74,0:01:00.44,Default,,0,0,0,,As if smooth is righteous!
@@ -109,7 +119,6 @@ Dialogue: 0,0:02:51.98,0:02:52.81,Default,,0,0,0,,So, after that...
 Dialogue: 0,0:02:52.81,0:02:53.94,Default,,0,0,0,,Ooh round! Moon! Dass! Cry!
 Dialogue: 0,0:02:53.94,0:02:56.32,Default,,0,0,0,,Even if you don't want to you'll cheer up\Nfor sure, and yeah, you'll smile
 Dialogue: 0,0:02:56.32,0:02:58.65,Default,,0,0,0,,Round! Moon! Dass! Cry! Everyday
-Dialogue: 0,0:03:00.61,0:03:04.45,TS,,0,0,0,,{\an4}Forgotten Item
 Dialogue: 0,0:03:01.45,0:03:04.66,Default,,0,0,0,,The way I personally look. I always hated it.
 Dialogue: 0,0:03:05.24,0:03:06.37,Default,,0,0,0,,Look at that girl.
 Dialogue: 0,0:03:06.37,0:03:07.87,Default,,0,0,0,,Aw! So tiny!
@@ -133,413 +142,400 @@ Dialogue: 0,0:03:49.78,0:03:51.54,Default,,0,0,0,,Huh? But Tanaka said...
 Dialogue: 0,0:03:51.54,0:03:54.29,Default,,0,0,0,,What about Tanaka? Oh, perfect timing.
 Dialogue: 0,0:03:54.29,0:03:57.46,Default,,0,0,0,,Please tell Tanaka to get her\Npreferred course request form in.
 Dialogue: 0,0:03:54.50,0:03:57.46,Default,,0,0,0,,{\an8}That jerk!
-Dialogue: 0,0:03:58.63,0:04:00.42,Default,,0,0,0,,Well, that's when it should be silken tofu-
-Dialogue: 0,0:03:59.26,0:04:00.42,Default,,0,0,0,,{\an8}Tanaka!
-Dialogue: 0,0:04:01.42,0:04:03.26,Default,,0,0,0,,Put out what you need to put out!
-Dialogue: 0,0:04:04.59,0:04:07.56,Default,,0,0,0,,What? But I'm kinda really constipated right now.
-Dialogue: 0,0:04:07.56,0:04:10.31,Default,,0,0,0,,Why'd you think I was talking about that?!\NThe preferred course request form!
-Dialogue: 0,0:04:10.31,0:04:11.60,Default,,0,0,0,,Oh, you meant that.
-Dialogue: 0,0:04:11.60,0:04:12.52,Default,,0,0,0,,Oh, also...
+Dialogue: 0,0:03:58.59,0:04:00.62,Default,,0,0,0,,Well, that's when it should be silken tofu-
+Dialogue: 0,0:03:59.16,0:04:00.62,Default,,0,0,0,,{\an8}Tanaka!
+Dialogue: 0,0:04:01.61,0:04:03.22,Default,,0,0,0,,Put out what you need to put out!
+Dialogue: 0,0:04:04.75,0:04:07.44,Default,,0,0,0,,What? But I'm kinda really constipated right now.
+Dialogue: 0,0:04:07.44,0:04:10.31,Default,,0,0,0,,Why'd you think I was talking about that?!\NThe preferred course request form!
+Dialogue: 0,0:04:10.31,0:04:11.56,Default,,0,0,0,,Oh, you meant that.
+Dialogue: 0,0:04:11.56,0:04:12.52,Default,,0,0,0,,Oh, also...
 Dialogue: 0,0:04:12.52,0:04:15.73,Default,,0,0,0,,Y-you jerk! How dare you trick me earlier!
-Dialogue: 0,0:04:15.73,0:04:18.77,Default,,0,0,0,,Sorry Loli, it was because you said\Nyou wouldn't speak to me anymore.
-Dialogue: 0,0:04:18.77,0:04:22.24,Default,,0,0,0,,You know...! If you keep making\Nthose kinda worthless lies...
-Dialogue: 0,0:04:22.24,0:04:25.78,Default,,0,0,0,,your house will be the only one that Santa\Nwon't come to this year, you know!
+Dialogue: 0,0:04:15.73,0:04:18.70,Default,,0,0,0,,Sorry Loli, it was because you said\Nyou wouldn't speak to me anymore.
+Dialogue: 0,0:04:18.70,0:04:22.24,Default,,0,0,0,,You know...! If you keep making\Nthose kinda worthless lies...
+Dialogue: 0,0:04:22.24,0:04:26.28,Default,,0,0,0,,your house will be the only one that Santa\Nwon't come to this year, you know!
 Dialogue: 0,0:04:28.37,0:04:29.49,Default,,0,0,0,,Is she serious?
 Dialogue: 0,0:04:29.49,0:04:30.24,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:04:30.24,0:04:33.04,Default,,0,0,0,,Well... That was rather shocking, you know...
-Dialogue: 0,0:04:31.33,0:04:33.92,Default,,0,0,0,,{\an8}H-hey... Why're you being all secretive?
-Dialogue: 0,0:04:33.04,0:04:33.92,Default,,0,0,0,,That's true...
-Dialogue: 0,0:04:34.17,0:04:36.54,Default,,0,0,0,,Whaddya think? That's gotta be a joke, right?
-Dialogue: 0,0:04:36.54,0:04:39.50,Default,,0,0,0,,Even if she looks like that,\Nshe is a high schooler, after all.
-Dialogue: 0,0:04:39.50,0:04:41.67,Default,,0,0,0,,Oh, I've heard rumors about it.
+Dialogue: 0,0:04:30.24,0:04:33.04,Default,,0,0,0,,{\an8}Well... That was rather shocking, you know...
+Dialogue: 0,0:04:33.04,0:04:33.87,Default,,0,0,0,,{\an8}That's true...
+Dialogue: 0,0:04:31.33,0:04:33.87,Default,,0,0,0,,H-hey... Why're you being all secretive?
+Dialogue: 0,0:04:33.87,0:04:36.54,Default,,0,0,0,,Whaddya think? That's gotta be a joke, right?
+Dialogue: 0,0:04:36.54,0:04:39.43,Default,,0,0,0,,Even if she looks like that,\Nshe is a high schooler, after all.
+Dialogue: 0,0:04:39.43,0:04:41.67,Default,,0,0,0,,Oh, I've heard rumors about it.
 Dialogue: 0,0:04:41.67,0:04:44.38,Default,,0,0,0,,That Loli lives together with just her grandma.
-Dialogue: 0,0:04:44.38,0:04:46.34,Default,,0,0,0,,Under a strict grandmother...
-Dialogue: 0,0:04:46.59,0:04:50.06,Default,,0,0,0,,Maybe she grew up in an environment on par with\Na prison, where information was restricted.
+Dialogue: 0,0:04:44.38,0:04:46.39,Default,,0,0,0,,Under a strict grandmother...
+Dialogue: 0,0:04:46.39,0:04:50.06,Default,,0,0,0,,Maybe she grew up in an environment on par with\Na prison, where information was restricted.
 Dialogue: 0,0:04:50.06,0:04:51.39,Default,,0,0,0,,That's way too strict!
-Dialogue: 0,0:04:51.39,0:04:52.85,Default,,0,0,0,,There might also be the possibility
-Dialogue: 0,0:04:52.85,0:04:56.77,Default,,0,0,0,,that she's an immoral granny\Nwho's spent many years hypnotizing Loli...
+Dialogue: 0,0:04:51.39,0:04:52.81,Default,,0,0,0,,There might also be the possibility
+Dialogue: 0,0:04:52.81,0:04:56.77,Default,,0,0,0,,that she's an immoral granny\Nwho's spent many years hypnotizing Loli...
 Dialogue: 0,0:04:56.77,0:04:58.61,Default,,0,0,0,,Your idea is what's immoral!
-Dialogue: 0,0:04:57.40,0:04:59.40,Default,,0,0,0,,{\an8}H-hey! I said, hey!
-Dialogue: 0,0:04:59.40,0:05:00.40,Default,,0,0,0,,Huh?
-Dialogue: 0,0:05:00.69,0:05:02.61,Default,,0,0,0,,What're you talking about?!
-Dialogue: 0,0:05:06.20,0:05:07.87,Default,,0,0,0,,Wh-what?
-Dialogue: 0,0:05:08.53,0:05:10.79,Default,,0,0,0,,Sorry about that, Loli...
-Dialogue: 0,0:05:12.54,0:05:14.50,Default,,0,0,0,,T-Tanaka...!
-Dialogue: 0,0:05:16.79,0:05:18.96,Default,,0,0,0,,I told you I'm not gettin' on, jackass!
-Dialogue: 0,0:05:19.54,0:05:22.80,Default,,0,0,0,,Damn it! That Tanaka really pisses me off...!
+Dialogue: 0,0:04:57.66,0:05:00.01,Default,,0,0,0,,H-hey! I said, hey!
+Dialogue: 0,0:04:59.26,0:05:00.01,Default,,0,0,0,,{\an8}Huh?
+Dialogue: 0,0:05:00.58,0:05:02.65,Default,,0,0,0,,What're you talking about?!
+Dialogue: 0,0:05:06.37,0:05:07.91,Default,,0,0,0,,Wh-what?
+Dialogue: 0,0:05:08.53,0:05:10.86,Default,,0,0,0,,Sorry about that, Loli...
+Dialogue: 0,0:05:12.49,0:05:14.91,Default,,0,0,0,,T-Tanaka...!
+Dialogue: 0,0:05:16.69,0:05:18.92,Default,,0,0,0,,I told you I'm not gettin' on, jackass!
+Dialogue: 0,0:05:19.49,0:05:22.80,Default,,0,0,0,,Damn it! That Tanaka really pisses me off...!
 Dialogue: 0,0:05:22.80,0:05:25.42,Default,,0,0,0,,It's not like I wanted to look this way!
-Dialogue: 0,0:05:26.05,0:05:28.34,Default,,0,0,0,,Anyway, who's the jerk who littered?!
-Dialogue: 0,0:05:28.84,0:05:30.35,Default,,0,0,0,,What an asshole!
-Dialogue: 0,0:05:32.85,0:05:35.27,Default,,0,0,0,,Jeez... Every last one of them...
-Dialogue: 0,0:05:35.27,0:05:38.23,Default,,0,0,0,,They're all bastards... Damn bastards...
-Dialogue: 0,0:05:36.23,0:05:38.94,Default,,0,0,0,,{\an8}Hey there, welcome home, Saku.
-Dialogue: 0,0:05:39.44,0:05:41.90,Default,,0,0,0,,Grandma!
-Dialogue: 0,0:05:51.49,0:05:52.87,Default,,0,0,0,,Does it taste good?
-Dialogue: 0,0:05:52.87,0:05:53.87,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:05:55.75,0:05:58.25,Default,,0,0,0,,How's school? Is it fun?
-Dialogue: 0,0:05:58.25,0:05:59.38,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:05:59.38,0:06:01.79,Default,,0,0,0,,Have you made a lot of friends?
-Dialogue: 0,0:06:02.71,0:06:05.13,Default,,0,0,0,,Wh-what's for dinner tonight?
-Dialogue: 0,0:06:06.42,0:06:08.13,Default,,0,0,0,,Well, let's see...
-Dialogue: 0,0:06:08.13,0:06:11.01,Default,,0,0,0,,Saku, shall I make your favorite, hamburger?
+Dialogue: 0,0:05:26.11,0:05:28.38,Default,,0,0,0,,Anyway, who's the jerk who littered?!
+Dialogue: 0,0:05:28.84,0:05:30.00,Default,,0,0,0,,What an asshole!
+Dialogue: 0,0:05:32.81,0:05:35.48,Default,,0,0,0,,Jeez... Every last one of them...
+Dialogue: 0,0:05:35.48,0:05:38.56,Default,,0,0,0,,They're all bastards... Damn bastards...
+Dialogue: 0,0:05:35.94,0:05:38.94,Default,,0,0,0,,{\an8}Hey there, welcome home, Saku.
+Dialogue: 0,0:05:39.44,0:05:41.94,Default,,0,0,0,,Grandma!
+Dialogue: 0,0:05:51.49,0:05:52.76,Default,,0,0,0,,Does it taste good?
+Dialogue: 0,0:05:52.76,0:05:53.66,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:05:55.63,0:05:58.21,Default,,0,0,0,,How's school? Is it fun?
+Dialogue: 0,0:05:58.21,0:05:59.51,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:05:59.51,0:06:01.93,Default,,0,0,0,,Have you made a lot of friends?
+Dialogue: 0,0:06:02.71,0:06:05.09,Default,,0,0,0,,Wh-what's for dinner tonight?
+Dialogue: 0,0:06:06.57,0:06:08.09,Default,,0,0,0,,Well, let's see...
+Dialogue: 0,0:06:08.33,0:06:11.01,Default,,0,0,0,,Saku, shall I make your favorite, hamburger?
 Dialogue: 0,0:06:11.01,0:06:13.60,Default,,0,0,0,,Yay! Hamburger! Hamburger!
 Dialogue: 0,0:06:13.60,0:06:17.35,Default,,0,0,0,,Well then, I should probably go grocery shopping.
 Dialogue: 0,0:06:17.35,0:06:19.02,Default,,0,0,0,,Ouch! Ow, ow, ow, ow...
-Dialogue: 0,0:06:19.02,0:06:20.69,Default,,0,0,0,,Oh! Grandma!
-Dialogue: 0,0:06:20.69,0:06:23.02,Default,,0,0,0,,What's wrong? Does it hurt somewhere?
-Dialogue: 0,0:06:23.44,0:06:27.28,Default,,0,0,0,,Ahh... Well, it looks like my knee is hurting just a little.
-Dialogue: 0,0:06:27.28,0:06:28.28,Default,,0,0,0,,What?
-Dialogue: 0,0:06:28.28,0:06:30.11,Default,,0,0,0,,No need to worry...
+Dialogue: 0,0:06:19.02,0:06:20.82,Default,,0,0,0,,Oh! Grandma!
+Dialogue: 0,0:06:20.82,0:06:23.41,Default,,0,0,0,,What's wrong? Does it hurt somewhere?
+Dialogue: 0,0:06:23.41,0:06:27.28,Default,,0,0,0,,Ahh... Well, it looks like my knee is hurting just a little.
+Dialogue: 0,0:06:27.28,0:06:28.24,Default,,0,0,0,,What?
+Dialogue: 0,0:06:28.24,0:06:30.11,Default,,0,0,0,,No need to worry...
 Dialogue: 0,0:06:30.11,0:06:31.62,Default,,0,0,0,,Ow, ow, ow, ow, ow, ow...
 Dialogue: 0,0:06:31.62,0:06:33.28,Default,,0,0,0,,Grandma, you sit and rest.
-Dialogue: 0,0:06:33.49,0:06:36.12,Default,,0,0,0,,I can go do the grocery shopping by myself!
-Dialogue: 0,0:06:36.12,0:06:37.71,Default,,0,0,0,,Will you by okay?
-Dialogue: 0,0:06:37.71,0:06:42.46,Default,,0,0,0,,Last time I asked you, you got lost\Nand the police officer had to help you out, so...
-Dialogue: 0,0:06:42.46,0:06:46.84,Default,,0,0,0,,Th-that was only because he voluntarily\Nstarted talking to me and just followed me!
-Dialogue: 0,0:06:47.92,0:06:49.63,Default,,0,0,0,,You be careful.
-Dialogue: 0,0:06:49.63,0:06:52.35,Default,,0,0,0,,Don't go anywhere with some strange person.
-Dialogue: 0,0:06:57.98,0:07:01.73,Default,,0,0,0,,Let's see. Onions, milk and eggs.
-Dialogue: 0,0:07:01.98,0:07:03.06,Default,,0,0,0,,Hmm?
-Dialogue: 0,0:07:03.06,0:07:05.07,Default,,0,0,0,,{\an8}Corn\N{\an8}Onions\N{\an8}Eggs\N{\an8}Scallions\N{\an8}Ground mixed meat\N{\an8}Spinach\N{\an8}Milk\N{\an8}Daikon radish\N{\an8}Tofu\N{\an8}Tomato
+Dialogue: 0,0:06:33.28,0:06:36.04,Default,,0,0,0,,I can go do the grocery shopping by myself!
+Dialogue: 0,0:06:36.04,0:06:37.61,Default,,0,0,0,,Will you by okay?
+Dialogue: 0,0:06:37.61,0:06:42.42,Default,,0,0,0,,Last time I asked you, you got lost\Nand the police officer had to help you out, so...
+Dialogue: 0,0:06:42.42,0:06:46.87,Default,,0,0,0,,Th-that was only because he voluntarily\Nstarted talking to me and just followed me!
+Dialogue: 0,0:06:47.97,0:06:49.72,Default,,0,0,0,,You be careful.
+Dialogue: 0,0:06:49.72,0:06:52.30,Default,,0,0,0,,Don't go anywhere with some strange person.
+Dialogue: 0,0:06:57.94,0:07:01.98,Default,,0,0,0,,Let's see. Onions, milk and eggs.
+Comment: 0,0:07:01.98,0:07:03.06,Default,,0,0,0,,Hmm?
 Dialogue: 0,0:07:03.06,0:07:05.07,Default,,0,0,0,,Mix... Meat?
 Dialogue: 0,0:07:05.52,0:07:07.03,Default,,0,0,0,,How do you read this?
 Dialogue: 0,0:07:07.03,0:07:09.03,Default,,0,0,0,,Maybe it's a Chinese character?
 Dialogue: 0,0:07:09.57,0:07:10.86,Default,,0,0,0,,One stick every day!
-Dialogue: 0,0:07:10.86,0:07:11.70,Default,,0,0,0,,You'll get fat.
-Dialogue: 0,0:07:11.70,0:07:13.53,Default,,0,0,0,,I'm gonna buy the Choco Bat Ace!
-Dialogue: 0,0:07:13.53,0:07:15.45,Default,,0,0,0,,I wish they'd come out with a natto flavor!
-Dialogue: 0,0:07:15.45,0:07:16.83,Default,,0,0,0,,That wouldn't go well with chocolate, you know.
-Dialogue: 0,0:07:16.83,0:07:18.66,Default,,0,0,0,,It could work if it included macadamia nuts.
-Dialogue: 0,0:07:18.66,0:07:22.79,Default,,0,0,0,,That was close. I can't take being picked on\Nby that jerk after school too.
-Dialogue: 0,0:07:27.05,0:07:28.42,Default,,0,0,0,,This'll do.
-Dialogue: 0,0:07:28.42,0:07:29.92,Default,,0,0,0,,What about the grown-up Choco Bat?
-Dialogue: 0,0:07:29.92,0:07:32.64,Default,,0,0,0,,It's gotta be the Choco Bat Ace for me!
-Dialogue: 0,0:07:32.64,0:07:37.56,Default,,0,0,0,,Compared to the Choco Bat, where one home run stick\Nor four hit sticks will get you one more stick...
+Dialogue: 0,0:07:10.86,0:07:11.57,Default,,0,0,0,,You'll get fat.
+Dialogue: 0,0:07:11.57,0:07:13.53,Default,,0,0,0,,I'm gonna buy the Choco Bat Ace!
+Dialogue: 0,0:07:13.53,0:07:15.43,Default,,0,0,0,,I wish they'd come out with a natto flavor!
+Dialogue: 0,0:07:15.43,0:07:16.91,Default,,0,0,0,,That wouldn't go well with chocolate, you know.
+Dialogue: 0,0:07:16.91,0:07:18.66,Default,,0,0,0,,It could work if it included macadamia nuts.
+Dialogue: 0,0:07:18.66,0:07:22.83,Default,,0,0,0,,That was close. I can't take being picked on\Nby that jerk after school too.
+Dialogue: 0,0:07:27.18,0:07:28.42,Default,,0,0,0,,This'll do.
+Dialogue: 0,0:07:28.42,0:07:29.86,Default,,0,0,0,,What about the grown-up Choco Bat?
+Dialogue: 0,0:07:29.86,0:07:32.80,Default,,0,0,0,,It's gotta be the Choco Bat Ace for me!
+Dialogue: 0,0:07:32.80,0:07:37.56,Default,,0,0,0,,Compared to the Choco Bat, where one home run stick\Nor four hit sticks will get you one more stick...
 Dialogue: 0,0:07:37.56,0:07:39.14,Default,,0,0,0,,With the Choco Bat Ace,
 Dialogue: 0,0:07:39.14,0:07:43.73,Default,,0,0,0,,you can win a wonderful free gift with\None ace stick or mailing in three strike cards.
-Dialogue: 0,0:07:46.69,0:07:48.73,Default,,0,0,0,,It's sold-out here too!
-Dialogue: 0,0:07:49.19,0:07:53.07,Default,,0,0,0,,Just how much do you like Choco Bats, huh?!
-Dialogue: 0,0:07:56.95,0:07:59.75,Default,,0,0,0,,I just realized I've come all the way\Nto the next town now...
-Dialogue: 0,0:08:00.37,0:08:01.91,Default,,0,0,0,,I expect she wouldn't come this far-
-Dialogue: 0,0:08:01.91,0:08:03.29,Default,,0,0,0,,All right!
-Dialogue: 0,0:08:02.16,0:08:03.29,Default,,0,0,0,,{\an8}Choco Bat
-Dialogue: 0,0:08:03.29,0:08:04.54,Default,,0,0,0,,Found it!
-Dialogue: 0,0:08:04.54,0:08:06.34,Default,,0,0,0,,She's here!
-Dialogue: 0,0:08:06.34,0:08:09.92,Default,,0,0,0,,Hey, since we came all the way to Jusco, let's go play!
-Dialogue: 0,0:08:09.92,0:08:12.43,Default,,0,0,0,,My parents are saying they made dinner,\Nso I'm going home.
-Dialogue: 0,0:08:12.43,0:08:13.38,Default,,0,0,0,,Then me too.
-Dialogue: 0,0:08:13.38,0:08:15.39,Default,,0,0,0,,What?! No! No, no!
-Dialogue: 0,0:08:15.39,0:08:17.76,Default,,0,0,0,,I wanna play more! I wanna play!
+Dialogue: 0,0:07:46.79,0:07:49.19,Default,,0,0,0,,It's sold-out here too!
+Dialogue: 0,0:07:49.19,0:07:53.42,Default,,0,0,0,,Just how much do you like Choco Bats, huh?!
+Dialogue: 0,0:07:57.02,0:07:59.75,Default,,0,0,0,,I just realized I've come all the way\Nto the next town now...
+Dialogue: 0,0:08:00.28,0:08:01.87,Default,,0,0,0,,I expect she wouldn't come this far-
+Dialogue: 0,0:08:01.87,0:08:03.25,Default,,0,0,0,,All right!
+Dialogue: 0,0:08:03.25,0:08:04.54,Default,,0,0,0,,Found it!
+Dialogue: 0,0:08:04.54,0:08:06.25,Default,,0,0,0,,She's here!
+Dialogue: 0,0:08:06.25,0:08:09.97,Default,,0,0,0,,Hey, since we came all the way to Jusco, let's go play!
+Dialogue: 0,0:08:09.97,0:08:12.43,Default,,0,0,0,,My parents are saying they made dinner,\Nso I'm going home.
+Dialogue: 0,0:08:12.43,0:08:13.30,Default,,0,0,0,,Then me too.
+Dialogue: 0,0:08:13.30,0:08:15.39,Default,,0,0,0,,What?! No! No, no!
+Dialogue: 0,0:08:15.39,0:08:18.19,Default,,0,0,0,,I wanna play more! I wanna play!
 Dialogue: 0,0:08:19.93,0:08:21.52,Default,,0,0,0,,Loli!
-Dialogue: 0,0:08:21.52,0:08:24.23,Default,,0,0,0,,Perfect timing! Let's play together!
-Dialogue: 0,0:08:24.23,0:08:25.86,Default,,0,0,0,,Idiot! As if I'd play!
-Dialogue: 0,0:08:25.86,0:08:28.44,Default,,0,0,0,,You know, unlike you, I'm busy!
-Dialogue: 0,0:08:29.11,0:08:31.94,Default,,0,0,0,,Don't say something like that. Come on...!
-Dialogue: 0,0:08:33.32,0:08:37.32,Default,,0,0,0,,Whether it's toys or stuffed animals,\NUncle here will buy you as many as you want!
-Dialogue: 0,0:08:37.32,0:08:39.20,Default,,0,0,0,,{\an8}Motchinyan Dolls\NAll 5 types\N980 yen (tax not included)
-Dialogue: 0,0:08:44.67,0:08:47.63,Default,,0,0,0,,"Don't go anywhere with some strange person."
-Dialogue: 0,0:08:49.88,0:08:50.88,Default,,0,0,0,,I'll pass!
-Dialogue: 0,0:08:52.26,0:08:53.76,Default,,0,0,0,,Loli!
+Dialogue: 0,0:08:21.52,0:08:24.27,Default,,0,0,0,,Perfect timing! Let's play together!
+Dialogue: 0,0:08:24.27,0:08:25.96,Default,,0,0,0,,Idiot! As if I'd play!
+Dialogue: 0,0:08:25.96,0:08:28.94,Default,,0,0,0,,You know, unlike you, I'm busy!
+Dialogue: 0,0:08:28.94,0:08:32.11,Default,,0,0,0,,Don't say something like that. Come on...!
+Dialogue: 0,0:08:33.43,0:08:37.32,Default,,0,0,0,,Whether it's toys or stuffed animals,\NUncle here will buy you as many as you want!
+Dialogue: 0,0:08:44.73,0:08:47.71,Default,,0,0,0,,"Don't go anywhere with some strange person."
+Dialogue: 0,0:08:49.84,0:08:51.10,Default,,0,0,0,,I'll pass!
+Dialogue: 0,0:08:52.30,0:08:53.93,Default,,0,0,0,,Loli!
 Dialogue: 0,0:08:55.38,0:08:57.76,Default,,0,0,0,,Grandma! I won!
-Dialogue: 0,0:08:57.76,0:09:00.06,Default,,0,0,0,,I resisted Tanaka's temptations!
-Dialogue: 0,0:09:03.10,0:09:05.31,Default,,0,0,0,,Hey, let's go already.
-Dialogue: 0,0:09:07.15,0:09:08.23,Default,,0,0,0,,For real...?
-Dialogue: 0,0:09:08.65,0:09:11.65,Default,,0,0,0,,I... absolutely will not move...
-Dialogue: 0,0:09:12.40,0:09:14.36,Default,,0,0,0,,Come on! How long you plan on lying there?!
-Dialogue: 0,0:09:14.36,0:09:15.36,Default,,0,0,0,,No!
-Dialogue: 0,0:09:16.32,0:09:17.95,Default,,0,0,0,,This is embarrassing for us!
+Dialogue: 0,0:08:57.76,0:09:00.16,Default,,0,0,0,,I resisted Tanaka's temptations!
+Dialogue: 0,0:09:03.22,0:09:05.48,Default,,0,0,0,,Hey, let's go already.
+Dialogue: 0,0:09:07.29,0:09:08.23,Default,,0,0,0,,For real...?
+Dialogue: 0,0:09:08.79,0:09:11.82,Default,,0,0,0,,I... absolutely will not move...
+Dialogue: 0,0:09:12.49,0:09:14.36,Default,,0,0,0,,Come on! How long you plan on lying there?!
+Dialogue: 0,0:09:14.36,0:09:15.11,Default,,0,0,0,,No!
+Dialogue: 0,0:09:16.49,0:09:17.95,Default,,0,0,0,,This is embarrassing for us!
 Dialogue: 0,0:09:17.95,0:09:19.28,Default,,0,0,0,,Hurry up! Let's go!
-Dialogue: 0,0:09:19.28,0:09:20.99,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:09:20.99,0:09:22.87,Default,,0,0,0,,You stop it!
-Dialogue: 0,0:09:23.12,0:09:24.58,Default,,0,0,0,,Robo, hold her up front.
-Dialogue: 0,0:09:24.58,0:09:27.88,Default,,0,0,0,,No good. She's stuck on airtight like a barnacle.
-Dialogue: 0,0:09:31.13,0:09:32.84,Default,,0,0,0,,Wota, hang on just a sec.
-Dialogue: 0,0:09:34.34,0:09:36.34,Default,,0,0,0,,{\an8}Dressing room
-Dialogue: 0,0:09:34.34,0:09:36.34,Default,,0,0,0,,Please put a coin in. You can play together with me.
-Dialogue: 0,0:09:36.68,0:09:37.89,Default,,0,0,0,,Sorry to keep you waiting.
-Dialogue: 0,0:09:38.84,0:09:40.35,Default,,0,0,0,,Who?!
+Dialogue: 0,0:09:19.61,0:09:21.16,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:09:21.16,0:09:23.03,Default,,0,0,0,,You stop it!
+Dialogue: 0,0:09:23.03,0:09:24.54,Default,,0,0,0,,Robo, hold her up front.
+Dialogue: 0,0:09:24.79,0:09:27.92,Default,,0,0,0,,No good. She's stuck on airtight like a barnacle.
+Dialogue: 0,0:09:31.32,0:09:32.80,Default,,0,0,0,,Wota, hang on just a sec.
+Dialogue: 0,0:09:34.30,0:09:36.73,Default,,0,0,0,,Please put a coin in. You can play together with me.
+Dialogue: 0,0:09:36.73,0:09:37.91,Default,,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:09:38.92,0:09:40.35,Default,,0,0,0,,Who?!
 Dialogue: 0,0:09:40.35,0:09:43.22,Default,,0,0,0,,Excuse me. Please lend us that mop.
-Dialogue: 0,0:09:44.68,0:09:47.27,Default,,0,0,0,,We're going to utilize the principles\Nof leverage to peel her off.
-Dialogue: 0,0:09:47.27,0:09:51.44,Default,,0,0,0,,{\an7}Note: Hanamaru, meaning knobby nose
-Dialogue: 0,0:09:47.27,0:09:51.44,Default,,0,0,0,,Hanamaru-san, sorry to ask, but would you mind\Ncrouching down in this space between?
+Comment: 0,0:09:47.27,0:09:47.48,Default,,0,0,0,,{\an7}Note: Hanamaru, meaning knobby nose
+Dialogue: 0,0:09:44.48,0:09:47.48,Default,,0,0,0,,We're going to utilize the principles\Nof leverage to peel her off.
+Dialogue: 0,0:09:47.48,0:09:51.44,Default,,0,0,0,,Hanamaru-san, sorry to ask, but would you mind\Ncrouching down in this space between?
 Dialogue: 0,0:09:51.44,0:09:52.73,Default,,0,0,0,,It's Shibazaki.
-Dialogue: 0,0:09:53.48,0:09:54.49,Default,,0,0,0,,Here goes.
+Dialogue: 0,0:09:53.73,0:09:54.49,Default,,0,0,0,,Here goes.
 Dialogue: 0,0:09:55.95,0:09:58.91,Default,,0,0,0,,Ouch! Ow, ow, ow, ow, ow!
 Dialogue: 0,0:09:58.91,0:10:04.41,Default,,0,0,0,,It's digging in! It's digging in! It just creaked!
 Dialogue: 0,0:09:59.91,0:10:03.87,Default,,0,0,0,,{\an8}I definitely will not go home!
-Dialogue: 0,0:10:04.41,0:10:05.70,Default,,0,0,0,,What's with this...?
-Dialogue: 0,0:10:06.21,0:10:07.87,Default,,0,0,0,,This is ridiculous.
+Dialogue: 0,0:10:04.41,0:10:05.46,Default,,0,0,0,,What's with this...?
+Dialogue: 0,0:10:06.21,0:10:07.76,Default,,0,0,0,,This is ridiculous.
 Dialogue: 0,0:10:08.67,0:10:10.67,Default,,0,0,0,,Let's leave her and go home, Robo.
-Dialogue: 0,0:10:11.34,0:10:13.96,Default,,0,0,0,,Hanamaru-san, thank you for your cooperation.
-Dialogue: 0,0:10:13.96,0:10:15.46,Default,,0,0,0,,It's Shibazaki.
-Dialogue: 0,0:10:16.05,0:10:18.05,Default,,0,0,0,,Ouch! Ow, ow...
-Dialogue: 0,0:10:22.05,0:10:26.31,Default,,0,0,0,,Jeez. She doesn't think we'll leave her behind,\Nso she's gotten all relaxed now...
-Dialogue: 0,0:10:28.85,0:10:30.69,Default,,0,0,0,,She's begun rotating mysteriously…
-Dialogue: 0,0:10:32.40,0:10:34.53,Default,,0,0,0,,Now she's starting to move to the side.
-Dialogue: 0,0:10:35.99,0:10:37.65,Default,,0,0,0,,Under the vending machine...?
+Dialogue: 0,0:10:11.41,0:10:13.96,Default,,0,0,0,,Hanamaru-san, thank you for your cooperation.
+Dialogue: 0,0:10:13.96,0:10:15.42,Default,,0,0,0,,It's Shibazaki.
+Dialogue: 0,0:10:16.00,0:10:18.05,Default,,0,0,0,,Ouch! Ow, ow...
+Dialogue: 0,0:10:22.21,0:10:26.31,Default,,0,0,0,,Jeez. She doesn't think we'll leave her behind,\Nso she's gotten all relaxed now...
+Dialogue: 0,0:10:29.02,0:10:30.69,Default,,0,0,0,,She's begun rotating mysteriously…
+Dialogue: 0,0:10:32.60,0:10:34.60,Default,,0,0,0,,Now she's starting to move to the side.
+Dialogue: 0,0:10:36.25,0:10:37.65,Default,,0,0,0,,Under the vending machine...?
 Dialogue: 0,0:10:37.65,0:10:38.70,Default,,0,0,0,,No way...
 Dialogue: 0,0:10:38.70,0:10:40.57,Default,,0,0,0,,Maybe she found money or something.
 Dialogue: 0,0:10:40.57,0:10:43.45,Default,,0,0,0,,That's pathetic. That's not something\Na high schooler should do.
-Dialogue: 0,0:10:43.91,0:10:44.91,Default,,0,0,0,,Huh?
-Dialogue: 0,0:10:45.79,0:10:48.12,Default,,0,0,0,,She got it! She's got that pleased look on her face!
-Dialogue: 0,0:10:49.21,0:10:49.87,Default,,0,0,0,,{\an8}Thrill Land
-Dialogue: 0,0:10:49.87,0:10:51.17,Default,,0,0,0,,A medal?!
-Dialogue: 0,0:10:51.17,0:10:52.54,Default,,0,0,0,,A medal, huh?
-Dialogue: 0,0:10:51.17,0:10:54.25,Default,,0,0,0,,{\an8}How dare you get my hopes up! Thrill Land?!
-Dialogue: 0,0:10:53.67,0:10:55.46,Default,,0,0,0,,This is like a waste of time.
+Dialogue: 0,0:10:44.03,0:10:44.91,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:45.88,0:10:48.33,Default,,0,0,0,,She got it! She's got that pleased look on her face!
+Dialogue: 0,0:10:49.83,0:10:51.13,Default,,0,0,0,,A medal?!
+Dialogue: 0,0:10:51.38,0:10:52.50,Default,,0,0,0,,A medal, huh?
+Dialogue: 0,0:10:51.38,0:10:54.25,Default,,0,0,0,,{\an8}How dare you get my hopes up! Thrill Land?!
 Dialogue: 0,0:10:54.25,0:10:56.71,Default,,0,0,0,,{\an8}Oh please! Change your name to Dejection Land!
-Dialogue: 0,0:10:55.46,0:10:56.71,Default,,0,0,0,,Let's go home.
+Dialogue: 0,0:10:53.75,0:10:55.67,Default,,0,0,0,,This is like a waste of time.
+Dialogue: 0,0:10:55.67,0:10:56.71,Default,,0,0,0,,Let's go home.
 Dialogue: 0,0:10:56.71,0:10:57.88,Default,,0,0,0,,You're right.
-Dialogue: 0,0:10:56.71,0:11:01.18,Default,,0,0,0,,{\an8}Jeez! Gimme back my thrill! Argh!
-Dialogue: 0,0:11:01.30,0:11:02.80,Default,,0,0,0,,{\an8}Crisp Corn
-Dialogue: 0,0:11:09.56,0:11:10.90,Default,,0,0,0,,Uh...
-Dialogue: 0,0:11:10.90,0:11:12.10,Default,,0,0,0,,Um...
-Dialogue: 0,0:11:18.53,0:11:20.03,Default,,0,0,0,,{\an8}Eggs\N{\an8}Ground mixed meat
+Dialogue: 0,0:10:56.71,0:11:01.26,Default,,0,0,0,,{\an8}Jeez! Gimme back my thrill! Argh!
+Dialogue: 0,0:11:01.26,0:11:02.76,Default,,0,0,0,,{\an8}Crisp Corn
+Dialogue: 0,0:11:09.78,0:11:10.57,Default,,0,0,0,,Uh...
+Dialogue: 0,0:11:11.11,0:11:12.14,Default,,0,0,0,,Um...
 Dialogue: 0,0:11:18.53,0:11:20.03,Default,,0,0,0,,That's ground mixed meat.
-Dialogue: 0,0:11:20.32,0:11:22.28,Default,,0,0,0,,Aren't you a good girl for running errands.
-Dialogue: 0,0:11:22.28,0:11:23.32,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:11:24.03,0:11:25.03,Default,,0,0,0,,Thank...
-Dialogue: 0,0:11:27.33,0:11:29.08,Default,,0,0,0,,{\an8}Domestic products used\N{\an8}Recommended\N{\an8}for hamburgers!\N{\an8}Ground mixed beef and pork meat
-Dialogue: 0,0:11:30.08,0:11:32.08,Default,,0,0,0,,With that I've got everything to buy.
-Dialogue: 0,0:11:33.33,0:11:35.21,Default,,0,0,0,,{\an8}Choco Bat\N{\an8}Includes a\N{\an8}prize chance\NWow!
-Dialogue: 0,0:11:35.38,0:11:38.38,Default,,0,0,0,,Mama! I want this, this, and this!
-Dialogue: 0,0:11:38.38,0:11:40.93,Default,,0,0,0,,No. You're a big brother now, you know.
-Dialogue: 0,0:11:40.93,0:11:43.34,Default,,0,0,0,,A big brother should be able to\Nsettle with just one, right?
-Dialogue: 0,0:11:43.34,0:11:44.35,Default,,0,0,0,,Yes!
-Dialogue: 0,0:11:45.80,0:11:46.68,Default,,0,0,0,,All right!
-Dialogue: 0,0:11:46.68,0:11:49.18,Default,,0,0,0,,{\an8}Choco Bat\N{\an8}Includes a\N{\an8}prize chance
-Dialogue: 0,0:11:46.72,0:11:49.43,Default,,0,0,0,,Just one is...\NHaving just one is safe.
-Dialogue: 0,0:11:51.81,0:11:54.40,Default,,0,0,0,,Your total comes to 1,826 yen.
-Dialogue: 0,0:11:54.40,0:11:55.40,Default,,0,0,0,,What?!
-Dialogue: 0,0:11:55.40,0:11:58.73,Default,,0,0,0,,I... I don't have enough money! What do I do?!
-Dialogue: 0,0:11:59.28,0:12:02.36,Default,,0,0,0,,U-um... then I won't get this.
-Dialogue: 0,0:12:03.24,0:12:04.99,Default,,0,0,0,,Not that. This one!
-Dialogue: 0,0:12:04.99,0:12:06.66,Default,,0,0,0,,Very well.
-Dialogue: 0,0:12:09.16,0:12:11.83,Default,,0,0,0,,I was able to buy everything except the meat...
-Dialogue: 0,0:12:12.71,0:12:15.04,Default,,0,0,0,,I won't ask you anymore, Saku...
+Dialogue: 0,0:11:20.45,0:11:22.38,Default,,0,0,0,,Aren't you a good girl for running errands.
+Dialogue: 0,0:11:22.38,0:11:23.28,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:11:24.20,0:11:25.03,Default,,0,0,0,,Thank...
+Dialogue: 0,0:11:30.17,0:11:32.02,Default,,0,0,0,,With that I've got everything to buy.
+Dialogue: 0,0:11:33.29,0:11:35.17,Default,,0,0,0,,{\an8}Choco Bat\N{\an8}Includes a\N{\an8}prize chance\NWow!
+Dialogue: 0,0:11:35.39,0:11:38.54,Default,,0,0,0,,Mama! I want this, this, and this!
+Dialogue: 0,0:11:38.54,0:11:40.93,Default,,0,0,0,,No. You're a big brother now, you know.
+Dialogue: 0,0:11:40.93,0:11:43.46,Default,,0,0,0,,A big brother should be able to\Nsettle with just one, right?
+Dialogue: 0,0:11:43.46,0:11:44.42,Default,,0,0,0,,Yes!
+Dialogue: 0,0:11:45.96,0:11:46.68,Default,,0,0,0,,All right!
+Dialogue: 0,0:11:46.68,0:11:49.43,Default,,0,0,0,,Just one is...\NHaving just one is safe.
+Dialogue: 0,0:11:51.81,0:11:54.86,Default,,0,0,0,,Your total comes to 1,826 yen.
+Comment: 0,0:11:54.52,0:11:55.40,Default,,0,0,0,,What?!
+Dialogue: 0,0:11:55.54,0:11:58.86,Default,,0,0,0,,I... I don't have enough money! What do I do?!
+Dialogue: 0,0:11:59.28,0:12:02.50,Default,,0,0,0,,U-um... then I won't get this.
+Dialogue: 0,0:12:03.11,0:12:04.99,Default,,0,0,0,,Not that. This one!
+Dialogue: 0,0:12:04.99,0:12:06.74,Default,,0,0,0,,Very well.
+Dialogue: 0,0:12:09.24,0:12:11.87,Default,,0,0,0,,I was able to buy everything except the meat...
+Dialogue: 0,0:12:12.86,0:12:15.04,Default,,0,0,0,,I won't ask you anymore, Saku...
 Dialogue: 0,0:12:15.04,0:12:16.79,Default,,0,0,0,,You really are a bad child.
-Dialogue: 0,0:12:16.79,0:12:19.51,Default,,0,0,0,,Santa won't come for the rest of your life.
-Dialogue: 0,0:12:29.85,0:12:32.31,Default,,0,0,0,,Oh! Are you all right? Oh...
-Dialogue: 0,0:12:33.27,0:12:34.90,Default,,0,0,0,,Uh, um...
-Dialogue: 0,0:12:34.90,0:12:37.23,Default,,0,0,0,,Grandma, I'm sorry.
-Dialogue: 0,0:12:37.23,0:12:39.65,Default,,0,0,0,,I couldn't buy the meat.
-Dialogue: 0,0:12:39.65,0:12:41.65,Default,,0,0,0,,Instead...
+Dialogue: 0,0:12:16.79,0:12:19.63,Default,,0,0,0,,Santa won't come for the rest of your life.
+Dialogue: 0,0:12:30.01,0:12:32.06,Default,,0,0,0,,Oh! Are you all right? Oh...
+Dialogue: 0,0:12:33.32,0:12:34.90,Default,,0,0,0,,Uh, um...
+Dialogue: 0,0:12:34.90,0:12:37.34,Default,,0,0,0,,Grandma, I'm sorry.
+Dialogue: 0,0:12:37.34,0:12:39.65,Default,,0,0,0,,I couldn't buy the meat.
+Dialogue: 0,0:12:40.41,0:12:41.65,Default,,0,0,0,,Instead...
 Dialogue: 0,0:12:41.65,0:12:43.65,Default,,0,0,0,,I'll give you this...
-Dialogue: 0,0:12:43.65,0:12:47.37,Default,,0,0,0,,There's really no way to make\Nhamburgers out of Choco Bats.
-Dialogue: 0,0:12:47.57,0:12:50.54,Default,,0,0,0,,Oh! Then I'll go back one more time!
-Dialogue: 0,0:12:49.66,0:12:51.33,Default,,0,0,0,,{\an8}It'll be okay.
-Dialogue: 0,0:12:52.16,0:12:54.75,Default,,0,0,0,,Leave it to Grandma.
-Dialogue: 0,0:12:57.13,0:12:58.75,Default,,0,0,0,,Wow!
-Dialogue: 0,0:12:58.75,0:13:00.34,Default,,0,0,0,,It's a hamburger!
-Dialogue: 0,0:13:03.59,0:13:05.59,Default,,0,0,0,,It's soft and yummy!
-Dialogue: 0,0:13:05.59,0:13:10.31,Default,,0,0,0,,You see, tofu and panko bread crumbs\Ncan turn into a meat-like texture.
+Dialogue: 0,0:12:43.65,0:12:47.41,Default,,0,0,0,,There's really no way to make\Nhamburgers out of Choco Bats.
+Dialogue: 0,0:12:48.07,0:12:50.54,Default,,0,0,0,,Oh! Then I'll go back one more time!
+Dialogue: 0,0:12:49.73,0:12:51.29,Default,,0,0,0,,{\an8}It'll be okay.
+Dialogue: 0,0:12:52.33,0:12:55.02,Default,,0,0,0,,Leave it to Grandma.
+Dialogue: 0,0:12:57.24,0:12:58.67,Default,,0,0,0,,Wow!
+Dialogue: 0,0:12:58.67,0:13:00.30,Default,,0,0,0,,It's a hamburger!
+Dialogue: 0,0:13:03.59,0:13:05.55,Default,,0,0,0,,It's soft and yummy!
+Dialogue: 0,0:13:05.55,0:13:10.31,Default,,0,0,0,,You see, tofu and panko bread crumbs\Ncan turn into a meat-like texture.
 Dialogue: 0,0:13:10.60,0:13:12.56,Default,,0,0,0,,Grandma, you're amazing!
-Dialogue: 0,0:13:12.56,0:13:13.98,Default,,0,0,0,,I love you!
-Dialogue: 0,0:13:17.56,0:13:20.94,Default,,0,0,0,,Aw! No! I wanna play!
-Dialogue: 0,0:13:20.15,0:13:21.86,Default,,0,0,0,,{\an8}No! Mama's gonna go ahead and go home.
-Dialogue: 0,0:13:20.94,0:13:23.44,Default,,0,0,0,,Just a little more...!
-Dialogue: 0,0:13:28.24,0:13:30.33,Default,,0,0,0,,Mama, wait!
+Dialogue: 0,0:13:12.56,0:13:14.16,Default,,0,0,0,,I love you!
+Dialogue: 0,0:13:17.56,0:13:20.09,Default,,0,0,0,,Aw! No! I wanna play!
+Dialogue: 0,0:13:20.09,0:13:22.95,Default,,0,0,0,,No! Mama's gonna go ahead and go home.
+Dialogue: 0,0:13:21.39,0:13:23.44,Default,,0,0,0,,Just a little more...!
+Dialogue: 0,0:13:28.44,0:13:30.33,Default,,0,0,0,,Mama, wait!
 Dialogue: 0,0:13:30.33,0:13:32.04,Default,,0,0,0,,Spoiled wussy brat.
-Dialogue: 0,0:13:32.04,0:13:34.71,Default,,0,0,0,,Go home and suck on\Nyour mama's tits or something.
-Dialogue: 0,0:13:35.87,0:13:36.96,Default,,0,0,0,,Huh?
-Dialogue: 0,0:13:37.83,0:13:39.71,Default,,0,0,0,,H-hey!
-Dialogue: 0,0:13:41.88,0:13:44.88,Default,,0,0,0,,Wota, Robo, you're over there, right?
-Dialogue: 0,0:13:45.13,0:13:46.63,Default,,0,0,0,,I said, hey!
-Dialogue: 0,0:13:49.26,0:13:50.39,Default,,0,0,0,,Hanamaru-san.
-Dialogue: 0,0:13:50.39,0:13:51.76,Default,,0,0,0,,It's Shibazaki.
-Dialogue: 0,0:13:54.93,0:13:57.02,Default,,0,0,0,,{\an8}Don't litter outside!!\N{\an7}Especially lighted\N{\an7}cigarette butts!!\N{\an7}Whatcha gonna do\N{\an7}if they catch on fire?!
-Dialogue: 0,0:13:57.39,0:14:02.40,Default,,0,0,0,,For example, let's say that there is a\Nmonomial of 3ABXH to the nth-power here.
-Dialogue: 0,0:14:01.15,0:14:03.57,Default,,0,0,0,,{\an8}Class is boring.
-Dialogue: 0,0:14:03.15,0:14:11.91,Default,,0,0,0,,In the situation where this will be considered\Na monomial of X versus a monomial of A...
-Dialogue: 0,0:14:04.40,0:14:07.11,Default,,0,0,0,,{\an8}Robo's seriously taking notes...
-Dialogue: 0,0:14:08.03,0:14:10.28,Default,,0,0,0,,{\an8}SEA OF HELL\N{\an8}EXPLOSION\N{\an7}START\N{\an7}HELL
-Dialogue: 0,0:14:10.45,0:14:12.33,Default,,0,0,0,,{\an8}Is she a genius...?!
-Dialogue: 0,0:14:13.12,0:14:16.71,Default,,0,0,0,,The degrees and coefficients\Nwill each end up being different.
-Dialogue: 0,0:14:13.29,0:14:15.33,Default,,0,0,0,,{\an7}Become immortal\N{\an7}and be all alone\N{\an7}with no family
-Dialogue: 0,0:14:16.21,0:14:19.29,Default,,0,0,0,,{\an8}She's in despair over the maze she created herself...
-Dialogue: 0,0:14:16.71,0:14:20.83,Default,,0,0,0,,A polynomial is where a monomial\Nis added and subtracted...
-Dialogue: 0,0:14:19.29,0:14:20.83,Default,,0,0,0,,{\an8}Or so I thought...
-Dialogue: 0,0:14:22.88,0:14:24.05,Default,,0,0,0,,Delight...?!
-Dialogue: 0,0:14:25.17,0:14:35.72,Default,,0,0,0,,For example, the monomial 3XY multiplied by\Nthe monomial of 7AB equals 4ABXY, and this again...
-Dialogue: 0,0:14:28.84,0:14:32.76,Default,,0,0,0,,{\an8}All Wota's probably thinking about is BL stuff...
-Dialogue: 0,0:14:32.76,0:14:36.60,Default,,0,0,0,,{\an8}After all, the only thing this one\N{\an8}really thinks about, is BL stuff.
-Dialogue: 0,0:14:35.72,0:14:36.85,Default,,0,0,0,,Hey Tanaka.
-Dialogue: 0,0:14:37.43,0:14:39.48,Default,,0,0,0,,You've been spacing out since earlier.
-Dialogue: 0,0:14:39.48,0:14:41.31,Default,,0,0,0,,Tell me what you're thinking about right now.
-Dialogue: 0,0:14:41.31,0:14:42.27,Default,,0,0,0,,Right now?
-Dialogue: 0,0:14:42.27,0:14:44.69,Default,,0,0,0,,Right now, I was thinking about BL stuff.
-Dialogue: 0,0:14:44.69,0:14:48.82,Default,,0,0,0,,Oh, that's wrong. I was thinking about Kikuchi-san,\Nwho's thinking about BL stuff.
-Dialogue: 0,0:14:48.24,0:14:49.86,Default,,0,0,0,,{\an8}What?!
-Dialogue: 0,0:14:49.86,0:14:51.16,Default,,0,0,0,,I wasn't thinking that!
-Dialogue: 0,0:14:51.16,0:14:52.37,Default,,0,0,0,,Then what were you thinking about?
-Dialogue: 0,0:14:52.37,0:14:54.79,Default,,0,0,0,,Obviously, about monomials and polynomials!
-Dialogue: 0,0:14:53.28,0:14:54.79,Default,,0,0,0,,{\an8}Saginomiya-san.
-Dialogue: 0,0:14:54.79,0:14:56.12,Default,,0,0,0,,{\an8}So, that's BL after all.
-Dialogue: 0,0:14:54.79,0:14:57.83,Default,,0,0,0,,I have admired you since middle school.
-Dialogue: 0,0:14:56.12,0:14:57.83,Default,,0,0,0,,Don't make me out to be some freak!
-Dialogue: 0,0:14:57.83,0:15:01.29,Default,,0,0,0,,{\an8}The fact that we'd unexpectedly be in\Nthe same high school and the same class is...
-Dialogue: 0,0:14:57.83,0:14:59.58,Default,,0,0,0,,What the hell is monomial and polynomial BL about?!
-Dialogue: 0,0:14:59.58,0:15:01.29,Default,,0,0,0,,You guys are being loud. Sit down.
-Dialogue: 0,0:15:01.46,0:15:03.13,Default,,0,0,0,,The next problem goes to...
-Dialogue: 0,0:15:03.13,0:15:05.34,Default,,0,0,0,,Next after Nishimura is...
-Dialogue: 0,0:15:04.04,0:15:07.26,Default,,0,0,0,,{\an8}Based off the student attendance list order, I'm next.
-Dialogue: 0,0:15:07.26,0:15:10.05,Default,,0,0,0,,I have to show myself in a good way to Saginomiya-san.
-Dialogue: 0,0:15:09.01,0:15:10.05,Default,,0,0,0,,{\an8}Then...
-Dialogue: 0,0:15:10.18,0:15:11.05,Default,,0,0,0,,Kikuchi.
-Dialogue: 0,0:15:11.05,0:15:11.93,Default,,0,0,0,,Yes sir!
-Dialogue: 0,0:15:11.93,0:15:13.35,Default,,0,0,0,,What?!
-Dialogue: 0,0:15:13.64,0:15:17.39,Default,,0,0,0,,Um... If you consider it an X equation,\Nthen the "top" is... I mean, um...
-Dialogue: 0,0:15:15.39,0:15:16.43,Default,,0,0,0,,{\an8}Huh?
-Dialogue: 0,0:15:20.85,0:15:23.19,Default,,0,0,0,,I forgot my gym clothes!
-Dialogue: 0,0:15:23.27,0:15:26.02,Default,,0,0,0,,What am I supposed to do about\Nthe gym class that's next?!
-Dialogue: 0,0:15:27.53,0:15:29.19,Default,,0,0,0,,Hey, look over there.
-Dialogue: 0,0:15:30.15,0:15:32.16,Default,,0,0,0,,A wild granny has appeared!
-Dialogue: 0,0:15:32.16,0:15:34.41,Default,,0,0,0,,{\an7}Lv. 76  Wild Grandma
-Dialogue: 0,0:15:32.16,0:15:34.41,Default,,0,0,0,,Don't make it sound like she's\Nsome monster from somewhere.
-Dialogue: 0,0:15:34.62,0:15:36.16,Default,,0,0,0,,Speaking of, I've seen her before.
-Dialogue: 0,0:15:36.16,0:15:37.87,Default,,0,0,0,,That's Loli's Granny.
-Dialogue: 0,0:15:37.87,0:15:38.70,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:13:32.04,0:13:34.56,Default,,0,0,0,,Go home and suck on\Nyour mama's tits or something.
+Dialogue: 0,0:13:35.94,0:13:36.75,Default,,0,0,0,,Huh?
+Dialogue: 0,0:13:37.92,0:13:40.11,Default,,0,0,0,,H-hey!
+Dialogue: 0,0:13:41.97,0:13:45.24,Default,,0,0,0,,Wota, Robo, you're over there, right?
+Dialogue: 0,0:13:45.24,0:13:46.59,Default,,0,0,0,,I said, hey!
+Dialogue: 0,0:13:49.22,0:13:50.39,Default,,0,0,0,,Hanamaru-san.
+Dialogue: 0,0:13:50.39,0:13:51.69,Default,,0,0,0,,It's Shibazaki.
+Dialogue: 0,0:13:57.49,0:14:02.40,Default,,0,0,0,,For example, let's say that there is a\Nmonomial of 3ABXH to the nth-power here.
+Dialogue: 0,0:14:01.30,0:14:03.22,Default,,0,0,0,,{\an8}Class is boring.
+Dialogue: 0,0:14:03.22,0:14:11.91,Default,,0,0,0,,In the situation where this will be considered\Na monomial of X versus a monomial of A...
+Dialogue: 0,0:14:04.23,0:14:07.27,Default,,0,0,0,,{\an8}Robo's seriously taking notes...
+Dialogue: 0,0:14:10.53,0:14:12.19,Default,,0,0,0,,{\an8}Is she a genius...?!
+Dialogue: 0,0:14:13.24,0:14:16.35,Default,,0,0,0,,The degrees and coefficients\Nwill each end up being different.
+Dialogue: 0,0:14:16.24,0:14:19.41,Default,,0,0,0,,{\an8}She's in despair over the maze she created herself...
+Comment: 0,0:14:16.71,0:14:20.83,Default,,0,0,0,,A polynomial is where a monomial\Nis added and subtracted...
+Dialogue: 0,0:14:19.41,0:14:20.75,Default,,0,0,0,,{\an8}Or so I thought...
+Dialogue: 0,0:14:22.97,0:14:24.13,Default,,0,0,0,,Delight...?!
+Dialogue: 0,0:14:25.30,0:14:35.72,Default,,0,0,0,,{\an8}For example, the monomial 3XY multiplied by\Nthe monomial of 7AB equals 4ABXY, and this again...
+Dialogue: 0,0:14:28.91,0:14:32.84,Default,,0,0,0,,All Wota's probably thinking about is BL stuff...
+Dialogue: 0,0:14:32.84,0:14:36.74,Default,,0,0,0,,After all, the only thing this one\Nreally thinks about, is BL stuff.
+Dialogue: 0,0:14:35.72,0:14:36.74,Default,,0,0,0,,Hey Tanaka.
+Dialogue: 0,0:14:37.50,0:14:39.54,Default,,0,0,0,,You've been spacing out since earlier.
+Dialogue: 0,0:14:39.54,0:14:41.27,Default,,0,0,0,,Tell me what you're thinking about right now.
+Dialogue: 0,0:14:41.27,0:14:42.31,Default,,0,0,0,,Right now?
+Dialogue: 0,0:14:42.31,0:14:44.78,Default,,0,0,0,,Right now, I was thinking about BL stuff.
+Dialogue: 0,0:14:44.78,0:14:49.04,Default,,0,0,0,,Oh, that's wrong. I was thinking about Kikuchi-san,\Nwho's thinking about BL stuff.
+Dialogue: 0,0:14:48.14,0:14:49.82,Default,,0,0,0,,{\an8}What?!
+Dialogue: 0,0:14:49.82,0:14:51.02,Default,,0,0,0,,I wasn't thinking that!
+Dialogue: 0,0:14:51.02,0:14:52.37,Default,,0,0,0,,Then what were you thinking about?
+Dialogue: 0,0:14:52.37,0:14:54.58,Default,,0,0,0,,Obviously, about monomials and polynomials!
+Dialogue: 0,0:14:53.28,0:14:54.58,Default,,0,0,0,,{\an8}Saginomiya-san.
+Dialogue: 0,0:14:54.58,0:14:56.12,Default,,0,0,0,,{\an8}So, that's BL after all.
+Dialogue: 0,0:14:56.12,0:14:57.93,Default,,0,0,0,,{\an8}Don't make me out to be some freak!
+Dialogue: 0,0:14:57.83,0:14:59.58,Default,,0,0,0,,{\an8}What the hell is monomial and polynomial BL about?!
+Dialogue: 0,0:14:59.58,0:15:01.21,Default,,0,0,0,,{\an8}You guys are being loud. Sit down.
+Dialogue: 0,0:14:54.98,0:14:57.93,Default,,0,0,0,,I have admired you since middle school.
+Dialogue: 0,0:14:57.93,0:15:01.21,Default,,0,0,0,,{\an8}The fact that we'd unexpectedly be in\Nthe same high school and the same class is...
+Dialogue: 0,0:15:01.21,0:15:02.99,Default,,0,0,0,,The next problem goes to...
+Dialogue: 0,0:15:02.99,0:15:05.28,Default,,0,0,0,,Next after Nishimura is...
+Dialogue: 0,0:15:03.96,0:15:06.93,Default,,0,0,0,,{\an8}Based off the student attendance list order, I'm next.
+Dialogue: 0,0:15:07.39,0:15:09.97,Default,,0,0,0,,I have to show myself in a good way to Saginomiya-san.
+Dialogue: 0,0:15:09.01,0:15:09.97,Default,,0,0,0,,{\an8}Then...
+Dialogue: 0,0:15:10.42,0:15:11.05,Default,,0,0,0,,Kikuchi.
+Dialogue: 0,0:15:11.05,0:15:11.74,Default,,0,0,0,,Yes sir!
+Dialogue: 0,0:15:11.74,0:15:13.35,Default,,0,0,0,,What?!
+Dialogue: 0,0:15:13.67,0:15:17.35,Default,,0,0,0,,Um... If you consider it an X equation,\Nthen the "top" is... I mean, um...
+Dialogue: 0,0:15:15.68,0:15:16.49,Default,,0,0,0,,{\an8}Huh?
+Dialogue: 0,0:15:21.10,0:15:23.23,Default,,0,0,0,,I forgot my gym clothes!
+Dialogue: 0,0:15:23.23,0:15:26.11,Default,,0,0,0,,What am I supposed to do about\Nthe gym class that's next?!
+Dialogue: 0,0:15:27.53,0:15:29.41,Default,,0,0,0,,Hey, look over there.
+Dialogue: 0,0:15:30.28,0:15:32.11,Default,,0,0,0,,A wild granny has appeared!
+Dialogue: 0,0:15:32.11,0:15:34.37,Default,,0,0,0,,Don't make it sound like she's\Nsome monster from somewhere.
+Dialogue: 0,0:15:34.37,0:15:36.12,Default,,0,0,0,,Speaking of, I've seen her before.
+Dialogue: 0,0:15:36.12,0:15:37.74,Default,,0,0,0,,That's Loli's Granny.
+Dialogue: 0,0:15:38.01,0:15:38.70,Default,,0,0,0,,Seriously?
 Dialogue: 0,0:15:38.70,0:15:40.41,Default,,0,0,0,,Maybe she has some matter to attend to here.
 Dialogue: 0,0:15:40.41,0:15:41.79,Default,,0,0,0,,I'll just go get Loli.
 Dialogue: 0,0:15:41.79,0:15:42.46,Default,,0,0,0,,Okay.
-Dialogue: 0,0:15:42.46,0:15:43.58,Default,,0,0,0,,Let's go, Robo.
-Dialogue: 0,0:15:49.21,0:15:50.30,Default,,0,0,0,,Hey!
-Dialogue: 0,0:15:50.30,0:15:52.34,Default,,0,0,0,,Hey, Loli's Granny!
-Dialogue: 0,0:15:54.60,0:15:55.55,Default,,0,0,0,,Loli?
-Dialogue: 0,0:15:56.18,0:15:59.06,Default,,0,0,0,,I'm in the same class as Loli. I'm Tanaka!
-Dialogue: 0,0:15:59.06,0:16:03.23,Default,,0,0,0,,Tanaka-san. By any chance, by Loli,\Ndo you mean Saku?
-Dialogue: 0,0:16:03.23,0:16:06.32,Default,,0,0,0,,Yeah, yeah, Loli!\NLoli Granny, whatcha come here for?
-Dialogue: 0,0:16:06.32,0:16:07.52,Default,,0,0,0,,Loli Granny...
-Dialogue: 0,0:16:07.52,0:16:08.32,Default,,0,0,0,,Huh?
-Dialogue: 0,0:16:08.32,0:16:09.57,Default,,0,0,0,,Is that Loli's?
-Dialogue: 0,0:16:09.57,0:16:13.82,Default,,0,0,0,,That's right. I came to deliver the item\Nthat Saku forgot, but...
-Dialogue: 0,0:16:13.82,0:16:15.95,Default,,0,0,0,,Then, do you want me to pass it along to her?
-Dialogue: 0,0:16:15.95,0:16:18.33,Default,,0,0,0,,Thank you for that, Tanaka-san.
-Dialogue: 0,0:16:18.33,0:16:23.37,Default,,0,0,0,,But now that I've come, I thought I'd also take\Na quick look to see how Saku is at school.
-Dialogue: 0,0:16:23.37,0:16:24.25,Default,,0,0,0,,Loli!
-Dialogue: 0,0:16:24.25,0:16:25.13,Default,,0,0,0,,Huh?
-Dialogue: 0,0:16:25.13,0:16:27.88,Default,,0,0,0,,She's not here. Maybe she went to the gym?
-Dialogue: 0,0:16:28.30,0:16:31.84,Default,,0,0,0,,I don't want to get yelled at\Nif I say I forgot my gym clothes,
-Dialogue: 0,0:16:31.84,0:16:36.09,Default,,0,0,0,,but on the other hand, there's no one in\Nthe class next-door whom I can borrow from...
-Dialogue: 0,0:16:37.51,0:16:40.35,Default,,0,0,0,,{\an8}Infirmary\NI guess the only choice left is\Npretend to be sick and be absent.
-Dialogue: 0,0:16:40.35,0:16:44.02,Default,,0,0,0,,But having a pretend illness\Nisn't something a person should do!
-Dialogue: 0,0:16:44.02,0:16:46.81,Default,,0,0,0,,She's a really good girl, you know.
-Dialogue: 0,0:16:47.11,0:16:50.40,Default,,0,0,0,,And yet, she'll do a funny thing and\Npretend to be all strong and take up a big attitude,
-Dialogue: 0,0:16:50.40,0:16:52.49,Default,,0,0,0,,so I just get so worried, you see.
-Dialogue: 0,0:16:52.49,0:16:54.20,Default,,0,0,0,,Ouch. Ow, ow, ow, ow.
-Dialogue: 0,0:16:54.20,0:16:55.86,Default,,0,0,0,,Wh-what's wrong, Loli Granny?!
-Dialogue: 0,0:16:55.86,0:16:57.95,Default,,0,0,0,,My legs aren't doing so well, you see...
-Dialogue: 0,0:16:57.95,0:16:58.95,Default,,0,0,0,,You okay?!
-Dialogue: 0,0:16:58.95,0:17:00.66,Default,,0,0,0,,I'm fine. I'm fine.
-Dialogue: 0,0:17:00.66,0:17:02.62,Default,,0,0,0,,It won't be a problem if I go up slowly.
-Dialogue: 0,0:17:02.62,0:17:03.25,Default,,0,0,0,,All right!
-Dialogue: 0,0:17:03.25,0:17:06.29,Default,,0,0,0,,Get on, Granny! I'll carry you to wherever Loli is!
-Dialogue: 0,0:17:06.29,0:17:08.50,Default,,0,0,0,,What?! But I feel bad.
-Dialogue: 0,0:17:08.50,0:17:12.76,Default,,0,0,0,,I'll be fine! I'm more than 90 years\Nyounger than you are, Granny!
-Dialogue: 0,0:17:12.97,0:17:15.76,Default,,0,0,0,,I don't think there's that big of an age difference, but...
-Dialogue: 0,0:17:19.60,0:17:23.10,Default,,0,0,0,,Can you even say that you'll be fine, in that state?
-Dialogue: 0,0:17:26.35,0:17:27.23,Default,,0,0,0,,Oh!
-Dialogue: 0,0:17:27.23,0:17:28.52,Default,,0,0,0,,My shoelace!
-Dialogue: 0,0:17:28.52,0:17:30.90,Default,,0,0,0,,Granny, hold on tight!
-Dialogue: 0,0:17:31.73,0:17:32.82,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:17:35.78,0:17:38.03,Default,,0,0,0,,Well, I would think that's how it'd turn out.
-Dialogue: 0,0:17:38.66,0:17:39.87,Default,,0,0,0,,The shoelace...
-Dialogue: 0,0:17:39.87,0:17:41.62,Default,,0,0,0,,It's like I should reach it, but I can't reach it...!
-Dialogue: 0,0:17:41.62,0:17:42.74,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:17:42.74,0:17:44.83,Default,,0,0,0,,If I knew this was gonna happen,
-Dialogue: 0,0:17:44.83,0:17:47.87,Default,,0,0,0,,then I should've drunk vinegar every day\Nand made my body flexible...!
-Dialogue: 0,0:17:47.87,0:17:51.34,Default,,0,0,0,,There is the alternative of putting me down\Nand tying them, you know.
-Dialogue: 0,0:17:51.34,0:17:52.46,Default,,0,0,0,,Oh yeah!
-Dialogue: 0,0:17:52.67,0:17:54.67,Default,,0,0,0,,You're an odd child.
-Dialogue: 0,0:17:54.67,0:17:56.68,Default,,0,0,0,,Whew! I'm gonna take a quick break.
-Dialogue: 0,0:17:56.68,0:17:57.84,Default,,0,0,0,,You mean, here?
-Dialogue: 0,0:17:57.84,0:17:59.55,Default,,0,0,0,,Yeah. You got anything?
-Dialogue: 0,0:17:59.55,0:18:03.85,Default,,0,0,0,,You know, grannies often have stuff like mandarin\Noranges and baked sweet potatoes in their bags, right?
-Dialogue: 0,0:18:03.85,0:18:08.90,Default,,0,0,0,,It's not like all the grandmothers in the world\Ncarry mandarin oranges and potatoes, you know.
-Dialogue: 0,0:18:08.90,0:18:11.19,Default,,0,0,0,,Huh. Well, that's okay.
-Dialogue: 0,0:18:11.19,0:18:13.65,Default,,0,0,0,,Then, tell me more stories about Loli!
-Dialogue: 0,0:18:13.65,0:18:14.40,Default,,0,0,0,,Oh...
-Dialogue: 0,0:18:14.40,0:18:16.03,Default,,0,0,0,,Like super fun ones, okay?!
-Dialogue: 0,0:18:16.03,0:18:17.53,Default,,0,0,0,,Well, let's see...
-Dialogue: 0,0:18:17.70,0:18:19.49,Default,,0,0,0,,Yeah, that's right. And then...
-Dialogue: 0,0:18:18.32,0:18:19.49,Default,,0,0,0,,{\an8}Uh, um...
-Dialogue: 0,0:18:19.49,0:18:20.53,Default,,0,0,0,,I...
-Dialogue: 0,0:18:20.53,0:18:24.58,Default,,0,0,0,,I'm in Class 1-2. The name's Saku Momoi, but...
+Dialogue: 0,0:15:42.46,0:15:43.48,Default,,0,0,0,,Let's go, Robo.
+Dialogue: 0,0:15:49.24,0:15:50.30,Default,,0,0,0,,Hey!
+Dialogue: 0,0:15:50.30,0:15:52.26,Default,,0,0,0,,Hey, Loli's Granny!
+Dialogue: 0,0:15:54.51,0:15:55.64,Default,,0,0,0,,Loli?
+Dialogue: 0,0:15:56.69,0:15:59.25,Default,,0,0,0,,I'm in the same class as Loli. I'm Tanaka!
+Dialogue: 0,0:15:59.25,0:16:03.19,Default,,0,0,0,,Tanaka-san. By any chance, by Loli,\Ndo you mean Saku?
+Dialogue: 0,0:16:03.19,0:16:06.32,Default,,0,0,0,,Yeah, yeah, Loli!\NLoli Granny, whatcha come here for?
+Dialogue: 0,0:16:06.32,0:16:07.80,Default,,0,0,0,,Loli Granny...
+Dialogue: 0,0:16:07.80,0:16:08.28,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:08.28,0:16:09.53,Default,,0,0,0,,Is that Loli's?
+Dialogue: 0,0:16:09.53,0:16:13.97,Default,,0,0,0,,That's right. I came to deliver the item\Nthat Saku forgot, but...
+Dialogue: 0,0:16:13.97,0:16:15.95,Default,,0,0,0,,Then, do you want me to pass it along to her?
+Dialogue: 0,0:16:15.95,0:16:18.29,Default,,0,0,0,,Thank you for that, Tanaka-san.
+Dialogue: 0,0:16:18.55,0:16:23.37,Default,,0,0,0,,But now that I've come, I thought I'd also take\Na quick look to see how Saku is at school.
+Dialogue: 0,0:16:23.37,0:16:24.17,Default,,0,0,0,,Loli!
+Dialogue: 0,0:16:24.43,0:16:25.13,Default,,0,0,0,,Huh?
+Dialogue: 0,0:16:25.13,0:16:27.92,Default,,0,0,0,,She's not here. Maybe she went to the gym?
+Dialogue: 0,0:16:28.39,0:16:31.91,Default,,0,0,0,,I don't want to get yelled at\Nif I say I forgot my gym clothes,
+Dialogue: 0,0:16:31.91,0:16:36.09,Default,,0,0,0,,but on the other hand, there's no one in\Nthe class next-door whom I can borrow from...
+Dialogue: 0,0:16:37.43,0:16:40.31,Default,,0,0,0,,I guess the only choice left is pretend to be sick and be absent.
+Dialogue: 0,0:16:40.68,0:16:44.14,Default,,0,0,0,,But having a pretend illness\Nisn't something a person should do!
+Dialogue: 0,0:16:44.14,0:16:47.20,Default,,0,0,0,,She's a really good girl, you know.
+Dialogue: 0,0:16:47.20,0:16:50.40,Default,,0,0,0,,And yet, she'll do a funny thing and\Npretend to be all strong and take up a big attitude,
+Dialogue: 0,0:16:50.40,0:16:52.44,Default,,0,0,0,,so I just get so worried, you see.
+Dialogue: 0,0:16:52.44,0:16:54.20,Default,,0,0,0,,Ouch. Ow, ow, ow, ow.
+Dialogue: 0,0:16:54.20,0:16:55.93,Default,,0,0,0,,Wh-what's wrong, Loli Granny?!
+Dialogue: 0,0:16:55.93,0:16:57.95,Default,,0,0,0,,My legs aren't doing so well, you see...
+Dialogue: 0,0:16:57.95,0:16:58.91,Default,,0,0,0,,You okay?!
+Dialogue: 0,0:16:59.16,0:17:00.50,Default,,0,0,0,,I'm fine. I'm fine.
+Dialogue: 0,0:17:00.50,0:17:02.62,Default,,0,0,0,,It won't be a problem if I go up slowly.
+Dialogue: 0,0:17:02.62,0:17:03.16,Default,,0,0,0,,All right!
+Dialogue: 0,0:17:03.16,0:17:06.29,Default,,0,0,0,,Get on, Granny! I'll carry you to wherever Loli is!
+Dialogue: 0,0:17:06.29,0:17:08.38,Default,,0,0,0,,What?! But I feel bad.
+Dialogue: 0,0:17:08.38,0:17:12.67,Default,,0,0,0,,I'll be fine! I'm more than 90 years\Nyounger than you are, Granny!
+Dialogue: 0,0:17:12.89,0:17:15.68,Default,,0,0,0,,I don't think there's that big of an age difference, but...
+Dialogue: 0,0:17:19.53,0:17:23.18,Default,,0,0,0,,Can you even say that you'll be fine, in that state?
+Dialogue: 0,0:17:26.35,0:17:27.19,Default,,0,0,0,,Oh!
+Dialogue: 0,0:17:27.19,0:17:28.48,Default,,0,0,0,,My shoelace!
+Dialogue: 0,0:17:28.48,0:17:31.07,Default,,0,0,0,,Granny, hold on tight!
+Dialogue: 0,0:17:31.07,0:17:31.69,Default,TLC,0,0,0,,{Missing TL?}
+Dialogue: 0,0:17:31.69,0:17:32.74,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:17:35.78,0:17:38.33,Default,,0,0,0,,Well, I would think that's how it'd turn out.
+Dialogue: 0,0:17:38.33,0:17:39.87,Default,,0,0,0,,The shoelace...
+Dialogue: 0,0:17:39.87,0:17:41.58,Default,,0,0,0,,It's like I should reach it, but I can't reach it...!
+Dialogue: 0,0:17:41.58,0:17:42.74,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:17:42.74,0:17:47.87,Default,,0,0,0,,If I knew this was gonna happen, then I should've drunk vinegar every day and made my body flexible...!
+Dialogue: 0,0:17:47.87,0:17:51.25,Default,,0,0,0,,There is the alternative of putting me down\Nand tying them, you know.
+Dialogue: 0,0:17:51.25,0:17:52.59,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:17:52.59,0:17:54.59,Default,,0,0,0,,You're an odd child.
+Dialogue: 0,0:17:54.59,0:17:56.72,Default,,0,0,0,,Whew! I'm gonna take a quick break.
+Dialogue: 0,0:17:56.72,0:17:57.75,Default,,0,0,0,,You mean, here?
+Dialogue: 0,0:17:57.75,0:17:59.61,Default,,0,0,0,,Yeah. You got anything?
+Dialogue: 0,0:17:59.61,0:18:03.88,Default,,0,0,0,,You know, grannies often have stuff like mandarin\Noranges and baked sweet potatoes in their bags, right?
+Dialogue: 0,0:18:03.88,0:18:08.85,Default,,0,0,0,,It's not like all the grandmothers in the world\Ncarry mandarin oranges and potatoes, you know.
+Dialogue: 0,0:18:08.85,0:18:11.29,Default,,0,0,0,,Huh. Well, that's okay.
+Dialogue: 0,0:18:11.29,0:18:13.61,Default,,0,0,0,,Then, tell me more stories about Loli!
+Dialogue: 0,0:18:13.61,0:18:14.40,Default,,0,0,0,,Oh...
+Dialogue: 0,0:18:14.40,0:18:16.06,Default,,0,0,0,,Like super fun ones, okay?!
+Dialogue: 0,0:18:16.06,0:18:17.61,Default,,0,0,0,,Well, let's see...
+Dialogue: 0,0:18:17.61,0:18:19.61,Default,,0,0,0,,Yeah, that's right. And then...
+Comment: 0,0:18:18.32,0:18:19.61,Default,,0,0,0,,{\an8}Uh, um...
+Dialogue: 0,0:18:19.61,0:18:20.49,Default,,0,0,0,,I...
+Dialogue: 0,0:18:20.49,0:18:24.47,Default,,0,0,0,,I'm in Class 1-2. The name's Saku Momoi, but...
+Dialogue: 0,0:18:24.47,0:18:26.16,Default,,0,0,0,,I've got gym class next and...
 Dialogue: 0,0:18:22.70,0:18:26.16,Default,,0,0,0,,{\an8}When Saku was still eight years old...
-Dialogue: 0,0:18:24.58,0:18:26.16,Default,,0,0,0,,I've got gym class next and...
-Dialogue: 0,0:18:26.16,0:18:30.54,Default,,0,0,0,,It turned out that her father was being\Ntransferred overseas to Germany for work.
-Dialogue: 0,0:18:30.75,0:18:32.96,Default,,0,0,0,,Where's Germany? Is it far?
-Dialogue: 0,0:18:32.96,0:18:34.88,Default,,0,0,0,,It's not too far away.
-Dialogue: 0,0:18:34.13,0:18:38.09,Default,,0,0,0,,{\an8}Originally, the family should have all gone together, but...
-Dialogue: 0,0:18:34.88,0:18:36.21,Default,,0,0,0,,The city is very pretty
-Dialogue: 0,0:18:36.21,0:18:38.09,Default,,0,0,0,,and they say the country is easy to live in.
-Dialogue: 0,0:18:39.63,0:18:42.18,Default,,0,0,0,,Grandma, you're not going? Why?
-Dialogue: 0,0:18:42.18,0:18:45.31,Default,,0,0,0,,There's no way I can go overseas at my age.
-Dialogue: 0,0:18:45.31,0:18:49.02,Default,,0,0,0,,I plan on living and dying in this town, so.
-Dialogue: 0,0:18:49.56,0:18:52.06,Default,,0,0,0,,Don't worry about me. The three of you should go.
-Dialogue: 0,0:18:52.06,0:18:54.48,Default,,0,0,0,,It's not as if we'll never see each other again\Nfor the rest of our lives.
-Dialogue: 0,0:18:54.48,0:18:57.32,Default,,0,0,0,,No! Saku's staying with Grandma!
-Dialogue: 0,0:18:57.32,0:19:00.41,Default,,0,0,0,,She really is a kind girl, you know.
-Dialogue: 0,0:19:00.41,0:19:03.91,Default,,0,0,0,,She stayed behind for my sake, you see.
-Dialogue: 0,0:19:03.91,0:19:07.25,Default,,0,0,0,,She probably actually wanted to be\Nwith her parents, but...
-Dialogue: 0,0:19:07.25,0:19:09.21,Default,,0,0,0,,So, that's probably why...
-Dialogue: 0,0:19:09.66,0:19:13.09,Default,,0,0,0,,If you don't mind using mine.\NI think it might be a bit big, but...
-Dialogue: 0,0:19:13.09,0:19:17.26,Default,,0,0,0,,She's not very good about\Ndepending on people other than me.
-Dialogue: 0,0:19:18.13,0:19:18.92,Default,,0,0,0,,Oh!
-Dialogue: 0,0:19:18.92,0:19:20.88,Default,,0,0,0,,Th-thank you...
-Dialogue: 0,0:19:20.88,0:19:23.10,Default,,0,0,0,,Oh, Loli! We finally found you!
-Dialogue: 0,0:19:23.10,0:19:23.93,Default,,0,0,0,,Huh?
+Dialogue: 0,0:18:26.16,0:18:30.50,Default,,0,0,0,,It turned out that her father was being\Ntransferred overseas to Germany for work.
+Dialogue: 0,0:18:30.78,0:18:33.08,Default,,0,0,0,,Where's Germany? Is it far?
+Dialogue: 0,0:18:33.08,0:18:35.02,Default,,0,0,0,,{\an8}It's not too far away.
+Dialogue: 0,0:18:35.02,0:18:38.01,Default,,0,0,0,,{\an8}The city is very pretty and they say the country is easy to live in.
+Dialogue: 0,0:18:34.19,0:18:38.01,Default,,0,0,0,,Originally, the family should have all gone together, but...
+Dialogue: 0,0:18:39.75,0:18:42.28,Default,,0,0,0,,Grandma, you're not going? Why?
+Dialogue: 0,0:18:42.28,0:18:45.27,Default,,0,0,0,,There's no way I can go overseas at my age.
+Dialogue: 0,0:18:45.50,0:18:49.15,Default,,0,0,0,,I plan on living and dying in this town, so.
+Dialogue: 0,0:18:49.52,0:18:52.13,Default,,0,0,0,,Don't worry about me. The three of you should go.
+Dialogue: 0,0:18:52.13,0:18:54.44,Default,,0,0,0,,It's not as if we'll never see each other again\Nfor the rest of our lives.
+Dialogue: 0,0:18:54.44,0:18:57.28,Default,,0,0,0,,No! Saku's staying with Grandma!
+Dialogue: 0,0:18:57.28,0:19:00.62,Default,,0,0,0,,She really is a kind girl, you know.
+Dialogue: 0,0:19:00.62,0:19:03.87,Default,,0,0,0,,She stayed behind for my sake, you see.
+Dialogue: 0,0:19:03.87,0:19:07.35,Default,,0,0,0,,She probably actually wanted to be\Nwith her parents, but...
+Dialogue: 0,0:19:07.35,0:19:09.12,Default,,0,0,0,,So, that's probably why...
+Dialogue: 0,0:19:09.55,0:19:13.00,Default,,0,0,0,,If you don't mind using mine.\NI think it might be a bit big, but...
+Dialogue: 0,0:19:13.00,0:19:17.36,Default,,0,0,0,,She's not very good about\Ndepending on people other than me.
+Dialogue: 0,0:19:18.13,0:19:18.63,Default,,0,0,0,,Oh!
+Dialogue: 0,0:19:18.92,0:19:21.02,Default,,0,0,0,,Th-thank you...
+Dialogue: 0,0:19:21.02,0:19:23.10,Default,,0,0,0,,Oh, Loli! We finally found you!
+Dialogue: 0,0:19:23.10,0:19:23.89,Default,,0,0,0,,Huh?
 Dialogue: 0,0:19:24.18,0:19:26.77,Default,,0,0,0,,Granny, that was a good story.
 Dialogue: 0,0:19:26.77,0:19:28.85,Default,,0,0,0,,Although there wasn't a single\Nfunny thing in it to laugh about.
-Dialogue: 0,0:19:28.85,0:19:31.31,Default,,0,0,0,,It wasn't meant to make you laugh in the first place.
-Dialogue: 0,0:19:31.31,0:19:32.23,Default,,0,0,0,,Grandma!
-Dialogue: 0,0:19:32.23,0:19:32.85,Default,,0,0,0,,Huh?
-Dialogue: 0,0:19:32.85,0:19:34.15,Default,,0,0,0,,And Tanaka?!
-Dialogue: 0,0:19:34.15,0:19:37.40,Default,,0,0,0,,What's up with you lounging with\Nsomeone else's grandma on the landing?!
-Dialogue: 0,0:19:37.69,0:19:41.20,Default,,0,0,0,,Why are you together with the likes of Tanaka?!\NHas she done anything weird to you?
-Dialogue: 0,0:19:41.20,0:19:43.78,Default,,0,0,0,,Hey! What the hell do you think I am?!
+Dialogue: 0,0:19:28.85,0:19:31.38,Default,,0,0,0,,It wasn't meant to make you laugh in the first place.
+Dialogue: 0,0:19:31.38,0:19:32.23,Default,,0,0,0,,Grandma!
+Dialogue: 0,0:19:32.23,0:19:32.65,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:32.93,0:19:34.27,Default,,0,0,0,,And Tanaka?!
+Dialogue: 0,0:19:34.27,0:19:37.65,Default,,0,0,0,,What's up with you lounging with\Nsomeone else's grandma on the landing?!
+Dialogue: 0,0:19:37.65,0:19:41.11,Default,,0,0,0,,Why are you together with the likes of Tanaka?!\NHas she done anything weird to you?
+Dialogue: 0,0:19:41.11,0:19:43.78,Default,,0,0,0,,Hey! What the hell do you think I am?!
 Dialogue: 0,0:19:43.78,0:19:45.78,Default,,0,0,0,,She's treating you the same as a degenerate.
-Dialogue: 0,0:19:45.99,0:19:50.37,Default,,0,0,0,,Saku, when I came to deliver the items you forgot,\Nshe treated me kindly, you see.
-Dialogue: 0,0:19:50.37,0:19:51.37,Default,,0,0,0,,Huh?
-Dialogue: 0,0:19:51.37,0:19:52.71,Default,,0,0,0,,Those are...
-Dialogue: 0,0:19:52.71,0:19:56.25,Default,,0,0,0,,Oh... I-I borrowed them from someone\Nin the class next door.
-Dialogue: 0,0:19:56.55,0:19:58.59,Default,,0,0,0,,You, Saku? By yourself?
-Dialogue: 0,0:19:58.59,0:19:59.55,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:19:59.55,0:20:03.76,Default,,0,0,0,,Oh! Then I guess it was unnecessary\Nfor me to come deliver them.
+Dialogue: 0,0:19:45.78,0:19:50.37,Default,,0,0,0,,Saku, when I came to deliver the items you forgot,\Nshe treated me kindly, you see.
+Dialogue: 0,0:19:50.37,0:19:51.04,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:51.40,0:19:52.71,Default,,0,0,0,,Those are...
+Dialogue: 0,0:19:52.71,0:19:56.17,Default,,0,0,0,,Oh... I-I borrowed them from someone\Nin the class next door.
+Dialogue: 0,0:19:56.49,0:19:58.59,Default,,0,0,0,,You, Saku? By yourself?
+Dialogue: 0,0:19:58.59,0:19:59.47,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:59.47,0:20:03.76,Default,,0,0,0,,Oh! Then I guess it was unnecessary\Nfor me to come deliver them.
 Dialogue: 0,0:20:03.76,0:20:06.35,Default,,0,0,0,,Th-th-that's not true! It wasn't unnecessary at all!
 Dialogue: 0,0:20:06.35,0:20:07.14,Default,,0,0,0,,That's right!
-Dialogue: 0,0:20:07.14,0:20:07.76,Default,,0,0,0,,Huh?
-Dialogue: 0,0:20:07.76,0:20:10.14,Default,,0,0,0,,Same as unnecessary hair,\Nthere's nothing that's unnecessary!
-Dialogue: 0,0:20:10.14,0:20:13.23,Default,,0,0,0,,Granny's peach fuzz around her mouth\Nisn't unnecessary.
-Dialogue: 0,0:20:13.23,0:20:14.48,Default,,0,0,0,,That's proof of evolution!
-Dialogue: 0,0:20:14.48,0:20:16.11,Default,,0,0,0,,This is just aging.
-Dialogue: 0,0:20:16.61,0:20:20.07,Default,,0,0,0,,But, you're right. I'm definitely glad I came.
-Dialogue: 0,0:20:20.07,0:20:21.19,Default,,0,0,0,,Grandma...
-Dialogue: 0,0:20:21.19,0:20:22.49,Default,,0,0,0,,Oh yeah!
-Dialogue: 0,0:20:22.49,0:20:26.58,Default,,0,0,0,,I got to hear a whole lot of good stories\Nabout Loli, from Granny!
-Dialogue: 0,0:20:26.58,0:20:27.99,Default,,0,0,0,,You...! You bastard!
-Dialogue: 0,0:20:27.99,0:20:29.95,Default,,0,0,0,,What are you saying you heard, huh?!
+Comment: 0,0:20:07.14,0:20:07.76,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:07.56,0:20:10.14,Default,,0,0,0,,Same as unnecessary hair,\Nthere's nothing that's unnecessary!
+Dialogue: 0,0:20:10.14,0:20:13.30,Default,,0,0,0,,Granny's peach fuzz around her mouth\Nisn't unnecessary.
+Dialogue: 0,0:20:13.30,0:20:14.48,Default,,0,0,0,,That's proof of evolution!
+Dialogue: 0,0:20:14.48,0:20:16.06,Default,,0,0,0,,This is just aging.
+Dialogue: 0,0:20:16.61,0:20:20.11,Default,,0,0,0,,But, you're right. I'm definitely glad I came.
+Dialogue: 0,0:20:20.11,0:20:21.19,Default,,0,0,0,,Grandma...
+Dialogue: 0,0:20:21.19,0:20:22.45,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:20:22.45,0:20:26.58,Default,,0,0,0,,I got to hear a whole lot of good stories\Nabout Loli, from Granny!
+Dialogue: 0,0:20:26.58,0:20:27.95,Default,,0,0,0,,You...! You bastard!
+Dialogue: 0,0:20:27.95,0:20:30.22,Default,,0,0,0,,What are you saying you heard, huh?!
 Dialogue: 0,0:20:30.79,0:20:32.12,Default,,0,0,0,,Hey! Spit it out!
 Dialogue: 0,0:20:32.12,0:20:33.33,Default,,0,0,0,,I can't say it right now.
-Dialogue: 0,0:20:32.91,0:20:36.96,Default,,0,0,0,,{\an8}It's been a long time since I've seen her\Nseem like she's having that much fun.
 Dialogue: 0,0:20:33.33,0:20:34.54,Default,,0,0,0,,Spit it out now!
 Dialogue: 0,0:20:34.54,0:20:36.17,Default,,0,0,0,,I wanna savor this for a little while more first.
 Dialogue: 0,0:20:36.17,0:20:37.34,Default,,0,0,0,,Don't savor it!
-Dialogue: 0,0:20:36.96,0:20:39.67,Default,,0,0,0,,{\an8}Seems fun... Is that what you call that?
 Dialogue: 0,0:20:37.34,0:20:38.63,Default,,0,0,0,,I could totally savor it over at least three rice bowls!
 Dialogue: 0,0:20:38.63,0:20:39.67,Default,,0,0,0,,Don't turn it into a snack!
-Dialogue: 0,0:20:39.67,0:20:40.21,Default,,0,0,0,,Loli...
-Dialogue: 0,0:20:40.42,0:20:44.09,Default,,0,0,0,,Please continue to get along well with Saku,\Nfrom here on as well.
-Dialogue: 0,0:20:44.09,0:20:48.18,Default,,0,0,0,,You can count on me! Tell me some more\Ngood stories about Loli again, okay?!
-Dialogue: 0,0:20:48.18,0:20:50.56,Default,,0,0,0,,What a nice grandma who loves her grandchild.
-Dialogue: 0,0:20:48.18,0:20:51.31,Default,,0,0,0,,{\an8}See ya, Granny! Take care!
-Dialogue: 0,0:20:50.56,0:20:52.18,Default,,0,0,0,,They seem to get along very well.
-Dialogue: 0,0:20:52.18,0:20:54.94,Default,,0,0,0,,Yeah. Her sense of humor is so-so, but...
-Dialogue: 0,0:20:54.94,0:20:56.31,Default,,0,0,0,,she was a good granny!
+Dialogue: 0,0:20:39.67,0:20:40.13,Default,,0,0,0,,{\an8}Loli...
+Dialogue: 0,0:20:32.58,0:20:36.88,Default,,0,0,0,,{\an8}It's been a long time since I've seen her\Nseem like she's having that much fun.
+Dialogue: 0,0:20:36.88,0:20:39.59,Default,,0,0,0,,{\an8}Seems fun... Is that what you call that?
+Dialogue: 0,0:20:40.35,0:20:44.01,Default,,0,0,0,,Please continue to get along well with Saku,\Nfrom here on as well.
+Dialogue: 0,0:20:44.01,0:20:48.14,Default,,0,0,0,,You can count on me! Tell me some more\Ngood stories about Loli again, okay?!
+Dialogue: 0,0:20:48.14,0:20:50.56,Default,,0,0,0,,What a nice grandma who loves her grandchild.
+Dialogue: 0,0:20:48.14,0:20:51.31,Default,,0,0,0,,{\an8}See ya, Granny! Take care!
+Dialogue: 0,0:20:50.56,0:20:52.14,Default,,0,0,0,,They seem to get along very well.
+Dialogue: 0,0:20:52.14,0:20:54.90,Default,,0,0,0,,Yeah. Her sense of humor is so-so, but...
+Dialogue: 0,0:20:54.90,0:20:56.31,Default,,0,0,0,,she was a good granny!
 Dialogue: 0,0:20:56.31,0:20:57.31,Default,,0,0,0,,Why're you trying to expect that?!
 Dialogue: 0,0:20:57.31,0:20:58.15,Default,,0,0,0,,That's right.
-Dialogue: 0,0:20:58.15,0:20:58.90,Default,,0,0,0,,Huh?
-Dialogue: 0,0:20:59.23,0:21:01.65,Default,,0,0,0,,My Grandma is my pride and joy!
+Comment: 0,0:20:58.15,0:20:58.90,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:59.26,0:21:01.65,Default,,0,0,0,,My Grandma is my pride and joy!
 Dialogue: 0,0:21:19.59,0:21:23.92,Default,,0,0,0,,Noisy and loud
 Dialogue: 0,0:21:24.26,0:21:27.84,Default,,0,0,0,,But also endearing
 Dialogue: 0,0:21:28.14,0:21:32.02,Default,,0,0,0,,The laughter from that day
@@ -554,13 +550,12 @@ Dialogue: 0,0:22:01.71,0:22:08.80,Default,,0,0,0,,Your words reverberate in my h
 Dialogue: 0,0:22:08.80,0:22:17.27,Default,,0,0,0,,Someday springtime will take it all away
 Dialogue: 0,0:22:17.27,0:22:24.94,Default,,0,0,0,,Until that day, being stupid is all right
 Dialogue: 0,0:22:25.28,0:22:29.53,Default,,0,0,0,,Because I'll run past it
-Dialogue: 0,0:22:33.66,0:22:36.12,Default,,0,0,0,,H-here are the gym clothes and...
-Dialogue: 0,0:22:37.96,0:22:40.38,Default,,0,0,0,,a box of confections as a thank you for lending them!
-Dialogue: 0,0:22:40.38,0:22:41.67,Default,,0,0,0,,A box of confections?!
-Dialogue: 0,0:22:41.67,0:22:44.34,Default,,0,0,0,,G-Grandma said I should bring them.
-Dialogue: 0,0:22:59.44,0:23:01.19,Default,,0,0,0,,{\an8}Request to conserve water
-Dialogue: 0,0:23:06.44,0:23:08.65,Default,,0,0,0,,M-maybe it was just my imagination...
-Dialogue: 0,0:23:17.00,0:23:19.41,Default,,0,0,0,,Lizardoon...!
-Dialogue: 0,0:23:26.13,0:23:27.13,Default,,0,0,0,,Whew...
-Dialogue: 0,0:23:28.30,0:23:32.30,Default,,0,0,0,,What's wrong, Yamai? You look like a person\Nwho was first to discover a murder scene.
-Dialogue: 0,0:23:36.89,0:23:38.52,Default,,0,0,0,,A lot came out...
+Dialogue: 0,0:22:33.68,0:22:36.24,Default,,0,0,0,,H-here are the gym clothes and...
+Dialogue: 0,0:22:38.10,0:22:40.29,Default,,0,0,0,,a box of confections as a thank you for lending them!
+Dialogue: 0,0:22:40.29,0:22:41.67,Default,,0,0,0,,A box of confections?!
+Dialogue: 0,0:22:41.67,0:22:44.38,Default,,0,0,0,,G-Grandma said I should bring them.
+Dialogue: 0,0:23:06.54,0:23:08.61,Default,,0,0,0,,M-maybe it was just my imagination...
+Dialogue: 0,0:23:16.91,0:23:19.41,Default,,0,0,0,,Lizardoon...!
+Dialogue: 0,0:23:26.11,0:23:27.17,Default,,0,0,0,,Whew...
+Dialogue: 0,0:23:28.21,0:23:32.22,Default,,0,0,0,,What's wrong, Yamai? You look like a person\Nwho was first to discover a murder scene.
+Dialogue: 0,0:23:36.72,0:23:38.52,Default,,0,0,0,,A lot came out...
