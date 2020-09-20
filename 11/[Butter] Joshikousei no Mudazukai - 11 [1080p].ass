@@ -1,615 +1,505 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: Erai-raws
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Subtitle,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
-Style: Subtitle-2,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
-Style: Caption,Open Sans Semibold,34,&H0048FDFE,&H0048FDFE,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-2,Open Sans Semibold,34,&H00A9F88E,&H00A9F88E,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-3,Open Sans Semibold,34,&H007B6CFF,&H007B6CFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-4,Open Sans Semibold,34,&H00FF9AFF,&H00FF9AFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-5,Open Sans Semibold,34,&H006DBEF7,&H006DBEF7,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Song,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-6,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-7,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-8,Open Sans Semibold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-9,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-10,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-11,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-12,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-13,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Song-2,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-14,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-15,Open Sans Semibold,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-16,Open Sans Semibold,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-17,Open Sans Semibold,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-18,Open Sans Semibold,45,&H00B7807B,&H00B7807B,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-19,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-20,Open Sans Semibold,29,&H00C1918C,&H00C1918C,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-21,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-22,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-23,Open Sans Semibold,34,&H00A297EE,&H00A297EE,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-24,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:01.29,0:00:02.71,Subtitle,,0,0,0,,Hey, can I say something amaz-?
-Dialogue: 0,0:00:02.71,0:00:03.33,Subtitle-2,,0,0,0,,Stop it.\NHey, can I say something amaz-?
-Dialogue: 0,0:00:03.33,0:00:03.75,Subtitle,,0,0,0,,Cheap shoes are-
-Dialogue: 0,0:00:03.75,0:00:04.25,Subtitle-2,,0,0,0,,Enough.\NCheap shoes are-
-Dialogue: 0,0:00:04.25,0:00:04.88,Subtitle,,0,0,0,,Risqué dancing is-
-Dialogue: 0,0:00:04.88,0:00:05.67,Subtitle-2,,0,0,0,,Zip your hole.\NRisqué dancing is-
-Dialogue: 0,0:00:05.67,0:00:06.08,Subtitle,,0,0,0,,Stinky turtles are-
-Dialogue: 0,0:00:06.08,0:00:06.92,Subtitle-2,,0,0,0,,Shut up!\NStinky turtles are-
-Dialogue: 0,0:00:06.92,0:00:07.67,Subtitle,,0,0,0,,Mainly in broad-
-Dialogue: 0,0:00:07.67,0:00:08.08,Subtitle-2,,0,0,0,,La la la! Can't hear you!\NMainly in broad-
-Dialogue: 0,0:00:08.08,0:00:09.54,Subtitle-2,,0,0,0,,La la la! Can't hear you!
-Dialogue: 0,0:00:09.54,0:00:10.46,Subtitle,,0,0,0,,PET bottle!
-Dialogue: 0,0:00:10.46,0:00:12.04,Subtitle,,0,0,0,,Cut it the hell out already!
-Dialogue: 0,0:00:12.04,0:00:15.25,Subtitle,,0,0,0,,I'm ticked off as it is, because I can't\Ncome up with an idea for a manga!
-Dialogue: 0,0:00:15.25,0:00:17.96,Subtitle,,0,0,0,,You self-absorbed fool! Just open your ears a little!
-Dialogue: 0,0:00:17.96,0:00:22.21,Subtitle,,0,0,0,,If you take the first letters of the phrases\NBaka tried to say just now...
-Dialogue: 0,0:00:22.75,0:00:23.71,Subtitle,,0,0,0,,Ch...
-Dialogue: 0,0:00:23.71,0:00:24.63,Subtitle,,0,0,0,,ri...
-Dialogue: 0,0:00:24.63,0:00:25.75,Subtitle,,0,0,0,,st...
-Dialogue: 0,0:00:25.75,0:00:26.63,Subtitle,,0,0,0,,ma...
-Dialogue: 0,0:00:28.75,0:00:29.75,Subtitle,,0,0,0,,That's aweso-!
-Dialogue: 0,0:00:29.75,0:00:30.50,Subtitle,,0,0,0,,PE.
-Dialogue: 0,0:00:36.58,0:00:37.46,Subtitle,,0,0,0,,"PE"?
-Dialogue: 0,0:00:40.75,0:00:42.92,Subtitle,,0,0,0,,Well, this year IS almost over.
-Dialogue: 0,0:00:44.13,0:00:45.00,Song,,0,0,0,,Yo
-Dialogue: 0,0:00:46.13,0:00:47.00,Song,,0,0,0,,Mic check
-Dialogue: 0,0:00:47.96,0:00:48.88,Song,,0,0,0,,JK (High school girl)
-Dialogue: 0,0:00:49.75,0:00:50.25,Song,,0,0,0,,Huh?
-Dialogue: 0,0:00:50.25,0:00:50.75,Song,,0,0,0,,Yeah!
-Dialogue: 0,0:00:50.75,0:00:52.67,Song,,0,0,0,,Isn't that usually where one-two is best?
-Dialogue: 0,0:00:52.67,0:00:54.46,Song,,0,0,0,,The moon is a quiet beast during the daytime
-Dialogue: 0,0:00:54.46,0:00:56.33,Song,,0,0,0,,What about the moon? That was sudden
-Dialogue: 0,0:00:56.33,0:00:58.21,Song,,0,0,0,,Once it becomes night, under cover of darkness
-Dialogue: 0,0:00:58.21,0:00:59.83,Song,,0,0,0,,You're so dazzling, wallflower
-Dialogue: 0,0:00:59.83,0:01:01.71,Song,,0,0,0,,Want to be like you, lunatic girls
-Dialogue: 0,0:01:01.71,0:01:03.83,Song,,0,0,0,,Want to jump on that bandwagon, dazzling JK
-Dialogue: 0,0:01:03.83,0:01:04.83,Song,,0,0,0,,The present state of
-Dialogue: 0,0:01:04.83,0:01:05.92,Song,,0,0,0,,Always lazing around is okay!
-Dialogue: 0,0:01:06.04,0:01:09.33,Song,,0,0,0,,Everything in your mind...
-Dialogue: 0,0:01:09.33,0:01:11.00,Song,,0,0,0,,Emptying all that will make you efficient
-Dialogue: 0,0:01:11.00,0:01:12.13,Song,,0,0,0,,Is that so? You know?
-Dialogue: 0,0:01:12.13,0:01:13.42,Song,,0,0,0,,Animal instinct (Meow!)
-Dialogue: 0,0:01:13.54,0:01:17.79,Song,,0,0,0,,A word to society, a maiden's roar
-Dialogue: 0,0:01:17.79,0:01:18.63,Song,,0,0,0,,Ro-ro-ro-ro-round!
-Dialogue: 0,0:01:18.63,0:01:19.67,Song,,0,0,0,,Innovative shout
-Dialogue: 0,0:01:19.67,0:01:21.13,Song,,0,0,0,,Ro-ro-ro-ro-ro-ro-round!
-Dialogue: 0,0:01:21.13,0:01:24.92,Song,,0,0,0,,So, there's no rabbit on the moon, huh?
-Dialogue: 0,0:01:24.92,0:01:28.54,Song,,0,0,0,,So, "dass" is German, huh?
-Dialogue: 0,0:01:28.54,0:01:32.08,Song,,0,0,0,,Background music that makes you want to\Neat curry so hot that you cry!
-Dialogue: 0,0:01:33.38,0:01:34.92,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:01:34.92,0:01:35.75,Song,,0,0,0,,Gather 'round
-Dialogue: 0,0:01:35.75,0:01:36.88,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:01:36.88,0:01:39.17,Song,,0,0,0,,Mic check JK, one-two, JK, one-two
-Dialogue: 0,0:01:39.17,0:01:41.25,Song,,0,0,0,,Anything's okay, everyday
-Dialogue: 0,0:01:41.25,0:01:42.42,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:01:42.42,0:01:43.25,Song,,0,0,0,,Take a breath
-Dialogue: 0,0:01:43.25,0:01:44.42,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:01:44.42,0:01:46.75,Song,,0,0,0,,Sushi, ramen, gyudon, tonkatsu, kishimen
-Dialogue: 0,0:01:46.75,0:01:48.79,Song,,0,0,0,,Background music that makes you want to eat anything
-Dialogue: 0,0:01:48.79,0:01:50.63,Song,,0,0,0,,Don't ever begrudge individuality
-Dialogue: 0,0:01:50.63,0:01:52.58,Song,,0,0,0,,A smoldering instinct, everyone gather 'round!
-Dialogue: 0,0:01:52.58,0:01:54.33,Song,,0,0,0,,Surprise it, toward an unlooked direction
-Dialogue: 0,0:01:54.33,0:01:56.38,Song,,0,0,0,,Even if it's pointless let's go, a treasure before long
-Dialogue: 0,0:01:56.38,0:01:57.50,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:01:57.50,0:01:58.38,Song,,0,0,0,,When you want to cry...
-Dialogue: 0,0:01:58.38,0:01:59.42,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:01:59.42,0:02:01.79,Song,,0,0,0,,Wholeheartedly cry and cry, it's gratifying
-Dialogue: 0,0:02:01.79,0:02:03.75,Song,,0,0,0,,Every day feels refreshing
-Dialogue: 0,0:02:03.75,0:02:04.96,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:02:04.96,0:02:05.79,Song,,0,0,0,,So, after that...
-Dialogue: 0,0:02:05.79,0:02:06.92,Song,,0,0,0,,Ooh, round! Moon! Dass! Cry!
-Dialogue: 0,0:02:06.92,0:02:09.29,Song,,0,0,0,,Even if you don't want to you'll cheer up\Nfor sure, and yeah, you'll smile
-Dialogue: 0,0:02:09.29,0:02:11.63,Song,,0,0,0,,Round! Moon! Dass! Cry! Every day
-Dialogue: 0,0:02:18.29,0:02:19.83,Subtitle,,0,0,0,,It's no good!
-Dialogue: 0,0:02:19.83,0:02:23.46,Subtitle,,0,0,0,,I can't write a thing! I'm totally in a slump.
-Dialogue: 0,0:02:23.88,0:02:26.33,Subtitle,,0,0,0,,The nice young guy Sakuya and the delinquent Takuto...
-Dialogue: 0,0:02:26.33,0:02:27.63,Subtitle,,0,0,0,,They're exact opposites.
-Dialogue: 0,0:02:27.63,0:02:30.67,Subtitle,,0,0,0,,So, who should the main character end up with?
-Dialogue: 0,0:02:30.67,0:02:33.67,Subtitle,,0,0,0,,They're both totally incompatible.
-Dialogue: 0,0:02:33.67,0:02:35.67,Subtitle,,0,0,0,,On top of that, Takuto is a scoundrel...
-Dialogue: 0,0:02:36.42,0:02:37.88,Subtitle,,0,0,0,,It's fine by me...
-Dialogue: 0,0:02:37.88,0:02:41.46,Subtitle,,0,0,0,,If, instead of Erika, it's YOU who entertains me, that is.
-Dialogue: 0,0:02:41.46,0:02:43.42,Subtitle,,0,0,0,,L-let go already!
-Dialogue: 0,0:02:44.38,0:02:47.63,Subtitle,,0,0,0,,Why I can only move forward\Nif it turns into another kind of story?!
-Dialogue: 0,0:02:49.42,0:02:50.83,Subtitle,,0,0,0,,Time for a change of pace.
-Dialogue: 0,0:02:52.00,0:02:55.33,Subtitle,,0,0,0,,Teishotoku P's new song really is great!
-Dialogue: 0,0:02:55.54,0:02:58.96,Subtitle,,0,0,0,,How does he write such wonderful songs?
-Dialogue: 0,0:02:59.17,0:03:01.13,Subtitle,,0,0,0,,What kind of a job does he have?
-Dialogue: 0,0:03:01.13,0:03:02.83,Subtitle,,0,0,0,,What type of girl does he like?
-Dialogue: 0,0:03:02.83,0:03:05.75,Subtitle,,0,0,0,,He probably already has a girlfriend, huh?
-Dialogue: 0,0:03:07.17,0:03:12.21,Subtitle,,0,0,0,,Is there no way for me to convey\Nthis passion I have for him?!
-Dialogue: 0,0:03:13.33,0:03:15.33,Subtitle,,0,0,0,,Oh! There might be!
-Dialogue: 0,0:03:15.96,0:03:18.00,Subtitle,,0,0,0,,The truth is...
-Dialogue: 0,0:03:18.00,0:03:22.33,Subtitle,,0,0,0,,I've bought all the equipment needed to do "Sang_It."
-Dialogue: 0,0:03:22.33,0:03:25.00,Subtitle,,0,0,0,,I was in pretty high spirits,\Nor maybe it was just a whim,
-Dialogue: 0,0:03:25.00,0:03:27.58,Subtitle,,0,0,0,,but it was a pain to get working, so I gave up.
-Dialogue: 0,0:03:27.96,0:03:33.00,Subtitle,,0,0,0,,Still, if this will convey my feelings to Teishotoku P-sama,\Nmaybe I'll give it another shot!
-Dialogue: 0,0:03:35.13,0:03:39.29,Subtitle,,0,0,0,,The song I uploaded the other day\Nwas a rather good one, if I do say so myself.
-Dialogue: 0,0:03:39.67,0:03:43.29,Subtitle,,0,0,0,,As usual, my numbers aren't\Ngoing up that much though...
-Dialogue: 0,0:03:43.71,0:03:44.88,Subtitle,,0,0,0,,Ah, yes.
-Dialogue: 0,0:03:44.88,0:03:48.58,Subtitle,,0,0,0,,It was a clear afternoon like this,\Nwhen I wrote that song...
-Dialogue: 0,0:03:49.96,0:03:51.46,Subtitle,,0,0,0,,Welcome!
-Dialogue: 0,0:03:53.25,0:03:56.08,Subtitle,,0,0,0,,Sorry. I didn't make an appointment...
-Dialogue: 0,0:03:56.88,0:03:59.25,Subtitle,,0,0,0,,Well, that's okay!
-Dialogue: 0,0:03:59.25,0:04:00.88,Subtitle,,0,0,0,,Are you a first-timer?
-Dialogue: 0,0:04:00.88,0:04:01.63,Subtitle,,0,0,0,,Yes.
-Dialogue: 0,0:04:01.63,0:04:03.42,Subtitle,,0,0,0,,This way, please.
-Dialogue: 0,0:04:03.88,0:04:06.71,Subtitle,,0,0,0,,His "sense" as a hair stylist is somewhat broken.
-Dialogue: 0,0:04:06.96,0:04:09.04,Subtitle,,0,0,0,,This will not turn out well...
-Dialogue: 0,0:04:09.04,0:04:09.96,Subtitle,,0,0,0,,Good. Okay!
-Dialogue: 0,0:04:11.46,0:04:16.58,Song-2,,0,0,0,,All I do is look ahead
-Dialogue: 0,0:04:16.58,0:04:21.96,Song-2,,0,0,0,,and before long, I begin to walk unsteadily
-Dialogue: 0,0:04:21.96,0:04:27.13,Song-2,,0,0,0,,In the past I would often get lost, but
-Dialogue: 0,0:04:21.96,0:04:26.13,Subtitle,,0,0,0,,Hang on a sec. I'm gonna go get\Nsome random magazines.
-Dialogue: 0,0:04:27.33,0:04:35.88,Song-2,,0,0,0,,Now, in order to get lost, there are hardly any choices at all
-Dialogue: 0,0:04:27.33,0:04:28.83,Subtitle,,0,0,0,,Here you go.
-Dialogue: 0,0:04:29.84,0:04:31.75,Subtitle,,0,0,0,,I think you'll like these.
-Dialogue: 0,0:04:37.42,0:04:39.13,Subtitle,,0,0,0,,So, how much would you like to cut off?
-Dialogue: 0,0:04:39.13,0:04:41.50,Subtitle,,0,0,0,,About five centimeters on both ends, please.
-Dialogue: 0,0:04:41.50,0:04:43.50,Subtitle,,0,0,0,,Five centimeters, huh?
-Dialogue: 0,0:04:43.50,0:04:45.67,Subtitle,,0,0,0,,That seems kinda half-hearted.
-Dialogue: 0,0:04:45.88,0:04:48.75,Subtitle,,0,0,0,,Wouldn't you rather go all out\Nand cut about 20 centimeters?
-Dialogue: 0,0:04:48.75,0:04:51.08,Subtitle,,0,0,0,,That would just be a buzz cut!
-Dialogue: 0,0:04:51.08,0:04:53.38,Subtitle,,0,0,0,,I feel more relaxed when it's longer, so...
-Dialogue: 0,0:04:54.21,0:05:04.50,Song-2,,0,0,0,,A haphazard me always just had excuses lined up
-Dialogue: 0,0:04:54.63,0:04:57.04,Subtitle,,0,0,0,,Well, that's okay.
-Dialogue: 0,0:05:04.50,0:05:09.83,Song-2,,0,0,0,,In the white moon that I see in broad daylight
-Dialogue: 0,0:05:09.83,0:05:18.08,Song-2,,0,0,0,,I can no longer draw lines as clear colored as they were yesterday
-Dialogue: 0,0:05:10.38,0:05:11.75,Subtitle,,0,0,0,,It's strange.
-Dialogue: 0,0:05:11.75,0:05:14.29,Subtitle,,0,0,0,,The lyrics are racing throughout my body...
-Dialogue: 0,0:05:26.00,0:05:28.54,Subtitle,,0,0,0,,My cat really is cute, you know.
-Dialogue: 0,0:05:28.54,0:05:31.13,Subtitle,,0,0,0,,Okay, I'm going to raise the chair a little.
-Dialogue: 0,0:05:32.29,0:05:34.21,Subtitle,,0,0,0,,Now I'm lowering it!
-Dialogue: 0,0:05:36.75,0:05:42.13,Song-2,,0,0,0,,The view from the top of the hill is beautiful
-Dialogue: 0,0:05:37.92,0:05:39.79,Subtitle,,0,0,0,,Okay!
-Dialogue: 0,0:05:42.13,0:05:47.38,Song-2,,0,0,0,,Just like as if it was a creation
-Dialogue: 0,0:05:42.13,0:05:44.46,Subtitle,,0,0,0,,Now it's wash time!
-Dialogue: 0,0:05:47.38,0:05:52.79,Song-2,,0,0,0,,The distinction between reality and ideal also becomes unclear
-Dialogue: 0,0:05:52.79,0:05:57.96,Song-2,,0,0,0,,Dawn comes again
-Dialogue: 0,0:05:58.13,0:06:00.50,Subtitle,,0,0,0,,By the way, are you a cat fan?
-Dialogue: 0,0:06:00.50,0:06:03.04,Subtitle,,0,0,0,,Well, I wouldn't go that far...
-Dialogue: 0,0:06:03.04,0:06:03.67,Subtitle,,0,0,0,,Huh?
-Dialogue: 0,0:06:03.96,0:06:06.04,Subtitle,,0,0,0,,So, do you like them? Or hate them?
-Dialogue: 0,0:06:06.75,0:06:07.96,Subtitle,,0,0,0,,You like them?
-Dialogue: 0,0:06:10.67,0:06:11.50,Subtitle,,0,0,0,,Yes.
-Dialogue: 0,0:06:11.50,0:06:16.67,Song-2,,0,0,0,,In a world where only "yes" can be said
-Dialogue: 0,0:06:12.00,0:06:15.00,Subtitle,,0,0,0,,Which do you think is smarter, a dog or a cat?
-Dialogue: 0,0:06:15.00,0:06:17.88,Subtitle,,0,0,0,,You'd think it would be a dog,\Nbecause they can do a lot of tricks, right?
-Dialogue: 0,0:06:16.67,0:06:22.00,Song-2,,0,0,0,,Will my voice reach you all the way?
-Dialogue: 0,0:06:17.88,0:06:20.58,Subtitle,,0,0,0,,Nope! You'd be wrong. Sorry.
-Dialogue: 0,0:06:22.13,0:06:27.33,Song-2,,0,0,0,,In a world that's full of information
-Dialogue: 0,0:06:22.13,0:06:24.63,Subtitle,,0,0,0,,You know how cats don't listen to what you say?
-Dialogue: 0,0:06:24.63,0:06:27.33,Subtitle,,0,0,0,,That's because they can think and act on their own.
-Dialogue: 0,0:06:27.33,0:06:36.13,Song-2,,0,0,0,,My words will probably get twisted and unraveled
-Dialogue: 0,0:06:27.33,0:06:30.00,Subtitle,,0,0,0,,Well, if we're talking about Motchinyan,\NI do rather like that.
-Dialogue: 0,0:06:30.00,0:06:31.75,Subtitle,,0,0,0,,Wait, what? What's that?
-Dialogue: 0,0:06:31.75,0:06:33.33,Subtitle,,0,0,0,,It's a character. A cat.
-Dialogue: 0,0:06:33.33,0:06:34.58,Subtitle,,0,0,0,,Oh, really?
-Dialogue: 0,0:06:37.46,0:06:41.33,Song-2,,0,0,0,,Yeah, easily
-Dialogue: 0,0:06:43.83,0:06:46.96,Subtitle,,0,0,0,,What a heartbreakingly tender song...
-Dialogue: 0,0:06:50.04,0:06:51.96,Subtitle,,0,0,0,,4:20...
-Dialogue: 0,0:06:54.92,0:06:57.33,Subtitle,,0,0,0,,Nothing's changed at all.
-Dialogue: 0,0:06:59.21,0:07:01.25,Subtitle,,0,0,0,,Something like that happened, and then...
-Dialogue: 0,0:07:01.25,0:07:04.25,Subtitle,,0,0,0,,Yeah, it was a song I made on impulse.
-Dialogue: 0,0:07:07.21,0:07:09.92,Subtitle,,0,0,0,,"Tried singing" it?
-Dialogue: 0,0:07:09.92,0:07:12.38,Subtitle,,0,0,0,,Someone sang that for me?
-Dialogue: 0,0:07:12.75,0:07:13.88,Subtitle,,0,0,0,,Let's see.
-Dialogue: 0,0:07:16.67,0:07:18.46,Subtitle,,0,0,0,,Th-this is...!
-Dialogue: 0,0:07:18.75,0:07:21.38,Subtitle,,0,0,0,,I... I really uploaded it!
-Dialogue: 0,0:07:21.54,0:07:23.79,Subtitle,,0,0,0,,Please let it reach him...
-Dialogue: 0,0:07:23.79,0:07:25.29,Subtitle,,0,0,0,,Oh, Teishotoku P!
-Dialogue: 0,0:07:25.29,0:07:27.42,Subtitle,,0,0,0,,This is amazing...
-Dialogue: 0,0:07:28.29,0:07:31.38,Subtitle,,0,0,0,,Thinking back on it, I'm getting angry again.
-Dialogue: 0,0:07:33.29,0:07:34.54,Subtitle,,0,0,0,,Hey, Kikuchi.
-Dialogue: 0,0:07:34.54,0:07:36.29,Subtitle,,0,0,0,,What's with this notebook?
-Dialogue: 0,0:07:36.29,0:07:38.25,Subtitle,,0,0,0,,I thought I'd jazz it up a little!
-Dialogue: 0,0:07:38.25,0:07:41.50,Subtitle,,0,0,0,,This sort of decoration hardly counts as quality...
-Dialogue: 0,0:07:41.79,0:07:44.67,Subtitle,,0,0,0,,Still, you're uncannily good.
-Dialogue: 0,0:07:44.67,0:07:46.00,Subtitle,,0,0,0,,Well, of course!
-Dialogue: 0,0:07:46.00,0:07:48.46,Subtitle,,0,0,0,,This one's future dream is to become a manga artist!
-Dialogue: 0,0:07:48.46,0:07:49.63,Subtitle,,0,0,0,,Hey! You...!
-Dialogue: 0,0:07:49.63,0:07:51.33,Subtitle,,0,0,0,,What are you talking about?!
-Dialogue: 0,0:07:51.33,0:07:54.29,Subtitle,,0,0,0,,Oh. Kikuchi, have you already\Ndecided on a career path?
-Dialogue: 0,0:07:54.29,0:07:55.88,Subtitle,,0,0,0,,C-career path?!
-Dialogue: 0,0:07:56.08,0:07:59.00,Subtitle,,0,0,0,,Uh, I don't seriously think I could become one, so...
-Dialogue: 0,0:07:59.00,0:08:00.54,Subtitle,,0,0,0,,I'm telling you, you can!
-Dialogue: 0,0:08:00.54,0:08:05.04,Subtitle,,0,0,0,,I think it'll be easier than humanity\Ndeciphering the C-value paradox.
-Dialogue: 0,0:08:05.04,0:08:05.79,Subtitle,,0,0,0,,It's not like that. Really!
-Dialogue: 0,0:08:05.79,0:08:07.00,Subtitle-2,,0,0,0,,Dream...\NIt's not like that. Really!
-Dialogue: 0,0:08:07.00,0:08:07.42,Subtitle,,0,0,0,,It's not like that. Really!
-Dialogue: 0,0:08:07.42,0:08:08.83,Subtitle-2,,0,0,0,,A dream, huh?\NHuh? Then what is it like?!
-Dialogue: 0,0:08:08.83,0:08:09.88,Subtitle,,0,0,0,,Huh? Then what is it like?!
-Dialogue: 0,0:08:12.17,0:08:14.38,Subtitle,,0,0,0,,It's finally here...
-Dialogue: 0,0:08:15.21,0:08:18.63,Subtitle,,0,0,0,,A one-of-a-kind, original CD!
-Dialogue: 0,0:08:19.04,0:08:20.21,Subtitle,,0,0,0,,Still...
-Dialogue: 0,0:08:20.21,0:08:23.71,Subtitle,,0,0,0,,Though this was the smallest count, 200 CDs is a lot.
-Dialogue: 0,0:08:23.96,0:08:26.83,Subtitle,,0,0,0,,I'll bring in 100 of them to the event venue,
-Dialogue: 0,0:08:26.83,0:08:29.92,Subtitle,,0,0,0,,and probably save the rest for mail orders.
-Dialogue: 0,0:08:30.46,0:08:32.67,Subtitle,,0,0,0,,Vocaloid Meister...
-Dialogue: 0,0:08:32.67,0:08:36.17,Subtitle,,0,0,0,,A fan-manga exhibit and pop-up sales event\Nheld several times a year.
-Dialogue: 0,0:08:36.46,0:08:40.21,Subtitle,,0,0,0,,A number of Vocalo Ps that have\Nworked on famous songs also participate.
-Dialogue: 0,0:08:40.58,0:08:43.17,Subtitle,,0,0,0,,A lot has happened for me to get to this point.
-Dialogue: 0,0:08:43.17,0:08:47.00,Subtitle,,0,0,0,,But now, I've made these songs the way I wanted...
-Dialogue: 0,0:08:47.00,0:08:49.54,Subtitle,,0,0,0,,And there are people who say that they like them.
-Dialogue: 0,0:08:49.83,0:08:51.96,Subtitle,,0,0,0,,Someone even sang one for me!
-Dialogue: 0,0:08:55.13,0:08:56.63,Subtitle,,0,0,0,,Akane-san.
-Dialogue: 0,0:08:56.63,0:09:00.63,Subtitle,,0,0,0,,She's one of the few fans I have,\Nand she sang my song.
-Dialogue: 0,0:09:00.63,0:09:02.29,Subtitle,,0,0,0,,And she's coming, is she?
-Dialogue: 0,0:09:02.54,0:09:04.46,Subtitle,,0,0,0,,Then we shall meet for the first time.
-Dialogue: 0,0:09:07.25,0:09:09.13,Subtitle,,0,0,0,,Oh! You're so lucky, Robo!
-Dialogue: 0,0:09:09.13,0:09:11.13,Subtitle,,0,0,0,,Looks like Majo is reading your fortune!
-Dialogue: 0,0:09:11.13,0:09:11.88,Subtitle,,0,0,0,,Yes.
-Dialogue: 0,0:09:11.88,0:09:14.88,Subtitle,,0,0,0,,If you like, I can take turns reading all of your fortunes.
-Dialogue: 0,0:09:14.88,0:09:15.58,Subtitle,,0,0,0,,For real?!
-Dialogue: 0,0:09:15.58,0:09:17.42,Subtitle,,0,0,0,,So, Robo, what're you having her predict?
-Dialogue: 0,0:09:17.42,0:09:19.63,Subtitle,,0,0,0,,The year is coming to an end soon, so-
-Dialogue: 0,0:09:19.63,0:09:20.92,Subtitle,,0,0,0,,It's about your fortune for next year?!
-Dialogue: 0,0:09:20.92,0:09:24.63,Subtitle,,0,0,0,,I thought I'd have her tell me what fortune\NI'll draw when I visit the temple for New Year's.
-Dialogue: 0,0:09:24.63,0:09:27.29,Subtitle,,0,0,0,,Wait, can you get a fortune\Nabout a fortune you'll be told?
-Dialogue: 0,0:09:28.17,0:09:29.29,Subtitle,,0,0,0,,Here we go!
-Dialogue: 0,0:09:29.29,0:09:30.79,Subtitle,,0,0,0,,I believe you'll draw the "Excellent Luck" fortune.
-Dialogue: 0,0:09:30.79,0:09:31.42,Subtitle,,0,0,0,,Really?!
-Dialogue: 0,0:09:31.42,0:09:32.46,Subtitle,,0,0,0,,I'm next!
-Dialogue: 0,0:09:32.46,0:09:33.29,Subtitle,,0,0,0,,Okay.
-Dialogue: 0,0:09:36.08,0:09:40.17,Subtitle,,0,0,0,,A warning has been given to not eat cold things,\Nto prevent getting an upset stomach.
-Dialogue: 0,0:09:40.17,0:09:41.17,Subtitle,,0,0,0,,My stomach?!
-Dialogue: 0,0:09:41.54,0:09:43.88,Subtitle,,0,0,0,,It's not like its summer, so I'll be fine! No worries!
-Dialogue: 0,0:09:43.88,0:09:47.08,Subtitle,,0,0,0,,Sorry for the wait. Wota-san, what would\Nyou like to know about the future?
-Dialogue: 0,0:09:47.79,0:09:52.79,Subtitle,,0,0,0,,Uh, well... I mean, on Christmas Eve,\Nwill a certain someone...?
-Dialogue: 0,0:09:52.79,0:09:54.00,Subtitle,,0,0,0,,No, forget it! Never mind!
-Dialogue: 0,0:09:54.00,0:09:55.29,Subtitle,,0,0,0,,Huh? How come?
-Dialogue: 0,0:09:55.29,0:09:59.21,Subtitle,,0,0,0,,W-well, if the answer is too shocking,\NI could get all anxious or...
-Dialogue: 0,0:09:59.21,0:10:00.42,Subtitle,,0,0,0,,I understand.
-Dialogue: 0,0:10:00.42,0:10:03.42,Subtitle,,0,0,0,,Well then, let me give you\Nmy treasured good luck charm instead.
-Dialogue: 0,0:10:03.96,0:10:06.63,Subtitle,,0,0,0,,It's a mummified alpaca fetus.
-Dialogue: 0,0:10:06.96,0:10:08.58,Subtitle,,0,0,0,,Y-y-y-y...
-Dialogue: 0,0:10:08.58,0:10:11.33,Subtitle,,0,0,0,,You can keep that!
-Dialogue: 0,0:10:17.75,0:10:19.46,Subtitle,,0,0,0,,In this area alone...
-Dialogue: 0,0:10:19.46,0:10:21.54,Subtitle,,0,0,0,,the oxygen grows thin.
-Dialogue: 0,0:10:26.75,0:10:29.42,Subtitle,,0,0,0,,Sure enough, it's different if you're a famous "P."
-Dialogue: 0,0:10:29.42,0:10:32.33,Subtitle,,0,0,0,,I knew this already, but... I'm just twiddling my thumbs.
-Dialogue: 0,0:10:33.83,0:10:36.92,Subtitle,,0,0,0,,"I look forward to it."
-Dialogue: 0,0:10:36.92,0:10:38.83,Subtitle,,0,0,0,,I kind of get the feeling that this person...
-Dialogue: 0,0:10:39.17,0:10:42.21,Subtitle,,0,0,0,,Is somewhat "JK" (high school girl).
-Dialogue: 0,0:10:44.92,0:10:46.88,Subtitle,,0,0,0,,I thought I'd jazz it up a little!
-Dialogue: 0,0:10:47.67,0:10:49.08,Subtitle,,0,0,0,,Kikuchi?!
-Dialogue: 0,0:10:49.58,0:10:53.46,Subtitle,,0,0,0,,Is she the "akane-san" who sang my song?!
-Dialogue: 0,0:10:57.00,0:10:59.58,Subtitle,,0,0,0,,And now she's on her way here?
-Dialogue: 0,0:10:59.79,0:11:01.00,Subtitle,,0,0,0,,A student is...
-Dialogue: 0,0:11:01.50,0:11:03.83,Subtitle,,0,0,0,,coming to her homeroom teacher's booth?!
-Dialogue: 0,0:11:04.88,0:11:09.42,Subtitle,,0,0,0,,No, it can't be.\NA coincidence like this just isn't possible!
-Dialogue: 0,0:11:09.96,0:11:12.21,Subtitle,,0,0,0,,Finally... I finally get to meet him!
-Dialogue: 0,0:11:12.75,0:11:14.00,Subtitle,,0,0,0,,The man I so admire...
-Dialogue: 0,0:11:14.33,0:11:15.75,Subtitle,,0,0,0,,Teishotoku P!
-Dialogue: 0,0:11:26.50,0:11:29.88,Subtitle,,0,0,0,,It's pretty quiet for both of us, huh?
-Dialogue: 0,0:11:29.88,0:11:31.00,Subtitle,,0,0,0,,Indeed.
-Dialogue: 0,0:11:31.00,0:11:36.08,Subtitle,,0,0,0,,It's like we're instant yakisoba\Nthat hasn't been drained properly.
-Dialogue: 0,0:11:37.50,0:11:38.50,Subtitle,,0,0,0,,Right?
-Dialogue: 0,0:11:38.67,0:11:39.79,Subtitle,,0,0,0,,Y-yeah...
-Dialogue: 0,0:11:39.79,0:11:41.54,Subtitle,,0,0,0,,What does that even mean?
-Dialogue: 0,0:11:41.54,0:11:43.54,Subtitle,,0,0,0,,No, now's not the time for that.
-Dialogue: 0,0:11:43.54,0:11:45.04,Subtitle,,0,0,0,,It won't be long before Kikuchi...
-Dialogue: 0,0:11:45.04,0:11:45.67,Subtitle-2,,0,0,0,,I wonder where S-23b is...
-Dialogue: 0,0:11:45.67,0:11:47.33,Subtitle,,0,0,0,,gets here!\NI wonder where S-23b is...
-Dialogue: 0,0:11:47.33,0:11:48.04,Subtitle-2,,0,0,0,,I wonder where S-23b is...
-Dialogue: 0,0:11:48.04,0:11:52.08,Subtitle,,0,0,0,,Come to think it, though, it's not like I've done\Nanything to be ashamed of,
-Dialogue: 0,0:11:52.08,0:11:54.58,Subtitle,,0,0,0,,so I should just act normal and with dignity, right?
-Dialogue: 0,0:11:54.58,0:11:58.75,Subtitle,,0,0,0,,Still, when she finds out the person\Nshe admires is someone she knows...
-Dialogue: 0,0:11:59.63,0:12:02.21,Subtitle,,0,0,0,,Wouldn't that be a disappointment?
-Dialogue: 0,0:12:02.79,0:12:03.92,Subtitle,,0,0,0,,Excuse me.
-Dialogue: 0,0:12:05.50,0:12:10.04,Subtitle,,0,0,0,,Would you mind letting me borrow that towel for a bit?
-Dialogue: 0,0:12:10.17,0:12:11.92,Subtitle,,0,0,0,,Oh! It's around here!
-Dialogue: 0,0:12:24.33,0:12:26.33,Subtitle,,0,0,0,,What type of genre does this person belong to?!
-Dialogue: 0,0:12:26.58,0:12:29.96,Subtitle,,0,0,0,,Uh-um, one copy of the new release, please.
-Dialogue: 0,0:12:30.96,0:12:32.04,Subtitle,,0,0,0,,Here.
-Dialogue: 0,0:12:40.21,0:12:46.04,Subtitle,,0,0,0,,I can't get a good look at his face, but...\Nhe's gazing at me so intently!
-Dialogue: 0,0:12:46.13,0:12:48.71,Subtitle-2,,0,0,0,,Without my glasses, everything is indistinct, but...
-Dialogue: 0,0:12:48.88,0:12:49.25,Subtitle-2,,0,0,0,,there's no doubt that it's Kikuchi.
-Dialogue: 0,0:12:49.25,0:12:51.63,Subtitle,,0,0,0,,U-um, I'm "akane"!\Nthere's no doubt that it's Kikuchi.
-Dialogue: 0,0:12:51.63,0:12:52.04,Subtitle,,0,0,0,,U-um, I'm "akane"!
-Dialogue: 0,0:12:52.04,0:12:54.54,Subtitle,,0,0,0,,I reached out to you on social media a while ago.
-Dialogue: 0,0:12:54.54,0:12:56.29,Subtitle,,0,0,0,,Thank you for all your support.
-Dialogue: 0,0:12:56.29,0:12:57.08,Subtitle,,0,0,0,,What?
-Dialogue: 0,0:12:57.08,0:12:58.04,Subtitle,,0,0,0,,He barely talks!
-Dialogue: 0,0:12:58.04,0:13:00.92,Subtitle,,0,0,0,,If I speak too much, she might figure me out.
-Dialogue: 0,0:13:00.92,0:13:02.83,Subtitle,,0,0,0,,Maybe he's just the quiet type.
-Dialogue: 0,0:13:03.00,0:13:08.96,Subtitle,,0,0,0,,U-u-um! I-I've really been looking\Nforward to meeting you!
-Dialogue: 0,0:13:09.13,0:13:11.33,Subtitle,,0,0,0,,I couldn't sleep at all yesterday!
-Dialogue: 0,0:13:11.33,0:13:13.17,Subtitle,,0,0,0,,It's kinda hard to breathe!
-Dialogue: 0,0:13:13.67,0:13:15.63,Subtitle,,0,0,0,,It's like there's no oxygen!
-Dialogue: 0,0:13:15.83,0:13:17.17,Subtitle,,0,0,0,,Teishotoku P-san...
-Dialogue: 0,0:13:17.46,0:13:20.13,Subtitle,,0,0,0,,I absolutely adore you!
-Dialogue: 0,0:13:20.38,0:13:22.25,Subtitle,,0,0,0,,I said it!
-Dialogue: 0,0:13:23.42,0:13:25.54,Subtitle,,0,0,0,,Yeah, yeah. I can understand that.
-Dialogue: 0,0:13:25.54,0:13:28.04,Subtitle,,0,0,0,,That feeling where you can't help but be elated.
-Dialogue: 0,0:13:29.04,0:13:32.83,Subtitle,,0,0,0,,It's like peanut butter that's been\Nleft to sit overnight, right?
-Dialogue: 0,0:13:33.63,0:13:35.58,Subtitle,,0,0,0,,That would get anyone excited!
-Dialogue: 0,0:13:38.96,0:13:39.33,Subtitle,,0,0,0,,Who the hell is this?!\NAnd what's this about peanut butter?!
-Dialogue: 0,0:13:39.33,0:13:41.79,Subtitle-2,,0,0,0,,Oh, sorry. I didn't mean to butt in.\NWho the hell is this?!\NAnd what's this about peanut butter?!
-Dialogue: 0,0:13:41.79,0:13:42.54,Subtitle,,0,0,0,,Um...
-Dialogue: 0,0:13:42.54,0:13:44.17,Subtitle,,0,0,0,,Wh-what was I saying?
-Dialogue: 0,0:13:44.50,0:13:45.79,Subtitle,,0,0,0,,Oh, yeah.
-Dialogue: 0,0:13:45.79,0:13:50.21,Subtitle,,0,0,0,,U-um, the first time I encountered\None of your songs, Teishotoku P-san,
-Dialogue: 0,0:13:50.21,0:13:52.25,Subtitle,,0,0,0,,I'd been fighting with a friend.
-Dialogue: 0,0:13:52.67,0:13:55.71,Subtitle,,0,0,0,,I was close to hating myself but...
-Dialogue: 0,0:13:56.88,0:14:01.04,Subtitle,,0,0,0,,The more I listened,\NI was able to realize my true feelings.
-Dialogue: 0,0:14:01.04,0:14:05.04,Subtitle,,0,0,0,,Ah! I'm friends with her even now, at high school.\NIt's like an inseparable bond or something...
-Dialogue: 0,0:14:05.67,0:14:07.17,Subtitle,,0,0,0,,Actually, I...
-Dialogue: 0,0:14:07.17,0:14:10.79,Subtitle,,0,0,0,,Well, it's not music,\Nbut I'm trying to do creative work too.
-Dialogue: 0,0:14:10.79,0:14:13.21,Subtitle,,0,0,0,,I-it's just manga, but...
-Dialogue: 0,0:14:13.21,0:14:16.71,Subtitle,,0,0,0,,Oh! I'm nowhere close to being able to\Nshow it to other people, though!
-Dialogue: 0,0:14:16.71,0:14:18.08,Subtitle,,0,0,0,,The truth is, I'm really terrible!
-Dialogue: 0,0:14:18.21,0:14:20.83,Subtitle,,0,0,0,,I'm not good at, like,\Ndrawing joints of the human body...
-Dialogue: 0,0:14:20.83,0:14:22.67,Subtitle,,0,0,0,,Things like knees are really hard!
-Dialogue: 0,0:14:22.67,0:14:25.42,Subtitle,,0,0,0,,Gah! I'm going more and more off topic!
-Dialogue: 0,0:14:25.58,0:14:31.08,Subtitle,,0,0,0,,A-anyway! When I listen to your songs,\Nit's like the creativity just rises up inside me.
-Dialogue: 0,0:14:31.38,0:14:36.42,Subtitle,,0,0,0,,It's like they nudge me forward, and...\Nthey encourage me!
-Dialogue: 0,0:14:39.00,0:14:41.71,Subtitle,,0,0,0,,I went on about myself way too much!\NI should just hurry up and leave!
-Dialogue: 0,0:14:42.17,0:14:47.29,Subtitle,,0,0,0,,Th-that's why I'll do my best to be able\Nto show you my work someday!
-Dialogue: 0,0:14:47.29,0:14:49.88,Subtitle,,0,0,0,,I'm sorry for taking up so much of your time!
-Dialogue: 0,0:14:49.88,0:14:51.42,Subtitle,,0,0,0,,Please stay healthy!
-Dialogue: 0,0:14:57.79,0:15:00.71,Subtitle,,0,0,0,,Was that... a good thing?
-Dialogue: 0,0:15:01.50,0:15:04.08,Subtitle,,0,0,0,,To deceive her like that...
-Dialogue: 0,0:15:04.34,0:15:06.96,Subtitle,,0,0,0,,To not return her kindness.
-Dialogue: 0,0:15:07.46,0:15:09.71,Subtitle,,0,0,0,,Was that really for the best?
-Dialogue: 0,0:15:10.54,0:15:12.08,Subtitle,,0,0,0,,Go after her.
-Dialogue: 0,0:15:14.58,0:15:17.54,Subtitle,,0,0,0,,I can watch over your space.
-Dialogue: 0,0:15:18.88,0:15:22.38,Subtitle,,0,0,0,,It's like when something is stuck in your teeth\Nand suddenly comes loose,
-Dialogue: 0,0:15:22.38,0:15:25.63,Subtitle,,0,0,0,,and when you chew it, it's spicy\Nbecause it's black pepper.
-Dialogue: 0,0:15:25.96,0:15:28.50,Subtitle,,0,0,0,,Everyone's felt that way sometimes, right?
-Dialogue: 0,0:15:28.50,0:15:30.75,Subtitle,,0,0,0,,That's the way you'll end up feeling.
-Dialogue: 0,0:15:31.63,0:15:33.58,Subtitle,,0,0,0,,Well? Go on! Go!
-Dialogue: 0,0:15:37.79,0:15:39.54,Subtitle,,0,0,0,,What could this mean?
-Dialogue: 0,0:15:39.79,0:15:43.25,Subtitle,,0,0,0,,He's been making nonsensical\Nmetaphors this whole time...
-Dialogue: 0,0:15:43.54,0:15:45.75,Subtitle,,0,0,0,,I don't know what they mean!
-Dialogue: 0,0:15:46.00,0:15:46.92,Subtitle,,0,0,0,,Generally...
-Dialogue: 0,0:15:46.92,0:15:51.04,Subtitle,,0,0,0,,it's the ones who overly rely on metaphors\Nwho are the absolute worst at them!
-Dialogue: 0,0:15:51.21,0:15:56.88,Subtitle,,0,0,0,,Every time that guy made some abstract expression,\Nmy emotions were once again reset.
-Dialogue: 0,0:15:57.04,0:15:58.00,Subtitle,,0,0,0,,And yet...
-Dialogue: 0,0:16:01.54,0:16:04.46,Subtitle,,0,0,0,,Thanks to that, I was able to calm down.
-Dialogue: 0,0:16:04.46,0:16:05.96,Subtitle,,0,0,0,,I am a teacher!
-Dialogue: 0,0:16:05.96,0:16:11.04,Subtitle,,0,0,0,,Facing a student's sincere feelings head-on...\Nthat's what makes a teacher!
-Dialogue: 0,0:16:13.42,0:16:14.42,Subtitle,,0,0,0,,Kikuchi!
-Dialogue: 0,0:16:24.71,0:16:28.13,Subtitle,,0,0,0,,The truth is, I am Teishotoku P.
-Dialogue: 0,0:16:28.67,0:16:32.00,Subtitle,,0,0,0,,Huh? Sensei, what are you doing here?
-Dialogue: 0,0:16:32.17,0:16:36.08,Subtitle,,0,0,0,,I'm sorry if I've crushed your expectations,\Nbut this is the truth.
-Dialogue: 0,0:16:36.33,0:16:39.00,Subtitle,,0,0,0,,I am actually Teishotoku P.
-Dialogue: 0,0:16:40.33,0:16:41.83,Subtitle,,0,0,0,,That's a good one. What are you...?
-Dialogue: 0,0:16:47.42,0:16:51.71,Subtitle,,0,0,0,,I only just realized that you are akane-san, and...
-Dialogue: 0,0:16:51.71,0:16:52.83,Subtitle-2,,0,0,0,,Wait.\NI only just realized that you are akane-san, and...
-Dialogue: 0,0:16:52.83,0:16:56.75,Subtitle,,0,0,0,,I thought you would be disappointed,\Nso on the spur of the moment, I opted to mislead you.
-Dialogue: 0,0:16:56.75,0:16:58.08,Subtitle,,0,0,0,,But that was a mistake.
-Dialogue: 0,0:16:58.25,0:16:59.96,Subtitle,,0,0,0,,Wait, wait, wait, WAIT!
-Dialogue: 0,0:17:00.13,0:17:01.38,Subtitle,,0,0,0,,I'm sorry.
-Dialogue: 0,0:17:01.71,0:17:03.92,Subtitle,,0,0,0,,What is this? What's going on?
-Dialogue: 0,0:17:04.50,0:17:06.00,Subtitle,,0,0,0,,What does this mean?
-Dialogue: 0,0:17:06.00,0:17:07.08,Subtitle,,0,0,0,,So then, that...
-Dialogue: 0,0:17:07.25,0:17:08.33,Subtitle,,0,0,0,,That...
-Dialogue: 0,0:17:08.50,0:17:10.00,Subtitle,,0,0,0,,And that...
-Dialogue: 0,0:17:10.25,0:17:11.54,Subtitle,,0,0,0,,All of that...
-Dialogue: 0,0:17:13.21,0:17:14.83,Subtitle,,0,0,0,,And even earlier...
-Dialogue: 0,0:17:14.83,0:17:17.33,Subtitle,,0,0,0,,everything up till now has been\Ndirected toward Waseda?!
-Dialogue: 0,0:17:20.08,0:17:22.42,Subtitle,,0,0,0,,I-I wanna die!
-Dialogue: 0,0:17:23.50,0:17:27.58,Subtitle,,0,0,0,,I want to just disintegrate and\Nbe blasted to far reaches of outer space!
-Dialogue: 0,0:17:28.13,0:17:34.71,Subtitle,,0,0,0,,It's because of people like you, who said they\Nliked my songs and always supported me...
-Dialogue: 0,0:17:34.71,0:17:38.67,Subtitle,,0,0,0,,I think that has what allowed me\Nto continue making music.
-Dialogue: 0,0:17:38.88,0:17:40.63,Subtitle,,0,0,0,,I am grateful to you, Kikuchi.
-Dialogue: 0,0:17:43.04,0:17:44.33,Subtitle,,0,0,0,,Thank you.
-Dialogue: 0,0:17:49.25,0:17:51.42,Subtitle,,0,0,0,,So it's true.
-Dialogue: 0,0:17:54.83,0:17:56.33,Subtitle,,0,0,0,,It really...
-Dialogue: 0,0:17:58.38,0:18:00.29,Subtitle,,0,0,0,,...was Waseda!
-Dialogue: 0,0:18:05.54,0:18:08.54,Subtitle,,0,0,0,,This is just cruel!
-Dialogue: 0,0:18:08.92,0:18:10.33,Subtitle,,0,0,0,,It's too much!
-Dialogue: 0,0:18:10.63,0:18:14.88,Subtitle,,0,0,0,,How am I supposed to face him at school now?
-Dialogue: 0,0:18:45.04,0:18:50.42,Song-2,,0,0,0,,On a tree-lined boulevard
-Dialogue: 0,0:18:46.58,0:18:49.88,Subtitle,,0,0,0,,Sure enough... I like him.
-Dialogue: 0,0:18:50.42,0:18:55.58,Song-2,,0,0,0,,Stretched with streetlamps that illuminates a quiet night
-Dialogue: 0,0:18:51.75,0:18:54.79,Subtitle,,0,0,0,,He could be a 100 kilogram-plus giant of a man...
-Dialogue: 0,0:18:55.75,0:19:01.04,Song-2,,0,0,0,,Walking around searching for a vending machine,
-Dialogue: 0,0:18:57.50,0:18:59.33,Subtitle,,0,0,0,,Or even my homeroom teacher.
-Dialogue: 0,0:19:01.04,0:19:05.50,Song-2,,0,0,0,,But I wonder why, can't find one
-Dialogue: 0,0:19:01.75,0:19:04.58,Subtitle,,0,0,0,,It doesn't change my feelings. I like him.
-Dialogue: 0,0:19:05.50,0:19:16.50,Song-2,,0,0,0,,Even though I've gone through this season many times up until now
-Dialogue: 0,0:19:16.50,0:19:25.63,Song-2,,0,0,0,,I'm like a bunny that has strayed into an unknown world
-Dialogue: 0,0:19:25.63,0:19:31.17,Song-2,,0,0,0,,The first snowfall that stains footprints in white
-Dialogue: 0,0:19:28.08,0:19:31.25,Subtitle,,0,0,0,,It's not fair! That you're so levelheaded...
-Dialogue: 0,0:19:31.17,0:19:37.58,Song-2,,0,0,0,,That might disappear before daybreak
-Dialogue: 0,0:19:31.25,0:19:35.25,Subtitle,,0,0,0,,so kind, and so mature...
-Dialogue: 0,0:19:35.25,0:19:37.13,Subtitle,,0,0,0,,That I thought about you so much!
-Dialogue: 0,0:19:37.71,0:19:41.71,Song-2,,0,0,0,,Since when I wonder
-Dialogue: 0,0:19:38.33,0:19:39.50,Subtitle,,0,0,0,,And I...
-Dialogue: 0,0:19:41.71,0:19:48.38,Song-2,,0,0,0,,Did your voice become a special sound and start to resonate
-Dialogue: 0,0:19:44.50,0:19:46.92,Subtitle,,0,0,0,,I want to get to your level!
-Dialogue: 0,0:19:48.38,0:19:54.75,Song-2,,0,0,0,,Fingertips go numb with cold, heat that lingers in the ears
-Dialogue: 0,0:19:49.21,0:19:50.50,Subtitle,,0,0,0,,And if I do...
-Dialogue: 0,0:19:53.17,0:19:57.00,Subtitle,,0,0,0,,Would you think about me, even a little?
-Dialogue: 0,0:19:54.75,0:19:59.08,Song-2,,0,0,0,,Sleep again tonight
-Dialogue: 0,0:20:27.63,0:20:28.54,Subtitle,,0,0,0,,Hmm?
-Dialogue: 0,0:20:43.50,0:20:45.58,Subtitle,,0,0,0,,I listened to that CD you gave me.
-Dialogue: 0,0:20:45.58,0:20:48.75,Subtitle,,0,0,0,,It had an honest feel to it, and was quite good.
-Dialogue: 0,0:20:48.75,0:20:51.79,Subtitle,,0,0,0,,Everything always tastes better when it's fried.
-Dialogue: 0,0:20:51.79,0:20:53.54,Subtitle,,0,0,0,,All said and done, that's what it's like, right?
-Dialogue: 0,0:20:53.54,0:20:55.21,Subtitle,,0,0,0,,Song writing, that is.
-Dialogue: 0,0:21:01.71,0:21:03.13,Subtitle,,0,0,0,,All right!
-Dialogue: 0,0:21:03.13,0:21:07.08,Subtitle,,0,0,0,,I'm gonna finish one by spring\Nand submit it for a manga award!
-Dialogue: 0,0:21:08.04,0:21:09.46,Subtitle,,0,0,0,,There's no stopping me!
-Dialogue: 0,0:21:10.79,0:21:11.54,Subtitle,,0,0,0,,What do you want to have for lunch?
-Dialogue: 0,0:21:11.54,0:21:12.13,Subtitle-2,,0,0,0,,Just you wait...\NWhat do you want to have for lunch?
-Dialogue: 0,0:21:12.13,0:21:13.04,Subtitle-2,,0,0,0,,Just you wait...\NUdon noodles and seaweed topped with natto!
-Dialogue: 0,0:21:13.04,0:21:13.50,Subtitle,,0,0,0,,Udon noodles and seaweed topped with natto!
-Dialogue: 0,0:21:16.54,0:21:18.08,Subtitle,,0,0,0,,Huh. Is that even a thing?
-Dialogue: 0,0:21:18.38,0:21:19.88,Subtitle,,0,0,0,,Teishotoku P!
-Dialogue: 0,0:21:39.50,0:21:43.88,Song,,0,0,0,,Noisy and loud
-Dialogue: 0,0:21:44.17,0:21:47.75,Song,,0,0,0,,But also endearing
-Dialogue: 0,0:21:48.08,0:21:51.96,Song,,0,0,0,,The laughter from that day
-Dialogue: 0,0:21:51.96,0:21:56.00,Song,,0,0,0,,A story that can't be rewound
-Dialogue: 0,0:21:56.00,0:21:59.88,Song,,0,0,0,,The thing about youth is, it's always light and shadows
-Dialogue: 0,0:21:59.88,0:22:01.92,Song,,0,0,0,,Inside the darkness
-Dialogue: 0,0:22:01.92,0:22:03.96,Song,,0,0,0,,A shining inferior star
-Dialogue: 0,0:22:04.17,0:22:07.67,Song,,0,0,0,,Looking back are complicated
-Dialogue: 0,0:22:07.67,0:22:12.08,Song,,0,0,0,,Far too beautiful days
-Dialogue: 0,0:22:12.63,0:22:21.63,Song,,0,0,0,,Springtime has always passed by unexpectedly by then
-Dialogue: 0,0:22:21.63,0:22:28.71,Song,,0,0,0,,Your words reverberate in my heart
-Dialogue: 0,0:22:28.71,0:22:37.25,Song,,0,0,0,,Someday springtime will take it all away
-Dialogue: 0,0:22:37.25,0:22:44.92,Song,,0,0,0,,Until that day, being stupid is all right
-Dialogue: 0,0:22:45.25,0:22:49.50,Song,,0,0,0,,Because I'll run past it
-Dialogue: 0,0:22:53.29,0:22:55.71,Subtitle,,0,0,0,,Wow! You're amazing, Majo!
-Dialogue: 0,0:22:55.71,0:22:57.83,Subtitle,,0,0,0,,Me, I got crazy diarrhea!
-Dialogue: 0,0:22:57.83,0:23:01.33,Subtitle,,0,0,0,,It was Christmas Eve, and I kept\Neating snow and got too cold!
-Dialogue: 0,0:23:01.33,0:23:02.33,Subtitle,,0,0,0,,Are you a child?
-Dialogue: 0,0:23:02.33,0:23:03.21,Subtitle,,0,0,0,,Me too.
-Dialogue: 0,0:23:03.21,0:23:05.25,Subtitle,,0,0,0,,My fortune was "Excellent Luck."
-Dialogue: 0,0:23:05.25,0:23:08.96,Subtitle,,0,0,0,,Awesome! Majo's predictions seriously come true!
-Dialogue: 0,0:23:08.96,0:23:10.29,Subtitle,,0,0,0,,That's kind of you.
-Dialogue: 0,0:23:10.29,0:23:14.67,Subtitle,,0,0,0,,Based on past experiences,\NI'd say I'm right over 90% of the time.
-Dialogue: 0,0:23:15.50,0:23:16.75,Subtitle-2,,0,0,0,,The truth is...
-Dialogue: 0,0:23:16.75,0:23:19.17,Subtitle,,0,0,0,,What should we have her predict next?
-Dialogue: 0,0:23:19.17,0:23:21.88,Subtitle,,0,0,0,,How about this year's airborne pollen levels?
-Dialogue: 0,0:23:21.88,0:23:23.79,Subtitle,,0,0,0,,Wouldn't it be better to ask a weatherman?
-Dialogue: 0,0:23:23.79,0:23:26.46,Subtitle,,0,0,0,,Well then, how about what will\Nbe for dinner for the week?
-Dialogue: 0,0:23:26.46,0:23:27.38,Subtitle,,0,0,0,,Just ask your parents that!
-Dialogue: 0,0:23:27.38,0:23:29.29,Subtitle-2,,0,0,0,,When I was reading Baka-san's fortune...\NIn that case, how about when I'll get a boyfriend?
-Dialogue: 0,0:23:29.29,0:23:29.58,Subtitle,,0,0,0,,In that case, how about when I'll get a boyfriend?
-Dialogue: 0,0:23:29.58,0:23:30.04,Subtitle,,0,0,0,,What if it ends up being 38 years from now?
-Dialogue: 0,0:23:30.04,0:23:32.21,Subtitle-2,,0,0,0,,This card came up as well.\NWhat if it ends up being 38 years from now?
-Dialogue: 0,0:23:32.21,0:23:33.00,Subtitle,,0,0,0,,I wouldn't believe it!
-Dialogue: 0,0:23:33.00,0:23:34.21,Subtitle,,0,0,0,,You're pretty optimistic...
-Dialogue: 0,0:23:34.21,0:23:36.17,Subtitle,,0,0,0,,Oh, I know! How about this:
-Dialogue: 0,0:23:36.17,0:23:40.92,Subtitle,,0,0,0,,Finding out which comes first, you achieving\Nyour dream or me getting a boyfriend?
-Dialogue: 0,0:00:22.38,0:00:23.71,Caption,,0,0,0,,{\pos(512,72)}{\an7}CHeap shoes
-Dialogue: 0,0:00:23.71,0:00:24.63,Caption,,0,0,0,,{\pos(512,72)}{\an7}CHeap shoes
-Dialogue: 0,0:00:23.71,0:00:24.63,Caption-2,,0,0,0,,{\pos(486.4,172.8)}{\an7}RIsqué dancing
-Dialogue: 0,0:00:24.63,0:00:25.75,Caption,,0,0,0,,{\pos(512,72)}{\an7}CHeap shoes
-Dialogue: 0,0:00:24.63,0:00:25.75,Caption-2,,0,0,0,,{\pos(486.4,172.8)}{\an7}RIsqué dancing
-Dialogue: 0,0:00:24.63,0:00:25.75,Caption-3,,0,0,0,,{\pos(512,295.2)}{\an7}STinky turtles
-Dialogue: 0,0:00:25.75,0:00:27.29,Caption,,0,0,0,,{\pos(512,72)}{\an7}CHeap shoes
-Dialogue: 0,0:00:25.75,0:00:27.29,Caption-2,,0,0,0,,{\pos(486.4,172.8)}{\an7}RIsqué dancing
-Dialogue: 0,0:00:25.75,0:00:27.29,Caption-3,,0,0,0,,{\pos(512,295.2)}{\an7}STinky turtles
-Dialogue: 0,0:00:25.75,0:00:27.29,Caption-4,,0,0,0,,{\pos(486.4,439.2)}{\an7}MAinly in broad
-Dialogue: 0,0:00:27.29,0:00:28.63,Caption,,0,0,0,,{\pos(614.4,72)}{\an7}CH
-Dialogue: 0,0:00:27.29,0:00:28.63,Caption-2,,0,0,0,,{\pos(614.4,172.8)}{\an7}RI
-Dialogue: 0,0:00:27.29,0:00:28.63,Caption-3,,0,0,0,,{\pos(614.4,295.2)}{\an7}ST
-Dialogue: 0,0:00:27.29,0:00:28.63,Caption-4,,0,0,0,,{\pos(614.4,439.2)}{\an7}MA
-Dialogue: 0,0:00:30.50,0:00:33.00,Caption,,0,0,0,,{\pos(614.4,57.6)}{\an7}CH
-Dialogue: 0,0:00:30.50,0:00:33.00,Caption-2,,0,0,0,,{\pos(614.4,136.8)}{\an7}RI
-Dialogue: 0,0:00:30.50,0:00:33.00,Caption-3,,0,0,0,,{\pos(614.4,237.6)}{\an7}ST
-Dialogue: 0,0:00:30.50,0:00:33.00,Caption-4,,0,0,0,,{\pos(614.4,388.8)}{\an7}MA
-Dialogue: 0,0:00:30.50,0:00:33.00,Caption-5,,0,0,0,,{\pos(537.6,532.8)}{\an7}PET bottle
-Dialogue: 0,0:00:33.00,0:00:35.33,Caption,,0,0,0,,{\pos(614.4,57.6)}{\an7}CH
-Dialogue: 0,0:00:33.00,0:00:35.33,Caption-2,,0,0,0,,{\pos(614.4,136.8)}{\an7}RI
-Dialogue: 0,0:00:33.00,0:00:35.33,Caption-3,,0,0,0,,{\pos(614.4,237.6)}{\an7}ST
-Dialogue: 0,0:00:33.00,0:00:35.33,Caption-4,,0,0,0,,{\pos(614.4,388.8)}{\an7}MA
-Dialogue: 0,0:00:33.00,0:00:35.33,Caption-5,,0,0,0,,{\pos(614.4,532.8)}{\an7}PE
-Dialogue: 0,0:02:13.33,0:02:17.04,Caption-6,,0,0,0,,{\pos(1036.8,496.8)}{\an7}Dream
-Dialogue: 0,0:02:28.38,0:02:30.67,Caption-7,,0,0,0,,{\pos(1075.2,21.6)}{\an7}Sakuya
-Dialogue: 0,0:02:28.38,0:02:30.67,Caption-7,,0,0,0,,{\pos(704,72)}{\an7}Erika
-Dialogue: 0,0:02:28.38,0:02:30.67,Caption-7,,0,0,0,,{\pos(448,122.4)}{\an7}Likes
-Dialogue: 0,0:02:28.38,0:02:30.67,Caption-7,,0,0,0,,{\pos(102.4,172.8)}{\an7}Takuto
-Dialogue: 0,0:02:28.38,0:02:30.67,Caption-7,,0,0,0,,{\pos(883.2,223.2)}{\an7}Likes
-Dialogue: 0,0:02:33.67,0:02:35.67,Caption-8,,0,0,0,,{\pos(140.8,115.2)}{\an7}Takuto
-Dialogue: 0,0:02:33.67,0:02:35.67,Caption-9,,0,0,0,,{\pos(1011.2,216)}{\an7}Likes
-Dialogue: 0,0:02:50.83,0:02:55.33,Caption-10,,0,0,0,,{\pos(883.2,79.2)}{\an7}It's lovely
-Dialogue: 0,0:02:50.83,0:02:55.33,Caption-10,,0,0,0,,{\pos(588.8,151.2)}{\an7}The song's way too good
-Dialogue: 0,0:02:50.84,0:02:55.33,Caption-10,,0,0,0,,{\pos(422.4,201.6)}{\an7}Amazing!
-Dialogue: 0,0:02:50.84,0:02:55.33,Caption-10,,0,0,0,,{\pos(678.4,252)}{\an7}A beautiful song
-Dialogue: 0,0:02:50.84,0:02:55.33,Caption-11,,0,0,0,,{\pos(755.2,367.2)}{\an7}Teishotoku-P
-Dialogue: 0,0:02:50.84,0:02:55.33,Caption-12,,0,0,0,,{\pos(166.4,489.6)}{\an7}This is Teishotoku P.
-Dialogue: 0,0:02:50.84,0:02:55.33,Caption-12,,0,0,0,,{\pos(166.4,540)}{\an7}The speed at which every day goes by changes...
-Dialogue: 0,0:03:18.00,0:03:22.33,Caption-13,,0,0,0,,{\pos(102.4,50.4)}{\an7}Note: A subcategory on J-website Niconico
-Dialogue: 0,0:03:18.00,0:03:22.33,Caption-13,,0,0,0,,{\pos(204.8,100.8)}{\an7}where people upload their own songs
-Dialogue: 0,0:04:29.83,0:04:31.75,Caption-12,,0,0,0,,{\pos(102.4,43.2)}{\an7}100 Middle-aged Ladies
-Dialogue: 0,0:04:29.83,0:04:31.75,Caption-12,,0,0,0,,{\pos(102.4,93.6)}{\an7}Found in Town
-Dialogue: 0,0:04:29.83,0:04:31.75,Caption-12,,0,0,0,,{\pos(268.8,201.6)}{\an7}Bimajo VS Bumajo
-Dialogue: 0,0:04:29.84,0:04:31.75,Caption-12,,0,0,0,,{\pos(614.4,468)}{\an7}We Still Prefer Amateurs
-Dialogue: 0,0:07:06.08,0:07:06.88,Caption-14,,0,0,0,,{\pos(230.4,316.8)}{\an7}I tried singing "16:20" ver...
-Dialogue: 0,0:07:06.88,0:07:08.13,Caption-12,,0,0,0,,{\pos(268.8,230.4)}{\an7}I tried singing "16:20" Ver. akane
-Dialogue: 0,0:07:06.88,0:07:08.13,Caption-12,,0,0,0,,{\pos(204.8,309.6)}{\an7}I sang this for you.
-Dialogue: 0,0:07:06.88,0:07:08.13,Caption-12,,0,0,0,,{\pos(192,396)}{\an7}If you don't mind, please listen to it.
-Dialogue: 0,0:07:12.50,0:07:14.00,Caption-6,,0,0,0,,{\pos(256,79.2)}{\an7}I tried singing 16:20 Ver. akane
-Dialogue: 0,0:07:12.50,0:07:14.00,Caption-6,,0,0,0,,{\pos(230.4,201.6)}{\an7}I sang this for you.
-Dialogue: 0,0:07:12.50,0:07:14.00,Caption-6,,0,0,0,,{\pos(166.4,316.8)}{\an7}If you don't mind, please listen to it.
-Dialogue: 0,0:07:34.54,0:07:36.29,Caption-10,,0,0,0,,{\pos(537.6,252)}{\an7}Mathematics
-Dialogue: 0,0:07:34.54,0:07:36.29,Caption-10,,0,0,0,,{\pos(563.2,568.8)}{\an7}Akane Kikuchi
-Dialogue: 0,0:08:12.17,0:08:14.92,Caption-12,,0,0,0,,{\pos(102.4,72)}{\an7}Since when, I wonder
-Dialogue: 0,0:08:12.17,0:08:14.92,Caption-12,,0,0,0,,{\pos(102.4,122.4)}{\an7}Did your voice become a special sound?
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(499.2,86.4)}{\an7}General comments
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(550.4,136.8)}{\an7}It's lovely
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(550.4,187.2)}{\an7}So nice
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(550.4,237.6)}{\an7}I'm here today again
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(550.4,288)}{\an7}Whoa!
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(550.4,338.4)}{\an7}You sure make nice songs
-Dialogue: 0,0:08:46.38,0:08:47.96,Caption-12,,0,0,0,,{\pos(550.4,388.8)}{\an7}Teishotoku P-san, all of your songs are wonderful
-Dialogue: 0,0:08:47.96,0:08:49.96,Caption-14,,0,0,0,,{\pos(217.6,230.4)}{\an7}I tried singing 16:20 Ver. akane
-Dialogue: 0,0:08:47.96,0:08:49.96,Caption-14,,0,0,0,,{\pos(256,295.2)}{\an7}This is akane. This is the first time
-Dialogue: 0,0:08:47.96,0:08:49.96,Caption-14,,0,0,0,,{\pos(268.8,345.6)}{\an7}I challenged myself to Sang_It.
-Dialogue: 0,0:08:47.96,0:08:49.96,Caption-14,,0,0,0,,{\pos(307.2,403.2)}{\an7}Teishotoku-P-san, I am a huge fan of yours.
-Dialogue: 0,0:08:47.96,0:08:49.96,Caption-14,,0,0,0,,{\pos(307.2,453.6)}{\an7}I will continue to always support you.
-Dialogue: 0,0:08:49.96,0:08:51.38,Caption-6,,0,0,0,,{\pos(102.4,345.6)}{\an7}I sang this for you.
-Dialogue: 0,0:08:49.96,0:08:51.38,Caption-6,,0,0,0,,{\pos(102.4,396)}{\an7}If you don't mind, please listen to it.
-Dialogue: 0,0:08:53.63,0:08:55.13,Caption-6,,0,0,0,,{\pos(396.8,180)}{\an7}I will be part of the event.
-Dialogue: 0,0:08:53.63,0:08:55.13,Caption-6,,0,0,0,,{\pos(396.8,252)}{\an7}My booth space is S-23b.
-Dialogue: 0,0:08:55.13,0:08:56.63,Caption-6,,0,0,0,,{\pos(486.4,316.8)}{\an7}Wow! For real?!
-Dialogue: 0,0:08:55.13,0:08:56.63,Caption-6,,0,0,0,,{\pos(499.2,367.2)}{\an7}I'm definitely going!
-Dialogue: 0,0:10:13.38,0:10:15.38,Caption-12,,0,0,0,,{\pos(614.4,21.6)}{\an7}Vendor Unload Times
-Dialogue: 0,0:10:13.38,0:10:15.38,Caption-12,,0,0,0,,{\pos(614.4,72)}{\an7}Group Entry &
-Dialogue: 0,0:10:13.38,0:10:15.38,Caption-12,,0,0,0,,{\pos(627.2,122.4)}{\an7}Pamphlet Distribution Times
-Dialogue: 0,0:10:13.38,0:10:15.38,Caption-15,,0,0,0,,{\pos(486.4,172.8)}{\an7}Doors Open
-Dialogue: 0,0:10:13.38,0:10:15.38,Caption-12,,0,0,0,,{\pos(614.4,223.2)}{\an7}General Admission Begins
-Dialogue: 0,0:10:13.38,0:10:15.38,Caption-12,,0,0,0,,{\pos(614.4,273.6)}{\an7}Direct Sales Event
-Dialogue: 0,0:10:18.88,0:10:23.38,Caption-16,,0,0,0,,{\pos(780.8,338.4)}{\an7}New release 500 yen
-Dialogue: 0,0:10:18.88,0:10:23.38,Caption-16,,0,0,0,,{\pos(780.8,388.8)}{\an7}I have old songs too!
-Dialogue: 0,0:10:18.88,0:10:23.38,Caption-17,,0,0,0,,{\pos(371.2,439.2)}{\an7}Teishotoku Studio
-Dialogue: 0,0:10:18.88,0:10:23.38,Caption-16,,0,0,0,,{\pos(1024,489.6)}{\an7}Peanuts
-Dialogue: 0,0:10:18.88,0:10:23.38,Caption-16,,0,0,0,,{\pos(985.6,540)}{\an7}T-shirt 3000 yen
-Dialogue: 0,0:10:23.38,0:10:25.25,Caption-17,,0,0,0,,{\pos(345.6,79.2)}{\an7}A-121
-Dialogue: 0,0:10:23.38,0:10:25.25,Caption-12,,0,0,0,,{\pos(345.6,129.6)}{\an7}Line Ends Here
-Dialogue: 0,0:10:32.33,0:10:33.83,Caption-6,,0,0,0,,{\pos(204.8,244.8)}{\an7}Today is finally the day!
-Dialogue: 0,0:10:32.33,0:10:33.83,Caption-6,,0,0,0,,{\pos(192,482.4)}{\an7}I'll be a little late, but I'll be there!
-Dialogue: 0,0:10:38.33,0:10:39.17,Caption-6,,0,0,0,,{\pos(268.8,93.6)}{\an7}I got my nails done for the event.
-Dialogue: 0,0:10:43.46,0:10:44.75,Caption-12,,0,0,0,,{\pos(908.8,288)}{\an7}Mathematics
-Dialogue: 0,0:10:47.21,0:10:47.96,Caption-14,,0,0,0,,{\pos(537.6,280.8)}{\an7}Mathematics
-Dialogue: 0,0:10:48.50,0:10:49.25,Caption-14,,0,0,0,,{\pos(524.8,561.6)}{\an7}Akane Kikuchi
-Dialogue: 0,0:11:23.04,0:11:25.00,Caption-12,,0,0,0,,{\pos(614.4,21.6)}{\an7}Vendor Unload Times
-Dialogue: 0,0:11:23.04,0:11:25.00,Caption-12,,0,0,0,,{\pos(614.4,72)}{\an7}Group Entry &
-Dialogue: 0,0:11:23.04,0:11:25.00,Caption-12,,0,0,0,,{\pos(627.2,122.4)}{\an7}Pamphlet Distribution Times
-Dialogue: 0,0:11:23.04,0:11:25.00,Caption-15,,0,0,0,,{\pos(486.4,172.8)}{\an7}Doors Open
-Dialogue: 0,0:11:23.04,0:11:25.00,Caption-12,,0,0,0,,{\pos(614.4,223.2)}{\an7}General Admission Begins
-Dialogue: 0,0:11:23.05,0:11:25.00,Caption-12,,0,0,0,,{\pos(614.4,273.6)}{\an7}Direct Sales Event
-Dialogue: 0,0:12:13.96,0:12:15.46,Caption-6,,0,0,0,,{\pos(422.4,93.6)}{\an7}Teishotoku Studio
-Dialogue: 0,0:12:22.67,0:12:24.33,Caption-18,,0,0,0,,{\pos(499.2,93.6)}{\an7}Gero Onsen
-Dialogue: 0,0:15:04.33,0:15:06.96,Caption-19,,0,0,0,,{\pos(140.8,367.2)}{\an7}I will always always support you.
-Dialogue: 0,0:15:04.33,0:15:06.96,Caption-19,,0,0,0,,{\pos(153.6,475.2)}{\an7}I like you a lot.
-Dialogue: 0,0:16:41.83,0:16:42.83,Caption-20,,0,0,0,,{\pos(537.6,280.8)}{\an7}Gero Onsen
-Dialogue: 0,0:16:44.58,0:16:46.00,Caption-18,,0,0,0,,{\pos(499.2,93.6)}{\an7}Gero Onsen
-Dialogue: 0,0:18:20.54,0:18:23.38,Caption-21,,0,0,0,,{\pos(102.4,568.8)}{\an7}This is Teishotoku P.
-Dialogue: 0,0:18:20.54,0:18:23.38,Caption-21,,0,0,0,,{\pos(102.4,619.2)}{\an7}This is my seventh song.
-Dialogue: 0,0:20:07.92,0:20:09.17,Caption-14,,0,0,0,,{\pos(678.4,273.6)}{\an7}Excellent Luck
-Dialogue: 0,0:20:24.17,0:20:26.17,Caption-12,,0,0,0,,{\pos(473.6,316.8)}{\an7}Mathematics
-Dialogue: 0,0:20:29.33,0:20:32.33,Caption-22,,0,0,0,,{\pos(115.2,36)}{\an7}Dear Sensei
-Dialogue: 0,0:20:29.33,0:20:32.33,Caption-22,,0,0,0,,{\pos(166.4,86.4)}{\an7}Before I graduate, I'm going to make
-Dialogue: 0,0:20:29.34,0:20:32.33,Caption-22,,0,0,0,,{\pos(166.4,136.8)}{\an7}my debut as a manga artist!
-Dialogue: 0,0:20:29.34,0:20:32.33,Caption-22,,0,0,0,,{\pos(166.4,187.2)}{\an7}I'm going to become even more famous than YOU.
-Dialogue: 0,0:20:38.08,0:20:40.33,Caption-23,,0,0,0,,{\pos(396.8,511.2)}{\an7}I look forward to it.
-Dialogue: 0,0:20:43.08,0:20:48.63,Caption-24,,0,0,0,,{\pos(102.4,223.2)}{\an7}Good work the other day.
-Dialogue: 0,0:20:43.08,0:20:48.63,Caption-24,,0,0,0,,{\pos(128,302.4)}{\an7}I hope you'll support me.
-Dialogue: 0,0:20:43.09,0:20:48.63,Caption-24,,0,0,0,,{\pos(153.6,388.8)}{\an7}I listened to that CD you gave me.
-Dialogue: 0,0:20:43.09,0:20:48.63,Caption-24,,0,0,0,,{\pos(179.2,475.2)}{\an7}It had an honest feel to it, and was quite good.
-Dialogue: 0,0:20:49.04,0:20:51.71,Caption-24,,0,0,0,,{\pos(140.8,410.4)}{\an7}Everything always tastes better
-Dialogue: 0,0:20:49.04,0:20:51.71,Caption-24,,0,0,0,,{\pos(166.4,482.4)}{\an7}when it's fried.
-Dialogue: 0,0:20:52.04,0:20:55.21,Caption-24,,0,0,0,,{\pos(128,417.6)}{\an7}All said and done, that's what it's like, right?
-Dialogue: 0,0:20:52.04,0:20:55.21,Caption-24,,0,0,0,,{\pos(192,511.2)}{\an7}Song writing, that is.
-Dialogue: 0,0:20:57.21,0:20:59.21,Caption-24,,0,0,0,,{\pos(422.4,403.2)}{\an7}Mute Conversation
+Dialogue: 0,0:00:01.29,0:00:03.33,Default,,0,0,0,,Hey, can I say something amaz-?
+Dialogue: 0,0:00:02.70,0:00:03.33,Default,,0,0,0,,{\an8}Stop it.
+Dialogue: 0,0:00:03.33,0:00:04.25,Default,,0,0,0,,Cheap shoes are-
+Dialogue: 0,0:00:03.75,0:00:04.25,Default,,0,0,0,,{\an8}0Enough.
+Dialogue: 0,0:00:04.25,0:00:05.66,Default,,0,0,0,,Risqué dancing is-
+Dialogue: 0,0:00:04.87,0:00:05.66,Default,,0,0,0,,{\an8}Zip your hole.
+Dialogue: 0,0:00:05.66,0:00:06.91,Default,,0,0,0,,Stinky turtles are-
+Dialogue: 0,0:00:06.08,0:00:06.91,Default,,0,0,0,,{\an8}Shut up!
+Dialogue: 0,0:00:06.91,0:00:08.08,Default,,0,0,0,,Mainly in broad-
+Dialogue: 0,0:00:07.66,0:00:09.54,Default,,0,0,0,,{\an8}La la la! Can't hear you!
+Dialogue: 0,0:00:09.54,0:00:10.45,Default,,0,0,0,,PET bottle!
+Dialogue: 0,0:00:10.45,0:00:12.04,Default,,0,0,0,,Cut it the hell out already!
+Dialogue: 0,0:00:12.04,0:00:15.25,Default,,0,0,0,,I'm ticked off as it is, because I can't\Ncome up with an idea for a manga!
+Dialogue: 0,0:00:15.25,0:00:17.95,Default,,0,0,0,,You self-absorbed fool! Just open your ears a little!
+Dialogue: 0,0:00:17.95,0:00:22.20,Default,,0,0,0,,If you take the first letters of the phrases\NBaka tried to say just now...
+Dialogue: 0,0:00:22.37,0:00:23.70,Default,,0,0,0,,{\an8}CHeap shoes
+Dialogue: 0,0:00:22.75,0:00:23.70,Default,,0,0,0,,Ch...
+Dialogue: 0,0:00:23.70,0:00:24.62,Default,,0,0,0,,{\an8}CHeap shoes\N{\an8}RIsqué dancing
+Dialogue: 0,0:00:23.70,0:00:24.62,Default,,0,0,0,,ri...
+Dialogue: 0,0:00:24.62,0:00:25.75,Default,,0,0,0,,{\an8}CHeap shoes\N{\an8}RIsqué dancing\N{\an8}STinky turtles
+Dialogue: 0,0:00:24.62,0:00:25.75,Default,,0,0,0,,st...
+Dialogue: 0,0:00:25.75,0:00:27.29,Default,,0,0,0,,{\an8}CHeap shoes\N{\an8}RIsqué dancing\N{\an8}STinky turtles\N{\an8}MAinly in broad
+Dialogue: 0,0:00:25.75,0:00:26.62,Default,,0,0,0,,ma...
+Dialogue: 0,0:00:27.29,0:00:28.62,Default,,0,0,0,,{\an8}CH\N{\an8}RI\N{\an8}ST\N{\an8}MA
+Dialogue: 0,0:00:28.75,0:00:29.75,Default,,0,0,0,,That's aweso-!
+Dialogue: 0,0:00:29.75,0:00:30.50,Default,,0,0,0,,PE.
+Dialogue: 0,0:00:30.50,0:00:33.00,Default,,0,0,0,,{\an8}CH\N{\an8}RI\N{\an8}ST\N{\an8}MA\N{\an8}PET bottle
+Dialogue: 0,0:00:33.00,0:00:35.33,Default,,0,0,0,,{\an8}CH\N{\an8}RI\N{\an8}ST\N{\an8}MA\N{\an8}PE
+Dialogue: 0,0:00:36.58,0:00:37.45,Default,,0,0,0,,"PE"?
+Dialogue: 0,0:00:40.75,0:00:42.91,Default,,0,0,0,,Well, this year IS almost over.
+Dialogue: 0,0:00:44.12,0:00:45.00,Default,,0,0,0,,Yo
+Dialogue: 0,0:00:46.12,0:00:47.00,Default,,0,0,0,,Mic check
+Dialogue: 0,0:00:47.95,0:00:48.87,Default,,0,0,0,,JK (High school girl)
+Dialogue: 0,0:00:49.75,0:00:50.25,Default,,0,0,0,,Huh?
+Dialogue: 0,0:00:50.25,0:00:50.75,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:00:50.75,0:00:52.66,Default,,0,0,0,,Isn't that usually where one-two is best?
+Dialogue: 0,0:00:52.66,0:00:54.45,Default,,0,0,0,,The moon is a quiet beast during the daytime
+Dialogue: 0,0:00:54.45,0:00:56.33,Default,,0,0,0,,What about the moon? That was sudden
+Dialogue: 0,0:00:56.33,0:00:58.20,Default,,0,0,0,,Once it becomes night, under cover of darkness
+Dialogue: 0,0:00:58.20,0:00:59.83,Default,,0,0,0,,You're so dazzling, wallflower
+Dialogue: 0,0:00:59.83,0:01:01.70,Default,,0,0,0,,Want to be like you, lunatic girls
+Dialogue: 0,0:01:01.70,0:01:03.83,Default,,0,0,0,,Want to jump on that bandwagon, dazzling JK
+Dialogue: 0,0:01:03.83,0:01:04.83,Default,,0,0,0,,The present state of
+Dialogue: 0,0:01:04.83,0:01:05.91,Default,,0,0,0,,Always lazing around is okay!
+Dialogue: 0,0:01:06.04,0:01:09.33,Default,,0,0,0,,Everything in your mind...
+Dialogue: 0,0:01:09.33,0:01:11.00,Default,,0,0,0,,Emptying all that will make you efficient
+Dialogue: 0,0:01:11.00,0:01:12.12,Default,,0,0,0,,Is that so? You know?
+Dialogue: 0,0:01:12.12,0:01:13.41,Default,,0,0,0,,Animal instinct (Meow!)
+Dialogue: 0,0:01:13.54,0:01:17.79,Default,,0,0,0,,A word to society, a maiden's roar
+Dialogue: 0,0:01:17.79,0:01:18.62,Default,,0,0,0,,Ro-ro-ro-ro-round!
+Dialogue: 0,0:01:18.62,0:01:19.66,Default,,0,0,0,,Innovative shout
+Dialogue: 0,0:01:19.66,0:01:21.12,Default,,0,0,0,,Ro-ro-ro-ro-ro-ro-round!
+Dialogue: 0,0:01:21.12,0:01:24.91,Default,,0,0,0,,So, there's no rabbit on the moon, huh?
+Dialogue: 0,0:01:24.91,0:01:28.54,Default,,0,0,0,,So, "dass" is German, huh?
+Dialogue: 0,0:01:28.54,0:01:32.08,Default,,0,0,0,,Background music that makes you want to\Neat curry so hot that you cry!
+Dialogue: 0,0:01:33.37,0:01:34.91,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:01:34.91,0:01:35.75,Default,,0,0,0,,Gather 'round
+Dialogue: 0,0:01:35.75,0:01:36.87,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:01:36.87,0:01:39.16,Default,,0,0,0,,Mic check JK, one-two, JK, one-two
+Dialogue: 0,0:01:39.16,0:01:41.25,Default,,0,0,0,,Anything's okay, everyday
+Dialogue: 0,0:01:41.25,0:01:42.41,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:01:42.41,0:01:43.25,Default,,0,0,0,,Take a breath
+Dialogue: 0,0:01:43.25,0:01:44.41,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:01:44.41,0:01:46.75,Default,,0,0,0,,Sushi, ramen, gyudon, tonkatsu, kishimen
+Dialogue: 0,0:01:46.75,0:01:48.79,Default,,0,0,0,,Background music that makes you want to eat anything
+Dialogue: 0,0:01:48.79,0:01:50.62,Default,,0,0,0,,Don't ever begrudge individuality
+Dialogue: 0,0:01:50.62,0:01:52.58,Default,,0,0,0,,A smoldering instinct, everyone gather 'round!
+Dialogue: 0,0:01:52.58,0:01:54.33,Default,,0,0,0,,Surprise it, toward an unlooked direction
+Dialogue: 0,0:01:54.33,0:01:56.37,Default,,0,0,0,,Even if it's pointless let's go, a treasure before long
+Dialogue: 0,0:01:56.37,0:01:57.50,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:01:57.50,0:01:58.37,Default,,0,0,0,,When you want to cry...
+Dialogue: 0,0:01:58.37,0:01:59.41,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:01:59.41,0:02:01.79,Default,,0,0,0,,Wholeheartedly cry and cry, it's gratifying
+Dialogue: 0,0:02:01.79,0:02:03.75,Default,,0,0,0,,Every day feels refreshing
+Dialogue: 0,0:02:03.75,0:02:04.95,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:02:04.95,0:02:05.79,Default,,0,0,0,,So, after that...
+Dialogue: 0,0:02:05.79,0:02:06.91,Default,,0,0,0,,Ooh, round! Moon! Dass! Cry!
+Dialogue: 0,0:02:06.91,0:02:09.29,Default,,0,0,0,,Even if you don't want to you'll cheer up\Nfor sure, and yeah, you'll smile
+Dialogue: 0,0:02:09.29,0:02:11.62,Default,,0,0,0,,Round! Moon! Dass! Cry! Every day
+Dialogue: 0,0:02:13.33,0:02:17.04,Default,,0,0,0,,{\an9\pos(1090,472)}Dream
+Dialogue: 0,0:02:18.29,0:02:19.83,Default,,0,0,0,,It's no good!
+Dialogue: 0,0:02:19.83,0:02:23.45,Default,,0,0,0,,I can't write a thing! I'm totally in a slump.
+Dialogue: 0,0:02:23.87,0:02:26.33,Default,,0,0,0,,The nice young guy Sakuya and the delinquent Takuto...
+Dialogue: 0,0:02:26.33,0:02:27.62,Default,,0,0,0,,They're exact opposites.
+Dialogue: 0,0:02:27.62,0:02:30.66,Default,,0,0,0,,So, who should the main character end up with?
+Dialogue: 0,0:02:28.37,0:02:30.66,Default,,0,0,0,,{\an9}Sakuya\N{\an8}Erika\N{\an8}Likes\N{\an7}Takuto\N{\an8}Likes
+Dialogue: 0,0:02:30.66,0:02:33.66,Default,,0,0,0,,They're both totally incompatible.
+Dialogue: 0,0:02:33.66,0:02:35.66,Default,,0,0,0,,{\an7}Takuto\N{\an9}Likes
+Dialogue: 0,0:02:33.66,0:02:35.66,Default,,0,0,0,,On top of that, Takuto is a scoundrel...
+Dialogue: 0,0:02:36.41,0:02:37.87,Default,,0,0,0,,It's fine by me...
+Dialogue: 0,0:02:37.87,0:02:41.45,Default,,0,0,0,,If, instead of Erika, it's YOU who entertains me, that is.
+Dialogue: 0,0:02:41.45,0:02:43.41,Default,,0,0,0,,L-let go already!
+Dialogue: 0,0:02:44.37,0:02:47.62,Default,,0,0,0,,Why I can only move forward\Nif it turns into another kind of story?!
+Dialogue: 0,0:02:49.41,0:02:50.83,Default,,0,0,0,,Time for a change of pace.
+Dialogue: 0,0:02:50.83,0:02:55.33,Default,,0,0,0,,{\an8}It's lovely\N{\an8}The song's way too good\N{\an8}Amazing!\N{\an8}A beautiful song\N{\an8}Teishotoku-P\N{\an7}This is Teishotoku P.\N{\an7}The speed at which every day goes by changes...
+Dialogue: 0,0:02:52.00,0:02:55.33,Default,,0,0,0,,Teishotoku P's new song really is great!
+Dialogue: 0,0:02:55.54,0:02:58.95,Default,,0,0,0,,How does he write such wonderful songs?
+Dialogue: 0,0:02:59.16,0:03:01.12,Default,,0,0,0,,What kind of a job does he have?
+Dialogue: 0,0:03:01.12,0:03:02.83,Default,,0,0,0,,What type of girl does he like?
+Dialogue: 0,0:03:02.83,0:03:05.75,Default,,0,0,0,,He probably already has a girlfriend, huh?
+Dialogue: 0,0:03:07.16,0:03:12.20,Default,,0,0,0,,Is there no way for me to convey\Nthis passion I have for him?!
+Dialogue: 0,0:03:13.33,0:03:15.33,Default,,0,0,0,,Oh! There might be!
+Dialogue: 0,0:03:15.95,0:03:18.00,Default,,0,0,0,,The truth is...
+Dialogue: 0,0:03:18.00,0:03:22.33,Default,,0,0,0,,{\an7}Note: A subcategory on J-website Niconico\N{\an7}where people upload their own songs
+Dialogue: 0,0:03:18.00,0:03:22.33,Default,,0,0,0,,I've bought all the equipment needed to do "Sang_It."
+Dialogue: 0,0:03:22.33,0:03:25.00,Default,,0,0,0,,I was in pretty high spirits,\Nor maybe it was just a whim,
+Dialogue: 0,0:03:25.00,0:03:27.58,Default,,0,0,0,,but it was a pain to get working, so I gave up.
+Dialogue: 0,0:03:27.95,0:03:33.00,Default,,0,0,0,,Still, if this will convey my feelings to Teishotoku P-sama,\Nmaybe I'll give it another shot!
+Dialogue: 0,0:03:35.12,0:03:39.29,Default,,0,0,0,,The song I uploaded the other day\Nwas a rather good one, if I do say so myself.
+Dialogue: 0,0:03:39.66,0:03:43.29,Default,,0,0,0,,As usual, my numbers aren't\Ngoing up that much though...
+Dialogue: 0,0:03:43.70,0:03:44.87,Default,,0,0,0,,Ah, yes.
+Dialogue: 0,0:03:44.87,0:03:48.58,Default,,0,0,0,,It was a clear afternoon like this,\Nwhen I wrote that song...
+Dialogue: 0,0:03:49.95,0:03:51.45,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:03:53.25,0:03:56.08,Default,,0,0,0,,Sorry. I didn't make an appointment...
+Dialogue: 0,0:03:56.87,0:03:59.25,Default,,0,0,0,,Well, that's okay!
+Dialogue: 0,0:03:59.25,0:04:00.87,Default,,0,0,0,,Are you a first-timer?
+Dialogue: 0,0:04:00.87,0:04:01.62,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:01.62,0:04:03.41,Default,,0,0,0,,This way, please.
+Dialogue: 0,0:04:03.87,0:04:06.70,Default,,0,0,0,,His "sense" as a hair stylist is somewhat broken.
+Dialogue: 0,0:04:06.95,0:04:09.04,Default,,0,0,0,,This will not turn out well...
+Dialogue: 0,0:04:09.04,0:04:09.95,Default,,0,0,0,,Good. Okay!
+Dialogue: 0,0:04:11.45,0:04:16.58,Default,,0,0,0,,All I do is look ahead
+Dialogue: 0,0:04:16.58,0:04:21.95,Default,,0,0,0,,and before long, I begin to walk unsteadily
+Dialogue: 0,0:04:21.95,0:04:27.12,Default,,0,0,0,,{\an8}In the past I would often get lost, but
+Dialogue: 0,0:04:21.95,0:04:26.12,Default,,0,0,0,,Hang on a sec. I'm gonna go get\Nsome random magazines.
+Dialogue: 0,0:04:27.33,0:04:35.87,Default,,0,0,0,,{\an8}Now, in order to get lost, there are hardly any choices at all
+Dialogue: 0,0:04:27.33,0:04:28.83,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:04:29.83,0:04:31.75,Default,,0,0,0,,{\an7}100 Middle-aged Ladies\N{\an7}Found in Town\N{\an7}Bimajo VS Bumajo\N{\an8}We Still Prefer Amateurs
+Dialogue: 0,0:04:29.83,0:04:31.75,Default,,0,0,0,,I think you'll like these.
+Dialogue: 0,0:04:37.41,0:04:39.12,Default,,0,0,0,,So, how much would you like to cut off?
+Dialogue: 0,0:04:39.12,0:04:41.50,Default,,0,0,0,,About five centimeters on both ends, please.
+Dialogue: 0,0:04:41.50,0:04:43.50,Default,,0,0,0,,Five centimeters, huh?
+Dialogue: 0,0:04:43.50,0:04:45.66,Default,,0,0,0,,That seems kinda half-hearted.
+Dialogue: 0,0:04:45.87,0:04:48.75,Default,,0,0,0,,Wouldn't you rather go all out\Nand cut about 20 centimeters?
+Dialogue: 0,0:04:48.75,0:04:51.08,Default,,0,0,0,,That would just be a buzz cut!
+Dialogue: 0,0:04:51.08,0:04:53.37,Default,,0,0,0,,I feel more relaxed when it's longer, so...
+Dialogue: 0,0:04:54.20,0:05:04.50,Default,,0,0,0,,{\an8}A haphazard me always just had excuses lined up
+Dialogue: 0,0:04:54.62,0:04:57.04,Default,,0,0,0,,Well, that's okay.
+Dialogue: 0,0:05:04.50,0:05:09.83,Default,,0,0,0,,{\an8}In the white moon that I see in broad daylight
+Dialogue: 0,0:05:09.83,0:05:18.08,Default,,0,0,0,,{\an8}I can no longer draw lines as clear colored as they were yesterday
+Dialogue: 0,0:05:10.37,0:05:11.75,Default,,0,0,0,,It's strange.
+Dialogue: 0,0:05:11.75,0:05:14.29,Default,,0,0,0,,The lyrics are racing throughout my body...
+Dialogue: 0,0:05:26.00,0:05:28.54,Default,,0,0,0,,My cat really is cute, you know.
+Dialogue: 0,0:05:28.54,0:05:31.12,Default,,0,0,0,,Okay, I'm going to raise the chair a little.
+Dialogue: 0,0:05:32.29,0:05:34.20,Default,,0,0,0,,Now I'm lowering it!
+Dialogue: 0,0:05:36.75,0:05:42.12,Default,,0,0,0,,{\an8}The view from the top of the hill is beautiful
+Dialogue: 0,0:05:37.91,0:05:39.79,Default,,0,0,0,,Okay!
+Dialogue: 0,0:05:42.12,0:05:47.37,Default,,0,0,0,,{\an8}Just like as if it was a creation
+Dialogue: 0,0:05:42.12,0:05:44.45,Default,,0,0,0,,Now it's wash time!
+Dialogue: 0,0:05:47.37,0:05:52.79,Default,,0,0,0,,{\an8}The distinction between reality and ideal also becomes unclear
+Dialogue: 0,0:05:52.79,0:05:57.95,Default,,0,0,0,,{\an8}Dawn comes again
+Dialogue: 0,0:05:58.12,0:06:00.50,Default,,0,0,0,,By the way, are you a cat fan?
+Dialogue: 0,0:06:00.50,0:06:03.04,Default,,0,0,0,,Well, I wouldn't go that far...
+Dialogue: 0,0:06:03.04,0:06:03.66,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:03.95,0:06:06.04,Default,,0,0,0,,So, do you like them? Or hate them?
+Dialogue: 0,0:06:06.75,0:06:07.95,Default,,0,0,0,,You like them?
+Dialogue: 0,0:06:10.66,0:06:11.50,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:11.50,0:06:16.66,Default,,0,0,0,,{\an8}In a world where only "yes" can be said
+Dialogue: 0,0:06:12.00,0:06:15.00,Default,,0,0,0,,Which do you think is smarter, a dog or a cat?
+Dialogue: 0,0:06:15.00,0:06:17.87,Default,,0,0,0,,You'd think it would be a dog,\Nbecause they can do a lot of tricks, right?
+Dialogue: 0,0:06:16.66,0:06:22.00,Default,,0,0,0,,{\an8}Will my voice reach you all the way?
+Dialogue: 0,0:06:17.87,0:06:20.58,Default,,0,0,0,,Nope! You'd be wrong. Sorry.
+Dialogue: 0,0:06:22.12,0:06:27.33,Default,,0,0,0,,{\an8}In a world that's full of information
+Dialogue: 0,0:06:22.12,0:06:24.62,Default,,0,0,0,,You know how cats don't listen to what you say?
+Dialogue: 0,0:06:24.62,0:06:27.33,Default,,0,0,0,,That's because they can think and act on their own.
+Dialogue: 0,0:06:27.33,0:06:36.12,Default,,0,0,0,,{\an8}My words will probably get twisted and unraveled
+Dialogue: 0,0:06:27.33,0:06:30.00,Default,,0,0,0,,Well, if we're talking about Motchinyan,\NI do rather like that.
+Dialogue: 0,0:06:30.00,0:06:31.75,Default,,0,0,0,,Wait, what? What's that?
+Dialogue: 0,0:06:31.75,0:06:33.33,Default,,0,0,0,,It's a character. A cat.
+Dialogue: 0,0:06:33.33,0:06:34.58,Default,,0,0,0,,Oh, really?
+Dialogue: 0,0:06:37.45,0:06:41.33,Default,,0,0,0,,{\an8}Yeah, easily
+Dialogue: 0,0:06:43.83,0:06:46.95,Default,,0,0,0,,What a heartbreakingly tender song...
+Dialogue: 0,0:06:50.04,0:06:51.95,Default,,0,0,0,,4:20...
+Dialogue: 0,0:06:54.91,0:06:57.33,Default,,0,0,0,,Nothing's changed at all.
+Dialogue: 0,0:06:59.20,0:07:01.25,Default,,0,0,0,,Something like that happened, and then...
+Dialogue: 0,0:07:01.25,0:07:04.25,Default,,0,0,0,,Yeah, it was a song I made on impulse.
+Dialogue: 0,0:07:06.08,0:07:06.87,Default,,0,0,0,,{\an7}I tried singing "16:20" ver...
+Dialogue: 0,0:07:06.87,0:07:08.12,Default,,0,0,0,,{\an7}I tried singing "16:20" Ver. akane\N{\an7}I sang this for you.\N{\an7}If you don't mind, please listen to it.
+Dialogue: 0,0:07:07.20,0:07:09.91,Default,,0,0,0,,"Tried singing" it?
+Dialogue: 0,0:07:09.91,0:07:12.37,Default,,0,0,0,,Someone sang that for me?
+Dialogue: 0,0:07:12.50,0:07:14.00,Default,,0,0,0,,{\an7}I tried singing 16:20 Ver. akane\N{\an7}I sang this for you.\N{\an7}If you don't mind, please listen to it.
+Dialogue: 0,0:07:12.75,0:07:13.87,Default,,0,0,0,,Let's see.
+Dialogue: 0,0:07:16.66,0:07:18.45,Default,,0,0,0,,Th-this is...!
+Dialogue: 0,0:07:18.75,0:07:21.37,Default,,0,0,0,,I... I really uploaded it!
+Dialogue: 0,0:07:21.54,0:07:23.79,Default,,0,0,0,,Please let it reach him...
+Dialogue: 0,0:07:23.79,0:07:25.29,Default,,0,0,0,,Oh, Teishotoku P!
+Dialogue: 0,0:07:25.29,0:07:27.41,Default,,0,0,0,,This is amazing...
+Dialogue: 0,0:07:28.29,0:07:31.37,Default,,0,0,0,,Thinking back on it, I'm getting angry again.
+Dialogue: 0,0:07:33.29,0:07:34.54,Default,,0,0,0,,Hey, Kikuchi.
+Dialogue: 0,0:07:34.54,0:07:36.29,Default,,0,0,0,,{\an8}Mathematics\NAkane Kikuchi
+Dialogue: 0,0:07:34.54,0:07:36.29,Default,,0,0,0,,What's with this notebook?
+Dialogue: 0,0:07:36.29,0:07:38.25,Default,,0,0,0,,I thought I'd jazz it up a little!
+Dialogue: 0,0:07:38.25,0:07:41.50,Default,,0,0,0,,This sort of decoration hardly counts as quality...
+Dialogue: 0,0:07:41.79,0:07:44.66,Default,,0,0,0,,Still, you're uncannily good.
+Dialogue: 0,0:07:44.66,0:07:46.00,Default,,0,0,0,,Well, of course!
+Dialogue: 0,0:07:46.00,0:07:48.45,Default,,0,0,0,,This one's future dream is to become a manga artist!
+Dialogue: 0,0:07:48.45,0:07:49.62,Default,,0,0,0,,Hey! You...!
+Dialogue: 0,0:07:49.62,0:07:51.33,Default,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:07:51.33,0:07:54.29,Default,,0,0,0,,Oh. Kikuchi, have you already\Ndecided on a career path?
+Dialogue: 0,0:07:54.29,0:07:55.87,Default,,0,0,0,,C-career path?!
+Dialogue: 0,0:07:56.08,0:07:59.00,Default,,0,0,0,,Uh, I don't seriously think I could become one, so...
+Dialogue: 0,0:07:59.00,0:08:00.54,Default,,0,0,0,,I'm telling you, you can!
+Dialogue: 0,0:08:00.54,0:08:05.04,Default,,0,0,0,,I think it'll be easier than humanity\Ndeciphering the C-value paradox.
+Dialogue: 0,0:08:05.04,0:08:07.41,Default,,0,0,0,,It's not like that. Really!
+Dialogue: 0,0:08:05.79,0:08:07.00,Default,,0,0,0,,{\an8}Dream...
+Dialogue: 0,0:08:07.41,0:08:08.83,Default,,0,0,0,,A dream, huh?
+Dialogue: 0,0:08:07.41,0:08:09.87,Default,,0,0,0,,{\an8}Huh? Then what is it like?!
+Dialogue: 0,0:08:12.16,0:08:14.91,Default,,0,0,0,,{\an7}Since when, I wonder\N{\an7}Did your voice become a special sound?
+Dialogue: 0,0:08:12.16,0:08:14.37,Default,,0,0,0,,It's finally here...
+Dialogue: 0,0:08:15.20,0:08:18.62,Default,,0,0,0,,A one-of-a-kind, original CD!
+Dialogue: 0,0:08:19.04,0:08:20.20,Default,,0,0,0,,Still...
+Dialogue: 0,0:08:20.20,0:08:23.70,Default,,0,0,0,,Though this was the smallest count, 200 CDs is a lot.
+Dialogue: 0,0:08:23.95,0:08:26.83,Default,,0,0,0,,I'll bring in 100 of them to the event venue,
+Dialogue: 0,0:08:26.83,0:08:29.91,Default,,0,0,0,,and probably save the rest for mail orders.
+Dialogue: 0,0:08:30.45,0:08:32.66,Default,,0,0,0,,Vocaloid Meister...
+Dialogue: 0,0:08:32.66,0:08:36.16,Default,,0,0,0,,A fan-manga exhibit and pop-up sales event\Nheld several times a year.
+Dialogue: 0,0:08:36.45,0:08:40.20,Default,,0,0,0,,A number of Vocalo Ps that have\Nworked on famous songs also participate.
+Dialogue: 0,0:08:40.58,0:08:43.16,Default,,0,0,0,,A lot has happened for me to get to this point.
+Dialogue: 0,0:08:43.16,0:08:47.00,Default,,0,0,0,,But now, I've made these songs the way I wanted...
+Dialogue: 0,0:08:46.37,0:08:47.95,Default,,0,0,0,,{\an8}General comments\N{\an8}It's lovely\N{\an8}So nice\N{\an8}I'm here today again\N{\an8}Whoa!\N{\an8}You sure make nice songs\N{\an8}Teishotoku P-san, all of your songs are wonderful
+Dialogue: 0,0:08:47.00,0:08:49.54,Default,,0,0,0,,And there are people who say that they like them.
+Dialogue: 0,0:08:47.95,0:08:49.95,Default,,0,0,0,,{\an7}I tried singing 16:20 Ver. akane\N{\an7}This is akane. This is the first time\N{\an7}I challenged myself to Sang_It.\N{\an7}Teishotoku-P-san, I am a huge fan of yours.\N{\an7}I will continue to always support you.
+Dialogue: 0,0:08:49.83,0:08:51.95,Default,,0,0,0,,Someone even sang one for me!
+Dialogue: 0,0:08:49.95,0:08:51.37,Default,,0,0,0,,{\an7}I sang this for you.\N{\an7}If you don't mind, please listen to it.
+Dialogue: 0,0:08:53.62,0:08:55.12,Default,,0,0,0,,{\an8}I will be part of the event.\N{\an8}My booth space is S-23b.
+Dialogue: 0,0:08:55.12,0:08:56.62,Default,,0,0,0,,{\an8}Wow! For real?!\N{\an8}I'm definitely going!\NAkane-san.
+Dialogue: 0,0:08:56.62,0:09:00.62,Default,,0,0,0,,She's one of the few fans I have,\Nand she sang my song.
+Dialogue: 0,0:09:00.62,0:09:02.29,Default,,0,0,0,,And she's coming, is she?
+Dialogue: 0,0:09:02.54,0:09:04.45,Default,,0,0,0,,Then we shall meet for the first time.
+Dialogue: 0,0:09:07.25,0:09:09.12,Default,,0,0,0,,Oh! You're so lucky, Robo!
+Dialogue: 0,0:09:09.12,0:09:11.12,Default,,0,0,0,,Looks like Majo is reading your fortune!
+Dialogue: 0,0:09:11.12,0:09:11.87,Default,,0,0,0,,Yes.
+Dialogue: 0,0:09:11.87,0:09:14.87,Default,,0,0,0,,If you like, I can take turns reading all of your fortunes.
+Dialogue: 0,0:09:14.87,0:09:15.58,Default,,0,0,0,,For real?!
+Dialogue: 0,0:09:15.58,0:09:17.41,Default,,0,0,0,,So, Robo, what're you having her predict?
+Dialogue: 0,0:09:17.41,0:09:19.62,Default,,0,0,0,,The year is coming to an end soon, so-
+Dialogue: 0,0:09:19.62,0:09:20.91,Default,,0,0,0,,It's about your fortune for next year?!
+Dialogue: 0,0:09:20.91,0:09:24.62,Default,,0,0,0,,I thought I'd have her tell me what fortune\NI'll draw when I visit the temple for New Year's.
+Dialogue: 0,0:09:24.62,0:09:27.29,Default,,0,0,0,,Wait, can you get a fortune\Nabout a fortune you'll be told?
+Dialogue: 0,0:09:28.16,0:09:29.29,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:09:29.29,0:09:30.79,Default,,0,0,0,,I believe you'll draw the "Excellent Luck" fortune.
+Dialogue: 0,0:09:30.79,0:09:31.41,Default,,0,0,0,,Really?!
+Dialogue: 0,0:09:31.41,0:09:32.45,Default,,0,0,0,,I'm next!
+Dialogue: 0,0:09:32.45,0:09:33.29,Default,,0,0,0,,Okay.
+Dialogue: 0,0:09:36.08,0:09:40.16,Default,,0,0,0,,A warning has been given to not eat cold things,\Nto prevent getting an upset stomach.
+Dialogue: 0,0:09:40.16,0:09:41.16,Default,,0,0,0,,My stomach?!
+Dialogue: 0,0:09:41.54,0:09:43.87,Default,,0,0,0,,It's not like its summer, so I'll be fine! No worries!
+Dialogue: 0,0:09:43.87,0:09:47.08,Default,,0,0,0,,Sorry for the wait. Wota-san, what would\Nyou like to know about the future?
+Dialogue: 0,0:09:47.79,0:09:52.79,Default,,0,0,0,,Uh, well... I mean, on Christmas Eve,\Nwill a certain someone...?
+Dialogue: 0,0:09:52.79,0:09:54.00,Default,,0,0,0,,No, forget it! Never mind!
+Dialogue: 0,0:09:54.00,0:09:55.29,Default,,0,0,0,,Huh? How come?
+Dialogue: 0,0:09:55.29,0:09:59.20,Default,,0,0,0,,W-well, if the answer is too shocking,\NI could get all anxious or...
+Dialogue: 0,0:09:59.20,0:10:00.41,Default,,0,0,0,,I understand.
+Dialogue: 0,0:10:00.41,0:10:03.41,Default,,0,0,0,,Well then, let me give you\Nmy treasured good luck charm instead.
+Dialogue: 0,0:10:03.95,0:10:06.62,Default,,0,0,0,,It's a mummified alpaca fetus.
+Dialogue: 0,0:10:06.95,0:10:08.58,Default,,0,0,0,,Y-y-y-y...
+Dialogue: 0,0:10:08.58,0:10:11.33,Default,,0,0,0,,You can keep that!
+Dialogue: 0,0:10:13.37,0:10:15.37,Default,,0,0,0,,{\an8}Vendor Unload Times\N{\an8}Group Entry &\N{\an8}Pamphlet Distribution Times\N{\an8}Doors Open\N{\an8}General Admission Begins\N{\an8}Direct Sales Event
+Dialogue: 0,0:10:17.75,0:10:19.45,Default,,0,0,0,,In this area alone...
+Dialogue: 0,0:10:18.87,0:10:23.37,Default,,0,0,0,,{\an8}New release 500 yen\N{\an8}I have old songs too!\N{\an8}Teishotoku Studio\N{\an9}Peanuts\N{\an8}T-shirt 3000 yen
+Dialogue: 0,0:10:19.45,0:10:21.54,Default,,0,0,0,,the oxygen grows thin.
+Dialogue: 0,0:10:23.37,0:10:25.25,Default,,0,0,0,,{\an8}A-121\N{\an8}Line Ends Here
+Dialogue: 0,0:10:26.75,0:10:29.41,Default,,0,0,0,,Sure enough, it's different if you're a famous "P."
+Dialogue: 0,0:10:29.41,0:10:32.33,Default,,0,0,0,,I knew this already, but... I'm just twiddling my thumbs.
+Dialogue: 0,0:10:32.33,0:10:33.83,Default,,0,0,0,,{\an7}Today is finally the day!\N{\an7}I'll be a little late, but I'll be there!
+Dialogue: 0,0:10:33.83,0:10:36.91,Default,,0,0,0,,"I look forward to it."
+Dialogue: 0,0:10:36.91,0:10:38.83,Default,,0,0,0,,I kind of get the feeling that this person...
+Dialogue: 0,0:10:38.33,0:10:39.16,Default,,0,0,0,,{\an7}I got my nails done for the event.
+Dialogue: 0,0:10:39.16,0:10:42.20,Default,,0,0,0,,Is somewhat "JK" (high school girl).
+Dialogue: 0,0:10:43.45,0:10:44.75,Default,,0,0,0,,{\an8}Mathematics
+Dialogue: 0,0:10:44.91,0:10:46.87,Default,,0,0,0,,I thought I'd jazz it up a little!
+Dialogue: 0,0:10:47.20,0:10:47.95,Default,,0,0,0,,{\an8}Mathematics
+Dialogue: 0,0:10:47.66,0:10:49.08,Default,,0,0,0,,Kikuchi?!
+Dialogue: 0,0:10:48.50,0:10:49.25,Default,,0,0,0,,{\an8}Akane Kikuchi
+Dialogue: 0,0:10:49.58,0:10:53.45,Default,,0,0,0,,Is she the "akane-san" who sang my song?!
+Dialogue: 0,0:10:57.00,0:10:59.58,Default,,0,0,0,,And now she's on her way here?
+Dialogue: 0,0:10:59.79,0:11:01.00,Default,,0,0,0,,A student is...
+Dialogue: 0,0:11:01.50,0:11:03.83,Default,,0,0,0,,coming to her homeroom teacher's booth?!
+Dialogue: 0,0:11:04.87,0:11:09.41,Default,,0,0,0,,No, it can't be.\NA coincidence like this just isn't possible!
+Dialogue: 0,0:11:09.95,0:11:12.20,Default,,0,0,0,,Finally... I finally get to meet him!
+Dialogue: 0,0:11:12.75,0:11:14.00,Default,,0,0,0,,The man I so admire...
+Dialogue: 0,0:11:14.33,0:11:15.75,Default,,0,0,0,,Teishotoku P!
+Dialogue: 0,0:11:23.04,0:11:25.00,Default,,0,0,0,,{\an8}Vendor Unload Times\N{\an8}Group Entry &\N{\an8}Pamphlet Distribution Times\N{\an8}Doors Open\N{\an8}General Admission Begins\N{\an8}Direct Sales Event
+Dialogue: 0,0:11:26.50,0:11:29.87,Default,,0,0,0,,It's pretty quiet for both of us, huh?
+Dialogue: 0,0:11:29.87,0:11:31.00,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:11:31.00,0:11:36.08,Default,,0,0,0,,It's like we're instant yakisoba\Nthat hasn't been drained properly.
+Dialogue: 0,0:11:37.50,0:11:38.50,Default,,0,0,0,,Right?
+Dialogue: 0,0:11:38.66,0:11:39.79,Default,,0,0,0,,Y-yeah...
+Dialogue: 0,0:11:39.79,0:11:41.54,Default,,0,0,0,,What does that even mean?
+Dialogue: 0,0:11:41.54,0:11:43.54,Default,,0,0,0,,No, now's not the time for that.
+Dialogue: 0,0:11:43.54,0:11:45.04,Default,,0,0,0,,It won't be long before Kikuchi...
+Dialogue: 0,0:11:45.04,0:11:48.04,Default,,0,0,0,,I wonder where S-23b is...
+Dialogue: 0,0:11:45.66,0:11:47.33,Default,,0,0,0,,{\an8}gets here!
+Dialogue: 0,0:11:48.04,0:11:52.08,Default,,0,0,0,,Come to think it, though, it's not like I've done\Nanything to be ashamed of,
+Dialogue: 0,0:11:52.08,0:11:54.58,Default,,0,0,0,,so I should just act normal and with dignity, right?
+Dialogue: 0,0:11:54.58,0:11:58.75,Default,,0,0,0,,Still, when she finds out the person\Nshe admires is someone she knows...
+Dialogue: 0,0:11:59.62,0:12:02.20,Default,,0,0,0,,Wouldn't that be a disappointment?
+Dialogue: 0,0:12:02.79,0:12:03.91,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:12:05.50,0:12:10.04,Default,,0,0,0,,Would you mind letting me borrow that towel for a bit?
+Dialogue: 0,0:12:10.16,0:12:11.91,Default,,0,0,0,,Oh! It's around here!
+Dialogue: 0,0:12:13.95,0:12:15.45,Default,,0,0,0,,{\an8}Teishotoku Studio
+Dialogue: 0,0:12:22.66,0:12:24.33,Default,,0,0,0,,{\an8}Gero Onsen
+Dialogue: 0,0:12:24.33,0:12:26.33,Default,,0,0,0,,What type of genre does this person belong to?!
+Dialogue: 0,0:12:26.58,0:12:29.95,Default,,0,0,0,,Uh-um, one copy of the new release, please.
+Dialogue: 0,0:12:30.95,0:12:32.04,Default,,0,0,0,,Here.
+Dialogue: 0,0:12:40.20,0:12:46.04,Default,,0,0,0,,I can't get a good look at his face, but...\Nhe's gazing at me so intently!
+Dialogue: 0,0:12:46.12,0:12:48.70,Default,,0,0,0,,Without my glasses, everything is indistinct, but...
+Dialogue: 0,0:12:48.87,0:12:51.62,Default,,0,0,0,,there's no doubt that it's Kikuchi.
+Dialogue: 0,0:12:49.25,0:12:52.04,Default,,0,0,0,,{\an8}U-um, I'm "akane"!
+Dialogue: 0,0:12:52.04,0:12:54.54,Default,,0,0,0,,I reached out to you on social media a while ago.
+Dialogue: 0,0:12:54.54,0:12:56.29,Default,,0,0,0,,Thank you for all your support.
+Dialogue: 0,0:12:56.29,0:12:57.08,Default,,0,0,0,,What?
+Dialogue: 0,0:12:57.08,0:12:58.04,Default,,0,0,0,,He barely talks!
+Dialogue: 0,0:12:58.04,0:13:00.91,Default,,0,0,0,,If I speak too much, she might figure me out.
+Dialogue: 0,0:13:00.91,0:13:02.83,Default,,0,0,0,,Maybe he's just the quiet type.
+Dialogue: 0,0:13:03.00,0:13:08.95,Default,,0,0,0,,U-u-um! I-I've really been looking\Nforward to meeting you!
+Dialogue: 0,0:13:09.12,0:13:11.33,Default,,0,0,0,,I couldn't sleep at all yesterday!
+Dialogue: 0,0:13:11.33,0:13:13.16,Default,,0,0,0,,It's kinda hard to breathe!
+Dialogue: 0,0:13:13.66,0:13:15.62,Default,,0,0,0,,It's like there's no oxygen!
+Dialogue: 0,0:13:15.83,0:13:17.16,Default,,0,0,0,,Teishotoku P-san...
+Dialogue: 0,0:13:17.45,0:13:20.12,Default,,0,0,0,,I absolutely adore you!
+Dialogue: 0,0:13:20.37,0:13:22.25,Default,,0,0,0,,I said it!
+Dialogue: 0,0:13:23.41,0:13:25.54,Default,,0,0,0,,Yeah, yeah. I can understand that.
+Dialogue: 0,0:13:25.54,0:13:28.04,Default,,0,0,0,,That feeling where you can't help but be elated.
+Dialogue: 0,0:13:29.04,0:13:32.83,Default,,0,0,0,,It's like peanut butter that's been\Nleft to sit overnight, right?
+Dialogue: 0,0:13:33.62,0:13:35.58,Default,,0,0,0,,That would get anyone excited!
+Dialogue: 0,0:13:38.95,0:13:41.79,Default,,0,0,0,,Who the hell is this?!\NAnd what's this about peanut butter?!
+Dialogue: 0,0:13:39.33,0:13:41.79,Default,,0,0,0,,{\an8}Oh, sorry. I didn't mean to butt in.
+Dialogue: 0,0:13:41.79,0:13:42.54,Default,,0,0,0,,Um...
+Dialogue: 0,0:13:42.54,0:13:44.16,Default,,0,0,0,,Wh-what was I saying?
+Dialogue: 0,0:13:44.50,0:13:45.79,Default,,0,0,0,,Oh, yeah.
+Dialogue: 0,0:13:45.79,0:13:50.20,Default,,0,0,0,,U-um, the first time I encountered\None of your songs, Teishotoku P-san,
+Dialogue: 0,0:13:50.20,0:13:52.25,Default,,0,0,0,,I'd been fighting with a friend.
+Dialogue: 0,0:13:52.66,0:13:55.70,Default,,0,0,0,,I was close to hating myself but...
+Dialogue: 0,0:13:56.87,0:14:01.04,Default,,0,0,0,,The more I listened,\NI was able to realize my true feelings.
+Dialogue: 0,0:14:01.04,0:14:05.04,Default,,0,0,0,,Ah! I'm friends with her even now, at high school.\NIt's like an inseparable bond or something...
+Dialogue: 0,0:14:05.66,0:14:07.16,Default,,0,0,0,,Actually, I...
+Dialogue: 0,0:14:07.16,0:14:10.79,Default,,0,0,0,,Well, it's not music,\Nbut I'm trying to do creative work too.
+Dialogue: 0,0:14:10.79,0:14:13.20,Default,,0,0,0,,I-it's just manga, but...
+Dialogue: 0,0:14:13.20,0:14:16.70,Default,,0,0,0,,Oh! I'm nowhere close to being able to\Nshow it to other people, though!
+Dialogue: 0,0:14:16.70,0:14:18.08,Default,,0,0,0,,The truth is, I'm really terrible!
+Dialogue: 0,0:14:18.20,0:14:20.83,Default,,0,0,0,,I'm not good at, like,\Ndrawing joints of the human body...
+Dialogue: 0,0:14:20.83,0:14:22.66,Default,,0,0,0,,Things like knees are really hard!
+Dialogue: 0,0:14:22.66,0:14:25.41,Default,,0,0,0,,Gah! I'm going more and more off topic!
+Dialogue: 0,0:14:25.58,0:14:31.08,Default,,0,0,0,,A-anyway! When I listen to your songs,\Nit's like the creativity just rises up inside me.
+Dialogue: 0,0:14:31.37,0:14:36.41,Default,,0,0,0,,It's like they nudge me forward, and...\Nthey encourage me!
+Dialogue: 0,0:14:39.00,0:14:41.70,Default,,0,0,0,,I went on about myself way too much!\NI should just hurry up and leave!
+Dialogue: 0,0:14:42.16,0:14:47.29,Default,,0,0,0,,Th-that's why I'll do my best to be able\Nto show you my work someday!
+Dialogue: 0,0:14:47.29,0:14:49.87,Default,,0,0,0,,I'm sorry for taking up so much of your time!
+Dialogue: 0,0:14:49.87,0:14:51.41,Default,,0,0,0,,Please stay healthy!
+Dialogue: 0,0:14:57.79,0:15:00.70,Default,,0,0,0,,Was that... a good thing?
+Dialogue: 0,0:15:01.50,0:15:04.08,Default,,0,0,0,,To deceive her like that...
+Dialogue: 0,0:15:04.33,0:15:06.95,Default,,0,0,0,,{\an7}I will always always support you.\N{\an7}I like you a lot.
+Dialogue: 0,0:15:04.33,0:15:06.95,Default,,0,0,0,,To not return her kindness.
+Dialogue: 0,0:15:07.45,0:15:09.70,Default,,0,0,0,,Was that really for the best?
+Dialogue: 0,0:15:10.54,0:15:12.08,Default,,0,0,0,,Go after her.
+Dialogue: 0,0:15:14.58,0:15:17.54,Default,,0,0,0,,I can watch over your space.
+Dialogue: 0,0:15:18.87,0:15:22.37,Default,,0,0,0,,It's like when something is stuck in your teeth\Nand suddenly comes loose,
+Dialogue: 0,0:15:22.37,0:15:25.62,Default,,0,0,0,,and when you chew it, it's spicy\Nbecause it's black pepper.
+Dialogue: 0,0:15:25.95,0:15:28.50,Default,,0,0,0,,Everyone's felt that way sometimes, right?
+Dialogue: 0,0:15:28.50,0:15:30.75,Default,,0,0,0,,That's the way you'll end up feeling.
+Dialogue: 0,0:15:31.62,0:15:33.58,Default,,0,0,0,,Well? Go on! Go!
+Dialogue: 0,0:15:37.79,0:15:39.54,Default,,0,0,0,,What could this mean?
+Dialogue: 0,0:15:39.79,0:15:43.25,Default,,0,0,0,,He's been making nonsensical\Nmetaphors this whole time...
+Dialogue: 0,0:15:43.54,0:15:45.75,Default,,0,0,0,,I don't know what they mean!
+Dialogue: 0,0:15:46.00,0:15:46.91,Default,,0,0,0,,Generally...
+Dialogue: 0,0:15:46.91,0:15:51.04,Default,,0,0,0,,it's the ones who overly rely on metaphors\Nwho are the absolute worst at them!
+Dialogue: 0,0:15:51.20,0:15:56.87,Default,,0,0,0,,Every time that guy made some abstract expression,\Nmy emotions were once again reset.
+Dialogue: 0,0:15:57.04,0:15:58.00,Default,,0,0,0,,And yet...
+Dialogue: 0,0:16:01.54,0:16:04.45,Default,,0,0,0,,Thanks to that, I was able to calm down.
+Dialogue: 0,0:16:04.45,0:16:05.95,Default,,0,0,0,,I am a teacher!
+Dialogue: 0,0:16:05.95,0:16:11.04,Default,,0,0,0,,Facing a student's sincere feelings head-on...\Nthat's what makes a teacher!
+Dialogue: 0,0:16:13.41,0:16:14.41,Default,,0,0,0,,Kikuchi!
+Dialogue: 0,0:16:24.70,0:16:28.12,Default,,0,0,0,,The truth is, I am Teishotoku P.
+Dialogue: 0,0:16:28.66,0:16:32.00,Default,,0,0,0,,Huh? Sensei, what are you doing here?
+Dialogue: 0,0:16:32.16,0:16:36.08,Default,,0,0,0,,I'm sorry if I've crushed your expectations,\Nbut this is the truth.
+Dialogue: 0,0:16:36.33,0:16:39.00,Default,,0,0,0,,I am actually Teishotoku P.
+Dialogue: 0,0:16:40.33,0:16:41.83,Default,,0,0,0,,That's a good one. What are you...?
+Dialogue: 0,0:16:41.83,0:16:42.83,Default,,0,0,0,,{\an8}Gero Onsen
+Dialogue: 0,0:16:44.58,0:16:46.00,Default,,0,0,0,,{\an8}Gero Onsen
+Dialogue: 0,0:16:47.41,0:16:51.70,Default,,0,0,0,,I only just realized that you are akane-san, and...
+Dialogue: 0,0:16:51.70,0:16:52.83,Default,,0,0,0,,{\an8}Wait.
+Dialogue: 0,0:16:52.83,0:16:56.75,Default,,0,0,0,,I thought you would be disappointed,\Nso on the spur of the moment, I opted to mislead you.
+Dialogue: 0,0:16:56.75,0:16:58.08,Default,,0,0,0,,But that was a mistake.
+Dialogue: 0,0:16:58.25,0:16:59.95,Default,,0,0,0,,Wait, wait, wait, WAIT!
+Dialogue: 0,0:17:00.12,0:17:01.37,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:17:01.70,0:17:03.91,Default,,0,0,0,,What is this? What's going on?
+Dialogue: 0,0:17:04.50,0:17:06.00,Default,,0,0,0,,What does this mean?
+Dialogue: 0,0:17:06.00,0:17:07.08,Default,,0,0,0,,So then, that...
+Dialogue: 0,0:17:07.25,0:17:08.33,Default,,0,0,0,,That...
+Dialogue: 0,0:17:08.50,0:17:10.00,Default,,0,0,0,,And that...
+Dialogue: 0,0:17:10.25,0:17:11.54,Default,,0,0,0,,All of that...
+Dialogue: 0,0:17:13.20,0:17:14.83,Default,,0,0,0,,And even earlier...
+Dialogue: 0,0:17:14.83,0:17:17.33,Default,,0,0,0,,everything up till now has been\Ndirected toward Waseda?!
+Dialogue: 0,0:17:20.08,0:17:22.41,Default,,0,0,0,,I-I wanna die!
+Dialogue: 0,0:17:23.50,0:17:27.58,Default,,0,0,0,,I want to just disintegrate and\Nbe blasted to far reaches of outer space!
+Dialogue: 0,0:17:28.12,0:17:34.70,Default,,0,0,0,,It's because of people like you, who said they\Nliked my songs and always supported me...
+Dialogue: 0,0:17:34.70,0:17:38.66,Default,,0,0,0,,I think that has what allowed me\Nto continue making music.
+Dialogue: 0,0:17:38.87,0:17:40.62,Default,,0,0,0,,I am grateful to you, Kikuchi.
+Dialogue: 0,0:17:43.04,0:17:44.33,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:17:49.25,0:17:51.41,Default,,0,0,0,,So it's true.
+Dialogue: 0,0:17:54.83,0:17:56.33,Default,,0,0,0,,It really...
+Dialogue: 0,0:17:58.37,0:18:00.29,Default,,0,0,0,,...was Waseda!
+Dialogue: 0,0:18:05.54,0:18:08.54,Default,,0,0,0,,This is just cruel!
+Dialogue: 0,0:18:08.91,0:18:10.33,Default,,0,0,0,,It's too much!
+Dialogue: 0,0:18:10.62,0:18:14.87,Default,,0,0,0,,How am I supposed to face him at school now?
+Dialogue: 0,0:18:20.54,0:18:23.37,Default,,0,0,0,,{\an7}This is Teishotoku P.\N{\an7}This is my seventh song.
+Dialogue: 0,0:18:45.04,0:18:50.41,Default,,0,0,0,,{\an8}On a tree-lined boulevard
+Dialogue: 0,0:18:46.58,0:18:49.87,Default,,0,0,0,,Sure enough... I like him.
+Dialogue: 0,0:18:50.41,0:18:55.58,Default,,0,0,0,,{\an8}Stretched with streetlamps that illuminates a quiet night
+Dialogue: 0,0:18:51.75,0:18:54.79,Default,,0,0,0,,He could be a 100 kilogram-plus giant of a man...
+Dialogue: 0,0:18:55.75,0:19:01.04,Default,,0,0,0,,{\an8}Walking around searching for a vending machine,
+Dialogue: 0,0:18:57.50,0:18:59.33,Default,,0,0,0,,Or even my homeroom teacher.
+Dialogue: 0,0:19:01.04,0:19:05.50,Default,,0,0,0,,{\an8}But I wonder why, can't find one
+Dialogue: 0,0:19:01.75,0:19:04.58,Default,,0,0,0,,It doesn't change my feelings. I like him.
+Dialogue: 0,0:19:05.50,0:19:16.50,Default,,0,0,0,,{\an8}Even though I've gone through this season many times up until now
+Dialogue: 0,0:19:16.50,0:19:25.62,Default,,0,0,0,,{\an8}I'm like a bunny that has strayed into an unknown world
+Dialogue: 0,0:19:25.62,0:19:31.16,Default,,0,0,0,,{\an8}The first snowfall that stains footprints in white
+Dialogue: 0,0:19:28.08,0:19:31.25,Default,,0,0,0,,It's not fair! That you're so levelheaded...
+Dialogue: 0,0:19:31.16,0:19:37.58,Default,,0,0,0,,{\an8}That might disappear before daybreak
+Dialogue: 0,0:19:31.25,0:19:35.25,Default,,0,0,0,,so kind, and so mature...
+Dialogue: 0,0:19:35.25,0:19:37.12,Default,,0,0,0,,That I thought about you so much!
+Dialogue: 0,0:19:37.70,0:19:41.70,Default,,0,0,0,,{\an8}Since when I wonder
+Dialogue: 0,0:19:38.33,0:19:39.50,Default,,0,0,0,,And I...
+Dialogue: 0,0:19:41.70,0:19:48.37,Default,,0,0,0,,{\an8}Did your voice become a special sound and start to resonate
+Dialogue: 0,0:19:44.50,0:19:46.91,Default,,0,0,0,,I want to get to your level!
+Dialogue: 0,0:19:48.37,0:19:54.75,Default,,0,0,0,,{\an8}Fingertips go numb with cold, heat that lingers in the ears
+Dialogue: 0,0:19:49.20,0:19:50.50,Default,,0,0,0,,And if I do...
+Dialogue: 0,0:19:53.16,0:19:57.00,Default,,0,0,0,,Would you think about me, even a little?
+Dialogue: 0,0:19:54.75,0:19:59.08,Default,,0,0,0,,{\an8}Sleep again tonight
+Dialogue: 0,0:20:07.91,0:20:09.16,Default,,0,0,0,,{\an8}Excellent Luck
+Dialogue: 0,0:20:24.16,0:20:26.16,Default,,0,0,0,,{\an8}Mathematics
+Dialogue: 0,0:20:27.62,0:20:28.54,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:20:29.33,0:20:32.33,Default,,0,0,0,,{\an7}Dear Sensei\N{\an7}Before I graduate, I'm going to make\N{\an7}my debut as a manga artist!\N{\an7}I'm going to become even more famous than YOU.
+Dialogue: 0,0:20:38.08,0:20:40.33,Default,,0,0,0,,{\an8}I look forward to it.
+Dialogue: 0,0:20:43.08,0:20:48.62,Default,,0,0,0,,{\an7}Good work the other day.\N{\an7}I hope you'll support me.\N{\an7}I listened to that CD you gave me.\N{\an7}It had an honest feel to it, and was quite good.
+Dialogue: 0,0:20:43.50,0:20:45.58,Default,,0,0,0,,I listened to that CD you gave me.
+Dialogue: 0,0:20:45.58,0:20:48.75,Default,,0,0,0,,It had an honest feel to it, and was quite good.
+Dialogue: 0,0:20:48.75,0:20:51.79,Default,,0,0,0,,Everything always tastes better when it's fried.
+Dialogue: 0,0:20:49.04,0:20:51.70,Default,,0,0,0,,{\an7}Everything always tastes better\N{\an7}when it's fried.
+Dialogue: 0,0:20:51.79,0:20:53.54,Default,,0,0,0,,All said and done, that's what it's like, right?
+Dialogue: 0,0:20:52.04,0:20:55.20,Default,,0,0,0,,{\an7}All said and done, that's what it's like, right?\N{\an7}Song writing, that is.
+Dialogue: 0,0:20:53.54,0:20:55.20,Default,,0,0,0,,Song writing, that is.
+Dialogue: 0,0:20:57.20,0:20:59.20,Default,,0,0,0,,{\an8}Mute Conversation
+Dialogue: 0,0:21:01.70,0:21:03.12,Default,,0,0,0,,All right!
+Dialogue: 0,0:21:03.12,0:21:07.08,Default,,0,0,0,,I'm gonna finish one by spring\Nand submit it for a manga award!
+Dialogue: 0,0:21:08.04,0:21:09.45,Default,,0,0,0,,There's no stopping me!
+Dialogue: 0,0:21:10.79,0:21:12.12,Default,,0,0,0,,What do you want to have for lunch?
+Dialogue: 0,0:21:11.54,0:21:13.04,Default,,0,0,0,,{\an8}Just you wait...
+Dialogue: 0,0:21:12.12,0:21:13.50,Default,,0,0,0,,Udon noodles and seaweed topped with natto!
+Dialogue: 0,0:21:16.54,0:21:18.08,Default,,0,0,0,,Huh. Is that even a thing?
+Dialogue: 0,0:21:18.37,0:21:19.87,Default,,0,0,0,,Teishotoku P!
+Dialogue: 0,0:21:39.50,0:21:43.87,Default,,0,0,0,,Noisy and loud
+Dialogue: 0,0:21:44.16,0:21:47.75,Default,,0,0,0,,But also endearing
+Dialogue: 0,0:21:48.08,0:21:51.95,Default,,0,0,0,,The laughter from that day
+Dialogue: 0,0:21:51.95,0:21:56.00,Default,,0,0,0,,A story that can't be rewound
+Dialogue: 0,0:21:56.00,0:21:59.87,Default,,0,0,0,,The thing about youth is, it's always light and shadows
+Dialogue: 0,0:21:59.87,0:22:01.91,Default,,0,0,0,,Inside the darkness
+Dialogue: 0,0:22:01.91,0:22:03.95,Default,,0,0,0,,A shining inferior star
+Dialogue: 0,0:22:04.16,0:22:07.66,Default,,0,0,0,,Looking back are complicated
+Dialogue: 0,0:22:07.66,0:22:12.08,Default,,0,0,0,,Far too beautiful days
+Dialogue: 0,0:22:12.62,0:22:21.62,Default,,0,0,0,,Springtime has always passed by unexpectedly by then
+Dialogue: 0,0:22:21.62,0:22:28.70,Default,,0,0,0,,Your words reverberate in my heart
+Dialogue: 0,0:22:28.70,0:22:37.25,Default,,0,0,0,,Someday springtime will take it all away
+Dialogue: 0,0:22:37.25,0:22:44.91,Default,,0,0,0,,Until that day, being stupid is all right
+Dialogue: 0,0:22:45.25,0:22:49.50,Default,,0,0,0,,Because I'll run past it
+Dialogue: 0,0:22:53.29,0:22:55.70,Default,,0,0,0,,Wow! You're amazing, Majo!
+Dialogue: 0,0:22:55.70,0:22:57.83,Default,,0,0,0,,Me, I got crazy diarrhea!
+Dialogue: 0,0:22:57.83,0:23:01.33,Default,,0,0,0,,It was Christmas Eve, and I kept\Neating snow and got too cold!
+Dialogue: 0,0:23:01.33,0:23:02.33,Default,,0,0,0,,Are you a child?
+Dialogue: 0,0:23:02.33,0:23:03.20,Default,,0,0,0,,Me too.
+Dialogue: 0,0:23:03.20,0:23:05.25,Default,,0,0,0,,My fortune was "Excellent Luck."
+Dialogue: 0,0:23:05.25,0:23:08.95,Default,,0,0,0,,Awesome! Majo's predictions seriously come true!
+Dialogue: 0,0:23:08.95,0:23:10.29,Default,,0,0,0,,That's kind of you.
+Dialogue: 0,0:23:10.29,0:23:14.66,Default,,0,0,0,,Based on past experiences,\NI'd say I'm right over 90% of the time.
+Dialogue: 0,0:23:15.50,0:23:16.75,Default,,0,0,0,,The truth is...
+Dialogue: 0,0:23:16.75,0:23:19.16,Default,,0,0,0,,What should we have her predict next?
+Dialogue: 0,0:23:19.16,0:23:21.87,Default,,0,0,0,,How about this year's airborne pollen levels?
+Dialogue: 0,0:23:21.87,0:23:23.79,Default,,0,0,0,,Wouldn't it be better to ask a weatherman?
+Dialogue: 0,0:23:23.79,0:23:26.45,Default,,0,0,0,,Well then, how about what will\Nbe for dinner for the week?
+Dialogue: 0,0:23:26.45,0:23:27.37,Default,,0,0,0,,Just ask your parents that!
+Dialogue: 0,0:23:27.37,0:23:29.29,Default,,0,0,0,,When I was reading Baka-san's fortune...
+Dialogue: 0,0:23:27.37,0:23:29.58,Default,,0,0,0,,{\an8}In that case, how about when I'll get a boyfriend?
+Dialogue: 0,0:23:29.58,0:23:32.20,Default,,0,0,0,,What if it ends up being 38 years from now?
+Dialogue: 0,0:23:30.04,0:23:32.20,Default,,0,0,0,,{\an8}This card came up as well.
+Dialogue: 0,0:23:32.20,0:23:33.00,Default,,0,0,0,,I wouldn't believe it!
+Dialogue: 0,0:23:33.00,0:23:34.20,Default,,0,0,0,,You're pretty optimistic...
+Dialogue: 0,0:23:34.20,0:23:36.16,Default,,0,0,0,,Oh, I know! How about this:
+Dialogue: 0,0:23:36.16,0:23:40.91,Default,,0,0,0,,Finding out which comes first, you achieving\Nyour dream or me getting a boyfriend?
