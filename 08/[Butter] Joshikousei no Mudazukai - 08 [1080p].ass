@@ -1,615 +1,498 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: Erai-raws
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-2,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Subtitle,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
-Style: Caption-3,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-4,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Song,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-5,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-6,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-7,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-8,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-9,Open Sans Semibold,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-10,Open Sans Semibold,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Subtitle-2,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2.55,0,2,0,0,42,1
-Style: Caption-11,Open Sans Semibold,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-12,Open Sans Semibold,23,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-13,Open Sans Semibold,29,&H003C3CE6,&H003C3CE6,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-14,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-15,Open Sans Semibold,29,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
-Style: Caption-16,Open Sans Semibold,34,&H000000FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:06.30,0:00:11.29,Subtitle,,0,0,0,,No matter how many decades I may live...
-Dialogue: 0,0:00:31.33,0:00:33.63,Subtitle,,0,0,0,,My true feelings...
-Dialogue: 0,0:00:33.63,0:00:37.33,Subtitle,,0,0,0,,I've sealed them up and put them to sleep
-Dialogue: 0,0:00:43.83,0:00:46.83,Subtitle,,0,0,0,,I don't want to let anyone touch my passion, so...
-Dialogue: 0,0:01:21.88,0:01:25.88,Subtitle,,0,0,0,,A hazy room, illuminated by moonlight
-Dialogue: 0,0:01:32.63,0:01:33.50,Song,,0,0,0,,Yo
-Dialogue: 0,0:01:34.63,0:01:35.50,Song,,0,0,0,,Mic check
-Dialogue: 0,0:01:36.46,0:01:37.38,Song,,0,0,0,,JK
-Dialogue: 0,0:01:38.25,0:01:38.75,Song,,0,0,0,,Eh?
-Dialogue: 0,0:01:38.75,0:01:39.25,Song,,0,0,0,,Hai!
-Dialogue: 0,0:01:39.25,0:01:41.17,Song,,0,0,0,,Soko wa futsuu one-two ga best?
-Dialogue: 0,0:01:41.17,0:01:42.96,Song,,0,0,0,,Tsuki tte hiruma wa shizuka na beast
-Dialogue: 0,0:01:42.96,0:01:44.88,Song,,0,0,0,,Tsuki ga nan datte? Ikinari toutotsu
-Dialogue: 0,0:01:44.88,0:01:46.75,Song,,0,0,0,,Yoru ni natte kara kurayami magirete
-Dialogue: 0,0:01:46.75,0:01:48.38,Song,,0,0,0,,Kirakira shichatte tereyasan
-Dialogue: 0,0:01:48.38,0:01:50.25,Song,,0,0,0,,Ayakaritai lunatic girls
-Dialogue: 0,0:01:50.25,0:01:52.33,Song,,0,0,0,,Sore binjou shitai no, kirakira JK
-Dialogue: 0,0:01:52.33,0:01:53.33,Song,,0,0,0,,Genjyou shotchuu
-Dialogue: 0,0:01:53.33,0:01:54.42,Song,,0,0,0,,Daradara OK~!
-Dialogue: 0,0:01:54.54,0:01:57.83,Song,,0,0,0,,Atamannaka zenbu
-Dialogue: 0,0:01:57.83,0:01:59.50,Song,,0,0,0,,Karappo ni dekita nara yuunou
-Dialogue: 0,0:01:59.50,0:02:00.63,Song,,0,0,0,,Sou na no? You know?
-Dialogue: 0,0:02:00.63,0:02:01.92,Song,,0,0,0,,Yasei no honnou (Nya~)
-Dialogue: 0,0:02:02.04,0:02:06.29,Song,,0,0,0,,Seken ni hitokoto otome no otakebi
-Dialogue: 0,0:02:06.29,0:02:07.13,Song,,0,0,0,,Wawawawawa~!
-Dialogue: 0,0:02:07.13,0:02:08.17,Song,,0,0,0,,Zanshin shout
-Dialogue: 0,0:02:08.17,0:02:09.63,Song,,0,0,0,,Wawawawawawawa~!
-Dialogue: 0,0:02:09.63,0:02:13.42,Song,,0,0,0,,Tsuki tte usagi inai ndane
-Dialogue: 0,0:02:13.42,0:02:17.04,Song,,0,0,0,,Dassu tte doitsugo nan dane
-Dialogue: 0,0:02:17.04,0:02:20.58,Song,,0,0,0,,Karakute nakinagara curry ga tabetakunaru BGM!
-Dialogue: 0,0:02:21.88,0:02:23.42,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:23.42,0:02:24.25,Song,,0,0,0,,Wa ni natte
-Dialogue: 0,0:02:24.25,0:02:25.38,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:25.38,0:02:27.71,Song,,0,0,0,,Mic check JK one-two JK one-two
-Dialogue: 0,0:02:27.71,0:02:29.79,Song,,0,0,0,,Nan datte OK everyday
-Dialogue: 0,0:02:29.79,0:02:30.96,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:30.96,0:02:31.79,Song,,0,0,0,,Iki sutte
-Dialogue: 0,0:02:31.79,0:02:32.92,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:32.92,0:02:35.25,Song,,0,0,0,,Shiisuu ramen gyudon tonkatsu kishimen
-Dialogue: 0,0:02:35.25,0:02:37.29,Song,,0,0,0,,Nandemo tabetakunaru BGM
-Dialogue: 0,0:02:37.29,0:02:39.13,Song,,0,0,0,,Kosei wa zettai dashioshimi shinai
-Dialogue: 0,0:02:39.13,0:02:41.08,Song,,0,0,0,,Kusuburu honnou minna de wa! tto
-Dialogue: 0,0:02:41.08,0:02:42.83,Song,,0,0,0,,Odorokashite sa, mada minu hou e
-Dialogue: 0,0:02:42.83,0:02:44.88,Song,,0,0,0,,Muda demo let's go, itsushika treasure
-Dialogue: 0,0:02:44.88,0:02:46.00,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:46.00,0:02:46.88,Song,,0,0,0,,Nakitai toki wa
-Dialogue: 0,0:02:46.88,0:02:47.92,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:47.92,0:02:50.29,Song,,0,0,0,,Omoikitte naite naite tsuukai
-Dialogue: 0,0:02:50.29,0:02:52.25,Song,,0,0,0,,Soukai na kibun sa every day
-Dialogue: 0,0:02:52.25,0:02:53.46,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:53.46,0:02:54.29,Song,,0,0,0,,Hora sono ato wa
-Dialogue: 0,0:02:54.29,0:02:55.42,Song,,0,0,0,,U~wa! Moon! Dass! Cry!
-Dialogue: 0,0:02:55.42,0:02:57.79,Song,,0,0,0,,Iya demo kitto harete sou egao ni narusa
-Dialogue: 0,0:02:57.79,0:03:00.13,Song,,0,0,0,,Wa! Moon! Dass! Cry! Every day
-Dialogue: 0,0:03:18.75,0:03:22.63,Subtitle,,0,0,0,,Hey, so... We're like, really indulging\Nright now, don't you think?
-Dialogue: 0,0:03:22.63,0:03:25.08,Subtitle,,0,0,0,,Free soda refills at a casual restaurant is indulging?
-Dialogue: 0,0:03:25.08,0:03:29.96,Subtitle,,0,0,0,,Well, I mean, we'll only get one\Nsummer vacation as 16-year-olds, right?
-Dialogue: 0,0:03:29.96,0:03:33.54,Subtitle,,0,0,0,,But we're wasting it by doing stuff\Nlike blowing liquid onto straw wrappers,
-Dialogue: 0,0:03:33.54,0:03:37.17,Subtitle,,0,0,0,,reading reference books on barnacles,\Nand listening to Mushoku Pu songs!
-Dialogue: 0,0:03:37.17,0:03:39.42,Subtitle,,0,0,0,,You mean "Teishotoku P," and it's not a waste of time.
-Dialogue: 0,0:03:39.42,0:03:42.29,Subtitle,,0,0,0,,Reference books on barnacles\Nare also not a waste of one's life.
-Dialogue: 0,0:03:42.29,0:03:45.92,Subtitle,,0,0,0,,I mean, still! Summer makes you want to\Ngo to the beach or something, right?
-Dialogue: 0,0:03:45.92,0:03:48.67,Subtitle,,0,0,0,,Also, doesn't it make you want to\Nget into a red-hot summer fling?
-Dialogue: 0,0:03:48.67,0:03:51.67,Subtitle,,0,0,0,,I'd say that, out of all the high school girls in Japan,
-Dialogue: 0,0:03:51.67,0:03:54.63,Subtitle,,0,0,0,,you have the least business\Ntalking about a "red-hot summer fling."
-Dialogue: 0,0:03:54.63,0:03:55.96,Subtitle,,0,0,0,,But I would like to go to the beach.
-Dialogue: 0,0:03:55.96,0:03:57.33,Subtitle,,0,0,0,,I know, right, Robo?!
-Dialogue: 0,0:03:57.33,0:03:58.46,Subtitle,,0,0,0,,There would be barnacles there.
-Dialogue: 0,0:03:58.46,0:03:59.29,Subtitle,,0,0,0,,That's your...?
-Dialogue: 0,0:03:59.29,0:04:01.33,Subtitle,,0,0,0,,What other reason would there be?
-Dialogue: 0,0:04:01.33,0:04:04.75,Subtitle,,0,0,0,,Regardless of our "upper-lower" ranking, we're\N16-year-old high school girls, and we're at our peak!
-Dialogue: 0,0:04:04.75,0:04:08.17,Subtitle,,0,0,0,,Armed with the right swimwear,\Nwe'd be unstoppable, right?!
-Dialogue: 0,0:04:09.50,0:04:11.58,Subtitle,,0,0,0,,Higashi-Murayama does not have an ocean.
-Dialogue: 0,0:04:11.58,0:04:15.63,Subtitle,,0,0,0,,Still, it's just a short train ride to\NEnoshima or Kujukuri Beach.
-Dialogue: 0,0:04:15.63,0:04:17.25,Subtitle,,0,0,0,,Heck, maybe we could go overseas!
-Dialogue: 0,0:04:17.25,0:04:18.96,Subtitle,,0,0,0,,Overseas? That's a bit of a stretch.
-Dialogue: 0,0:04:18.96,0:04:23.54,Subtitle,,0,0,0,,I mean, well, I've heard Japanese girls\Nget a lot of attention when they go overseas.
-Dialogue: 0,0:04:23.54,0:04:25.96,Subtitle,,0,0,0,,We should go to Hawaii, or maybe Dubai!
-Dialogue: 0,0:04:25.96,0:04:27.58,Subtitle,,0,0,0,,And how will this be paid for?
-Dialogue: 0,0:04:27.58,0:04:32.13,Subtitle,,0,0,0,,Don't we have some rich girl in our class\Nwho owns a guest house or something?
-Dialogue: 0,0:04:32.13,0:04:35.25,Subtitle,,0,0,0,,That sort of thing only happens\Nin anime or manga! Not in real life!
-Dialogue: 0,0:04:35.25,0:04:37.75,Subtitle,,0,0,0,,And if there were someone like that,\Nthey wouldn't be at Saijo!
-Dialogue: 0,0:04:38.38,0:04:39.50,Subtitle,,0,0,0,,Ah! I've got it!
-Dialogue: 0,0:04:40.79,0:04:43.96,Subtitle,,0,0,0,,We could do a raffle! Like the kind they\Nalways have in anime and manga!
-Dialogue: 0,0:04:43.96,0:04:47.33,Subtitle,,0,0,0,,You know, where someone plays and\Nthey luck out and grab the special prize!
-Dialogue: 0,0:04:50.54,0:04:53.63,Subtitle,,0,0,0,,Who'd want to go to a hot spring\Nwhen it's already this hot outside?!
-Dialogue: 0,0:04:53.63,0:04:56.79,Subtitle,,0,0,0,,But if you won, you could\Nsell it for a profit on Mericar.
-Dialogue: 0,0:04:57.33,0:05:00.75,Subtitle,,0,0,0,,Even if the special prize doesn't pan out,\Nthe first-prize electric bike
-Dialogue: 0,0:05:00.75,0:05:04.42,Subtitle,,0,0,0,,or even the second-prize LCD TV\Ncould be sold for money.
-Dialogue: 0,0:05:04.42,0:05:06.21,Subtitle,,0,0,0,,Robo, you're a genius!
-Dialogue: 0,0:05:06.21,0:05:08.58,Subtitle,,0,0,0,,But how do we get a ticket?
-Dialogue: 0,0:05:09.00,0:05:10.96,Subtitle,,0,0,0,,I say we just buy something!
-Dialogue: 0,0:05:11.50,0:05:14.79,Subtitle,,0,0,0,,If we're gonna go to the beach,\Nwe should get some new swimwear, right?
-Dialogue: 0,0:05:14.79,0:05:16.00,Subtitle,,0,0,0,,The timing is perfect!
-Dialogue: 0,0:05:16.00,0:05:18.08,Subtitle,,0,0,0,,Wota, Robo, you buy something too.
-Dialogue: 0,0:05:18.08,0:05:20.54,Subtitle,,0,0,0,,Well... I don't know about buying something,
-Dialogue: 0,0:05:20.54,0:05:22.88,Subtitle,,0,0,0,,but while we're here, we should at least\Ntry something on, right?
-Dialogue: 0,0:05:25.79,0:05:26.88,Subtitle,,0,0,0,,Well? What do you think?
-Dialogue: 0,0:05:27.38,0:05:30.38,Subtitle,,0,0,0,,Average, I guess. But you know, Wota...
-Dialogue: 0,0:05:30.38,0:05:33.13,Subtitle,,0,0,0,,You've got a pretty rockin' bod for an otaku.
-Dialogue: 0,0:05:33.13,0:05:35.13,Subtitle,,0,0,0,,D-don't say stuff like "rockin' bod"!
-Dialogue: 0,0:05:38.04,0:05:39.13,Subtitle,,0,0,0,,Your verdict?
-Dialogue: 0,0:05:45.54,0:05:48.46,Subtitle,,0,0,0,,Where did you find that?\NAnd who the hell is the target audience?!
-Dialogue: 0,0:05:48.46,0:05:50.13,Subtitle,,0,0,0,,Sure enough, I'm goin' with this one!
-Dialogue: 0,0:05:50.13,0:05:52.46,Subtitle,,0,0,0,,Don't do it, Baka! It's too dangerous!
-Dialogue: 0,0:05:52.46,0:05:56.21,Subtitle,,0,0,0,,If you put that on, it will crush\Nthe psyche of anyone who sees it!\NWhat the hell?! Let go! I could try it on at least once!
-Dialogue: 0,0:05:56.71,0:05:59.75,Subtitle,,0,0,0,,Okay, let's do this! We all get one try - and I'm first!
-Dialogue: 0,0:06:13.13,0:06:17.13,Subtitle,,0,0,0,,Are they screwing with us?\NThe piggy bank?! We want the goods!
-Dialogue: 0,0:06:20.13,0:06:22.54,Subtitle,,0,0,0,,I was able to sell it on Mericar for 30 yen.
-Dialogue: 0,0:06:23.88,0:06:26.54,Subtitle,,0,0,0,,Considering the train fare to JUSCO\Nand what we spent on our bikinis,
-Dialogue: 0,0:06:26.54,0:06:29.38,Subtitle,,0,0,0,,couldn't we have just gone to the pool\Nat Hokuhoku-Seibuen Amusement Park?
-Dialogue: 0,0:06:29.38,0:06:30.25,Subtitle,,0,0,0,,Don't start.
-Dialogue: 0,0:06:30.54,0:06:33.63,Subtitle,,0,0,0,,As we have already purchased said swimwear,\Nrather than going overseas,
-Dialogue: 0,0:06:33.63,0:06:36.08,Subtitle,,0,0,0,,why don't we simply go to the beach?
-Dialogue: 0,0:06:36.08,0:06:37.88,Subtitle,,0,0,0,,There will be barnacles there.
-Dialogue: 0,0:06:37.88,0:06:41.67,Subtitle,,0,0,0,,Robo, what's with this recent fetish\Nyou've had for barnacles?
-Dialogue: 0,0:06:41.88,0:06:45.75,Subtitle,,0,0,0,,I occurred to me I would like to confirm\Nthe urban legend regarding barnacles.
-Dialogue: 0,0:06:45.75,0:06:47.33,Subtitle,,0,0,0,,"Urban legend"?
-Dialogue: 0,0:06:47.96,0:06:49.96,Subtitle,,0,0,0,,Wait, d-do you mean...?!
-Dialogue: 0,0:06:49.96,0:06:50.79,Subtitle,,0,0,0,,Yes.
-Dialogue: 0,0:06:50.79,0:06:54.04,Subtitle,,0,0,0,,A girl tripped in a rocky area\Nand landed on her breasts.
-Dialogue: 0,0:06:54.50,0:06:55.88,Subtitle,,0,0,0,,At the time, there was nothing out of the ordinary...
-Dialogue: 0,0:06:55.88,0:06:57.00,Subtitle-2,,0,0,0,,Ow!\NAt the time, there was nothing out of the ordinary...
-Dialogue: 0,0:06:57.33,0:06:59.50,Subtitle,,0,0,0,,But the next time she changed into her swimwear...
-Dialogue: 0,0:06:59.50,0:07:02.21,Subtitle,,0,0,0,,a crunching sound emanated from her chest area.
-Dialogue: 0,0:07:03.38,0:07:06.46,Subtitle,,0,0,0,,Th-this is the one where she's got barnacles\Nall up on her boobs, right?
-Dialogue: 0,0:07:06.46,0:07:09.79,Subtitle,,0,0,0,,No. And barnacles are not parasitic toward humans.
-Dialogue: 0,0:07:10.67,0:07:14.42,Subtitle,,0,0,0,,Instead, the barnacles had infested\Nthe breast pads of her bikini.
-Dialogue: 0,0:07:14.42,0:07:15.96,Subtitle,,0,0,0,,Either way, that's scary as hell!
-Dialogue: 0,0:07:15.96,0:07:18.04,Subtitle,,0,0,0,,This urban legend is not "scary."
-Dialogue: 0,0:07:18.04,0:07:20.54,Subtitle,,0,0,0,,Barnacles are a highly regarded food item.
-Dialogue: 0,0:07:20.54,0:07:22.58,Subtitle,,0,0,0,,The young girl took the hint,
-Dialogue: 0,0:07:22.58,0:07:26.58,Subtitle,,0,0,0,,and was able to take those\Nbreast-pad barnacles and cultivate them.
-Dialogue: 0,0:07:26.58,0:07:28.42,Subtitle,,0,0,0,,As urban legends go, it is a success story.
-Dialogue: 0,0:07:28.42,0:07:30.00,Subtitle,,0,0,0,,"Success"?
-Dialogue: 0,0:07:32.67,0:07:33.83,Subtitle,,0,0,0,,Sell me those!
-Dialogue: 0,0:07:33.83,0:07:35.17,Subtitle,,0,0,0,,I'll take 100 of them!
-Dialogue: 0,0:07:35.38,0:07:36.63,Subtitle,,0,0,0,,You're a genius!
-Dialogue: 0,0:07:37.08,0:07:41.08,Subtitle,,0,0,0,,We can raise our own boob-pad barnacles\Nand rake in the profits!
-Dialogue: 0,0:07:44.79,0:07:46.38,Subtitle,,0,0,0,,You really did it...
-Dialogue: 0,0:07:46.38,0:07:48.42,Subtitle,,0,0,0,,Well, Robo helped out.
-Dialogue: 0,0:07:49.13,0:07:51.50,Subtitle,,0,0,0,,This will make me a high school entrepreneur!
-Dialogue: 0,0:07:51.50,0:07:53.75,Subtitle,,0,0,0,,And my company name will be "The Barnacles, Inc."
-Dialogue: 0,0:07:53.75,0:07:54.83,Subtitle,,0,0,0,,That's not very inventive.
-Dialogue: 0,0:07:57.00,0:07:58.08,Subtitle,,0,0,0,,Is something wrong?
-Dialogue: 0,0:07:58.08,0:08:01.58,Subtitle,,0,0,0,,I barely put it up three minutes ago,\Nbut it got reported and deleted. But, why?!
-Dialogue: 0,0:08:01.58,0:08:04.92,Subtitle,,0,0,0,,What's wrong with barnacles?\NIs it because they're alive?!
-Dialogue: 0,0:08:05.13,0:08:06.63,Subtitle,,0,0,0,,It must be the "bikini" angle.
-Dialogue: 0,0:08:06.63,0:08:08.58,Subtitle,,0,0,0,,The whole thing reeks of something suspicious.
-Dialogue: 0,0:08:08.58,0:08:10.38,Subtitle,,0,0,0,,Well, they're barnacles\Nso of course they'll smell "fishy,"
-Dialogue: 0,0:08:10.38,0:08:12.17,Subtitle,,0,0,0,,but they shouldn't come across\Nas suspicious, right?!
-Dialogue: 0,0:08:12.42,0:08:15.38,Subtitle,,0,0,0,,I was just thinking I hadn't seen you at school recently,
-Dialogue: 0,0:08:15.38,0:08:17.50,Subtitle,,0,0,0,,but sure enough, you're just as moronic as ever.
-Dialogue: 0,0:08:17.50,0:08:19.17,Subtitle,,0,0,0,,Lily! Perfect timing.
-Dialogue: 0,0:08:19.17,0:08:21.21,Subtitle,,0,0,0,,Do you happen to have a guest house in Dubai?
-Dialogue: 0,0:08:21.21,0:08:22.92,Subtitle,,0,0,0,,I own no such thing.
-Dialogue: 0,0:08:22.92,0:08:24.17,Subtitle,,0,0,0,,And why Dubai?
-Dialogue: 0,0:08:24.17,0:08:28.04,Subtitle,,0,0,0,,I'm striking out with guys here in Japan, but I think\NI'd be hot stuff at some luxury resort in Dubai.
-Dialogue: 0,0:08:28.04,0:08:31.79,Subtitle,,0,0,0,,If you're unpopular in Japan, I can guarantee\Nyou'd be equally unpopular in Dubai.
-Dialogue: 0,0:08:31.79,0:08:34.17,Subtitle,,0,0,0,,Fine, then tell me how to get the guys!
-Dialogue: 0,0:08:34.17,0:08:36.50,Subtitle,,0,0,0,,Whether it's at some beach in Japan,\Nthe pool at Hokuhoku-Seibuen Park,
-Dialogue: 0,0:08:36.50,0:08:38.92,Subtitle,,0,0,0,,or even the banks of the Karabori River!
-Dialogue: 0,0:08:38.92,0:08:41.13,Subtitle,,0,0,0,,There are several techniques for attracting men, but...
-Dialogue: 0,0:08:41.13,0:08:45.08,Subtitle,,0,0,0,,Well, I think even you, Tanaka-san,\Ncan employ the basic of basics.
-Dialogue: 0,0:08:45.08,0:08:46.54,Subtitle,,0,0,0,,By which I mean, THAT.
-Dialogue: 0,0:08:46.54,0:08:47.63,Subtitle,,0,0,0,,Which "that" is that?!
-Dialogue: 0,0:08:47.63,0:08:51.25,Subtitle,,0,0,0,,You know, the "Five-S" strategy of any popular girl.
-Dialogue: 0,0:08:51.25,0:08:52.88,Subtitle,,0,0,0,,"Five-S"?
-Dialogue: 0,0:08:52.88,0:08:55.13,Subtitle,,0,0,0,,Ah, I've heard of that.
-Dialogue: 0,0:08:55.42,0:08:59.21,Subtitle,,0,0,0,,It's the order that popular girls\Nseason food when they're cooking, right?
-Dialogue: 0,0:08:59.21,0:09:02.42,Subtitle,,0,0,0,,Sugar, salt, sushi vinegar, soy sauce, and miSo.
-Dialogue: 0,0:09:02.42,0:09:04.63,Subtitle,,0,0,0,,No, the other Five-S approach.
-Dialogue: 0,0:09:04.63,0:09:06.58,Subtitle,,0,0,0,,You mean, what you say\Nat singles' parties to get the guys?
-Dialogue: 0,0:09:06.58,0:09:09.83,Subtitle,,0,0,0,,Oh, I know that one! It was on TV the other day.
-Dialogue: 0,0:09:10.00,0:09:11.63,Subtitle,,0,0,0,,Go on and say them then.
-Dialogue: 0,0:09:11.63,0:09:12.83,Subtitle,,0,0,0,,"Sashimi for dinner?"
-Dialogue: 0,0:09:12.83,0:09:14.08,Subtitle,,0,0,0,,"Shika rice crackers for a snack?"
-Dialogue: 0,0:09:14.08,0:09:15.08,Subtitle,,0,0,0,,"Sushi rice sound good?"
-Dialogue: 0,0:09:15.08,0:09:16.38,Subtitle,,0,0,0,,"Spot me 1,000 yen, will you?"
-Dialogue: 0,0:09:16.38,0:09:17.75,Subtitle,,0,0,0,,Yup, that's it!
-Dialogue: 0,0:09:17.92,0:09:19.75,Subtitle,,0,0,0,,No way could there be a Five-S approach like that.
-Dialogue: 0,0:09:19.75,0:09:22.67,Subtitle,,0,0,0,,Why not?! They all start with "S," right?!
-Dialogue: 0,0:09:24.50,0:09:28.21,Subtitle,,0,0,0,,You could never combat the Dark Soul\Nwith that sort of S!
-Dialogue: 0,0:09:28.54,0:09:30.46,Subtitle,,0,0,0,,Uh, this has nothing to do with Dark Soul.
-Dialogue: 0,0:09:30.46,0:09:33.46,Subtitle,,0,0,0,,We're talking about the Five-S method\Nof being popular with guys at singles' mixers.
-Dialogue: 0,0:09:33.46,0:09:34.96,Subtitle,,0,0,0,,"Mixers," you say?
-Dialogue: 0,0:09:34.96,0:09:40.79,Subtitle,,0,0,0,,I have no interest in such wicked gatherings,\Nbut I know of the Fivefold S:
-Dialogue: 0,0:09:41.08,0:09:43.46,Subtitle,,0,0,0,,The Salamander, defeated at my hands!
-Dialogue: 0,0:09:43.46,0:09:45.50,Subtitle,,0,0,0,,The Signatures of the dead I count as allies!
-Dialogue: 0,0:09:45.50,0:09:47.42,Subtitle,,0,0,0,,The Stigma I must bear!
-Dialogue: 0,0:09:47.42,0:09:49.88,Subtitle,,0,0,0,,The Sounds of a world as it falls to ruin.
-Dialogue: 0,0:09:49.88,0:09:51.50,Subtitle,,0,0,0,,And... Stuff!
-Dialogue: 0,0:09:51.50,0:09:54.08,Subtitle,,0,0,0,,The last one was just "Stuff"? Really?
-Dialogue: 0,0:09:54.25,0:09:58.08,Subtitle,,0,0,0,,If the setting is a girl who is popular at a research\Nlaboratory, I also know a Five-S approach.
-Dialogue: 0,0:09:58.08,0:09:59.00,Subtitle,,0,0,0,,Enough already!
-Dialogue: 0,0:09:59.00,0:10:01.42,Subtitle,,0,0,0,,Wait! I really want to hear this one!
-Dialogue: 0,0:10:01.42,0:10:03.50,Subtitle,,0,0,0,,Fine, go ahead. What's the first S?
-Dialogue: 0,0:10:03.75,0:10:05.33,Subtitle,,0,0,0,,"So, want to culture some bacteria?"
-Dialogue: 0,0:10:05.33,0:10:06.63,Subtitle,,0,0,0,,Okay, got it. That's enough.
-Dialogue: 0,0:10:06.63,0:10:08.08,Subtitle,,0,0,0,,No, I need to hear this to the end!
-Dialogue: 0,0:10:08.38,0:10:09.71,Subtitle,,0,0,0,,Y'know, it just hit me...
-Dialogue: 0,0:10:09.71,0:10:13.17,Subtitle,,0,0,0,,Our school has a pool up on the roof, right?
-Dialogue: 0,0:10:15.04,0:10:17.46,Subtitle,,0,0,0,,Why don't we ever use it for class?
-Dialogue: 0,0:10:17.46,0:10:18.46,Subtitle,,0,0,0,,It's cursed.
-Dialogue: 0,0:10:20.88,0:10:25.46,Subtitle,,0,0,0,,Many years ago, a member of the Ping-Pong Club\Ndied an ignominious death just before a swim meet.
-Dialogue: 0,0:10:25.46,0:10:31.00,Subtitle,,0,0,0,,After that, pool-related accidents regularly occurred,\Nuntil Saijo finally closed it down altogether.
-Dialogue: 0,0:10:31.00,0:10:32.83,Subtitle,,0,0,0,,Wait, why a member of the Ping-Pong Club?!
-Dialogue: 0,0:10:32.83,0:10:34.96,Subtitle,,0,0,0,,I'd understand if it was a Swim Club member, but this...
-Dialogue: 0,0:10:34.96,0:10:38.46,Subtitle,,0,0,0,,That is the most frightening and\Nmystery-laden part of this story.
-Dialogue: 0,0:10:38.67,0:10:43.79,Subtitle,,0,0,0,,Come to think of it, Saijo has had those stories\Nabout Seven Spooky Things for a while, huh?
-Dialogue: 0,0:10:44.08,0:10:47.58,Subtitle,,0,0,0,,Like, the Anatomical Model in the Science Room,\Nor the Bach of the Music Room.
-Dialogue: 0,0:10:47.58,0:10:49.88,Subtitle,,0,0,0,,Oh, and The Running Nino-esque Guys, right?
-Dialogue: 0,0:10:49.88,0:10:50.92,Subtitle,,0,0,0,,Who the heck is "Nino"?
-Dialogue: 0,0:10:50.92,0:10:51.54,Subtitle,,0,0,0,,Kinjiro.
-Dialogue: 0,0:10:51.54,0:10:54.25,Subtitle,,0,0,0,,But you'll only find Kinjiro up through\Nelementary school, right?
-Dialogue: 0,0:10:54.25,0:10:56.38,Subtitle,,0,0,0,,You're not likely to see a Kinjiro at high school.
-Dialogue: 0,0:10:56.38,0:11:01.79,Subtitle,,0,0,0,,That's what makes it scary - a Nino shows up\Nwhen he's not even supposed to be there!
-Dialogue: 0,0:11:01.79,0:11:03.38,Subtitle,,0,0,0,,And they travel in packs!
-Dialogue: 0,0:11:06.58,0:11:09.71,Subtitle,,0,0,0,,Also, there's Hanamaru-san of the Toilet, right?
-Dialogue: 0,0:11:09.71,0:11:10.58,Subtitle,,0,0,0,,There is?
-Dialogue: 0,0:11:10.58,0:11:13.50,Subtitle,,0,0,0,,If you go to the girls' toilet on the second floor and\Nknock on the door of the second-to-last stall
-Dialogue: 0,0:11:13.50,0:11:17.83,Subtitle,,0,0,0,,and call out, "Hanamaru-san!"\Na voice will respond, "I'm Shibasaki."
-Dialogue: 0,0:11:18.13,0:11:18.79,Subtitle-2,,0,0,0,,Hanamaru-san! Hanamaru-san! Hanamaru-san!
-Dialogue: 0,0:11:18.79,0:11:21.58,Subtitle,,0,0,0,,And if you just keep repeating saying\N"Hanamaru-san," then...\NHanamaru-san! Hanamaru-san! Hanamaru-san!
-Dialogue: 0,0:11:23.25,0:11:24.75,Subtitle,,0,0,0,,Your nose will turn round!
-Dialogue: 0,0:11:25.00,0:11:26.75,Subtitle,,0,0,0,,And it will never go back to normal!
-Dialogue: 0,0:11:31.46,0:11:32.46,Subtitle,,0,0,0,,The heck?
-Dialogue: 0,0:11:40.33,0:11:42.63,Subtitle,,0,0,0,,It got late, while I was out having fun...
-Dialogue: 0,0:11:42.63,0:11:43.42,Subtitle,,0,0,0,,Huh?
-Dialogue: 0,0:11:51.08,0:11:52.29,Subtitle,,0,0,0,,Boo!
-Dialogue: 0,0:11:54.58,0:11:56.50,Subtitle,,0,0,0,,What's wrong, Loli-chan?
-Dialogue: 0,0:11:57.21,0:11:59.17,Subtitle,,0,0,0,,Oh, it's you, Lily...
-Dialogue: 0,0:11:59.17,0:12:03.42,Subtitle,,0,0,0,,If you're loitering about at this time of hour,\Nyou'll get taken away by some scary man, you know?
-Dialogue: 0,0:12:03.42,0:12:05.08,Subtitle,,0,0,0,,Oh! A scary man...?
-Dialogue: 0,0:12:07.08,0:12:09.08,Subtitle,,0,0,0,,Go away!
-Dialogue: 0,0:12:09.08,0:12:09.96,Subtitle,,0,0,0,,What?
-Dialogue: 0,0:12:09.96,0:12:12.46,Subtitle,,0,0,0,,Oh! N-not you! I didn't mean you, Lily...
-Dialogue: 0,0:12:12.46,0:12:13.21,Subtitle,,0,0,0,,Huh?
-Dialogue: 0,0:12:13.21,0:12:16.08,Subtitle,,0,0,0,,A-anyway, it's not like I'm\Nloitering about for fun, you know...
-Dialogue: 0,0:12:16.08,0:12:18.88,Subtitle,,0,0,0,,I forgot my smartphone at school,\Nso I'm heading there to get it!
-Dialogue: 0,0:12:18.88,0:12:20.92,Subtitle,,0,0,0,,Huh, so that's it.
-Dialogue: 0,0:12:21.13,0:12:24.33,Subtitle,,0,0,0,,Oh! By any chance, are you\Nafraid of the school at night?
-Dialogue: 0,0:12:24.33,0:12:26.17,Subtitle,,0,0,0,,I-I'm so not scared!
-Dialogue: 0,0:12:26.17,0:12:30.08,Subtitle,,0,0,0,,P-plus, Grandma said that ghosts\Ndon't appear in front of good kids!
-Dialogue: 0,0:12:30.08,0:12:31.13,Subtitle,,0,0,0,,Loli-chan, you're cute...
-Dialogue: 0,0:12:31.13,0:12:32.75,Subtitle,,0,0,0,,Don't say I'm cute!
-Dialogue: 0,0:12:32.75,0:12:36.38,Subtitle,,0,0,0,,Don't get so angry... I'll tag along with you, so.
-Dialogue: 0,0:12:36.38,0:12:38.58,Subtitle,,0,0,0,,R-r-really?!
-Dialogue: 0,0:12:49.00,0:12:51.79,Subtitle,,0,0,0,,Ah! This kinda situation is nice too...!
-Dialogue: 0,0:12:51.79,0:12:55.42,Subtitle,,0,0,0,,Wh-what? You're trembling? Lily, are you afraid too?
-Dialogue: 0,0:12:55.42,0:12:56.83,Subtitle,,0,0,0,,It's nothing.
-Dialogue: 0,0:12:56.83,0:12:59.46,Subtitle,,0,0,0,,I'm just trembling because it feels way too good...
-Dialogue: 0,0:12:59.46,0:13:01.54,Subtitle,,0,0,0,,Huh?! What feels so good?
-Dialogue: 0,0:13:04.63,0:13:06.67,Subtitle,,0,0,0,,This is the second-floor women's restroom...
-Dialogue: 0,0:13:06.67,0:13:09.00,Subtitle,,0,0,0,,It was Hanamaru-san of the toilet, right?
-Dialogue: 0,0:13:09.00,0:13:11.75,Subtitle,,0,0,0,,Don't worry. That's nothing but an urban legend.
-Dialogue: 0,0:13:11.75,0:13:14.21,Subtitle,,0,0,0,,B-but, there was a noise from inside just now...
-Dialogue: 0,0:13:18.58,0:13:20.88,Subtitle,,0,0,0,,Oh! Th-there seems to be someone there...
-Dialogue: 0,0:13:20.88,0:13:22.29,Subtitle,,0,0,0,,D-don't!
-Dialogue: 0,0:13:22.29,0:13:26.17,Subtitle,,0,0,0,,It's not my fault if you get cursed by Hanamaru-san\Nand have your nose become knobby!
-Dialogue: 0,0:13:28.79,0:13:31.92,Subtitle,,0,0,0,,The second door from the back... I knew it!
-Dialogue: 0,0:13:31.92,0:13:33.25,Subtitle,,0,0,0,,Hanamaru-san!
-Dialogue: 0,0:13:33.63,0:13:35.17,Subtitle,,0,0,0,,Stop!
-Dialogue: 0,0:13:35.17,0:13:35.71,Subtitle,,0,0,0,,You've mistaken!
-Dialogue: 0,0:13:35.71,0:13:36.83,Subtitle-2,,0,0,0,,Stop!\NYou've mistaken!
-Dialogue: 0,0:13:36.83,0:13:39.25,Subtitle,,0,0,0,,This is Kanade Ninomae! Please help me!
-Dialogue: 0,0:13:39.25,0:13:40.46,Subtitle,,0,0,0,,Say what?!
-Dialogue: 0,0:13:40.79,0:13:42.29,Subtitle,,0,0,0,,Thank you very much...
-Dialogue: 0,0:13:42.29,0:13:45.33,Subtitle,,0,0,0,,It appears that the lock broke, and for a moment there,\NI didn't know what would become of me...
-Dialogue: 0,0:13:45.33,0:13:47.67,Subtitle,,0,0,0,,Were you stuck in there since lunchtime?
-Dialogue: 0,0:13:47.67,0:13:50.17,Subtitle,,0,0,0,,Yes. I tried calling out for help several times,
-Dialogue: 0,0:13:50.17,0:13:52.63,Subtitle,,0,0,0,,but everyone just kept getting scared\Nand would run away, so...
-Dialogue: 0,0:13:55.46,0:13:58.50,Subtitle,,0,0,0,,Well, once you uncover the truth of something like\Nthe Seven Wonders, it's pretty much nothing.
-Dialogue: 0,0:13:58.50,0:14:00.88,Subtitle,,0,0,0,,After all, in reality, there are\Nno such things like spirits and ghosts.
-Dialogue: 0,0:14:00.88,0:14:02.33,Subtitle-2,,0,0,0,,Pablo Diego...
-Dialogue: 0,0:14:02.33,0:14:05.00,Subtitle,,0,0,0,,Then, what is this?! What is it?! What is this?!\NJosé Francisco de Paula Juan Nepomuceno...
-Dialogue: 0,0:14:05.00,0:14:06.25,Subtitle,,0,0,0,,Then, what is this?! What is it?! What is this?!\NMaría de los Remedios...
-Dialogue: 0,0:14:06.25,0:14:06.96,Subtitle,,0,0,0,,E-even if it's a ghost, if it's a cute girl, then...!\NMaría de los Remedios...
-Dialogue: 0,0:14:06.96,0:14:09.75,Subtitle,,0,0,0,,E-even if it's a ghost, if it's a cute girl, then...!\NCipriano de la Santísima...
-Dialogue: 0,0:14:09.75,0:14:11.58,Subtitle-2,,0,0,0,,Trinidad Ruiz y Picasso ....
-Dialogue: 0,0:14:18.29,0:14:19.79,Subtitle,,0,0,0,,Uh... Majo?
-Dialogue: 0,0:14:20.29,0:14:22.92,Subtitle,,0,0,0,,What's going on, everyone, at this late time of night...?
-Dialogue: 0,0:14:22.92,0:14:25.71,Subtitle,,0,0,0,,Actually, that would be our line, you know.
-Dialogue: 0,0:14:25.71,0:14:28.29,Subtitle,,0,0,0,,Majo, what about you? What're you doing at this hour?
-Dialogue: 0,0:14:28.29,0:14:29.96,Subtitle,,0,0,0,,Just a little necromancy...
-Dialogue: 0,0:14:30.25,0:14:33.96,Subtitle,,0,0,0,,There was a section in world history for the\Nsummer break homework that I didn't understand,
-Dialogue: 0,0:14:33.96,0:14:36.79,Subtitle,,0,0,0,,so I was going to evoke the spirit of\NVasco da Gama and ask him for the answer.
-Dialogue: 0,0:14:37.21,0:14:40.00,Subtitle,,0,0,0,,Oh, is that so? I feel relieved.
-Dialogue: 0,0:14:40.00,0:14:42.96,Subtitle,,0,0,0,,No! I don't feel relieved, you know!\NThat's scary in general!
-Dialogue: 0,0:14:48.21,0:14:49.38,Subtitle,,0,0,0,,What's wrong?
-Dialogue: 0,0:14:49.38,0:14:52.33,Subtitle,,0,0,0,,I feel an intense set of eyes or\Nsomething on me, from the classroom...
-Dialogue: 0,0:14:52.33,0:14:54.46,Subtitle,,0,0,0,,What?! Wh-what do you mean, a set of eyes?!
-Dialogue: 0,0:14:58.54,0:15:01.00,Subtitle,,0,0,0,,Wh-why, there's no one here after all.
-Dialogue: 0,0:15:02.38,0:15:03.88,Subtitle,,0,0,0,,Huh?! Kanade?!
-Dialogue: 0,0:15:10.83,0:15:13.25,Subtitle,,0,0,0,,You weren't able to get down again, right...?
-Dialogue: 0,0:15:13.46,0:15:16.42,Subtitle,,0,0,0,,W-welcome to the prelude of darkness...
-Dialogue: 0,0:15:17.33,0:15:18.71,Subtitle,,0,0,0,,I found it!
-Dialogue: 0,0:15:18.71,0:15:20.42,Subtitle,,0,0,0,,I'm glad, Loli-chan.
-Dialogue: 0,0:15:20.42,0:15:21.96,Subtitle,,0,0,0,,Well then, shall we head home?
-Dialogue: 0,0:15:21.96,0:15:23.50,Subtitle,,0,0,0,,Oh, I still need to...
-Dialogue: 0,0:15:23.50,0:15:26.38,Subtitle,,0,0,0,,There's something I want to ask\NAmenhotep IV as well, so...
-Dialogue: 0,0:15:26.38,0:15:28.88,Subtitle,,0,0,0,,Isn't it better if you do things like that at home?
-Dialogue: 0,0:15:31.08,0:15:32.96,Subtitle,,0,0,0,,Wh-what was that noise?
-Dialogue: 0,0:15:35.46,0:15:38.25,Subtitle,,0,0,0,,I can hear it... The symphony of doom...
-Dialogue: 0,0:15:38.25,0:15:40.13,Subtitle,,0,0,0,,Do you think it's poltergeist rapping?
-Dialogue: 0,0:15:40.13,0:15:42.58,Subtitle,,0,0,0,,It appears the sound is coming from the rooftop pool.
-Dialogue: 0,0:15:42.58,0:15:43.67,Subtitle,,0,0,0,,Let's go check it out!
-Dialogue: 0,0:15:43.67,0:15:45.04,Subtitle,,0,0,0,,W-we're going?!
-Dialogue: 0,0:16:02.04,0:16:04.46,Subtitle,,0,0,0,,Th-th-they're playing table tennis!
-Dialogue: 0,0:16:04.46,0:16:07.13,Subtitle,,0,0,0,,This is, after all, the curse of the table tennis club!
-Dialogue: 0,0:16:07.33,0:16:08.33,Subtitle,,0,0,0,,Actually...
-Dialogue: 0,0:16:12.29,0:16:14.79,Subtitle,,0,0,0,,Hey! What the hell are you bastards doing?!
-Dialogue: 0,0:16:14.79,0:16:18.38,Subtitle,,0,0,0,,Well, we were thinking of helping the ghost of the\Ntable tennis club member rest in peace, you see!
-Dialogue: 0,0:16:18.67,0:16:20.75,Subtitle,,0,0,0,,And will she? Rest in peace, that is...
-Dialogue: 0,0:16:20.75,0:16:22.96,Subtitle,,0,0,0,,We already made sure to get\Npermission from Waseda,
-Dialogue: 0,0:16:22.96,0:16:26.04,Subtitle,,0,0,0,,and once we finish playing table tennis,\Nwe were thinking of playing in the nighttime pool.
-Dialogue: 0,0:16:26.04,0:16:27.58,Subtitle,,0,0,0,,You guys wanna joins us too?
-Dialogue: 0,0:16:27.96,0:16:31.83,Subtitle,,0,0,0,,Even though you've offered,\Nwe didn't bring our swimwear, so...
-Dialogue: 0,0:16:34.83,0:16:36.67,Subtitle,,0,0,0,,Huh?! What the?!
-Dialogue: 0,0:16:37.83,0:16:39.58,Subtitle,,0,0,0,,What's with this, all of a sudden...?
-Dialogue: 0,0:16:39.58,0:16:41.17,Subtitle,,0,0,0,,It's the act of God!
-Dialogue: 0,0:16:41.17,0:16:44.63,Subtitle,,0,0,0,,In order to purify this corrupted world,\Na holy rain was...!
-Dialogue: 0,0:16:47.29,0:16:49.96,Subtitle,,0,0,0,,Speaking of, you're all gonna\Ncatch colds if you stay wet like that.
-Dialogue: 0,0:16:49.96,0:16:51.79,Subtitle,,0,0,0,,How about you take those off and dry them out?
-Dialogue: 0,0:16:51.79,0:16:54.17,Subtitle,,0,0,0,,While things are being dried out,\Nlet's all go swimming.
-Dialogue: 0,0:16:54.17,0:16:56.67,Subtitle,,0,0,0,,Well, as I explained, we don't have swimwear-
-Dialogue: 0,0:16:56.67,0:16:59.38,Subtitle,,0,0,0,,You and swimwear! You're way too picky!
-Dialogue: 0,0:16:59.38,0:17:03.08,Subtitle,,0,0,0,,If you're a woman, then show enough guts to\Nbe able to go so far as to swim stark-naked!
-Dialogue: 0,0:17:03.08,0:17:06.96,Subtitle,,0,0,0,,No, she likes getting wet with her clothes on...
-Dialogue: 0,0:17:07.33,0:17:11.46,Subtitle,,0,0,0,,The texture of her clothes,\Ntightly clinging to her bare skin...
-Dialogue: 0,0:17:11.46,0:17:17.25,Subtitle,,0,0,0,,To the feeling of the drops trickling down from\Nher skirt as they slowly flow down her thighs...
-Dialogue: 0,0:17:17.25,0:17:19.46,Subtitle,,0,0,0,,Instinctively, she becomes...
-Dialogue: 0,0:17:19.92,0:17:20.96,Subtitle,,0,0,0,,Enraptured...
-Dialogue: 0,0:17:20.96,0:17:23.21,Subtitle,,0,0,0,,Hey! Please don't do whatever you want\Nand make up some fantasy!
-Dialogue: 0,0:17:23.21,0:17:26.33,Subtitle,,0,0,0,,Hey! I found some brand-new swimwear!
-Dialogue: 0,0:17:26.33,0:17:27.71,Subtitle,,0,0,0,,What?!
-Dialogue: 0,0:17:28.83,0:17:29.96,Subtitle,,0,0,0,,What's all this?
-Dialogue: 0,0:17:29.96,0:17:31.50,Subtitle,,0,0,0,,Are they samples or something?
-Dialogue: 0,0:17:31.50,0:17:34.04,Subtitle,,0,0,0,,Did a teacher forget and\Nleave them behind in the locker room?
-Dialogue: 0,0:17:34.04,0:17:34.71,Subtitle,,0,0,0,,Oh!
-Dialogue: 0,0:17:35.54,0:17:38.96,Subtitle,,0,0,0,,Hey, it's here! Maybe I should change into this!
-Dialogue: 0,0:17:38.96,0:17:39.92,Subtitle,,0,0,0,,Don't!
-Dialogue: 0,0:17:39.92,0:17:42.21,Subtitle,,0,0,0,,Speaking of, why is that kinda swimwear at a school?
-Dialogue: 0,0:17:42.42,0:17:43.50,Subtitle,,0,0,0,,Then Loli, wanna wear it?
-Dialogue: 0,0:17:43.50,0:17:45.88,Subtitle,,0,0,0,,Wha...?! Wh-who, me?!
-Dialogue: 0,0:17:46.21,0:17:48.50,Subtitle,,0,0,0,,I also have another one I brought...
-Dialogue: 0,0:17:48.50,0:17:51.29,Subtitle,,0,0,0,,S..Saginomiya-san, you'd lend me your swimwear?!
-Dialogue: 0,0:17:51.29,0:17:53.71,Subtitle,,0,0,0,,As an apology, for having made up\Na weird fantasy earlier.
-Dialogue: 0,0:17:53.71,0:17:56.83,Subtitle,,0,0,0,,Oh! B-by any chance, is it for barnacles?!
-Dialogue: 0,0:17:57.00,0:18:01.17,Subtitle,,0,0,0,,Are you trying to farm barnacles\Nwith my breasts, Saginomiya-san...?
-Dialogue: 0,0:18:01.17,0:18:03.13,Subtitle,,0,0,0,,No, that's fine too!
-Dialogue: 0,0:18:03.13,0:18:05.38,Subtitle,,0,0,0,,If it's for your sake, Saginomiya-san, then why not?
-Dialogue: 0,0:18:05.38,0:18:08.42,Subtitle,,0,0,0,,I will happily offer my body as\Nan experimental subject.
-Dialogue: 0,0:18:09.42,0:18:10.96,Subtitle,,0,0,0,,Thank you very much!
-Dialogue: 0,0:18:11.50,0:18:12.96,Subtitle,,0,0,0,,So cute!
-Dialogue: 0,0:18:12.96,0:18:14.88,Subtitle,,0,0,0,,Loli-chan, something like this\Nwould be perfect for you, you know?!
-Dialogue: 0,0:18:14.88,0:18:17.00,Subtitle,,0,0,0,,And this one would probably suit you well, Kujyo-san!
-Dialogue: 0,0:18:17.00,0:18:20.25,Subtitle,,0,0,0,,Oh! This is definitely made for you, Yamamoto-san!
-Dialogue: 0,0:18:20.25,0:18:22.17,Subtitle,,0,0,0,,I-I'm supposed to wear one too?
-Dialogue: 0,0:18:22.17,0:18:24.79,Subtitle,,0,0,0,,Th-that kinda stuff I don't really...
-Dialogue: 0,0:18:24.79,0:18:26.33,Subtitle,,0,0,0,,Come on. It's fine.
-Dialogue: 0,0:18:26.33,0:18:28.63,Subtitle,,0,0,0,,All right, get undressed. I'll help you.
-Dialogue: 0,0:18:29.42,0:18:31.71,Subtitle,,0,0,0,,Yamai, you surprisingly have a nice body!
-Dialogue: 0,0:18:31.71,0:18:33.38,Subtitle,,0,0,0,,Majo's not bad too.
-Dialogue: 0,0:18:33.38,0:18:36.42,Subtitle,,0,0,0,,Please don't look at me too much. It's embarrassing.
-Dialogue: 0,0:18:36.42,0:18:40.50,Subtitle,,0,0,0,,Loli-chan, you too. Don't hide in that corner\Nwhile you're changing. Come over here.
-Dialogue: 0,0:18:40.50,0:18:42.67,Subtitle,,0,0,0,,D-don't worry about me!
-Dialogue: 0,0:18:42.67,0:18:46.83,Subtitle,,0,0,0,,Kanade, you too. Come on, will you\Ncome over here and unhook my bra?
-Dialogue: 0,0:18:46.83,0:18:49.04,Subtitle,,0,0,0,,P-please do something like that by yourself!
-Dialogue: 0,0:18:49.04,0:18:51.67,Subtitle,,0,0,0,,Whoa! Majime! You've got some nice tits there!
-Dialogue: 0,0:18:52.63,0:18:54.75,Subtitle,,0,0,0,,Hey! I would ask you not to touch them.
-Dialogue: 0,0:18:54.75,0:18:57.67,Subtitle,,0,0,0,,Aw, come on! Just a little.
-Dialogue: 0,0:18:58.71,0:19:00.71,Subtitle,,0,0,0,,Wota, let me squeeze yours too. Yeah!
-Dialogue: 0,0:19:00.71,0:19:02.38,Subtitle,,0,0,0,,What?! Don't squeeze my butt!
-Dialogue: 0,0:19:02.63,0:19:05.04,Subtitle,,0,0,0,,Aiight! Everyone's changed, right?!
-Dialogue: 0,0:19:05.04,0:19:06.67,Subtitle,,0,0,0,,Then, let's go!
-Dialogue: 0,0:19:07.21,0:19:09.04,Subtitle,,0,0,0,,Woo-hoo!
-Dialogue: 0,0:19:13.71,0:19:16.63,Subtitle,,0,0,0,,Please wait! First off, we have to do warm-ups!
-Dialogue: 0,0:19:16.63,0:19:18.08,Subtitle,,0,0,0,,Come on. It's fine.
-Dialogue: 0,0:19:18.08,0:19:19.83,Subtitle,,0,0,0,,We can do without the formalities!
-Dialogue: 0,0:19:25.92,0:19:29.50,Subtitle,,0,0,0,,Venti soy milk no water ristretto shot-
-Dialogue: 0,0:19:29.50,0:19:31.50,Subtitle,,0,0,0,,What incantation is it this time?
-Dialogue: 0,0:19:31.50,0:19:34.08,Subtitle,,0,0,0,,So that everyone will not get into a water accident...
-Dialogue: 0,0:19:34.08,0:19:35.58,Subtitle,,0,0,0,,Just a little prayer...
-Dialogue: 0,0:19:36.21,0:19:39.67,Subtitle,,0,0,0,,Whatcha doing?! You guys hurry up and come in!
-Dialogue: 0,0:19:39.83,0:19:42.13,Subtitle,,0,0,0,,What the hell was that for?!
-Dialogue: 0,0:19:44.38,0:19:46.21,Subtitle,,0,0,0,,Now then, Majo, you too...
-Dialogue: 0,0:19:47.46,0:19:48.75,Subtitle,,0,0,0,,Yes...
-Dialogue: 0,0:19:51.38,0:19:54.33,Subtitle,,0,0,0,,Yo! Hey Loli! Come on...!
-Dialogue: 0,0:19:55.33,0:19:57.54,Subtitle,,0,0,0,,Loli... It's fine, get on...
-Dialogue: 0,0:19:57.83,0:20:00.46,Subtitle,,0,0,0,,Fly! Make me fly!
-Dialogue: 0,0:20:00.46,0:20:02.79,Subtitle,,0,0,0,,Hey! Amazing doesn't even start to describe it!
-Dialogue: 0,0:20:02.79,0:20:05.96,Subtitle,,0,0,0,,Hey look, Robo! There are barnacles here!
-Dialogue: 0,0:20:05.96,0:20:07.71,Subtitle,,0,0,0,,Why, these are barnacles!
-Dialogue: 0,0:20:23.29,0:20:24.21,Subtitle,,0,0,0,,Live!
-Dialogue: 0,0:20:24.21,0:20:26.33,Subtitle,,0,0,0,,If you fall, you'll die, Yamai!
-Dialogue: 0,0:20:29.50,0:20:34.63,Subtitle,,0,0,0,,Aw! It's supplementary lessons by myself,\Nthe day after a school day...
-Dialogue: 0,0:20:34.63,0:20:38.25,Subtitle,,0,0,0,,Last night sure was fun! The nighttime pool...
-Dialogue: 0,0:20:38.54,0:20:40.67,Subtitle,,0,0,0,,I did bring my swimwear again today,
-Dialogue: 0,0:20:40.67,0:20:43.38,Subtitle,,0,0,0,,so maybe I'll go swim by myself\Nbefore the supplementary lessons.
-Dialogue: 0,0:20:58.96,0:21:00.25,Subtitle,,0,0,0,,What?!
-Dialogue: 0,0:21:00.25,0:21:01.79,Subtitle,,0,0,0,,What does this mean...?
-Dialogue: 0,0:21:02.29,0:21:03.54,Subtitle,,0,0,0,,Then...
-Dialogue: 0,0:21:03.54,0:21:05.38,Subtitle,,0,0,0,,What was all that yesterday...?
-Dialogue: 0,0:21:15.26,0:21:17.46,Subtitle,,0,0,0,,For a little me that made a wish...
-Dialogue: 0,0:21:17.46,0:21:21.25,Subtitle,,0,0,0,,I don't have the strength to find the answer...
-Dialogue: 0,0:21:59.00,0:22:03.38,Song,,0,0,0,,Sawagashikute yakamashikute
-Dialogue: 0,0:22:03.67,0:22:07.25,Song,,0,0,0,,Demo itoshikute
-Dialogue: 0,0:22:07.58,0:22:11.46,Song,,0,0,0,,Ano hi no warai koe
-Dialogue: 0,0:22:11.46,0:22:15.46,Song,,0,0,0,,Maki modesenai story
-Dialogue: 0,0:22:15.46,0:22:19.33,Song,,0,0,0,,Seishun te yatsu wa zutto hikari to kage
-Dialogue: 0,0:22:19.33,0:22:21.38,Song,,0,0,0,,Kurayami no naka
-Dialogue: 0,0:22:21.38,0:22:23.42,Song,,0,0,0,,Kagayaku rettousei
-Dialogue: 0,0:22:23.63,0:22:27.13,Song,,0,0,0,,Furi kaereba kojiraseta
-Dialogue: 0,0:22:27.13,0:22:31.54,Song,,0,0,0,,Utsukushi sugiru hibi
-Dialogue: 0,0:22:32.08,0:22:41.13,Song,,0,0,0,,Itsumo haru wa fui ni toori sugita ato
-Dialogue: 0,0:22:41.13,0:22:48.21,Song,,0,0,0,,Kimi no kotoba mune ni reverb
-Dialogue: 0,0:22:48.21,0:22:56.71,Song,,0,0,0,,Itsuka haru ga zenbu tsure satte shimau
-Dialogue: 0,0:22:56.71,0:23:04.38,Song,,0,0,0,,Sono hi made wa baka de ii
-Dialogue: 0,0:23:04.71,0:23:08.96,Song,,0,0,0,,Kake nukeru kara
-Dialogue: 0,0:23:34.88,0:23:39.38,Subtitle,,0,0,0,,Nothing beats the job-seeking students'\Nstandard interview business suits, after all...
-Dialogue: 0,0:00:06.29,0:00:08.79,Caption,,0,0,0,,{\pos(499.2,100.8)}{\an7}I like it
-Dialogue: 0,0:00:06.29,0:00:08.79,Caption,,0,0,0,,{\pos(204.8,180)}{\an7}It's a really great song
-Dialogue: 0,0:00:06.29,0:00:08.79,Caption,,0,0,0,,{\pos(652.8,288)}{\an7}Sure is nice...
-Dialogue: 0,0:00:06.29,0:00:08.79,Caption,,0,0,0,,{\pos(524.8,403.2)}{\an7}You're low-income?
-Dialogue: 0,0:00:06.29,0:00:08.79,Caption-2,,0,0,0,,{\pos(102.4,453.6)}{\an7}Teishotoku P
-Dialogue: 0,0:00:06.30,0:00:08.79,Caption-2,,0,0,0,,{\pos(102.4,504)}{\an7}Ryusei Meteeshika  -  38,000 views 
-Dialogue: 0,0:00:06.30,0:00:08.79,Caption-2,,0,0,0,,{\pos(102.4,554.4)}{\an7}This is my first upload. Both my name and my present situation are "Low Income."
-Dialogue: 0,0:00:08.79,0:00:11.29,Caption,,0,0,0,,{\pos(294.4,93.6)}{\an7}Nice...
-Dialogue: 0,0:00:08.79,0:00:11.29,Caption,,0,0,0,,{\pos(486.4,244.8)}{\an7}Awesome
-Dialogue: 0,0:00:08.79,0:00:11.29,Caption,,0,0,0,,{\pos(806.4,381.6)}{\an7}Love it
-Dialogue: 0,0:00:08.79,0:00:11.29,Caption-2,,0,0,0,,{\pos(102.4,453.6)}{\an7}Teishotoku P
-Dialogue: 0,0:00:08.79,0:00:11.29,Caption-2,,0,0,0,,{\pos(102.4,504)}{\an7}Ryusei Meteeshika  -  38,000 views 
-Dialogue: 0,0:00:08.80,0:00:11.29,Caption-2,,0,0,0,,{\pos(102.4,554.4)}{\an7}This is my first upload. Both my name and my present situation are "Low Income."
-Dialogue: 0,0:00:13.33,0:00:16.79,Caption-3,,0,0,0,,{\pos(179.2,86.4)}{\an7}I wanna go to a paradise of good-looking guys too!!!
-Dialogue: 0,0:00:13.33,0:00:16.79,Caption-3,,0,0,0,,{\pos(268.8,280.8)}{\an7}Stop having weird fantasies and just go to bed.
-Dialogue: 0,0:00:13.34,0:00:16.79,Caption-3,,0,0,0,,{\pos(243.2,468)}{\an7}I'm going to sleep. Good night.
-Dialogue: 0,0:00:13.34,0:00:16.79,Caption-3,,0,0,0,,{\pos(102.4,554.4)}{\an7}Tanaka:  Hey, can I say something amazing?
-Dialogue: 0,0:00:21.83,0:00:24.33,Caption-3,,0,0,0,,{\pos(268.8,86.4)}{\an7}Stop having weird fantasies and just go to bed.
-Dialogue: 0,0:00:21.83,0:00:24.33,Caption-3,,0,0,0,,{\pos(243.2,273.6)}{\an7}I'm going to sleep. Good night.
-Dialogue: 0,0:00:21.84,0:00:24.33,Caption-3,,0,0,0,,{\pos(102.4,468)}{\an7}Tanaka:  Hey, can I say something amazing?
-Dialogue: 0,0:00:21.84,0:00:24.33,Caption-3,,0,0,0,,{\pos(243.2,532.8)}{\an7}When you mention summer
-Dialogue: 0,0:00:24.33,0:00:26.83,Caption-3,,0,0,0,,{\pos(230.4,100.8)}{\an7}I'm going to sleep. Good night.
-Dialogue: 0,0:00:24.33,0:00:26.83,Caption-3,,0,0,0,,{\pos(102.4,288)}{\an7}Tanaka:  Hey, can I say something amazing?
-Dialogue: 0,0:00:24.34,0:00:26.83,Caption-3,,0,0,0,,{\pos(243.2,468)}{\an7}When you mention summer
-Dialogue: 0,0:00:24.34,0:00:26.83,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}That means scary stories, right?
-Dialogue: 0,0:00:37.33,0:00:40.33,Caption-3,,0,0,0,,{\pos(102.4,108)}{\an7}Tanaka:  Hey, can I say something amazing?
-Dialogue: 0,0:00:37.33,0:00:40.33,Caption-3,,0,0,0,,{\pos(243.2,280.8)}{\an7}When you mention summer
-Dialogue: 0,0:00:37.34,0:00:40.33,Caption-3,,0,0,0,,{\pos(243.2,482.4)}{\an7}That means scary stories, right?
-Dialogue: 0,0:00:37.34,0:00:40.33,Caption-3,,0,0,0,,{\pos(243.2,576)}{\an7}This one is super scary, though.
-Dialogue: 0,0:00:46.83,0:00:49.25,Caption-3,,0,0,0,,{\pos(243.2,252)}{\an7}That means scary stories, right?
-Dialogue: 0,0:00:46.83,0:00:49.25,Caption-3,,0,0,0,,{\pos(243.2,446.4)}{\an7}This one is super scary, though.
-Dialogue: 0,0:00:46.84,0:00:49.25,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}In the park behind my house, there's this one cat
-Dialogue: 0,0:00:49.25,0:00:51.58,Caption-3,,0,0,0,,{\pos(243.2,244.8)}{\an7}This one is super scary, though.
-Dialogue: 0,0:00:49.25,0:00:51.58,Caption-3,,0,0,0,,{\pos(243.2,446.4)}{\an7}In the park behind my house, there's this one cat
-Dialogue: 0,0:00:49.25,0:00:51.58,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}straight outta
-Dialogue: 0,0:00:51.58,0:00:52.83,Caption-3,,0,0,0,,{\pos(243.2,252)}{\an7}In the park behind my house, there's this one cat
-Dialogue: 0,0:00:51.58,0:00:52.83,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}straight outta
-Dialogue: 0,0:00:51.59,0:00:52.83,Caption-3,,0,0,0,,{\pos(396.8,532.8)}{\an7}You better not say "PURRgatory"
-Dialogue: 0,0:00:55.33,0:00:55.83,Caption-3,,0,0,0,,{\pos(243.2,252)}{\an7}In the park behind my house, there's this one cat
-Dialogue: 0,0:00:55.33,0:00:55.83,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}straight outta
-Dialogue: 0,0:00:55.34,0:00:55.83,Caption-3,,0,0,0,,{\pos(396.8,532.8)}{\an7}You better not say "PURRgatory"
-Dialogue: 0,0:00:55.83,0:00:57.75,Caption-3,,0,0,0,,{\pos(243.2,259.2)}{\an7}straight outta
-Dialogue: 0,0:00:55.83,0:00:57.75,Caption-3,,0,0,0,,{\pos(396.8,446.4)}{\an7}You better not say "PURRgatory"
-Dialogue: 0,0:00:55.84,0:00:57.75,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}PURRgatory
-Dialogue: 0,0:00:57.75,0:00:59.33,Caption-3,,0,0,0,,{\pos(396.8,259.2)}{\an7}You better not say "PURRgatory"
-Dialogue: 0,0:00:57.75,0:00:59.33,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}PURRgatory
-Dialogue: 0,0:00:57.75,0:00:59.33,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}Hey, don't beat me to the punchline.
-Dialogue: 0,0:00:59.33,0:01:01.29,Caption-3,,0,0,0,,{\pos(256,129.6)}{\an7}PURRgatory
-Dialogue: 0,0:00:59.33,0:01:01.29,Caption-3,,0,0,0,,{\pos(243.2,331.2)}{\an7}Hey, don't beat me to the punchline.
-Dialogue: 0,0:00:59.33,0:01:01.29,Caption-3,,0,0,0,,{\pos(243.2,446.4)}{\an7}What's scary is Baka's brain,
-Dialogue: 0,0:00:59.34,0:01:01.29,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}for having thought that was funny.
-Dialogue: 0,0:01:01.29,0:01:03.63,Caption-3,,0,0,0,,{\pos(243.2,129.6)}{\an7}Hey, don't beat me to the punchline.
-Dialogue: 0,0:01:01.29,0:01:03.63,Caption-3,,0,0,0,,{\pos(243.2,244.8)}{\an7}What's scary is Baka's brain,
-Dialogue: 0,0:01:01.29,0:01:03.63,Caption-3,,0,0,0,,{\pos(243.2,432)}{\an7}for having thought that was funny.
-Dialogue: 0,0:01:01.29,0:01:03.63,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}Wait, no.
-Dialogue: 0,0:01:03.63,0:01:05.88,Caption-3,,0,0,0,,{\pos(243.2,129.6)}{\an7}for having thought that was funny.
-Dialogue: 0,0:01:03.63,0:01:05.88,Caption-3,,0,0,0,,{\pos(243.2,331.2)}{\an7}Wait, no.
-Dialogue: 0,0:01:03.63,0:01:05.88,Caption-3,,0,0,0,,{\pos(230.4,432)}{\an7}This is where it really gets scary.
-Dialogue: 0,0:01:05.88,0:01:07.38,Caption-3,,0,0,0,,{\pos(243.2,144)}{\an7}Wait, no.
-Dialogue: 0,0:01:05.88,0:01:07.38,Caption-3,,0,0,0,,{\pos(243.2,446.4)}{\an7}This is where it really gets scary.
-Dialogue: 0,0:01:05.88,0:01:07.38,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}I used to have a pet turtle
-Dialogue: 0,0:01:07.38,0:01:08.54,Caption-3,,0,0,0,,{\pos(243.2,252)}{\an7}This is where it really gets scary.
-Dialogue: 0,0:01:07.38,0:01:08.54,Caption-3,,0,0,0,,{\pos(243.2,446.4)}{\an7}I used to have a pet turtle
-Dialogue: 0,0:01:07.38,0:01:08.54,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}and it was so
-Dialogue: 0,0:01:08.54,0:01:10.38,Caption-3,,0,0,0,,{\pos(230.4,252)}{\an7}I used to have a pet turtle
-Dialogue: 0,0:01:08.54,0:01:10.38,Caption-3,,0,0,0,,{\pos(230.4,453.6)}{\an7}and it was so
-Dialogue: 0,0:01:08.54,0:01:10.38,Caption-3,,0,0,0,,{\pos(307.2,547.2)}{\an7}You better not say it walked ac-CURSE-dly slow.
-Dialogue: 0,0:01:12.38,0:01:12.88,Caption-3,,0,0,0,,{\pos(230.4,252)}{\an7}I used to have a pet turtle
-Dialogue: 0,0:01:12.38,0:01:12.88,Caption-3,,0,0,0,,{\pos(230.4,453.6)}{\an7}and it was so
-Dialogue: 0,0:01:12.38,0:01:12.88,Caption-3,,0,0,0,,{\pos(307.2,547.2)}{\an7}You better not say it walked ac-CURSE-dly slow.
-Dialogue: 0,0:01:12.88,0:01:14.04,Caption-3,,0,0,0,,{\pos(230.4,72)}{\an7}I used to have a pet turtle
-Dialogue: 0,0:01:12.88,0:01:14.04,Caption-3,,0,0,0,,{\pos(230.4,259.2)}{\an7}and it was so
-Dialogue: 0,0:01:12.88,0:01:14.04,Caption-3,,0,0,0,,{\pos(307.2,460.8)}{\an7}You better not say it walked ac-CURSE-dly slow.
-Dialogue: 0,0:01:12.88,0:01:14.04,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}ac-CURSE-dly slow.
-Dialogue: 0,0:01:14.04,0:01:15.92,Caption-3,,0,0,0,,{\pos(307.2,259.2)}{\an7}You better not say it walked ac-CURSE-dly slow.
-Dialogue: 0,0:01:14.04,0:01:15.92,Caption-3,,0,0,0,,{\pos(243.2,460.8)}{\an7}ac-CURSE-dly slow.
-Dialogue: 0,0:01:14.04,0:01:15.92,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}Scratch that.
-Dialogue: 0,0:01:15.92,0:01:18.00,Caption-3,,0,0,0,,{\pos(243.2,252)}{\an7}ac-CURSE-dly slow.
-Dialogue: 0,0:01:15.92,0:01:18.00,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}Scratch that.
-Dialogue: 0,0:01:15.92,0:01:18.00,Caption-3,,0,0,0,,{\pos(230.4,547.2)}{\an7}This is where the amazing stuff starts.
-Dialogue: 0,0:01:18.00,0:01:18.88,Caption-3,,0,0,0,,{\pos(230.4,259.2)}{\an7}Scratch that.
-Dialogue: 0,0:01:18.00,0:01:18.88,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}This is where the amazing stuff starts.
-Dialogue: 0,0:01:18.00,0:01:18.88,Caption-3,,0,0,0,,{\pos(230.4,547.2)}{\an7}Listen up.
-Dialogue: 0,0:01:21.88,0:01:25.88,Caption-4,,0,0,0,,{\pos(307.2,79.2)}{\an7}Whoa!
-Dialogue: 0,0:01:21.88,0:01:25.88,Caption-4,,0,0,0,,{\pos(435.2,180)}{\an7}Nice
-Dialogue: 0,0:01:21.88,0:01:25.88,Caption-4,,0,0,0,,{\pos(793.6,266.4)}{\an7}This song is great
-Dialogue: 0,0:01:21.88,0:01:25.88,Caption-4,,0,0,0,,{\pos(576,352.8)}{\an7}Gave me goosebumps
-Dialogue: 0,0:01:21.88,0:01:25.88,Caption-4,,0,0,0,,{\pos(678.4,453.6)}{\an7}You gotta reach higher
-Dialogue: 0,0:03:02.08,0:03:05.79,Caption-5,,0,0,0,,{\pos(832,504)}{\an7}Buying Swimwear
-Dialogue: 0,0:03:33.54,0:03:37.17,Caption-6,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: Mushoku means unemployed
-Dialogue: 0,0:04:49.83,0:04:51.83,Caption-7,,0,0,0,,{\pos(268.8,79.2)}{\an7}Try Your Paw at our MEOWvelous Raffle
-Dialogue: 0,0:04:49.83,0:04:51.83,Caption-8,,0,0,0,,{\pos(755.2,144)}{\an7}2nd Prize: LCD TV
-Dialogue: 0,0:04:49.83,0:04:51.83,Caption-8,,0,0,0,,{\pos(409.6,309.6)}{\an7}Trip to Gero Hot Springs
-Dialogue: 0,0:04:49.84,0:04:51.83,Caption-8,,0,0,0,,{\pos(140.8,360)}{\an7}Voucher for 3 days/2 nights (Pair)
-Dialogue: 0,0:04:49.84,0:04:51.83,Caption-8,,0,0,0,,{\pos(358.4,417.6)}{\an7}1st Prize - Electric Bike
-Dialogue: 0,0:05:06.21,0:05:08.58,Caption-7,,0,0,0,,{\pos(204.8,108)}{\an7}Try Your Paw at our MEOWvelous Raffle
-Dialogue: 0,0:05:06.21,0:05:08.58,Caption-9,,0,0,0,,{\pos(243.2,208.8)}{\an7}Free Raffle Ticket for Every 3,000-yen Purchase
-Dialogue: 0,0:05:06.21,0:05:08.58,Caption-9,,0,0,0,,{\pos(768,280.8)}{\an7}1st Prize: Electric Bike
-Dialogue: 0,0:05:06.21,0:05:08.58,Caption-9,,0,0,0,,{\pos(166.4,468)}{\an7}Special Prize: Hot Springs Trip
-Dialogue: 0,0:05:08.58,0:05:10.96,Caption-10,,0,0,0,,{\pos(345.6,338.4)}{\an7}Every 3,000-yen Purchase
-Dialogue: 0,0:06:03.50,0:06:04.75,Caption-4,,0,0,0,,{\pos(576,129.6)}{\an7}Please Enjoy the Taste of
-Dialogue: 0,0:06:03.50,0:06:04.75,Caption-4,,0,0,0,,{\pos(678.4,187.2)}{\an7}Pure, Ultra-filtered Water.
-Dialogue: 0,0:06:03.50,0:06:04.75,Caption-4,,0,0,0,,{\pos(268.8,439.2)}{\an7}Straight from the Water Treatment Plant
-Dialogue: 0,0:06:03.50,0:06:04.75,Caption-4,,0,0,0,,{\pos(307.2,496.8)}{\an7}Two-hour, All-You-Can-Drink Ticket
-Dialogue: 0,0:06:07.88,0:06:08.75,Caption-4,,0,0,0,,{\pos(576,129.6)}{\an7}Please Enjoy the Taste of
-Dialogue: 0,0:06:07.88,0:06:08.75,Caption-4,,0,0,0,,{\pos(678.4,187.2)}{\an7}Pure, Ultra-filtered Water.
-Dialogue: 0,0:06:07.88,0:06:08.75,Caption-4,,0,0,0,,{\pos(268.8,439.2)}{\an7}Straight from the Water Treatment Plant
-Dialogue: 0,0:06:07.88,0:06:08.75,Caption-4,,0,0,0,,{\pos(307.2,496.8)}{\an7}Two-hour, All-You-Can-Drink Ticket
-Dialogue: 0,0:07:33.42,0:07:35.17,Caption-11,,0,0,0,,{\pos(153.6,79.2)}{\an7}Nurtured on my Boobs
-Dialogue: 0,0:07:44.00,0:07:46.38,Caption-5,,0,0,0,,{\pos(627.2,57.6)}{\an7}Barnacle Swimwear
-Dialogue: 0,0:07:44.00,0:07:46.38,Caption-3,,0,0,0,,{\pos(192,424.8)}{\an7}I Raised These
-Dialogue: 0,0:07:44.00,0:07:46.38,Caption-3,,0,0,0,,{\pos(217.6,475.2)}{\an7}Bred Off My Own Boobs
-Dialogue: 0,0:10:18.54,0:10:19.46,Caption-12,,0,0,0,,{\pos(345.6,237.6)}{\an7}The Curse of Saijo
-Dialogue: 0,0:10:19.83,0:10:20.33,Caption-13,,0,0,0,,{\pos(230.4,180)}{\an7}The Curse of Saijo
-Dialogue: 0,0:10:19.83,0:10:20.33,Caption-14,,0,0,0,,{\pos(371.2,295.2)}{\an7}Introduction
-Dialogue: 0,0:10:51.54,0:10:54.25,Caption-15,,0,0,0,,{\pos(102.4,50.4)}{\an7}Note: Urban legend states that statues of 19th-century leader
-Dialogue: 0,0:10:51.54,0:10:54.25,Caption-15,,0,0,0,,{\pos(204.8,100.8)}{\an7}Kinjiro Ninomiya will move at night
-Dialogue: 0,0:11:23.25,0:11:24.75,Caption-15,,0,0,0,,{\pos(102.4,57.6)}{\an7}Note: Hana is "Nose" and Maru is "Round"
-Dialogue: 0,0:11:37.58,0:11:40.04,Caption-12,,0,0,0,,{\pos(844.8,597.6)}{\an7}Yasaka Station
-Dialogue: 0,0:12:05.08,0:12:07.08,Caption-16,,0,0,0,,{\pos(934.4,460.8)}{\an7}Scary men
-Dialogue: 0,0:21:12.25,0:21:15.25,Caption-3,,0,0,0,,{\pos(243.2,115.2)}{\an7}What in the world...
-Dialogue: 0,0:21:12.25,0:21:15.25,Caption-3,,0,0,0,,{\pos(243.2,316.8)}{\an7}Was that nighttime pool thing about...?
-Dialogue: 0,0:21:12.25,0:21:15.25,Caption-3,,0,0,0,,{\pos(243.2,396)}{\an7}...and that, is the amazingly scary story
-Dialogue: 0,0:21:12.25,0:21:15.25,Caption-3,,0,0,0,,{\pos(256,446.4)}{\an7}I thought up. Well?
-Dialogue: 0,0:21:15.25,0:21:21.25,Caption,,0,0,0,,{\pos(422.4,79.2)}{\an7}Amazing!
-Dialogue: 0,0:21:15.25,0:21:21.25,Caption,,0,0,0,,{\pos(832,136.8)}{\an7}Love this
-Dialogue: 0,0:21:15.25,0:21:21.25,Caption,,0,0,0,,{\pos(243.2,194.4)}{\an7}Gave me goosebumps
-Dialogue: 0,0:21:15.25,0:21:21.25,Caption,,0,0,0,,{\pos(716.8,244.8)}{\an7}A truly good song
-Dialogue: 0,0:21:15.26,0:21:21.25,Caption,,0,0,0,,{\pos(332.8,295.2)}{\an7}You're low-income?
-Dialogue: 0,0:21:15.26,0:21:21.25,Caption,,0,0,0,,{\pos(742.4,345.6)}{\an7}It sure is nice...
-Dialogue: 0,0:21:15.26,0:21:21.25,Caption-2,,0,0,0,,{\pos(102.4,396)}{\an7}Teishotoku P
-Dialogue: 0,0:21:15.26,0:21:21.25,Caption-2,,0,0,0,,{\pos(102.4,446.4)}{\an7}Shooting Star Meteeshika  -  38,000 views 
-Dialogue: 0,0:21:15.26,0:21:21.25,Caption-2,,0,0,0,,{\pos(102.4,496.8)}{\an7}This is a new work. My name and present situation are both low-income.
-Dialogue: 0,0:21:15.25,0:21:21.25,Caption-2,,0,0,0,,{\pos(102.4,547.2)}{\an7}I created everything by music programming.
-Dialogue: 0,0:21:24.25,0:21:24.75,Caption-3,,0,0,0,,{\pos(243.2,115.2)}{\an7}What in the world...
-Dialogue: 0,0:21:24.25,0:21:24.75,Caption-3,,0,0,0,,{\pos(243.2,316.8)}{\an7}Was that nighttime pool thing about...?
-Dialogue: 0,0:21:24.25,0:21:24.75,Caption-3,,0,0,0,,{\pos(243.2,396)}{\an7}...and that, is the amazingly scary story
-Dialogue: 0,0:21:24.25,0:21:24.75,Caption-3,,0,0,0,,{\pos(256,446.4)}{\an7}I thought up. Well?
-Dialogue: 0,0:21:24.75,0:21:27.00,Caption-3,,0,0,0,,{\pos(230.4,237.6)}{\an7}...and that, is the amazingly scary story
-Dialogue: 0,0:21:24.75,0:21:27.00,Caption-3,,0,0,0,,{\pos(230.4,439.2)}{\an7}I thought up. Well?
-Dialogue: 0,0:21:24.75,0:21:27.00,Caption-3,,0,0,0,,{\pos(268.8,540)}{\an7}Actually, that's a common punch line, you know.
-Dialogue: 0,0:21:27.00,0:21:29.13,Caption-3,,0,0,0,,{\pos(243.2,57.6)}{\an7}...and that, is the amazingly scary story
-Dialogue: 0,0:21:27.00,0:21:29.13,Caption-3,,0,0,0,,{\pos(230.4,259.2)}{\an7}I thought up. Well?
-Dialogue: 0,0:21:27.00,0:21:29.13,Caption-3,,0,0,0,,{\pos(281.6,453.6)}{\an7}Actually, that's a common punch line, you know.
-Dialogue: 0,0:21:27.00,0:21:29.13,Caption-3,,0,0,0,,{\pos(102.4,547.2)}{\an7}Tanaka:  Aw! Robo, what about you?
-Dialogue: 0,0:21:29.13,0:21:31.25,Caption-3,,0,0,0,,{\pos(281.6,266.4)}{\an7}Actually, that's a common punch line, you know.
-Dialogue: 0,0:21:29.13,0:21:31.25,Caption-3,,0,0,0,,{\pos(102.4,453.6)}{\an7}Tanaka:  Aw! Robo, what about you?
-Dialogue: 0,0:21:29.13,0:21:31.25,Caption-3,,0,0,0,,{\pos(230.4,547.2)}{\an7}It was amazingly scary, right?
-Dialogue: 0,0:21:31.25,0:21:33.88,Caption-3,,0,0,0,,{\pos(102.4,266.4)}{\an7}Tanaka:  Aw! Robo, what about you?
-Dialogue: 0,0:21:31.25,0:21:33.88,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}It was amazingly scary, right?
-Dialogue: 0,0:21:31.25,0:21:33.88,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}I thought it was scary.
-Dialogue: 0,0:21:33.88,0:21:35.83,Caption-3,,0,0,0,,{\pos(243.2,266.4)}{\an7}It was amazingly scary, right?
-Dialogue: 0,0:21:33.88,0:21:35.83,Caption-3,,0,0,0,,{\pos(243.2,460.8)}{\an7}I thought it was scary.
-Dialogue: 0,0:21:33.88,0:21:35.83,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}That Baka's breasts were twice as big than reality.
-Dialogue: 0,0:21:35.83,0:21:36.50,Caption-3,,0,0,0,,{\pos(243.2,259.2)}{\an7}I thought it was scary.
-Dialogue: 0,0:21:35.83,0:21:36.50,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}That Baka's breasts were twice as big than reality.
-Dialogue: 0,0:21:35.84,0:21:36.50,Caption-3,,0,0,0,,{\pos(243.2,547.2)}{\an7}That part?!
-Dialogue: 0,0:21:36.50,0:21:37.75,Caption-3,,0,0,0,,{\pos(243.2,266.4)}{\an7}That Baka's breasts were twice as big than reality.
-Dialogue: 0,0:21:36.50,0:21:37.75,Caption-3,,0,0,0,,{\pos(243.2,453.6)}{\an7}That part?!
-Dialogue: 0,0:21:36.50,0:21:37.75,Caption-3,,0,0,0,,{\pos(243.2,540)}{\an7}Also, the barnacles.
+Dialogue: 0,0:00:06.29,0:00:08.79,Default,,0,0,0,,{\an8}I like it
+Dialogue: 0,0:00:06.30,0:00:08.79,Default,,0,0,0,,{\an7}It's a really great song
+Dialogue: 0,0:00:06.31,0:00:08.79,Default,,0,0,0,,{\an8}Sure is nice...\N{\an8}You're low-income?
+Dialogue: 0,0:00:06.32,0:00:08.79,Default,,0,0,0,,{\an7}Teishotoku P\N{\an7}Ryusei Meteeshika  -  38,000 views\N{\an7}This is my first upload. Both my name and my present situation are "Low Income."
+Dialogue: 0,0:00:06.29,0:00:11.29,Default,,0,0,0,,No matter how many decades I may live...
+Dialogue: 0,0:00:08.79,0:00:11.29,Default,,0,0,0,,{\an7}Nice...
+Dialogue: 0,0:00:08.80,0:00:11.29,Default,,0,0,0,,{\an8}Awesome\N{\an8}Love it
+Dialogue: 0,0:00:08.81,0:00:11.29,Default,,0,0,0,,{\an7}Teishotoku P\N{\an7}Ryusei Meteeshika  -  38,000 views\N{\an7}This is my first upload. Both my name and my present situation are "Low Income."
+Dialogue: 0,0:00:13.33,0:00:16.79,Default,,0,0,0,,{\an7}I wanna go to a paradise of good-looking guys too!!!\N{\an7}Stop having weird fantasies and just go to bed.\N{\an7}I'm going to sleep. Good night.\N{\an7}Tanaka:  Hey, can I say something amazing?
+Dialogue: 0,0:00:21.83,0:00:24.33,Default,,0,0,0,,{\an7}Stop having weird fantasies and just go to bed.\N{\an7}I'm going to sleep. Good night.\N{\an7}Tanaka:  Hey, can I say something amazing?\N{\an7}When you mention summer
+Dialogue: 0,0:00:24.33,0:00:26.83,Default,,0,0,0,,{\an7}I'm going to sleep. Good night.\N{\an7}Tanaka:  Hey, can I say something amazing?\N{\an7}When you mention summer\N{\an7}That means scary stories, right?
+Dialogue: 0,0:00:31.33,0:00:33.62,Default,,0,0,0,,My true feelings...
+Dialogue: 0,0:00:33.62,0:00:37.33,Default,,0,0,0,,I've sealed them up and put them to sleep
+Dialogue: 0,0:00:37.33,0:00:40.33,Default,,0,0,0,,{\an7}Tanaka:  Hey, can I say something amazing?\N{\an7}When you mention summer\N{\an7}That means scary stories, right?\N{\an7}This one is super scary, though.
+Dialogue: 0,0:00:43.83,0:00:46.83,Default,,0,0,0,,I don't want to let anyone touch my passion, so...
+Dialogue: 0,0:00:46.83,0:00:49.25,Default,,0,0,0,,{\an7}That means scary stories, right?\N{\an7}This one is super scary, though.\N{\an7}In the park behind my house, there's this one cat
+Dialogue: 0,0:00:49.25,0:00:51.58,Default,,0,0,0,,{\an7}This one is super scary, though.\N{\an7}In the park behind my house, there's this one cat\N{\an7}straight outta
+Dialogue: 0,0:00:51.58,0:00:52.83,Default,,0,0,0,,{\an7}In the park behind my house, there's this one cat\N{\an7}straight outta\N{\an8}You better not say "PURRgatory"
+Dialogue: 0,0:00:55.33,0:00:55.83,Default,,0,0,0,,{\an7}In the park behind my house, there's this one cat\N{\an7}straight outta\N{\an8}You better not say "PURRgatory"
+Dialogue: 0,0:00:55.83,0:00:57.75,Default,,0,0,0,,{\an7}straight outta\N{\an8}You better not say "PURRgatory"\N{\an7}PURRgatory
+Dialogue: 0,0:00:57.75,0:00:59.33,Default,,0,0,0,,{\an8}You better not say "PURRgatory"\N{\an7}PURRgatory\N{\an7}Hey, don't beat me to the punchline.
+Dialogue: 0,0:00:59.33,0:01:01.29,Default,,0,0,0,,{\an7}PURRgatory\N{\an7}Hey, don't beat me to the punchline.\N{\an7}What's scary is Baka's brain,\N{\an7}for having thought that was funny.
+Dialogue: 0,0:01:01.29,0:01:03.62,Default,,0,0,0,,{\an7}Hey, don't beat me to the punchline.\N{\an7}What's scary is Baka's brain,\N{\an7}for having thought that was funny.\N{\an7}Wait, no.
+Dialogue: 0,0:01:03.62,0:01:05.87,Default,,0,0,0,,{\an7}for having thought that was funny.\N{\an7}Wait, no.\N{\an7}This is where it really gets scary.
+Dialogue: 0,0:01:05.87,0:01:07.37,Default,,0,0,0,,{\an7}Wait, no.\N{\an7}This is where it really gets scary.\N{\an7}I used to have a pet turtle
+Dialogue: 0,0:01:07.37,0:01:08.54,Default,,0,0,0,,{\an7}This is where it really gets scary.\N{\an7}I used to have a pet turtle\N{\an7}and it was so
+Dialogue: 0,0:01:08.54,0:01:10.37,Default,,0,0,0,,{\an7}I used to have a pet turtle\N{\an7}and it was so\N{\an7}You better not say it walked ac-CURSE-dly slow.
+Dialogue: 0,0:01:12.37,0:01:12.87,Default,,0,0,0,,{\an7}I used to have a pet turtle\N{\an7}and it was so\N{\an7}You better not say it walked ac-CURSE-dly slow.
+Dialogue: 0,0:01:12.87,0:01:14.04,Default,,0,0,0,,{\an7}I used to have a pet turtle\N{\an7}and it was so\N{\an7}You better not say it walked ac-CURSE-dly slow.\N{\an7}ac-CURSE-dly slow.
+Dialogue: 0,0:01:14.04,0:01:15.91,Default,,0,0,0,,{\an7}You better not say it walked ac-CURSE-dly slow.\N{\an7}ac-CURSE-dly slow.\N{\an7}Scratch that.
+Dialogue: 0,0:01:15.91,0:01:18.00,Default,,0,0,0,,{\an7}ac-CURSE-dly slow.\N{\an7}Scratch that.\N{\an7}This is where the amazing stuff starts.
+Dialogue: 0,0:01:18.00,0:01:18.87,Default,,0,0,0,,{\an7}Scratch that.\N{\an7}This is where the amazing stuff starts.\N{\an7}Listen up.
+Dialogue: 0,0:01:21.87,0:01:25.87,Default,,0,0,0,,{\an7}Whoa!
+Dialogue: 0,0:01:21.88,0:01:25.87,Default,,0,0,0,,{\an8}Nice\N{\an8}This song is great\N{\an8}Gave me goosebumps\N{\an8}You gotta reach higher\NA hazy room, illuminated by moonlight
+Dialogue: 0,0:01:32.62,0:01:33.50,Default,,0,0,0,,Yo
+Dialogue: 0,0:01:34.62,0:01:35.50,Default,,0,0,0,,Mic check
+Dialogue: 0,0:01:36.45,0:01:37.37,Default,,0,0,0,,JK
+Dialogue: 0,0:01:38.25,0:01:38.75,Default,,0,0,0,,Eh?
+Dialogue: 0,0:01:38.75,0:01:39.25,Default,,0,0,0,,Hai!
+Dialogue: 0,0:01:39.25,0:01:41.16,Default,,0,0,0,,Soko wa futsuu one-two ga best?
+Dialogue: 0,0:01:41.16,0:01:42.95,Default,,0,0,0,,Tsuki tte hiruma wa shizuka na beast
+Dialogue: 0,0:01:42.95,0:01:44.87,Default,,0,0,0,,Tsuki ga nan datte? Ikinari toutotsu
+Dialogue: 0,0:01:44.87,0:01:46.75,Default,,0,0,0,,Yoru ni natte kara kurayami magirete
+Dialogue: 0,0:01:46.75,0:01:48.37,Default,,0,0,0,,Kirakira shichatte tereyasan
+Dialogue: 0,0:01:48.37,0:01:50.25,Default,,0,0,0,,Ayakaritai lunatic girls
+Dialogue: 0,0:01:50.25,0:01:52.33,Default,,0,0,0,,Sore binjou shitai no, kirakira JK
+Dialogue: 0,0:01:52.33,0:01:53.33,Default,,0,0,0,,Genjyou shotchuu
+Dialogue: 0,0:01:53.33,0:01:54.41,Default,,0,0,0,,Daradara OK~!
+Dialogue: 0,0:01:54.54,0:01:57.83,Default,,0,0,0,,Atamannaka zenbu
+Dialogue: 0,0:01:57.83,0:01:59.50,Default,,0,0,0,,Karappo ni dekita nara yuunou
+Dialogue: 0,0:01:59.50,0:02:00.62,Default,,0,0,0,,Sou na no? You know?
+Dialogue: 0,0:02:00.62,0:02:01.91,Default,,0,0,0,,Yasei no honnou (Nya~)
+Dialogue: 0,0:02:02.04,0:02:06.29,Default,,0,0,0,,Seken ni hitokoto otome no otakebi
+Dialogue: 0,0:02:06.29,0:02:07.12,Default,,0,0,0,,Wawawawawa~!
+Dialogue: 0,0:02:07.12,0:02:08.16,Default,,0,0,0,,Zanshin shout
+Dialogue: 0,0:02:08.16,0:02:09.62,Default,,0,0,0,,Wawawawawawawa~!
+Dialogue: 0,0:02:09.62,0:02:13.41,Default,,0,0,0,,Tsuki tte usagi inai ndane
+Dialogue: 0,0:02:13.41,0:02:17.04,Default,,0,0,0,,Dassu tte doitsugo nan dane
+Dialogue: 0,0:02:17.04,0:02:20.58,Default,,0,0,0,,Karakute nakinagara curry ga tabetakunaru BGM!
+Dialogue: 0,0:02:21.87,0:02:23.41,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:23.41,0:02:24.25,Default,,0,0,0,,Wa ni natte
+Dialogue: 0,0:02:24.25,0:02:25.37,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:25.37,0:02:27.70,Default,,0,0,0,,Mic check JK one-two JK one-two
+Dialogue: 0,0:02:27.70,0:02:29.79,Default,,0,0,0,,Nan datte OK everyday
+Dialogue: 0,0:02:29.79,0:02:30.95,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:30.95,0:02:31.79,Default,,0,0,0,,Iki sutte
+Dialogue: 0,0:02:31.79,0:02:32.91,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:32.91,0:02:35.25,Default,,0,0,0,,Shiisuu ramen gyudon tonkatsu kishimen
+Dialogue: 0,0:02:35.25,0:02:37.29,Default,,0,0,0,,Nandemo tabetakunaru BGM
+Dialogue: 0,0:02:37.29,0:02:39.12,Default,,0,0,0,,Kosei wa zettai dashioshimi shinai
+Dialogue: 0,0:02:39.12,0:02:41.08,Default,,0,0,0,,Kusuburu honnou minna de wa! tto
+Dialogue: 0,0:02:41.08,0:02:42.83,Default,,0,0,0,,Odorokashite sa, mada minu hou e
+Dialogue: 0,0:02:42.83,0:02:44.87,Default,,0,0,0,,Muda demo let's go, itsushika treasure
+Dialogue: 0,0:02:44.87,0:02:46.00,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:46.00,0:02:46.87,Default,,0,0,0,,Nakitai toki wa
+Dialogue: 0,0:02:46.87,0:02:47.91,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:47.91,0:02:50.29,Default,,0,0,0,,Omoikitte naite naite tsuukai
+Dialogue: 0,0:02:50.29,0:02:52.25,Default,,0,0,0,,Soukai na kibun sa every day
+Dialogue: 0,0:02:52.25,0:02:53.45,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:53.45,0:02:54.29,Default,,0,0,0,,Hora sono ato wa
+Dialogue: 0,0:02:54.29,0:02:55.41,Default,,0,0,0,,U~wa! Moon! Dass! Cry!
+Dialogue: 0,0:02:55.41,0:02:57.79,Default,,0,0,0,,Iya demo kitto harete sou egao ni narusa
+Dialogue: 0,0:02:57.79,0:03:00.12,Default,,0,0,0,,Wa! Moon! Dass! Cry! Every day
+Dialogue: 0,0:03:02.08,0:03:05.79,Default,,0,0,0,,{\an8}Buying Swimwear
+Dialogue: 0,0:03:18.75,0:03:22.62,Default,,0,0,0,,Hey, so... We're like, really indulging\Nright now, don't you think?
+Dialogue: 0,0:03:22.62,0:03:25.08,Default,,0,0,0,,Free soda refills at a casual restaurant is indulging?
+Dialogue: 0,0:03:25.08,0:03:29.95,Default,,0,0,0,,Well, I mean, we'll only get one\Nsummer vacation as 16-year-olds, right?
+Dialogue: 0,0:03:29.95,0:03:33.54,Default,,0,0,0,,But we're wasting it by doing stuff\Nlike blowing liquid onto straw wrappers,
+Dialogue: 0,0:03:33.54,0:03:37.16,Default,,0,0,0,,{\an7}Note: Mushoku means unemployed
+Dialogue: 0,0:03:33.54,0:03:37.16,Default,,0,0,0,,reading reference books on barnacles,\Nand listening to Mushoku Pu songs!
+Dialogue: 0,0:03:37.16,0:03:39.41,Default,,0,0,0,,You mean "Teishotoku P," and it's not a waste of time.
+Dialogue: 0,0:03:39.41,0:03:42.29,Default,,0,0,0,,Reference books on barnacles\Nare also not a waste of one's life.
+Dialogue: 0,0:03:42.29,0:03:45.91,Default,,0,0,0,,I mean, still! Summer makes you want to\Ngo to the beach or something, right?
+Dialogue: 0,0:03:45.91,0:03:48.66,Default,,0,0,0,,Also, doesn't it make you want to\Nget into a red-hot summer fling?
+Dialogue: 0,0:03:48.66,0:03:51.66,Default,,0,0,0,,I'd say that, out of all the high school girls in Japan,
+Dialogue: 0,0:03:51.66,0:03:54.62,Default,,0,0,0,,you have the least business\Ntalking about a "red-hot summer fling."
+Dialogue: 0,0:03:54.62,0:03:55.95,Default,,0,0,0,,But I would like to go to the beach.
+Dialogue: 0,0:03:55.95,0:03:57.33,Default,,0,0,0,,I know, right, Robo?!
+Dialogue: 0,0:03:57.33,0:03:58.45,Default,,0,0,0,,There would be barnacles there.
+Dialogue: 0,0:03:58.45,0:03:59.29,Default,,0,0,0,,That's your...?
+Dialogue: 0,0:03:59.29,0:04:01.33,Default,,0,0,0,,What other reason would there be?
+Dialogue: 0,0:04:01.33,0:04:04.75,Default,,0,0,0,,Regardless of our "upper-lower" ranking, we're\N16-year-old high school girls, and we're at our peak!
+Dialogue: 0,0:04:04.75,0:04:08.16,Default,,0,0,0,,Armed with the right swimwear,\Nwe'd be unstoppable, right?!
+Dialogue: 0,0:04:09.50,0:04:11.58,Default,,0,0,0,,Higashi-Murayama does not have an ocean.
+Dialogue: 0,0:04:11.58,0:04:15.62,Default,,0,0,0,,Still, it's just a short train ride to\NEnoshima or Kujukuri Beach.
+Dialogue: 0,0:04:15.62,0:04:17.25,Default,,0,0,0,,Heck, maybe we could go overseas!
+Dialogue: 0,0:04:17.25,0:04:18.95,Default,,0,0,0,,Overseas? That's a bit of a stretch.
+Dialogue: 0,0:04:18.95,0:04:23.54,Default,,0,0,0,,I mean, well, I've heard Japanese girls\Nget a lot of attention when they go overseas.
+Dialogue: 0,0:04:23.54,0:04:25.95,Default,,0,0,0,,We should go to Hawaii, or maybe Dubai!
+Dialogue: 0,0:04:25.95,0:04:27.58,Default,,0,0,0,,And how will this be paid for?
+Dialogue: 0,0:04:27.58,0:04:32.12,Default,,0,0,0,,Don't we have some rich girl in our class\Nwho owns a guest house or something?
+Dialogue: 0,0:04:32.12,0:04:35.25,Default,,0,0,0,,That sort of thing only happens\Nin anime or manga! Not in real life!
+Dialogue: 0,0:04:35.25,0:04:37.75,Default,,0,0,0,,And if there were someone like that,\Nthey wouldn't be at Saijo!
+Dialogue: 0,0:04:38.37,0:04:39.50,Default,,0,0,0,,Ah! I've got it!
+Dialogue: 0,0:04:40.79,0:04:43.95,Default,,0,0,0,,We could do a raffle! Like the kind they\Nalways have in anime and manga!
+Dialogue: 0,0:04:43.95,0:04:47.33,Default,,0,0,0,,You know, where someone plays and\Nthey luck out and grab the special prize!
+Dialogue: 0,0:04:49.83,0:04:51.83,Default,,0,0,0,,{\an7}Try Your Paw at our MEOWvelous Raffle
+Dialogue: 0,0:04:49.84,0:04:51.83,Default,,0,0,0,,{\an8}2nd Prize: LCD TV\N{\an8}Trip to Gero Hot Springs
+Dialogue: 0,0:04:49.85,0:04:51.83,Default,,0,0,0,,{\an7}Voucher for 3 days/2 nights (Pair)
+Dialogue: 0,0:04:49.86,0:04:51.83,Default,,0,0,0,,{\an8}1st Prize - Electric Bike
+Dialogue: 0,0:04:50.54,0:04:53.62,Default,,0,0,0,,Who'd want to go to a hot spring\Nwhen it's already this hot outside?!
+Dialogue: 0,0:04:53.62,0:04:56.79,Default,,0,0,0,,But if you won, you could\Nsell it for a profit on Mericar.
+Dialogue: 0,0:04:57.33,0:05:00.75,Default,,0,0,0,,Even if the special prize doesn't pan out,\Nthe first-prize electric bike
+Dialogue: 0,0:05:00.75,0:05:04.41,Default,,0,0,0,,or even the second-prize LCD TV\Ncould be sold for money.
+Dialogue: 0,0:05:04.41,0:05:06.20,Default,,0,0,0,,Robo, you're a genius!
+Dialogue: 0,0:05:06.20,0:05:08.58,Default,,0,0,0,,{\an7}Try Your Paw at our MEOWvelous Raffle\N{\an7}Free Raffle Ticket for Every 3,000-yen Purchase\N{\an8}1st Prize: Electric Bike\N{\an7}Special Prize: Hot Springs Trip
+Dialogue: 0,0:05:06.20,0:05:08.58,Default,,0,0,0,,But how do we get a ticket?
+Dialogue: 0,0:05:08.58,0:05:10.95,Default,,0,0,0,,{\an8}Every 3,000-yen Purchase
+Dialogue: 0,0:05:09.00,0:05:10.95,Default,,0,0,0,,I say we just buy something!
+Dialogue: 0,0:05:11.50,0:05:14.79,Default,,0,0,0,,If we're gonna go to the beach,\Nwe should get some new swimwear, right?
+Dialogue: 0,0:05:14.79,0:05:16.00,Default,,0,0,0,,The timing is perfect!
+Dialogue: 0,0:05:16.00,0:05:18.08,Default,,0,0,0,,Wota, Robo, you buy something too.
+Dialogue: 0,0:05:18.08,0:05:20.54,Default,,0,0,0,,Well... I don't know about buying something,
+Dialogue: 0,0:05:20.54,0:05:22.87,Default,,0,0,0,,but while we're here, we should at least\Ntry something on, right?
+Dialogue: 0,0:05:25.79,0:05:26.87,Default,,0,0,0,,Well? What do you think?
+Dialogue: 0,0:05:27.37,0:05:30.37,Default,,0,0,0,,Average, I guess. But you know, Wota...
+Dialogue: 0,0:05:30.37,0:05:33.12,Default,,0,0,0,,You've got a pretty rockin' bod for an otaku.
+Dialogue: 0,0:05:33.12,0:05:35.12,Default,,0,0,0,,D-don't say stuff like "rockin' bod"!
+Dialogue: 0,0:05:38.04,0:05:39.12,Default,,0,0,0,,Your verdict?
+Dialogue: 0,0:05:45.54,0:05:48.45,Default,,0,0,0,,Where did you find that?\NAnd who the hell is the target audience?!
+Dialogue: 0,0:05:48.45,0:05:50.12,Default,,0,0,0,,Sure enough, I'm goin' with this one!
+Dialogue: 0,0:05:50.12,0:05:52.45,Default,,0,0,0,,Don't do it, Baka! It's too dangerous!
+Dialogue: 0,0:05:52.45,0:05:56.20,Default,,0,0,0,,{\an8}If you put that on, it will crush\Nthe psyche of anyone who sees it!
+Dialogue: 0,0:05:52.45,0:05:56.20,Default,,0,0,0,,What the hell?! Let go! I could try it on at least once!
+Dialogue: 0,0:05:56.70,0:05:59.75,Default,,0,0,0,,Okay, let's do this! We all get one try - and I'm first!
+Dialogue: 0,0:06:03.50,0:06:04.75,Default,,0,0,0,,{\an8}Please Enjoy the Taste of\N{\an8}Pure, Ultra-filtered Water.\N{\an7}Straight from the Water Treatment Plant\N{\an7}Two-hour, All-You-Can-Drink Ticket
+Dialogue: 0,0:06:07.87,0:06:08.75,Default,,0,0,0,,{\an8}Please Enjoy the Taste of\N{\an8}Pure, Ultra-filtered Water.\N{\an7}Straight from the Water Treatment Plant\N{\an7}Two-hour, All-You-Can-Drink Ticket
+Dialogue: 0,0:06:13.12,0:06:17.12,Default,,0,0,0,,Are they screwing with us?\NThe piggy bank?! We want the goods!
+Dialogue: 0,0:06:20.12,0:06:22.54,Default,,0,0,0,,I was able to sell it on Mericar for 30 yen.
+Dialogue: 0,0:06:23.87,0:06:26.54,Default,,0,0,0,,Considering the train fare to JUSCO\Nand what we spent on our bikinis,
+Dialogue: 0,0:06:26.54,0:06:29.37,Default,,0,0,0,,couldn't we have just gone to the pool\Nat Hokuhoku-Seibuen Amusement Park?
+Dialogue: 0,0:06:29.37,0:06:30.25,Default,,0,0,0,,Don't start.
+Dialogue: 0,0:06:30.54,0:06:33.62,Default,,0,0,0,,As we have already purchased said swimwear,\Nrather than going overseas,
+Dialogue: 0,0:06:33.62,0:06:36.08,Default,,0,0,0,,why don't we simply go to the beach?
+Dialogue: 0,0:06:36.08,0:06:37.87,Default,,0,0,0,,There will be barnacles there.
+Dialogue: 0,0:06:37.87,0:06:41.66,Default,,0,0,0,,Robo, what's with this recent fetish\Nyou've had for barnacles?
+Dialogue: 0,0:06:41.87,0:06:45.75,Default,,0,0,0,,I occurred to me I would like to confirm\Nthe urban legend regarding barnacles.
+Dialogue: 0,0:06:45.75,0:06:47.33,Default,,0,0,0,,"Urban legend"?
+Dialogue: 0,0:06:47.95,0:06:49.95,Default,,0,0,0,,Wait, d-do you mean...?!
+Dialogue: 0,0:06:49.95,0:06:50.79,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:50.79,0:06:54.04,Default,,0,0,0,,A girl tripped in a rocky area\Nand landed on her breasts.
+Dialogue: 0,0:06:54.50,0:06:55.87,Default,,0,0,0,,At the time, there was nothing out of the ordinary...
+Dialogue: 0,0:06:55.87,0:06:57.00,Default,,0,0,0,,Ow!\NAt the time, there was nothing out of the ordinary...
+Dialogue: 0,0:06:57.33,0:06:59.50,Default,,0,0,0,,But the next time she changed into her swimwear...
+Dialogue: 0,0:06:59.50,0:07:02.20,Default,,0,0,0,,a crunching sound emanated from her chest area.
+Dialogue: 0,0:07:03.37,0:07:06.45,Default,,0,0,0,,Th-this is the one where she's got barnacles\Nall up on her boobs, right?
+Dialogue: 0,0:07:06.45,0:07:09.79,Default,,0,0,0,,No. And barnacles are not parasitic toward humans.
+Dialogue: 0,0:07:10.66,0:07:14.41,Default,,0,0,0,,Instead, the barnacles had infested\Nthe breast pads of her bikini.
+Dialogue: 0,0:07:14.41,0:07:15.95,Default,,0,0,0,,Either way, that's scary as hell!
+Dialogue: 0,0:07:15.95,0:07:18.04,Default,,0,0,0,,This urban legend is not "scary."
+Dialogue: 0,0:07:18.04,0:07:20.54,Default,,0,0,0,,Barnacles are a highly regarded food item.
+Dialogue: 0,0:07:20.54,0:07:22.58,Default,,0,0,0,,The young girl took the hint,
+Dialogue: 0,0:07:22.58,0:07:26.58,Default,,0,0,0,,and was able to take those\Nbreast-pad barnacles and cultivate them.
+Dialogue: 0,0:07:26.58,0:07:28.41,Default,,0,0,0,,As urban legends go, it is a success story.
+Dialogue: 0,0:07:28.41,0:07:30.00,Default,,0,0,0,,"Success"?
+Dialogue: 0,0:07:32.66,0:07:33.83,Default,,0,0,0,,Sell me those!
+Dialogue: 0,0:07:33.41,0:07:35.16,Default,,0,0,0,,{\an7}Nurtured on my Boobs
+Dialogue: 0,0:07:33.83,0:07:35.16,Default,,0,0,0,,I'll take 100 of them!
+Dialogue: 0,0:07:35.37,0:07:36.62,Default,,0,0,0,,You're a genius!
+Dialogue: 0,0:07:37.08,0:07:41.08,Default,,0,0,0,,We can raise our own boob-pad barnacles\Nand rake in the profits!
+Dialogue: 0,0:07:44.00,0:07:46.37,Default,,0,0,0,,{\an8}Barnacle Swimwear
+Dialogue: 0,0:07:44.00,0:07:46.37,Default,,0,0,0,,{\an7}I Raised These\N{\an7}Bred Off My Own Boobs
+Dialogue: 0,0:07:44.79,0:07:46.37,Default,,0,0,0,,You really did it...
+Dialogue: 0,0:07:46.37,0:07:48.41,Default,,0,0,0,,Well, Robo helped out.
+Dialogue: 0,0:07:49.12,0:07:51.50,Default,,0,0,0,,This will make me a high school entrepreneur!
+Dialogue: 0,0:07:51.50,0:07:53.75,Default,,0,0,0,,And my company name will be "The Barnacles, Inc."
+Dialogue: 0,0:07:53.75,0:07:54.83,Default,,0,0,0,,That's not very inventive.
+Dialogue: 0,0:07:57.00,0:07:58.08,Default,,0,0,0,,Is something wrong?
+Dialogue: 0,0:07:58.08,0:08:01.58,Default,,0,0,0,,I barely put it up three minutes ago,\Nbut it got reported and deleted. But, why?!
+Dialogue: 0,0:08:01.58,0:08:04.91,Default,,0,0,0,,What's wrong with barnacles?\NIs it because they're alive?!
+Dialogue: 0,0:08:05.12,0:08:06.62,Default,,0,0,0,,It must be the "bikini" angle.
+Dialogue: 0,0:08:06.62,0:08:08.58,Default,,0,0,0,,The whole thing reeks of something suspicious.
+Dialogue: 0,0:08:08.58,0:08:10.37,Default,,0,0,0,,Well, they're barnacles\Nso of course they'll smell "fishy,"
+Dialogue: 0,0:08:10.37,0:08:12.16,Default,,0,0,0,,but they shouldn't come across\Nas suspicious, right?!
+Dialogue: 0,0:08:12.41,0:08:15.37,Default,,0,0,0,,I was just thinking I hadn't seen you at school recently,
+Dialogue: 0,0:08:15.37,0:08:17.50,Default,,0,0,0,,but sure enough, you're just as moronic as ever.
+Dialogue: 0,0:08:17.50,0:08:19.16,Default,,0,0,0,,Lily! Perfect timing.
+Dialogue: 0,0:08:19.16,0:08:21.20,Default,,0,0,0,,Do you happen to have a guest house in Dubai?
+Dialogue: 0,0:08:21.20,0:08:22.91,Default,,0,0,0,,I own no such thing.
+Dialogue: 0,0:08:22.91,0:08:24.16,Default,,0,0,0,,And why Dubai?
+Dialogue: 0,0:08:24.16,0:08:28.04,Default,,0,0,0,,I'm striking out with guys here in Japan, but I think\NI'd be hot stuff at some luxury resort in Dubai.
+Dialogue: 0,0:08:28.04,0:08:31.79,Default,,0,0,0,,If you're unpopular in Japan, I can guarantee\Nyou'd be equally unpopular in Dubai.
+Dialogue: 0,0:08:31.79,0:08:34.16,Default,,0,0,0,,Fine, then tell me how to get the guys!
+Dialogue: 0,0:08:34.16,0:08:36.50,Default,,0,0,0,,Whether it's at some beach in Japan,\Nthe pool at Hokuhoku-Seibuen Park,
+Dialogue: 0,0:08:36.50,0:08:38.91,Default,,0,0,0,,or even the banks of the Karabori River!
+Dialogue: 0,0:08:38.91,0:08:41.12,Default,,0,0,0,,There are several techniques for attracting men, but...
+Dialogue: 0,0:08:41.12,0:08:45.08,Default,,0,0,0,,Well, I think even you, Tanaka-san,\Ncan employ the basic of basics.
+Dialogue: 0,0:08:45.08,0:08:46.54,Default,,0,0,0,,By which I mean, THAT.
+Dialogue: 0,0:08:46.54,0:08:47.62,Default,,0,0,0,,Which "that" is that?!
+Dialogue: 0,0:08:47.62,0:08:51.25,Default,,0,0,0,,You know, the "Five-S" strategy of any popular girl.
+Dialogue: 0,0:08:51.25,0:08:52.87,Default,,0,0,0,,"Five-S"?
+Dialogue: 0,0:08:52.87,0:08:55.12,Default,,0,0,0,,Ah, I've heard of that.
+Dialogue: 0,0:08:55.41,0:08:59.20,Default,,0,0,0,,It's the order that popular girls\Nseason food when they're cooking, right?
+Dialogue: 0,0:08:59.20,0:09:02.41,Default,,0,0,0,,Sugar, salt, sushi vinegar, soy sauce, and miSo.
+Dialogue: 0,0:09:02.41,0:09:04.62,Default,,0,0,0,,No, the other Five-S approach.
+Dialogue: 0,0:09:04.62,0:09:06.58,Default,,0,0,0,,You mean, what you say\Nat singles' parties to get the guys?
+Dialogue: 0,0:09:06.58,0:09:09.83,Default,,0,0,0,,Oh, I know that one! It was on TV the other day.
+Dialogue: 0,0:09:10.00,0:09:11.62,Default,,0,0,0,,Go on and say them then.
+Dialogue: 0,0:09:11.62,0:09:12.83,Default,,0,0,0,,"Sashimi for dinner?"
+Dialogue: 0,0:09:12.83,0:09:14.08,Default,,0,0,0,,"Shika rice crackers for a snack?"
+Dialogue: 0,0:09:14.08,0:09:15.08,Default,,0,0,0,,"Sushi rice sound good?"
+Dialogue: 0,0:09:15.08,0:09:16.37,Default,,0,0,0,,"Spot me 1,000 yen, will you?"
+Dialogue: 0,0:09:16.37,0:09:17.75,Default,,0,0,0,,Yup, that's it!
+Dialogue: 0,0:09:17.91,0:09:19.75,Default,,0,0,0,,No way could there be a Five-S approach like that.
+Dialogue: 0,0:09:19.75,0:09:22.66,Default,,0,0,0,,Why not?! They all start with "S," right?!
+Dialogue: 0,0:09:24.50,0:09:28.20,Default,,0,0,0,,You could never combat the Dark Soul\Nwith that sort of S!
+Dialogue: 0,0:09:28.54,0:09:30.45,Default,,0,0,0,,Uh, this has nothing to do with Dark Soul.
+Dialogue: 0,0:09:30.45,0:09:33.45,Default,,0,0,0,,We're talking about the Five-S method\Nof being popular with guys at singles' mixers.
+Dialogue: 0,0:09:33.45,0:09:34.95,Default,,0,0,0,,"Mixers," you say?
+Dialogue: 0,0:09:34.95,0:09:40.79,Default,,0,0,0,,I have no interest in such wicked gatherings,\Nbut I know of the Fivefold S:
+Dialogue: 0,0:09:41.08,0:09:43.45,Default,,0,0,0,,The Salamander, defeated at my hands!
+Dialogue: 0,0:09:43.45,0:09:45.50,Default,,0,0,0,,The Signatures of the dead I count as allies!
+Dialogue: 0,0:09:45.50,0:09:47.41,Default,,0,0,0,,The Stigma I must bear!
+Dialogue: 0,0:09:47.41,0:09:49.87,Default,,0,0,0,,The Sounds of a world as it falls to ruin.
+Dialogue: 0,0:09:49.87,0:09:51.50,Default,,0,0,0,,And... Stuff!
+Dialogue: 0,0:09:51.50,0:09:54.08,Default,,0,0,0,,The last one was just "Stuff"? Really?
+Dialogue: 0,0:09:54.25,0:09:58.08,Default,,0,0,0,,If the setting is a girl who is popular at a research\Nlaboratory, I also know a Five-S approach.
+Dialogue: 0,0:09:58.08,0:09:59.00,Default,,0,0,0,,Enough already!
+Dialogue: 0,0:09:59.00,0:10:01.41,Default,,0,0,0,,Wait! I really want to hear this one!
+Dialogue: 0,0:10:01.41,0:10:03.50,Default,,0,0,0,,Fine, go ahead. What's the first S?
+Dialogue: 0,0:10:03.75,0:10:05.33,Default,,0,0,0,,"So, want to culture some bacteria?"
+Dialogue: 0,0:10:05.33,0:10:06.62,Default,,0,0,0,,Okay, got it. That's enough.
+Dialogue: 0,0:10:06.62,0:10:08.08,Default,,0,0,0,,No, I need to hear this to the end!
+Dialogue: 0,0:10:08.37,0:10:09.70,Default,,0,0,0,,Y'know, it just hit me...
+Dialogue: 0,0:10:09.70,0:10:13.16,Default,,0,0,0,,Our school has a pool up on the roof, right?
+Dialogue: 0,0:10:15.04,0:10:17.45,Default,,0,0,0,,Why don't we ever use it for class?
+Dialogue: 0,0:10:17.45,0:10:18.45,Default,,0,0,0,,It's cursed.
+Dialogue: 0,0:10:18.54,0:10:19.45,Default,,0,0,0,,{\an8}The Curse of Saijo
+Dialogue: 0,0:10:19.83,0:10:20.33,Default,,0,0,0,,{\an7}The Curse of Saijo
+Dialogue: 0,0:10:19.83,0:10:20.33,Default,,0,0,0,,{\an8}Introduction
+Dialogue: 0,0:10:20.87,0:10:25.45,Default,,0,0,0,,Many years ago, a member of the Ping-Pong Club\Ndied an ignominious death just before a swim meet.
+Dialogue: 0,0:10:25.45,0:10:31.00,Default,,0,0,0,,After that, pool-related accidents regularly occurred,\Nuntil Saijo finally closed it down altogether.
+Dialogue: 0,0:10:31.00,0:10:32.83,Default,,0,0,0,,Wait, why a member of the Ping-Pong Club?!
+Dialogue: 0,0:10:32.83,0:10:34.95,Default,,0,0,0,,I'd understand if it was a Swim Club member, but this...
+Dialogue: 0,0:10:34.95,0:10:38.45,Default,,0,0,0,,That is the most frightening and\Nmystery-laden part of this story.
+Dialogue: 0,0:10:38.66,0:10:43.79,Default,,0,0,0,,Come to think of it, Saijo has had those stories\Nabout Seven Spooky Things for a while, huh?
+Dialogue: 0,0:10:44.08,0:10:47.58,Default,,0,0,0,,Like, the Anatomical Model in the Science Room,\Nor the Bach of the Music Room.
+Dialogue: 0,0:10:47.58,0:10:49.87,Default,,0,0,0,,Oh, and The Running Nino-esque Guys, right?
+Dialogue: 0,0:10:49.87,0:10:50.91,Default,,0,0,0,,Who the heck is "Nino"?
+Dialogue: 0,0:10:50.91,0:10:51.54,Default,,0,0,0,,Kinjiro.
+Dialogue: 0,0:10:51.54,0:10:54.25,Default,,0,0,0,,{\an7}Note: Urban legend states that statues of 19th-century leader\N{\an7}Kinjiro Ninomiya will move at night
+Dialogue: 0,0:10:51.54,0:10:54.25,Default,,0,0,0,,But you'll only find Kinjiro up through\Nelementary school, right?
+Dialogue: 0,0:10:54.25,0:10:56.37,Default,,0,0,0,,You're not likely to see a Kinjiro at high school.
+Dialogue: 0,0:10:56.37,0:11:01.79,Default,,0,0,0,,That's what makes it scary - a Nino shows up\Nwhen he's not even supposed to be there!
+Dialogue: 0,0:11:01.79,0:11:03.37,Default,,0,0,0,,And they travel in packs!
+Dialogue: 0,0:11:06.58,0:11:09.70,Default,,0,0,0,,Also, there's Hanamaru-san of the Toilet, right?
+Dialogue: 0,0:11:09.70,0:11:10.58,Default,,0,0,0,,There is?
+Dialogue: 0,0:11:10.58,0:11:13.50,Default,,0,0,0,,If you go to the girls' toilet on the second floor and\Nknock on the door of the second-to-last stall
+Dialogue: 0,0:11:13.50,0:11:17.83,Default,,0,0,0,,and call out, "Hanamaru-san!"\Na voice will respond, "I'm Shibasaki."
+Dialogue: 0,0:11:18.12,0:11:21.58,Default,,0,0,0,,Hanamaru-san! Hanamaru-san! Hanamaru-san!
+Dialogue: 0,0:11:18.79,0:11:21.58,Default,,0,0,0,,{\an8}And if you just keep repeating saying\N"Hanamaru-san," then...
+Dialogue: 0,0:11:23.25,0:11:24.75,Default,,0,0,0,,{\an7}Note: Hana is "Nose" and Maru is "Round"
+Dialogue: 0,0:11:23.25,0:11:24.75,Default,,0,0,0,,Your nose will turn round!
+Dialogue: 0,0:11:25.00,0:11:26.75,Default,,0,0,0,,And it will never go back to normal!
+Dialogue: 0,0:11:31.45,0:11:32.45,Default,,0,0,0,,The heck?
+Dialogue: 0,0:11:37.58,0:11:40.04,Default,,0,0,0,,Yasaka Station
+Dialogue: 0,0:11:40.33,0:11:42.62,Default,,0,0,0,,It got late, while I was out having fun...
+Dialogue: 0,0:11:42.62,0:11:43.41,Default,,0,0,0,,Huh?
+Dialogue: 0,0:11:51.08,0:11:52.29,Default,,0,0,0,,Boo!
+Dialogue: 0,0:11:54.58,0:11:56.50,Default,,0,0,0,,What's wrong, Loli-chan?
+Dialogue: 0,0:11:57.20,0:11:59.16,Default,,0,0,0,,Oh, it's you, Lily...
+Dialogue: 0,0:11:59.16,0:12:03.41,Default,,0,0,0,,If you're loitering about at this time of hour,\Nyou'll get taken away by some scary man, you know?
+Dialogue: 0,0:12:03.41,0:12:05.08,Default,,0,0,0,,Oh! A scary man...?
+Dialogue: 0,0:12:05.08,0:12:07.08,Default,,0,0,0,,{\an8}Scary men
+Dialogue: 0,0:12:07.08,0:12:09.08,Default,,0,0,0,,Go away!
+Dialogue: 0,0:12:09.08,0:12:09.95,Default,,0,0,0,,What?
+Dialogue: 0,0:12:09.95,0:12:12.45,Default,,0,0,0,,Oh! N-not you! I didn't mean you, Lily...
+Dialogue: 0,0:12:12.45,0:12:13.20,Default,,0,0,0,,Huh?
+Dialogue: 0,0:12:13.20,0:12:16.08,Default,,0,0,0,,A-anyway, it's not like I'm\Nloitering about for fun, you know...
+Dialogue: 0,0:12:16.08,0:12:18.87,Default,,0,0,0,,I forgot my smartphone at school,\Nso I'm heading there to get it!
+Dialogue: 0,0:12:18.87,0:12:20.91,Default,,0,0,0,,Huh, so that's it.
+Dialogue: 0,0:12:21.12,0:12:24.33,Default,,0,0,0,,Oh! By any chance, are you\Nafraid of the school at night?
+Dialogue: 0,0:12:24.33,0:12:26.16,Default,,0,0,0,,I-I'm so not scared!
+Dialogue: 0,0:12:26.16,0:12:30.08,Default,,0,0,0,,P-plus, Grandma said that ghosts\Ndon't appear in front of good kids!
+Dialogue: 0,0:12:30.08,0:12:31.12,Default,,0,0,0,,Loli-chan, you're cute...
+Dialogue: 0,0:12:31.12,0:12:32.75,Default,,0,0,0,,Don't say I'm cute!
+Dialogue: 0,0:12:32.75,0:12:36.37,Default,,0,0,0,,Don't get so angry... I'll tag along with you, so.
+Dialogue: 0,0:12:36.37,0:12:38.58,Default,,0,0,0,,R-r-really?!
+Dialogue: 0,0:12:49.00,0:12:51.79,Default,,0,0,0,,Ah! This kinda situation is nice too...!
+Dialogue: 0,0:12:51.79,0:12:55.41,Default,,0,0,0,,Wh-what? You're trembling? Lily, are you afraid too?
+Dialogue: 0,0:12:55.41,0:12:56.83,Default,,0,0,0,,It's nothing.
+Dialogue: 0,0:12:56.83,0:12:59.45,Default,,0,0,0,,I'm just trembling because it feels way too good...
+Dialogue: 0,0:12:59.45,0:13:01.54,Default,,0,0,0,,Huh?! What feels so good?
+Dialogue: 0,0:13:04.62,0:13:06.66,Default,,0,0,0,,This is the second-floor women's restroom...
+Dialogue: 0,0:13:06.66,0:13:09.00,Default,,0,0,0,,It was Hanamaru-san of the toilet, right?
+Dialogue: 0,0:13:09.00,0:13:11.75,Default,,0,0,0,,Don't worry. That's nothing but an urban legend.
+Dialogue: 0,0:13:11.75,0:13:14.20,Default,,0,0,0,,B-but, there was a noise from inside just now...
+Dialogue: 0,0:13:18.58,0:13:20.87,Default,,0,0,0,,Oh! Th-there seems to be someone there...
+Dialogue: 0,0:13:20.87,0:13:22.29,Default,,0,0,0,,D-don't!
+Dialogue: 0,0:13:22.29,0:13:26.16,Default,,0,0,0,,It's not my fault if you get cursed by Hanamaru-san\Nand have your nose become knobby!
+Dialogue: 0,0:13:28.79,0:13:31.91,Default,,0,0,0,,The second door from the back... I knew it!
+Dialogue: 0,0:13:31.91,0:13:33.25,Default,,0,0,0,,Hanamaru-san!
+Dialogue: 0,0:13:33.62,0:13:35.16,Default,,0,0,0,,Stop!
+Dialogue: 0,0:13:35.16,0:13:35.70,Default,,0,0,0,,You've mistaken!
+Dialogue: 0,0:13:35.70,0:13:36.83,Default,,0,0,0,,Stop!\NYou've mistaken!
+Dialogue: 0,0:13:36.83,0:13:39.25,Default,,0,0,0,,This is Kanade Ninomae! Please help me!
+Dialogue: 0,0:13:39.25,0:13:40.45,Default,,0,0,0,,Say what?!
+Dialogue: 0,0:13:40.79,0:13:42.29,Default,,0,0,0,,Thank you very much...
+Dialogue: 0,0:13:42.29,0:13:45.33,Default,,0,0,0,,It appears that the lock broke, and for a moment there,\NI didn't know what would become of me...
+Dialogue: 0,0:13:45.33,0:13:47.66,Default,,0,0,0,,Were you stuck in there since lunchtime?
+Dialogue: 0,0:13:47.66,0:13:50.16,Default,,0,0,0,,Yes. I tried calling out for help several times,
+Dialogue: 0,0:13:50.16,0:13:52.62,Default,,0,0,0,,but everyone just kept getting scared\Nand would run away, so...
+Dialogue: 0,0:13:55.45,0:13:58.50,Default,,0,0,0,,Well, once you uncover the truth of something like\Nthe Seven Wonders, it's pretty much nothing.
+Dialogue: 0,0:13:58.50,0:14:00.87,Default,,0,0,0,,After all, in reality, there are\Nno such things like spirits and ghosts.
+Dialogue: 0,0:14:00.87,0:14:02.33,Default,,0,0,0,,Pablo Diego...
+Dialogue: 0,0:14:02.33,0:14:06.25,Default,,0,0,0,,Then, what is this?! What is it?! What is this?!
+Dialogue: 0,0:14:02.33,0:14:05.00,Default,,0,0,0,,{\an8}José Francisco de Paula Juan Nepomuceno...
+Dialogue: 0,0:14:05.00,0:14:06.95,Default,,0,0,0,,{\an8}María de los Remedios...
+Dialogue: 0,0:14:06.25,0:14:09.75,Default,,0,0,0,,E-even if it's a ghost, if it's a cute girl, then...!
+Dialogue: 0,0:14:06.95,0:14:09.75,Default,,0,0,0,,{\an8}Cipriano de la Santísima...
+Dialogue: 0,0:14:09.75,0:14:11.58,Default,,0,0,0,,{\an8}Trinidad Ruiz y Picasso ....
+Dialogue: 0,0:14:18.29,0:14:19.79,Default,,0,0,0,,Uh... Majo?
+Dialogue: 0,0:14:20.29,0:14:22.91,Default,,0,0,0,,What's going on, everyone, at this late time of night...?
+Dialogue: 0,0:14:22.91,0:14:25.70,Default,,0,0,0,,Actually, that would be our line, you know.
+Dialogue: 0,0:14:25.70,0:14:28.29,Default,,0,0,0,,Majo, what about you? What're you doing at this hour?
+Dialogue: 0,0:14:28.29,0:14:29.95,Default,,0,0,0,,Just a little necromancy...
+Dialogue: 0,0:14:30.25,0:14:33.95,Default,,0,0,0,,There was a section in world history for the\Nsummer break homework that I didn't understand,
+Dialogue: 0,0:14:33.95,0:14:36.79,Default,,0,0,0,,so I was going to evoke the spirit of\NVasco da Gama and ask him for the answer.
+Dialogue: 0,0:14:37.20,0:14:40.00,Default,,0,0,0,,Oh, is that so? I feel relieved.
+Dialogue: 0,0:14:40.00,0:14:42.95,Default,,0,0,0,,No! I don't feel relieved, you know!\NThat's scary in general!
+Dialogue: 0,0:14:48.20,0:14:49.37,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:14:49.37,0:14:52.33,Default,,0,0,0,,I feel an intense set of eyes or\Nsomething on me, from the classroom...
+Dialogue: 0,0:14:52.33,0:14:54.45,Default,,0,0,0,,What?! Wh-what do you mean, a set of eyes?!
+Dialogue: 0,0:14:58.54,0:15:01.00,Default,,0,0,0,,Wh-why, there's no one here after all.
+Dialogue: 0,0:15:02.37,0:15:03.87,Default,,0,0,0,,Huh?! Kanade?!
+Dialogue: 0,0:15:10.83,0:15:13.25,Default,,0,0,0,,You weren't able to get down again, right...?
+Dialogue: 0,0:15:13.45,0:15:16.41,Default,,0,0,0,,W-welcome to the prelude of darkness...
+Dialogue: 0,0:15:17.33,0:15:18.70,Default,,0,0,0,,I found it!
+Dialogue: 0,0:15:18.70,0:15:20.41,Default,,0,0,0,,I'm glad, Loli-chan.
+Dialogue: 0,0:15:20.41,0:15:21.95,Default,,0,0,0,,Well then, shall we head home?
+Dialogue: 0,0:15:21.95,0:15:23.50,Default,,0,0,0,,Oh, I still need to...
+Dialogue: 0,0:15:23.50,0:15:26.37,Default,,0,0,0,,There's something I want to ask\NAmenhotep IV as well, so...
+Dialogue: 0,0:15:26.37,0:15:28.87,Default,,0,0,0,,Isn't it better if you do things like that at home?
+Dialogue: 0,0:15:31.08,0:15:32.95,Default,,0,0,0,,Wh-what was that noise?
+Dialogue: 0,0:15:35.45,0:15:38.25,Default,,0,0,0,,I can hear it... The symphony of doom...
+Dialogue: 0,0:15:38.25,0:15:40.12,Default,,0,0,0,,Do you think it's poltergeist rapping?
+Dialogue: 0,0:15:40.12,0:15:42.58,Default,,0,0,0,,It appears the sound is coming from the rooftop pool.
+Dialogue: 0,0:15:42.58,0:15:43.66,Default,,0,0,0,,Let's go check it out!
+Dialogue: 0,0:15:43.66,0:15:45.04,Default,,0,0,0,,W-we're going?!
+Dialogue: 0,0:16:02.04,0:16:04.45,Default,,0,0,0,,Th-th-they're playing table tennis!
+Dialogue: 0,0:16:04.45,0:16:07.12,Default,,0,0,0,,This is, after all, the curse of the table tennis club!
+Dialogue: 0,0:16:07.33,0:16:08.33,Default,,0,0,0,,Actually...
+Dialogue: 0,0:16:12.29,0:16:14.79,Default,,0,0,0,,Hey! What the hell are you bastards doing?!
+Dialogue: 0,0:16:14.79,0:16:18.37,Default,,0,0,0,,Well, we were thinking of helping the ghost of the\Ntable tennis club member rest in peace, you see!
+Dialogue: 0,0:16:18.66,0:16:20.75,Default,,0,0,0,,And will she? Rest in peace, that is...
+Dialogue: 0,0:16:20.75,0:16:22.95,Default,,0,0,0,,We already made sure to get\Npermission from Waseda,
+Dialogue: 0,0:16:22.95,0:16:26.04,Default,,0,0,0,,and once we finish playing table tennis,\Nwe were thinking of playing in the nighttime pool.
+Dialogue: 0,0:16:26.04,0:16:27.58,Default,,0,0,0,,You guys wanna joins us too?
+Dialogue: 0,0:16:27.95,0:16:31.83,Default,,0,0,0,,Even though you've offered,\Nwe didn't bring our swimwear, so...
+Dialogue: 0,0:16:34.83,0:16:36.66,Default,,0,0,0,,Huh?! What the?!
+Dialogue: 0,0:16:37.83,0:16:39.58,Default,,0,0,0,,What's with this, all of a sudden...?
+Dialogue: 0,0:16:39.58,0:16:41.16,Default,,0,0,0,,It's the act of God!
+Dialogue: 0,0:16:41.16,0:16:44.62,Default,,0,0,0,,In order to purify this corrupted world,\Na holy rain was...!
+Dialogue: 0,0:16:47.29,0:16:49.95,Default,,0,0,0,,Speaking of, you're all gonna\Ncatch colds if you stay wet like that.
+Dialogue: 0,0:16:49.95,0:16:51.79,Default,,0,0,0,,How about you take those off and dry them out?
+Dialogue: 0,0:16:51.79,0:16:54.16,Default,,0,0,0,,While things are being dried out,\Nlet's all go swimming.
+Dialogue: 0,0:16:54.16,0:16:56.66,Default,,0,0,0,,Well, as I explained, we don't have swimwear-
+Dialogue: 0,0:16:56.66,0:16:59.37,Default,,0,0,0,,You and swimwear! You're way too picky!
+Dialogue: 0,0:16:59.37,0:17:03.08,Default,,0,0,0,,If you're a woman, then show enough guts to\Nbe able to go so far as to swim stark-naked!
+Dialogue: 0,0:17:03.08,0:17:06.95,Default,,0,0,0,,No, she likes getting wet with her clothes on...
+Dialogue: 0,0:17:07.33,0:17:11.45,Default,,0,0,0,,The texture of her clothes,\Ntightly clinging to her bare skin...
+Dialogue: 0,0:17:11.45,0:17:17.25,Default,,0,0,0,,To the feeling of the drops trickling down from\Nher skirt as they slowly flow down her thighs...
+Dialogue: 0,0:17:17.25,0:17:19.45,Default,,0,0,0,,Instinctively, she becomes...
+Dialogue: 0,0:17:19.91,0:17:20.95,Default,,0,0,0,,Enraptured...
+Dialogue: 0,0:17:20.95,0:17:23.20,Default,,0,0,0,,Hey! Please don't do whatever you want\Nand make up some fantasy!
+Dialogue: 0,0:17:23.20,0:17:26.33,Default,,0,0,0,,Hey! I found some brand-new swimwear!
+Dialogue: 0,0:17:26.33,0:17:27.70,Default,,0,0,0,,What?!
+Dialogue: 0,0:17:28.83,0:17:29.95,Default,,0,0,0,,What's all this?
+Dialogue: 0,0:17:29.95,0:17:31.50,Default,,0,0,0,,Are they samples or something?
+Dialogue: 0,0:17:31.50,0:17:34.04,Default,,0,0,0,,Did a teacher forget and\Nleave them behind in the locker room?
+Dialogue: 0,0:17:34.04,0:17:34.70,Default,,0,0,0,,Oh!
+Dialogue: 0,0:17:35.54,0:17:38.95,Default,,0,0,0,,Hey, it's here! Maybe I should change into this!
+Dialogue: 0,0:17:38.95,0:17:39.91,Default,,0,0,0,,Don't!
+Dialogue: 0,0:17:39.91,0:17:42.20,Default,,0,0,0,,Speaking of, why is that kinda swimwear at a school?
+Dialogue: 0,0:17:42.41,0:17:43.50,Default,,0,0,0,,Then Loli, wanna wear it?
+Dialogue: 0,0:17:43.50,0:17:45.87,Default,,0,0,0,,Wha...?! Wh-who, me?!
+Dialogue: 0,0:17:46.20,0:17:48.50,Default,,0,0,0,,I also have another one I brought...
+Dialogue: 0,0:17:48.50,0:17:51.29,Default,,0,0,0,,S..Saginomiya-san, you'd lend me your swimwear?!
+Dialogue: 0,0:17:51.29,0:17:53.70,Default,,0,0,0,,As an apology, for having made up\Na weird fantasy earlier.
+Dialogue: 0,0:17:53.70,0:17:56.83,Default,,0,0,0,,Oh! B-by any chance, is it for barnacles?!
+Dialogue: 0,0:17:57.00,0:18:01.16,Default,,0,0,0,,Are you trying to farm barnacles\Nwith my breasts, Saginomiya-san...?
+Dialogue: 0,0:18:01.16,0:18:03.12,Default,,0,0,0,,No, that's fine too!
+Dialogue: 0,0:18:03.12,0:18:05.37,Default,,0,0,0,,If it's for your sake, Saginomiya-san, then why not?
+Dialogue: 0,0:18:05.37,0:18:08.41,Default,,0,0,0,,I will happily offer my body as\Nan experimental subject.
+Dialogue: 0,0:18:09.41,0:18:10.95,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:18:11.50,0:18:12.95,Default,,0,0,0,,So cute!
+Dialogue: 0,0:18:12.95,0:18:14.87,Default,,0,0,0,,Loli-chan, something like this\Nwould be perfect for you, you know?!
+Dialogue: 0,0:18:14.87,0:18:17.00,Default,,0,0,0,,And this one would probably suit you well, Kujyo-san!
+Dialogue: 0,0:18:17.00,0:18:20.25,Default,,0,0,0,,Oh! This is definitely made for you, Yamamoto-san!
+Dialogue: 0,0:18:20.25,0:18:22.16,Default,,0,0,0,,I-I'm supposed to wear one too?
+Dialogue: 0,0:18:22.16,0:18:24.79,Default,,0,0,0,,Th-that kinda stuff I don't really...
+Dialogue: 0,0:18:24.79,0:18:26.33,Default,,0,0,0,,Come on. It's fine.
+Dialogue: 0,0:18:26.33,0:18:28.62,Default,,0,0,0,,All right, get undressed. I'll help you.
+Dialogue: 0,0:18:29.41,0:18:31.70,Default,,0,0,0,,Yamai, you surprisingly have a nice body!
+Dialogue: 0,0:18:31.70,0:18:33.37,Default,,0,0,0,,Majo's not bad too.
+Dialogue: 0,0:18:33.37,0:18:36.41,Default,,0,0,0,,Please don't look at me too much. It's embarrassing.
+Dialogue: 0,0:18:36.41,0:18:40.50,Default,,0,0,0,,Loli-chan, you too. Don't hide in that corner\Nwhile you're changing. Come over here.
+Dialogue: 0,0:18:40.50,0:18:42.66,Default,,0,0,0,,D-don't worry about me!
+Dialogue: 0,0:18:42.66,0:18:46.83,Default,,0,0,0,,Kanade, you too. Come on, will you\Ncome over here and unhook my bra?
+Dialogue: 0,0:18:46.83,0:18:49.04,Default,,0,0,0,,P-please do something like that by yourself!
+Dialogue: 0,0:18:49.04,0:18:51.66,Default,,0,0,0,,Whoa! Majime! You've got some nice tits there!
+Dialogue: 0,0:18:52.62,0:18:54.75,Default,,0,0,0,,Hey! I would ask you not to touch them.
+Dialogue: 0,0:18:54.75,0:18:57.66,Default,,0,0,0,,Aw, come on! Just a little.
+Dialogue: 0,0:18:58.70,0:19:00.70,Default,,0,0,0,,Wota, let me squeeze yours too. Yeah!
+Dialogue: 0,0:19:00.70,0:19:02.37,Default,,0,0,0,,What?! Don't squeeze my butt!
+Dialogue: 0,0:19:02.62,0:19:05.04,Default,,0,0,0,,Aiight! Everyone's changed, right?!
+Dialogue: 0,0:19:05.04,0:19:06.66,Default,,0,0,0,,Then, let's go!
+Dialogue: 0,0:19:07.20,0:19:09.04,Default,,0,0,0,,Woo-hoo!
+Dialogue: 0,0:19:13.70,0:19:16.62,Default,,0,0,0,,Please wait! First off, we have to do warm-ups!
+Dialogue: 0,0:19:16.62,0:19:18.08,Default,,0,0,0,,Come on. It's fine.
+Dialogue: 0,0:19:18.08,0:19:19.83,Default,,0,0,0,,We can do without the formalities!
+Dialogue: 0,0:19:25.91,0:19:29.50,Default,,0,0,0,,Venti soy milk no water ristretto shot-
+Dialogue: 0,0:19:29.50,0:19:31.50,Default,,0,0,0,,What incantation is it this time?
+Dialogue: 0,0:19:31.50,0:19:34.08,Default,,0,0,0,,So that everyone will not get into a water accident...
+Dialogue: 0,0:19:34.08,0:19:35.58,Default,,0,0,0,,Just a little prayer...
+Dialogue: 0,0:19:36.20,0:19:39.66,Default,,0,0,0,,Whatcha doing?! You guys hurry up and come in!
+Dialogue: 0,0:19:39.83,0:19:42.12,Default,,0,0,0,,What the hell was that for?!
+Dialogue: 0,0:19:44.37,0:19:46.20,Default,,0,0,0,,Now then, Majo, you too...
+Dialogue: 0,0:19:47.45,0:19:48.75,Default,,0,0,0,,Yes...
+Dialogue: 0,0:19:51.37,0:19:54.33,Default,,0,0,0,,Yo! Hey Loli! Come on...!
+Dialogue: 0,0:19:55.33,0:19:57.54,Default,,0,0,0,,Loli... It's fine, get on...
+Dialogue: 0,0:19:57.83,0:20:00.45,Default,,0,0,0,,Fly! Make me fly!
+Dialogue: 0,0:20:00.45,0:20:02.79,Default,,0,0,0,,Hey! Amazing doesn't even start to describe it!
+Dialogue: 0,0:20:02.79,0:20:05.95,Default,,0,0,0,,Hey look, Robo! There are barnacles here!
+Dialogue: 0,0:20:05.95,0:20:07.70,Default,,0,0,0,,Why, these are barnacles!
+Dialogue: 0,0:20:23.29,0:20:24.20,Default,,0,0,0,,Live!
+Dialogue: 0,0:20:24.20,0:20:26.33,Default,,0,0,0,,If you fall, you'll die, Yamai!
+Dialogue: 0,0:20:29.50,0:20:34.62,Default,,0,0,0,,Aw! It's supplementary lessons by myself,\Nthe day after a school day...
+Dialogue: 0,0:20:34.62,0:20:38.25,Default,,0,0,0,,Last night sure was fun! The nighttime pool...
+Dialogue: 0,0:20:38.54,0:20:40.66,Default,,0,0,0,,I did bring my swimwear again today,
+Dialogue: 0,0:20:40.66,0:20:43.37,Default,,0,0,0,,so maybe I'll go swim by myself\Nbefore the supplementary lessons.
+Dialogue: 0,0:20:58.95,0:21:00.25,Default,,0,0,0,,What?!
+Dialogue: 0,0:21:00.25,0:21:01.79,Default,,0,0,0,,What does this mean...?
+Dialogue: 0,0:21:02.29,0:21:03.54,Default,,0,0,0,,Then...
+Dialogue: 0,0:21:03.54,0:21:05.37,Default,,0,0,0,,What was all that yesterday...?
+Dialogue: 0,0:21:12.25,0:21:15.25,Default,,0,0,0,,{\an7}What in the world...\N{\an7}Was that nighttime pool thing about...?\N{\an7}...and that, is the amazingly scary story\N{\an7}I thought up. Well?
+Dialogue: 0,0:21:15.25,0:21:21.25,Default,,0,0,0,,{\an8}Amazing!\N{\an8}Love this\N{\an7}Gave me goosebumps\N{\an8}A truly good song\N{\an8}You're low-income?\N{\an8}It sure is nice...\N{\an7}Teishotoku P\N{\an7}Shooting Star Meteeshika  -  38,000 views\N{\an7}This is a new work. My name and present situation are both low-income.\N{\an7}I created everything by music programming.
+Dialogue: 0,0:21:15.26,0:21:17.45,Default,,0,0,0,,For a little me that made a wish...
+Dialogue: 0,0:21:17.45,0:21:21.25,Default,,0,0,0,,I don't have the strength to find the answer...
+Dialogue: 0,0:21:24.25,0:21:24.75,Default,,0,0,0,,{\an7}What in the world...\N{\an7}Was that nighttime pool thing about...?\N{\an7}...and that, is the amazingly scary story\N{\an7}I thought up. Well?
+Dialogue: 0,0:21:24.75,0:21:27.00,Default,,0,0,0,,{\an7}...and that, is the amazingly scary story\N{\an7}I thought up. Well?\N{\an7}Actually, that's a common punch line, you know.
+Dialogue: 0,0:21:27.00,0:21:29.12,Default,,0,0,0,,{\an7}...and that, is the amazingly scary story\N{\an7}I thought up. Well?\N{\an7}Actually, that's a common punch line, you know.\N{\an7}Tanaka:  Aw! Robo, what about you?
+Dialogue: 0,0:21:29.12,0:21:31.25,Default,,0,0,0,,{\an7}Actually, that's a common punch line, you know.\N{\an7}Tanaka:  Aw! Robo, what about you?\N{\an7}It was amazingly scary, right?
+Dialogue: 0,0:21:31.25,0:21:33.87,Default,,0,0,0,,{\an7}Tanaka:  Aw! Robo, what about you?\N{\an7}It was amazingly scary, right?\N{\an7}I thought it was scary.
+Dialogue: 0,0:21:33.87,0:21:35.83,Default,,0,0,0,,{\an7}It was amazingly scary, right?\N{\an7}I thought it was scary.\N{\an7}That Baka's breasts were twice as big than reality.
+Dialogue: 0,0:21:35.83,0:21:36.50,Default,,0,0,0,,{\an7}I thought it was scary.\N{\an7}That Baka's breasts were twice as big than reality.\N{\an7}That part?!
+Dialogue: 0,0:21:36.50,0:21:37.75,Default,,0,0,0,,{\an7}That Baka's breasts were twice as big than reality.\N{\an7}That part?!\N{\an7}Also, the barnacles.
+Dialogue: 0,0:21:59.00,0:22:03.37,Default,,0,0,0,,Sawagashikute yakamashikute
+Dialogue: 0,0:22:03.66,0:22:07.25,Default,,0,0,0,,Demo itoshikute
+Dialogue: 0,0:22:07.58,0:22:11.45,Default,,0,0,0,,Ano hi no warai koe
+Dialogue: 0,0:22:11.45,0:22:15.45,Default,,0,0,0,,Maki modesenai story
+Dialogue: 0,0:22:15.45,0:22:19.33,Default,,0,0,0,,Seishun te yatsu wa zutto hikari to kage
+Dialogue: 0,0:22:19.33,0:22:21.37,Default,,0,0,0,,Kurayami no naka
+Dialogue: 0,0:22:21.37,0:22:23.41,Default,,0,0,0,,Kagayaku rettousei
+Dialogue: 0,0:22:23.62,0:22:27.12,Default,,0,0,0,,Furi kaereba kojiraseta
+Dialogue: 0,0:22:27.12,0:22:31.54,Default,,0,0,0,,Utsukushi sugiru hibi
+Dialogue: 0,0:22:32.08,0:22:41.12,Default,,0,0,0,,Itsumo haru wa fui ni toori sugita ato
+Dialogue: 0,0:22:41.12,0:22:48.20,Default,,0,0,0,,Kimi no kotoba mune ni reverb
+Dialogue: 0,0:22:48.20,0:22:56.70,Default,,0,0,0,,Itsuka haru ga zenbu tsure satte shimau
+Dialogue: 0,0:22:56.70,0:23:04.37,Default,,0,0,0,,Sono hi made wa baka de ii
+Dialogue: 0,0:23:04.70,0:23:08.95,Default,,0,0,0,,Kake nukeru kara
+Dialogue: 0,0:23:34.87,0:23:39.37,Default,,0,0,0,,Nothing beats the job-seeking students'\Nstandard interview business suits, after all...
