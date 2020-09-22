@@ -16,9 +16,9 @@ Video File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 03 VOSTFR [BD 1080p AAC
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.776852
-Scroll Position: 439
-Active Line: 457
-Video Position: 33968
+Scroll Position: 216
+Active Line: 221
+Video Position: 16927
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,7 @@ Dialogue: 0,0:00:04.10,0:00:07.15,Default,,0,0,0,,Hey, can I say something amazi
 Dialogue: 0,0:00:07.15,0:00:08.69,Default,,0,0,0,,That bit again?
 Dialogue: 0,0:00:08.69,0:00:11.99,Default,,0,0,0,,No, this time definitely, for sure, it's seriously amazing.
 Dialogue: 0,0:00:11.99,0:00:13.74,Default,,0,0,0,,Just how amazing is it...
-Dialogue: 0,0:00:13.74,0:00:15.23,Default,,0,0,0,,{\an8}The shell from when a crayfish molts can be used for-
+Dialogue: 0,0:00:13.74,0:00:15.23,Default,,0,0,0,,{\an8}The shell from when a crayfish moults can be used for-
 Dialogue: 0,0:00:15.23,0:00:16.17,Default,,0,0,0,,{\an8}Ugh!
 Dialogue: 0,0:00:14.20,0:00:16.17,Default,,0,0,0,,Whatever. Spit it out.
 Dialogue: 0,0:00:16.17,0:00:20.44,Default,,0,0,0,,So, you know how hair grows to protect the body, right?
@@ -100,7 +100,7 @@ Dialogue: 0,0:04:33.04,0:04:33.87,Default,,0,0,0,,{\an8}Yeah...
 Dialogue: 0,0:04:31.33,0:04:33.87,Default,,0,0,0,,H-hey... Why're you being all secretive?
 Dialogue: 0,0:04:33.87,0:04:36.54,Default,,0,0,0,,Thoughts? That's gotta be a joke, right?
 Dialogue: 0,0:04:36.54,0:04:39.43,Default,,0,0,0,,Even if she looks like that,\Nshe is a high schooler, after all.
-Dialogue: 0,0:04:39.43,0:04:41.67,Default,,0,0,0,,Oh, I've heard rumors about it.
+Dialogue: 0,0:04:39.43,0:04:41.67,Default,,0,0,0,,Oh, I've heard rumours about it.
 Dialogue: 0,0:04:41.67,0:04:44.38,Default,,0,0,0,,That Lolita lives alone with her grandma.
 Dialogue: 0,0:04:44.38,0:04:46.39,Default,,0,0,0,,Under a strict grandmother...
 Dialogue: 0,0:04:46.39,0:04:50.06,Default,,0,0,0,,Maybe she grew up in a prison-like environment, cut off from the outside world.
@@ -155,7 +155,7 @@ Dialogue: 0,0:07:07.03,0:07:09.03,Default,,0,0,0,,Maybe it's a Chinese character
 Dialogue: 0,0:07:09.57,0:07:10.86,Default,,0,0,0,,One stick every day!
 Dialogue: 0,0:07:10.86,0:07:11.57,Default,,0,0,0,,You'll get fat.
 Dialogue: 0,0:07:11.57,0:07:13.53,Default,,0,0,0,,I'm gonna buy the Choco Bat Ace!
-Dialogue: 0,0:07:13.53,0:07:15.43,Default,,0,0,0,,I wish they'd come out with a natto flavor!
+Dialogue: 0,0:07:13.53,0:07:15.43,Default,,0,0,0,,I wish they'd come out with a natto flavour!
 Dialogue: 0,0:07:15.43,0:07:16.91,Default,,0,0,0,,That wouldn't go well with chocolate, you know.
 Dialogue: 0,0:07:16.91,0:07:18.66,Default,,0,0,0,,It could work if they added macadamia nuts.
 Dialogue: 0,0:07:18.66,0:07:22.83,Default,,0,0,0,,That was close. I couldn't stand being picked on\Nby that jerk outside of school too.
@@ -401,7 +401,7 @@ Dialogue: 0,0:18:16.06,0:18:17.61,Default,,0,0,0,,Well, let's see...
 Dialogue: 0,0:18:17.61,0:18:19.61,Default,,0,0,0,,Yeah, that's right. And then...
 Comment: 0,0:18:18.32,0:18:19.61,Default,,0,0,0,,{\an8}Uh, um...
 Dialogue: 0,0:18:19.61,0:18:20.49,Default,,0,0,0,,I...
-Dialogue: 0,0:18:20.49,0:18:24.47,Default,,0,0,0,,I'm in Class 1-2. The name's Saku Momoi, but...
+Dialogue: 0,0:18:20.49,0:18:24.47,Default,,0,0,0,,I'm in Class 1-2. My name's Saku Momoi, but...
 Dialogue: 0,0:18:24.47,0:18:26.16,Default,,0,0,0,,I've got gym class next and...
 Dialogue: 0,0:18:22.70,0:18:26.16,Default,,0,0,0,,{\an8}When Saku was still eight years old...
 Dialogue: 0,0:18:26.16,0:18:30.50,Default,,0,0,0,,It turned out that her father was being\Ntransferred overseas to Germany for work.
@@ -423,7 +423,7 @@ Dialogue: 0,0:19:09.55,0:19:13.00,Default,,0,0,0,,If you don't mind using mine.\
 Dialogue: 0,0:19:13.00,0:19:17.36,Default,,0,0,0,,She's not very good about\Ndepending on people other than me.
 Dialogue: 0,0:19:18.13,0:19:18.63,Default,,0,0,0,,Oh!
 Dialogue: 0,0:19:18.92,0:19:21.02,Default,,0,0,0,,Th-thank you...
-Dialogue: 0,0:19:21.02,0:19:23.10,Default,,0,0,0,,Oh, Loli! We finally found you!
+Dialogue: 0,0:19:21.02,0:19:23.10,Default,,0,0,0,,Oh, Lolita! We finally found you!
 Dialogue: 0,0:19:23.10,0:19:23.89,Default,,0,0,0,,Huh?
 Dialogue: 0,0:19:24.18,0:19:26.77,Default,,0,0,0,,Granny, that was a good story.
 Dialogue: 0,0:19:26.77,0:19:28.85,Default,,0,0,0,,Although there wasn't a single\Nfunny thing in it to laugh about.
@@ -442,7 +442,7 @@ Dialogue: 0,0:19:52.71,0:19:56.17,Default,,0,0,0,,Oh... I-I borrowed them from s
 Dialogue: 0,0:19:56.49,0:19:58.59,Default,,0,0,0,,You? By yourself?
 Dialogue: 0,0:19:58.59,0:19:59.47,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:19:59.47,0:20:03.76,Default,,0,0,0,,Oh! Then I guess it was unnecessary\Nfor me to come deliver them.
-Dialogue: 0,0:20:03.76,0:20:06.35,Default,,0,0,0,,Th-th-that's not true! It wasn't unnecessary at all!
+Dialogue: 0,0:20:03.76,0:20:06.35,Default,,0,0,0,,Th-that's not true! It wasn't unnecessary at all!
 Dialogue: 0,0:20:06.35,0:20:07.14,Default,,0,0,0,,That's right!
 Comment: 0,0:20:07.14,0:20:07.76,Default,,0,0,0,,Huh?
 Dialogue: 0,0:20:07.56,0:20:10.14,Default,,0,0,0,,Just like with hair,\Nthere's nothing that's unnecessary!
@@ -453,7 +453,7 @@ Dialogue: 0,0:20:16.61,0:20:20.11,Default,,0,0,0,,But, you're right. I'm definit
 Dialogue: 0,0:20:20.11,0:20:21.19,Default,,0,0,0,,Grandma...
 Dialogue: 0,0:20:21.19,0:20:22.45,Default,,0,0,0,,Oh yeah!
 Dialogue: 0,0:20:22.45,0:20:26.58,Default,,0,0,0,,I heard a whole load of good stories about you from Granny, Lolita.
-Dialogue: 0,0:20:26.58,0:20:27.95,Default,,0,0,0,,Y-You bastard!
+Dialogue: 0,0:20:26.58,0:20:27.95,Default,,0,0,0,,Y-you bastard!
 Dialogue: 0,0:20:27.95,0:20:30.22,Default,,0,0,0,,What kinda stuff did you hear, huh?!
 Dialogue: 0,0:20:30.79,0:20:32.12,Default,,0,0,0,,Hey! Spit it out!
 Dialogue: 0,0:20:32.12,0:20:33.33,Default,,0,0,0,,I can't say it right now.
@@ -470,7 +470,7 @@ Dialogue: 0,0:20:44.01,0:20:48.14,Default,,0,0,0,,You can count on me! Tell me s
 Dialogue: 0,0:20:48.14,0:20:50.56,Default,,0,0,0,,What a nice grandma who loves her grandchild.
 Dialogue: 0,0:20:48.14,0:20:51.31,Default,,0,0,0,,{\an8}See ya, Granny! Take care!
 Dialogue: 0,0:20:50.56,0:20:52.14,Default,,0,0,0,,They seem to get along very well.
-Dialogue: 0,0:20:52.14,0:20:54.90,Default,,0,0,0,,Yeah. Her sense of humor is so-so, but...
+Dialogue: 0,0:20:52.14,0:20:54.90,Default,,0,0,0,,Yeah. Her sense of humour is so-so, but...
 Dialogue: 0,0:20:54.90,0:20:56.31,Default,,0,0,0,,she was a good granny!
 Dialogue: 0,0:20:56.31,0:20:57.31,Default,,0,0,0,,Why're you expecting that?!
 Dialogue: 0,0:20:57.31,0:20:58.15,Default,,0,0,0,,That's right.
