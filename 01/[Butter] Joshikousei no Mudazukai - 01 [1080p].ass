@@ -16,9 +16,9 @@ Video File: [KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].m
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 428
-Active Line: 462
-Video Position: 14729
+Scroll Position: 202
+Active Line: 210
+Video Position: 31545
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -193,7 +193,7 @@ Dialogue: 10,0:10:07.69,0:10:08.50,Default,,0,0,0,,Oxbridge...
 Dialogue: 10,0:10:08.50,0:10:10.97,Default,,0,0,0,,Oh. That's the homeroom teacher\Nwho likes college women.
 Dialogue: 10,0:10:10.97,0:10:12.94,Default,,0,0,0,,Doesn't he seem like the Oxbridge type?
 Dialogue: 10,0:10:12.94,0:10:13.75,Default,,0,0,0,,The others are...
-Dialogue: 10,0:10:14.30,0:10:15.01,Default,,0,0,0,,Lolita...
+Dialogue: 10,0:10:14.30,0:10:15.01,Default,,0,0,0,,Shortcake...
 Dialogue: 10,0:10:15.45,0:10:16.38,Default,,0,0,0,,Earnest...
 Dialogue: 10,0:10:16.76,0:10:17.76,Default,,0,0,0,,Edgelord...
 Dialogue: 10,0:10:17.76,0:10:19.01,Default,,0,0,0,,You're bored, aren't you?
@@ -236,9 +236,9 @@ Dialogue: 10,0:11:56.32,0:11:57.36,Default,,0,0,0,,This girl...
 Dialogue: 10,0:11:57.36,0:11:59.57,Default,,0,0,0,,Her rebellious attitude towards a teacher,
 Dialogue: 10,0:11:59.57,0:12:02.74,Default,,0,0,0,,and her cool head in response to the\Nthe murmur of the class means...
 Dialogue: 10,0:12:04.77,0:12:07.03,Default,,0,0,0,,She's no ordinary human!
-Dialogue: 10,0:12:08.95,0:12:10.41,Default,,0,0,0,,Hey, hey! Hey Lolita!
-Dialogue: 10,0:12:10.75,0:12:12.44,Default,,0,0,0,,L-Lolita?!
-Dialogue: 10,0:12:12.44,0:12:13.85,Default,,0,0,0,,Don't call me Lolita!
+Dialogue: 10,0:12:08.95,0:12:10.41,Default,,0,0,0,,Hey, hey! Hey Shortcake!
+Dialogue: 10,0:12:10.75,0:12:12.44,Default,,0,0,0,,Sh-Shortcake?!
+Dialogue: 10,0:12:12.44,0:12:13.85,Default,,0,0,0,,Don't call me Shortcake!
 Dialogue: 10,0:12:13.85,0:12:16.38,Default,,0,0,0,,I saw you at the mall last Sunday.
 Dialogue: 10,0:12:16.38,0:12:16.92,Default,,0,0,0,,Wha?
 Dialogue: 10,0:12:16.92,0:12:19.05,Default,,0,0,0,,You were with your grandma at the food court, right?
@@ -256,9 +256,9 @@ Dialogue: 10,0:12:42.70,0:12:45.18,Default,,0,0,0,,Don't ever do it again, got i
 Dialogue: 10,0:12:45.18,0:12:45.74,Default,,0,0,0,,Huh?
 Dialogue: 10,0:12:45.74,0:12:47.12,Default,,0,0,0,,Midget!
 Dialogue: 10,0:12:48.59,0:12:52.75,Default,,0,0,0,,You know what, it's irritating to be called\N"Midget" to my face after all.
-Dialogue: 10,0:12:52.75,0:12:55.03,Default,,0,0,0,,Especially when it's Lolita.
+Dialogue: 10,0:12:52.75,0:12:55.03,Default,,0,0,0,,Especially when it's Shortcake.
 Dialogue: 10,0:12:55.03,0:12:56.58,Default,,0,0,0,,"Student B" it is then. {@ GSK the timing on this sign is borked}
-Dialogue: 10,0:12:57.38,0:12:59.63,Default,,0,0,0,,Hey Lolita!
+Dialogue: 10,0:12:57.38,0:12:59.63,Default,,0,0,0,,Hey Shortcake!
 Dialogue: 10,0:12:59.63,0:13:01.26,Default,,0,0,0,,Get a move on!
 Dialogue: 10,0:13:01.26,0:13:03.63,Default,,0,0,0,,Sh-shut up, Student B!
 Dialogue: 10,0:13:04.24,0:13:06.01,Default,,0,0,0,,Student B, did you finish the homework?
@@ -463,7 +463,7 @@ Dialogue: 10,0:20:16.36,0:20:17.45,Default,,0,0,0,,Interesting woman.
 Dialogue: 10,0:20:17.45,0:20:18.19,Default,,0,0,0,,No.
 Dialogue: 10,0:20:19.73,0:20:20.69,Default,,0,0,0,,Idiot.
 Dialogue: 10,0:20:21.18,0:20:24.45,Default,,0,0,0,,Huh?! What's up with that?!
-Dialogue: 10,0:21:55.68,0:21:58.51,Default,,0,0,0,,Yo, y'all wanna hear something awesome?
+Dialogue: 10,0:21:55.68,0:21:58.51,Default,,0,0,0,,Hey, y'all wanna hear something amazing?
 Dialogue: 10,0:21:58.51,0:22:01.71,Default,,0,0,0,,People who say stuff like that basically never have anything interesting to say.
 Dialogue: 10,0:22:01.71,0:22:03.59,Default,,0,0,0,,No, it's pretty awesome.
 Dialogue: 10,0:22:03.59,0:22:06.98,Default,,0,0,0,,It's so cool, it's like when\Na chimpanzee takes a banana—
