@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
-Video File: ../../Muda/[KnK & Owlolf] Joshikousei no Mudazukai BD VOSTFR/[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
-Keyframes File: [KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC]_keyframes.txt
+Audio File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
+Video File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 01 VOSTFR [BD 1080p AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 202
-Active Line: 210
+Video Zoom Percent: 0.788889
+Scroll Position: 428
+Active Line: 467
+Video Position: 34044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,10 +37,10 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.c
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
 Dialogue: 10,0:00:43.64,0:00:44.64,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:00:44.64,0:00:45.40,Default,,0,0,0,,Oh!
+Comment: 10,0:00:44.64,0:00:45.40,Default,,0,0,0,,Oh! {Ah?}
 Dialogue: 10,0:00:45.40,0:00:46.19,Default,,0,0,0,,Watch out!
-Dialogue: 10,0:00:47.20,0:00:51.19,Default,,0,0,0,,I want to be an awesome high school girl.
-Dialogue: 10,0:00:51.19,0:00:54.82,Default,,0,0,0,,I wanna become an awesome high school girl\Nand be really popular with the boys.
+Dialogue: 10,0:00:47.20,0:00:51.19,Default,,0,0,0,,I want to be an amazing high school girl.
+Dialogue: 10,0:00:51.19,0:00:54.82,Default,,0,0,0,,I wanna become an amazing high school girl\Nand be really popular with the boys.
 Dialogue: 10,0:00:54.82,0:00:59.24,Default,,0,0,0,,And then I wanna get\Na really hot boyfriend and go out on dates.
 Dialogue: 10,0:00:59.24,0:00:59.33,Default,QC,0,0,0,,{\1a&H33&}And then I want to get\Na really hot boyfriend and go out on dates.
 Dialogue: 10,0:00:59.24,0:00:59.33,Default,,0,0,0,,{\iclip(m 1209 780 l 1260 1074 1716 1077 1695 816)}And then I want to get\Na really hot boyfriend and go out on dates.
@@ -63,34 +63,34 @@ Dialogue: 10,0:03:54.71,0:03:56.84,Default,,0,0,0,,During your three years of hi
 Dialogue: 10,0:03:57.21,0:04:01.57,Default,,0,0,0,,Hey. So, I made a really big mistake\Nthat I can't walk back.
 Dialogue: 10,0:04:01.57,0:04:02.22,Default,,0,0,0,,Like what?
 Dialogue: 10,0:04:02.22,0:04:04.93,Default,,0,0,0,,This is a girls' school.
-Dialogue: 10,0:04:07.43,0:04:09.71,Default,,0,0,0,,Why did it take you till now to realize?
-Dialogue: 10,0:04:09.71,0:04:13.19,Default,,0,0,0,,Because no matter where I looked during\Nthe entrance ceremony, it was all just girls.
-Dialogue: 10,0:04:13.19,0:04:16.24,Default,,0,0,0,,You'd already know that by\Nlooking at the high school's name.
-Dialogue: 10,0:04:16.24,0:04:19.19,Default,,0,0,0,,I thought it was just the name of the school.
-Dialogue: 10,0:04:19.19,0:04:20.59,Default,,0,0,0,,What kind of name is that?
-Dialogue: 10,0:04:20.59,0:04:22.40,Default,,0,0,0,,Wait, why didn't you realize it\Nduring the entrance exam?
+Dialogue: 10,0:04:07.43,0:04:09.71,Default,,0,0,0,,How did it take you till now to realize?
+Dialogue: 10,0:04:09.71,0:04:13.19,Default,,0,0,0,,Because during the entrance ceremony no matter where I looked it was just girls.
+Dialogue: 10,0:04:13.19,0:04:16.24,Default,,0,0,0,,The name of the school paints that picture just fine.
+Dialogue: 10,0:04:16.24,0:04:19.19,Default,,0,0,0,,I thought it was just the school's name.
+Dialogue: 10,0:04:19.19,0:04:20.59,Default,,0,0,0,,What kind of name would that be?
+Dialogue: 10,0:04:20.59,0:04:22.40,Default,,0,0,0,,Wait, why didn't you clock it\Nduring the entrance exam?
 Dialogue: 10,0:04:22.40,0:04:23.22,Default,,0,0,0,,I was asleep.
 Dialogue: 10,0:04:23.22,0:04:24.71,Default,,0,0,0,,How'd you pass?!
 Dialogue: 10,0:04:24.71,0:04:28.41,Default,,0,0,0,,Why is attending a girls' high school\Na mistake that can't be undone?
-Dialogue: 10,0:04:28.41,0:04:29.87,Default,,0,0,0,,Well, if there are no guys,
-Dialogue: 10,0:04:29.87,0:04:31.91,Default,,0,0,0,,then even if I want to be popular with them, I can't!
+Dialogue: 10,0:04:28.41,0:04:29.87,Default,,0,0,0,,If there are no guys,
+Dialogue: 10,0:04:29.87,0:04:31.91,Default,,0,0,0,,I couldn't be popular with them even if I wanted to be!
 Dialogue: 10,0:04:32.43,0:04:35.54,Default,,0,0,0,,It's incredible that you think\Nyou'd be popular if it were coed.
-Dialogue: 10,0:04:35.54,0:04:38.84,Default,,0,0,0,,Worst case scenario, I guess there's\Nthe teacher route, huh?
+Dialogue: 10,0:04:35.54,0:04:38.84,Default,,0,0,0,,Worst case scenario, there's always the teacher route, yeah?
 Dialogue: 10,0:04:38.84,0:04:41.05,Default,,0,0,0,,There's the possibility\Nthat the homeroom teacher
-Dialogue: 10,0:04:41.05,0:04:43.47,Default,,0,0,0,,will be a young hot guy who's fresh out of college...
+Dialogue: 10,0:04:41.05,0:04:43.47,Default,,0,0,0,,will be a fresh-out-of-college hottie...
 Dialogue: 10,0:04:51.24,0:04:55.63,Default,,0,0,0,,Um, I will be in charge of Class 1-2 for the next year.
 Dialogue: 10,0:04:55.63,0:04:57.02,Default,,0,0,0,,My name is Sawatari.
-Dialogue: 10,0:04:57.02,0:05:00.69,Default,,0,0,0,,First of all, there are several things\NI want to tell all of you from the onset.
+Dialogue: 10,0:04:57.02,0:05:00.69,Default,,0,0,0,,To begin, there are several things it is important for you all to understand.
 Dialogue: 10,0:05:01.60,0:05:03.95,Default,,0,0,0,,I prefer college women.
 Dialogue: 10,0:05:04.25,0:05:06.26,Default,,0,0,0,,Just because I have been\Nassigned to a girls' school,
-Dialogue: 10,0:05:06.26,0:05:09.95,Default,,0,0,0,,I am often looked at enviously by those around me.
+Dialogue: 10,0:05:06.26,0:05:09.95,Default,,0,0,0,,those around me are often envious of me.
 Dialogue: 10,0:05:10.18,0:05:13.00,Default,,0,0,0,,Acquaintances have said that\NI won't be found out if I secretly seduce a girl,
 Dialogue: 10,0:05:13.00,0:05:16.65,Default,,0,0,0,,and there are some jerks who say ridiculous things\Nlike "introduce me", but...
 Dialogue: 10,0:05:16.65,0:05:17.88,Default,,0,0,0,,I will say this again and again.
 Dialogue: 10,0:05:18.27,0:05:21.09,Default,,0,0,0,,I prefer college women.
-Dialogue: 10,0:05:21.44,0:05:23.82,Default,,0,0,0,,I am a graduate of a prestigious university,
+Dialogue: 10,0:05:21.44,0:05:23.82,Default,,0,0,0,,I am an alumni of a prestigious university,
 Dialogue: 10,0:05:23.82,0:05:25.06,Default,,0,0,0,,a civil servant,
-Dialogue: 10,0:05:25.06,0:05:28.43,Default,,0,0,0,,handsome, twenty-seven years of age,\Nand single with no girlfriend.
+Dialogue: 10,0:05:25.06,0:05:28.43,Default,,0,0,0,,handsome, twenty-seven years of age, and single.
 Dialogue: 10,0:05:28.43,0:05:30.26,Default,,0,0,0,,But I want you please to bear in mind
 Dialogue: 10,0:05:30.26,0:05:34.23,Default,,0,0,0,,that although it may be unavoidable\Nto develop a crush on me,
 Dialogue: 10,0:05:34.23,0:05:39.36,Default,,0,0,0,,unfortunately for you, there is no chance of reciprocation.
@@ -104,37 +104,37 @@ Dialogue: 10,0:05:55.25,0:06:01.26,Default,,0,0,0,,However, how would they make 
 Dialogue: 10,0:06:01.26,0:06:04.38,Default,,0,0,0,,or that they are together\Nwith the intent to marry and so on?
 Dialogue: 10,0:06:05.60,0:06:07.13,Default,,0,0,0,,Do they get the parental guardian to approve?
 Dialogue: 10,0:06:07.13,0:06:11.60,Default,,0,0,0,,For something like that, in most cases\Nhe'd immediately get reported and his life is over!
-Dialogue: 10,0:06:12.00,0:06:15.47,Default,,0,0,0,,In the end, a romance with a high school girl\Nis just a fantasy, you know!
-Dialogue: 10,0:06:15.47,0:06:17.81,Default,,0,0,0,,Then why not just change the law!
+Dialogue: 10,0:06:12.00,0:06:15.47,Default,,0,0,0,,At the end of the day, romantic involvement with a high school girl is a pipe dream!
+Dialogue: 10,0:06:15.47,0:06:17.81,Default,,0,0,0,,Just change the damn law then!
 Dialogue: 10,0:06:17.81,0:06:19.69,Default,,0,0,0,,Idiots!
 Dialogue: 10,0:06:27.57,0:06:28.73,Default,,0,0,0,,That will be all.
 Dialogue: 10,0:06:30.02,0:06:31.57,Default,,0,0,0,,I look forward to being with you all this year.
 Dialogue: 10,0:06:34.37,0:06:41.83,Default,,0,0,0,,Creep.
 Dialogue: 10,0:06:42.11,0:06:43.34,Default,,0,0,0,,Creep...
-Dialogue: 10,0:06:43.88,0:06:45.28,Default,,0,0,0,,This guy's a creep!
+Dialogue: 10,0:06:43.88,0:06:45.28,Default,,0,0,0,,This guy's a creep.
 Dialogue: 10,0:06:48.43,0:06:52.62,Default,QC,0,0,0,,Gah, I want a boyfriend!\NWhy aren't there any guys around!{What's wrong in this?}
-Dialogue: 10,0:06:53.22,0:06:55.67,Default,,0,0,0,,Just where do I gotta go to meet some?
+Dialogue: 10,0:06:53.22,0:06:55.67,Default,,0,0,0,,Where do I gotta go to meet some?
 Dialogue: 10,0:06:55.67,0:06:57.02,Default,,0,0,0,,Why don't you get a part-time job?
-Dialogue: 10,0:06:57.02,0:06:58.48,Default,,0,0,0,,Oh, hell no!
+Dialogue: 10,0:06:57.02,0:06:58.48,Default,,0,0,0,,Oh hell no!
 Dialogue: 10,0:06:58.48,0:07:01.48,Default,,0,0,0,,There's no way I'll have\Npeople pushing me around like that.
 Dialogue: 10,0:07:01.48,0:07:06.16,Default,,0,0,0,,How do the ones at girls' schools\Nwith boyfriends meet them anyway?
 Dialogue: 10,0:07:06.16,0:07:08.99,Default,,0,0,0,,Don't they get friends to introduce them\Nor something like that?
 Dialogue: 10,0:07:08.99,0:07:10.49,Default,,0,0,0,,Get friends to introduce them...
 Dialogue: 10,0:07:11.90,0:07:12.49,Default,,0,0,0,,Yeah, no.
-Dialogue: 10,0:07:12.49,0:07:15.35,Default,ED,0,0,0,,Yeah, no. There's no chance Kikuchi knows any lookers.{TN: "Yeah, no." isn't represented in the line. I'd make the "Nope." of the previous line to "Yeah, no." if you want to keep that wording.}
+Dialogue: 10,0:07:12.49,0:07:15.35,Default,ED,0,0,0,,There's no chance Kikuchi knows any lookers.{TN: "Yeah, no." isn't represented in the line. I'd make the "Nope." of the previous line to "Yeah, no." if you want to keep that wording.}
 Dialogue: 10,0:07:15.35,0:07:17.83,Default,,0,0,0,,Even if I did, I'd rather die\Nthan introduce them to you!
 Comment: 10,0:07:17.60,0:07:18.38,Default,,0,0,0,,Oh...{I will be removing this, since I don't feel like keeping such vague words and these can be ommited on situation}
 Dialogue: 10,0:07:21.34,0:07:22.88,Default,,0,0,0,,Poteriodendron...
 Dialogue: 10,0:07:23.36,0:07:27.38,Default,ED,0,0,0,,In the class Phytomastigina, \Norder Chrysomonadina, family Ochromonas.
 Dialogue: 10,0:07:38.16,0:07:40.52,Default,,0,0,0,,Introduce me to one of your hunk friends.
-Dialogue: 10,0:07:40.52,0:07:42.48,Default,,0,0,0,,Huh?! Wh-where did that just come from?!
-Dialogue: 10,0:07:42.48,0:07:44.52,Default,,0,0,0,,And not like a microorganism or anything like that.
+Dialogue: 10,0:07:40.52,0:07:42.48,Default,,0,0,0,,Huh?! Wh-Where did that just come from?!
+Dialogue: 10,0:07:42.48,0:07:44.52,Default,,0,0,0,,And not like a microbe or anything like that.
 Comment: 10,0:07:44.91,0:07:45.64,Default,,0,0,0,,Uh.
 Dialogue: 10,0:07:46.48,0:07:50.03,Default,,0,0,0,,Unfortunately, I don't have\Nthat sort of friend down here.
 Dialogue: 10,0:07:50.65,0:07:51.40,Default,,0,0,0,,I...
 Dialogue: 10,0:07:52.80,0:07:56.91,Default,,0,0,0,,...happen to know someone\Nwho's a mage of the Dragonia race.
 Dialogue: 10,0:07:57.24,0:08:02.79,Default,,0,0,0,,Except that he just pledged his loyalty\Nto the princess of the Altania Kingdom, so...
-Dialogue: 10,0:08:02.79,0:08:03.92,Default,,0,0,0,,Uh.
+Comment: 10,0:08:02.79,0:08:03.92,Default,,0,0,0,,Uh.
 Dialogue: 10,0:08:04.29,0:08:05.33,Default,,0,0,0,,That girl's so small!
 Dialogue: 10,0:08:05.33,0:08:06.13,Default,,0,0,0,,So adorable.
 Dialogue: 10,0:08:06.13,0:08:08.22,Default,QC,0,0,0,,Cute as a button! {Note for timer, probably cut this line off shorter?}{Done, let me know if this is alright}
@@ -147,7 +147,7 @@ Dialogue: 10,0:08:19.89,0:08:21.98,Default,,0,0,0,,{\i1}I gotta make sure nobody
 Dialogue: 10,0:08:23.81,0:08:25.98,Default,,0,0,0,,S-Stop looking at me, you scum!{Ep 3 0:03:14.77 - S-stop looking at me, you scum!}
 Dialogue: 10,0:08:30.07,0:08:30.85,Default,,0,0,0,,Wha?!
 Dialogue: 10,0:08:32.03,0:08:33.86,Default,,0,0,0,,Whaddya think you're doing? Hey!
-Dialogue: 10,0:08:34.46,0:08:35.58,Default,,0,0,0,,I thought maybe, you wanna get on?
+Dialogue: 10,0:08:34.46,0:08:35.58,Default,,0,0,0,,I was wondering if you wanted to get on?
 Dialogue: 10,0:08:35.58,0:08:36.72,Default,TM,0,0,0,,Absolutely not!{Fixed}
 Dialogue: 10,0:08:36.72,0:08:38.91,Default,,0,0,0,,Then introduce me to a hunk friend.
 Dialogue: 10,0:08:38.91,0:08:40.70,Default,,0,0,0,,How did we even get here?! {Original line was "What kind of logic is that?" This feels more flavourful, but if QC/Bucket wants to purge I'm open to it}
@@ -168,9 +168,9 @@ Dialogue: 10,0:09:11.57,0:09:12.57,Default,,0,0,0,,Is it a fashion statement?
 Dialogue: 10,0:09:12.57,0:09:13.74,Default,,0,0,0,,Oh, no.
 Dialogue: 10,0:09:13.74,0:09:16.82,Default,,0,0,0,,This is so that I can keep up\Nwith financial reports.
 Dialogue: 10,0:09:16.82,0:09:19.54,Default,,0,0,0,,Plus, this way I can check things\Nlike stock prices right away.
-Dialogue: 10,0:09:19.54,0:09:20.83,Default,,0,0,0,,Y-you...
-Dialogue: 10,0:09:21.13,0:09:22.58,Default,,0,0,0,,You're an earnest person, aren't you?!
-Dialogue: 10,0:09:22.83,0:09:23.83,Default,,0,0,0,,An earnest person?!
+Dialogue: 10,0:09:19.54,0:09:20.83,Default,,0,0,0,,Y-You...
+Dialogue: 10,0:09:21.13,0:09:22.58,Default,,0,0,0,,You're super serious, aren't you?!
+Dialogue: 10,0:09:22.83,0:09:23.83,Default,,0,0,0,,Serious?!
 Dialogue: 10,0:09:23.83,0:09:25.21,Default,,0,0,0,,Whatever, that's fine.
 Dialogue: 10,0:09:25.21,0:09:27.75,Default,,0,0,0,,Introduce me to one of your hot guy friends.
 Dialogue: 10,0:09:27.75,0:09:28.75,Default,,0,0,0,,A hot guy?
@@ -187,25 +187,25 @@ Dialogue: 10,0:09:52.00,0:09:55.67,Default,,0,0,0,,I also tried asking Doorknob,
 Dialogue: 10,0:09:55.67,0:09:57.15,Default,,0,0,0,,but there's no point talking to them!
 Dialogue: 10,0:09:57.15,0:10:00.03,Default,,0,0,0,,Who the heck are Doorknob and Giant Squid?
 Dialogue: 10,0:10:00.03,0:10:01.38,Default,,0,0,0,,In a sudden flash of inspiration,
-Dialogue: 10,0:10:01.38,0:10:04.04,Default,,0,0,0,,I gave nicknames to everyone in class, you see.
+Dialogue: 10,0:10:01.38,0:10:04.04,Default,,0,0,0,,I gave nicknames to everyone in class.
 Dialogue: 10,0:10:04.04,0:10:04.82,Default,,0,0,0,,Here.
 Dialogue: 10,0:10:07.69,0:10:08.50,Default,,0,0,0,,Oxbridge...
-Dialogue: 10,0:10:08.50,0:10:10.97,Default,,0,0,0,,Oh. That's the homeroom teacher\Nwho likes college women.
+Dialogue: 10,0:10:08.50,0:10:10.97,Default,,0,0,0,,Oh. That's the teacher who's obsessed with college girls.
 Dialogue: 10,0:10:10.97,0:10:12.94,Default,,0,0,0,,Doesn't he seem like the Oxbridge type?
 Dialogue: 10,0:10:12.94,0:10:13.75,Default,,0,0,0,,The others are...
 Dialogue: 10,0:10:14.30,0:10:15.01,Default,,0,0,0,,Shortcake...
-Dialogue: 10,0:10:15.45,0:10:16.38,Default,,0,0,0,,Earnest...
+Dialogue: 10,0:10:15.45,0:10:16.38,Default,,0,0,0,,Serious...
 Dialogue: 10,0:10:16.73,0:10:17.76,Default,,0,0,0,,Edgelord...
 Dialogue: 10,0:10:17.76,0:10:19.01,Default,,0,0,0,,You're bored, aren't you?
-Dialogue: 10,0:10:19.01,0:10:20.89,Default,,0,0,0,,I thought up of ones for you girls too.
+Dialogue: 10,0:10:19.01,0:10:20.89,Default,,0,0,0,,You two got some too.
 Dialogue: 10,0:10:20.89,0:10:23.56,Default,,0,0,0,,Saginomiya, since your emotions\Nhave gone extinct, you're "Robot".
 Dialogue: 10,0:10:23.56,0:10:25.59,Default,,0,0,0,,Kikuchi, since you're a creepy nerd, you're "Nerd".
-Dialogue: 10,0:10:25.59,0:10:27.48,Default,,0,0,0,,What?! I am not creepy!
-Dialogue: 10,0:10:28.10,0:10:32.57,Default,,0,0,0,,Must be nice huh!\NBeing the only ones with identifying traits!
+Dialogue: 10,0:10:25.59,0:10:27.48,Default,,0,0,0,,What? I am not creepy!
+Dialogue: 10,0:10:28.10,0:10:32.57,Default,,0,0,0,,Must be nice huh!\NBeing the only ones with character traits!
 Dialogue: 10,0:10:32.57,0:10:35.88,Default,,0,0,0,,Next time you randomly shout, I'll smack you.
 Dialogue: 10,0:10:35.88,0:10:38.61,Default,,0,0,0,,I want un, ain't there somethin'?
 Dialogue: 10,0:10:38.61,0:10:41.07,Default,,0,0,0,,Some kinda quality or 'em identity things.
-Dialogue: 10,0:10:41.07,0:10:44.95,Default,,0,0,0,,There she goes with the weirdo\Nfirst-person Kansai dialect like acting.
+Dialogue: 10,0:10:41.07,0:10:44.95,Default,,0,0,0,,There she goes with the weirdo\Nfirst-person Kansai dialect.
 Dialogue: 10,0:10:44.95,0:10:46.13,Default,,0,0,0,,Super annoying.
 Dialogue: 10,0:10:48.07,0:10:48.87,Default,,0,0,0,,Student B.
 Dialogue: 10,0:10:48.87,0:10:51.74,Default,,0,0,0,,Oh! Yeah, that's it! Like that stuff! Gimme more!
@@ -215,7 +215,7 @@ Dialogue: 10,0:10:55.63,0:10:56.77,Default,,0,0,0,,Walking dissonance.
 Dialogue: 10,0:10:56.77,0:10:58.09,Alternate,,0,0,0,,Hey!
 Dialogue: 10,0:10:56.77,0:10:58.09,Default,,0,0,0,,Nudist Family.
 Dialogue: 10,0:10:58.09,0:11:01.22,Default,,0,0,0,,You're just randomly throwing in insults now!
-Dialogue: 10,0:11:01.22,0:11:03.60,Default,,0,0,0,,What the heck is your definition of an insult?
+Dialogue: 10,0:11:01.22,0:11:03.60,Default,,0,0,0,,Where the heck is your line for an insult?
 Dialogue: 10,0:11:06.21,0:11:07.85,Default,,0,0,0,,These ones I don't mind.
 Dialogue: 10,0:11:07.85,0:11:10.34,Default,,0,0,0,,I'd basically never want to be called these ones.
 Dialogue: 10,0:11:12.30,0:11:13.15,Default,,0,0,0,,All right...
@@ -231,12 +231,12 @@ Dialogue: 10,0:11:40.09,0:11:42.47,Default,,0,0,0,,What were you doing for those
 Dialogue: 10,0:11:42.75,0:11:45.21,Default,,0,0,0,,I was killing time.
 Dialogue: 10,0:11:45.21,0:11:46.60,Default,,0,0,0,,If I were to elaborate...
 Dialogue: 10,0:11:46.60,0:11:49.22,Default,,0,0,0,,I was mainly killing pimples!
-Dialogue: 10,0:11:52.90,0:11:55.73,Default,,0,0,0,,You're getting supplementary lessons\Nfor a week starting today, all right?
+Dialogue: 10,0:11:52.90,0:11:55.73,Default,,0,0,0,,You're getting supplementary lessons\Nfor a week starting today.
 Dialogue: 10,0:11:56.32,0:11:57.36,Default,,0,0,0,,This girl...
 Dialogue: 10,0:11:57.36,0:11:59.46,Default,,0,0,0,,Her rebellious attitude towards a teacher,
 Dialogue: 10,0:11:59.46,0:12:02.74,Default,,0,0,0,,and her cool head in response to the\Nthe murmur of the class means...
 Dialogue: 10,0:12:04.77,0:12:07.03,Default,,0,0,0,,She's no ordinary human!
-Dialogue: 10,0:12:08.95,0:12:10.41,Default,,0,0,0,,Hey, hey! Hey Shortcake!
+Dialogue: 10,0:12:08.95,0:12:10.41,Default,,0,0,0,,Hey, hey! Shortcake!
 Dialogue: 10,0:12:10.75,0:12:12.44,Default,,0,0,0,,Sh-Shortcake?!
 Dialogue: 10,0:12:12.44,0:12:13.85,Default,,0,0,0,,Don't call me Shortcake!
 Dialogue: 10,0:12:13.85,0:12:16.38,Default,,0,0,0,,I saw you at the mall last Sunday.
@@ -244,13 +244,13 @@ Dialogue: 10,0:12:16.38,0:12:16.92,Default,,0,0,0,,Wha?
 Dialogue: 10,0:12:16.92,0:12:19.05,Default,,0,0,0,,You were with your grandma at the food court, right?
 Dialogue: 10,0:12:19.05,0:12:21.55,Default,,0,0,0,,You had like, a totally different vibe\Nthan when you're at school.
 Dialogue: 10,0:12:21.55,0:12:23.68,Default,,0,0,0,,You're like a total grandma's girl.
-Dialogue: 10,0:12:25.93,0:12:28.97,Default,,0,0,0,,S-she's hitting me where it hurts.
+Dialogue: 10,0:12:25.93,0:12:28.97,Default,,0,0,0,,S-She's hitting me where it hurts.
 Dialogue: 10,0:12:28.97,0:12:30.18,Default,,0,0,0,,How despicable!
 Dialogue: 10,0:12:30.18,0:12:31.14,Default,,0,0,0,,Tanaka!
 Dialogue: 10,0:12:31.14,0:12:33.49,Default,,0,0,0,,I knew this moron wasn't to be trusted!
 Dialogue: 10,0:12:33.49,0:12:34.65,Default,,0,0,0,,You jerk...
 Dialogue: 10,0:12:34.65,0:12:36.65,Default,,0,0,0,,Someday I'm gonna crush you for sure!
-Dialogue: 10,0:12:38.28,0:12:40.69,Default,,0,0,0,,If you're gonna crush something,\Nthen keep it to just pimples, okay?
+Dialogue: 10,0:12:38.28,0:12:40.69,Default,,0,0,0,,If you're gonna crush something,\Nthen let it be pimples, okay?
 Dialogue: 10,0:12:40.69,0:12:42.70,Default,,0,0,0,,Pimples can scar, so don't crush them!
 Dialogue: 10,0:12:42.70,0:12:45.18,Default,,0,0,0,,Don't ever do it again, got it? Mi–
 Dialogue: 10,0:12:45.18,0:12:45.74,Default,,0,0,0,,Huh?
@@ -263,8 +263,8 @@ Dialogue: 10,0:12:59.63,0:13:01.26,Default,,0,0,0,,Get a move on!
 Dialogue: 10,0:13:01.26,0:13:03.63,Default,,0,0,0,,Sh-shut up, Student B!
 Dialogue: 10,0:13:04.24,0:13:06.01,Default,,0,0,0,,Student B, did you finish the homework?
 Dialogue: 10,0:13:06.49,0:13:08.39,Default,,0,0,0,,Watcha eating, Student B?
-Dialogue: 10,0:13:10.69,0:13:11.39,Default,,0,0,0,,Well,
-Dialogue: 10,0:13:11.65,0:13:14.69,Default,,0,0,0,,"Student B" also subtly\Nwhittles away at me mentally.
+Dialogue: 10,0:13:10.69,0:13:11.39,Default,,0,0,0,,Well.
+Dialogue: 10,0:13:11.65,0:13:14.69,Default,,0,0,0,,"Student B" also slowly whittles away at my conscious.
 Dialogue: 10,0:13:14.69,0:13:15.64,Default,,0,0,0,,Then,
 Dialogue: 10,0:13:15.89,0:13:17.50,Default,,0,0,0,,go with "Nudist family."
 Dialogue: 10,0:13:18.69,0:13:19.40,Default,,0,0,0,,Oh!
@@ -319,7 +319,7 @@ Dialogue: 10,0:14:29.00,0:14:31.58,Default,,0,0,0,,but what is it about them tha
 Dialogue: 10,0:14:31.58,0:14:34.64,Default,,0,0,0,,That has nothing to do with\Nany of the problems on that sheet, you know.
 Dialogue: 10,0:14:34.64,0:14:36.13,Default,,0,0,0,,It does.
 Dialogue: 10,0:14:36.13,0:14:39.02,Default,,0,0,0,,If you don't answer it'll bug me and I won't be able to focus.
-Dialogue: 10,0:14:41.02,0:14:42.78,Default,,0,0,0,,Well, alright.
+Dialogue: 10,0:14:41.02,0:14:42.78,Default,,0,0,0,,All right.
 Dialogue: 10,0:14:42.78,0:14:45.03,Default,,0,0,0,,A kid like you probably won't understand, but...
 Dialogue: 10,0:14:45.37,0:14:46.77,Default,,0,0,0,,If I had to say...
 Dialogue: 10,0:14:47.71,0:14:50.04,Default,TM,0,0,0,,The traditional blazer worn by\Njob-seeking students.{Is the lead out is intentional}{No it isn't, fixed it now}
@@ -355,7 +355,7 @@ Dialogue: 10,0:15:54.26,0:15:55.53,Default,,0,0,0,,Stop, Tanaka!
 Dialogue: 10,0:15:55.93,0:15:58.89,Default,,0,0,0,,Don't jump the gun!
 Dialogue: 10,0:16:01.19,0:16:02.30,Default,,0,0,0,,Wait.
 Dialogue: 10,0:16:02.30,0:16:06.82,Default,,0,0,0,,What if all the guys in my classes actually liked me?
-Dialogue: 10,0:16:08.55,0:16:11.32,Default,,0,0,0,,What am I gonna do?!
+Dialogue: 10,0:16:08.55,0:16:11.32,Default,,0,0,0,,What am I gonna do?
 Dialogue: 10,0:16:11.32,0:16:13.97,Default,,0,0,0,,You know, I don't really want that anyway.
 Dialogue: 10,0:16:13.97,0:16:17.16,Default,,0,0,0,,I want something more like a fateful encounter.
 Dialogue: 10,0:16:17.16,0:16:18.33,Default,,0,0,0,,For example?
@@ -421,7 +421,7 @@ Dialogue: 10,0:18:41.42,0:18:41.97,Default,,0,0,0,,{\i1}Here it comes.
 Dialogue: 10,0:18:42.39,0:18:44.60,Imagine,,0,0,0,,{\blur4.5}What is up with that mademoiselle?!
 Dialogue: 10,0:18:45.95,0:18:46.84,Default,,0,0,0,,Here it comes.
 Dialogue: 10,0:18:47.37,0:18:48.98,Imagine,,0,0,0,,{\blur4.5}What an interesting woman.
-Dialogue: 10,0:18:48.98,0:18:50.77,Default,,0,0,0,,{\i1}You really like that.
+Dialogue: 10,0:18:48.98,0:18:50.77,Default,,0,0,0,,{\i1}You're really into that.
 Dialogue: 10,0:18:50.77,0:18:54.11,Default,,0,0,0,,Why are you so zeroed-in on "interesting"?
 Dialogue: 10,0:18:54.11,0:18:55.47,Default,,0,0,0,,You're too hung up over it.
 Dialogue: 10,0:18:55.47,0:18:56.68,Default,,0,0,0,,What's wrong with that?
@@ -495,8 +495,8 @@ Dialogue: 10,0:23:07.21,0:23:08.52,Default,ED,0,0,0,,I thought it was incredible
 Dialogue: 10,0:23:08.52,0:23:09.28,Default,,0,0,0,,Oh?
 Dialogue: 10,0:23:10.37,0:23:15.29,Default,ED,0,0,0,,I thought your self-confidence to rate yourself low-mid tier was incredible.
 Dialogue: 10,0:23:15.62,0:23:16.40,Default,,0,0,0,,What?
-Dialogue: 10,0:23:21.62,0:23:22.29,Default,,0,0,0,,Uh...
-Dialogue: 10,0:23:32.40,0:23:33.04,Default,,0,0,0,,Uh...
+Comment: 10,0:23:21.62,0:23:22.29,Default,,0,0,0,,Uh...
+Comment: 10,0:23:32.40,0:23:33.04,Default,,0,0,0,,Uh...
 Dialogue: 10,0:23:33.52,0:23:34.39,Default,,0,0,0,,Low?
 Dialogue: 10,0:23:35.78,0:23:37.02,Default,,0,0,0,,High-low tier...?
 Dialogue: 10,0:23:38.26,0:23:39.37,Default,,0,0,0,,Rock bottom?!
