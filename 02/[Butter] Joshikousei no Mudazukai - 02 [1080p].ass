@@ -15,10 +15,10 @@ Audio File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 02 VOSTFR [BD 1080p AAC
 Video File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 02 VOSTFR [BD 1080p AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.697222
-Scroll Position: 455
-Active Line: 488
-Video Position: 34021
+Video Zoom Percent: 0.192593
+Scroll Position: 203
+Active Line: 209
+Video Position: 15584
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -236,8 +236,7 @@ Dialogue: 0,0:10:33.86,0:10:34.69,TS,,0,0,0,,{\an5}Magic by Maho
 Dialogue: 0,0:10:36.60,0:10:38.85,Default,,0,0,0,,I don't even know how to feel right now...
 Dialogue: 0,0:10:46.73,0:10:47.45,Default,,0,0,0,,I read it.
 Dialogue: 0,0:10:48.53,0:10:49.96,Default,,0,0,0,,H-h-h-how was it?!
-Dialogue: 0,0:10:49.96,0:10:54.50,Default,,0,0,0,,This is a report that raises\Nobjections to our country's disorderliness
-Dialogue: 0,0:10:54.50,0:10:55.71,Default,,0,0,0,,regarding the energy problem, right?\NI think it's interesting.
+Dialogue: 0,0:10:49.96,0:10:55.71,Default,,0,0,0,,This is a report objecting to our country's disorder regarding the energy problem, right? I think it's interesting.
 Dialogue: 0,0:10:55.71,0:10:58.57,Default,,0,0,0,,No, it's fully just a shojo manga.
 Dialogue: 0,0:10:58.57,0:11:00.71,Default,,0,0,0,,There's a little something that's bugging me, though.
 Dialogue: 0,0:11:00.71,0:11:02.09,Default,,0,0,0,,What?! Where, where?!
