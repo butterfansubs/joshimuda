@@ -15,10 +15,10 @@ Audio File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 05 VOSTFR [BD 1080p AAC
 Video File: ../[KnK & Owlolf] Joshikousei no Mudazukai - 05 VOSTFR [BD 1080p AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.778704
-Scroll Position: 42
-Active Line: 83
-Video Position: 7476
+Video Zoom Percent: 0.625000
+Scroll Position: 457
+Active Line: 485
+Video Position: 33934
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -109,276 +109,276 @@ Dialogue: 0,0:05:04.13,0:05:06.99,Default,,0,0,0,,{\an8}What? You think so?
 Dialogue: 0,0:05:03.61,0:05:05.07,Default,,0,0,0,,You go, Tanaka.
 Dialogue: 0,0:05:05.07,0:05:06.99,Default,,0,0,0,,You said what no one else could!
 Dialogue: 0,0:05:06.99,0:05:09.51,Default,,0,0,0,,You don't like men? Why?
-Dialogue: 0,0:05:09.51,0:05:11.79,Default,,0,0,0,,What?! Because their very existence is dirty?
-Dialogue: 0,0:05:11.79,0:05:12.70,Default,,0,0,0,,Their existence?!
-Dialogue: 0,0:05:12.70,0:05:15.86,Default,,0,0,0,,The rest is, how do I put this,\Na physical condition kind of thing too,
-Dialogue: 0,0:05:15.86,0:05:20.13,Default,,0,0,0,,where if I touch or get touched by a man,\NI get an allergic reaction.
+Dialogue: 0,0:05:09.51,0:05:11.79,Default,,0,0,0,,Because all men are trash, of course!
+Dialogue: 0,0:05:11.79,0:05:12.70,Default,,0,0,0,,All men?
+Dialogue: 0,0:05:12.70,0:05:15.86,Default,,0,0,0,,Aside from that, I also have this physical condition thing.
+Dialogue: 0,0:05:15.86,0:05:20.13,Default,,0,0,0,,Any physical contact between a man and me leads to an allergic reaction.,
 Dialogue: 0,0:05:20.13,0:05:20.86,Default,,0,0,0,,For real?
-Dialogue: 0,0:05:20.86,0:05:25.38,Default,,0,0,0,,Oh yeah! So, if I even touch just a little like this,\Nmy whole body breaks out in hives and...
+Dialogue: 0,0:05:20.86,0:05:25.38,Default,,0,0,0,,Oh yeah! Even if it's just a little contact like this,\Nmy whole body breaks out in hives and...
 Dialogue: 0,0:05:26.61,0:05:27.26,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:27.51,0:05:28.39,Default,,0,0,0,,Uh...
-Dialogue: 0,0:05:28.75,0:05:31.62,Default,,0,0,0,,That transfer student also has a dragon crest...
-Dialogue: 0,0:05:31.62,0:05:33.14,Default,,0,0,0,,On top of that, it's all over her body...
-Dialogue: 0,0:05:33.39,0:05:35.39,Default,,0,0,0,,By any chance... is she a comrade too?
-Dialogue: 0,0:05:35.39,0:05:37.14,Default,,0,0,0,,Hey Yamamoto.
-Dialogue: 0,0:05:37.14,0:05:39.65,Default,,0,0,0,,Ew! Why?! Why, when you're a girl?!
+Dialogue: 0,0:05:28.75,0:05:31.62,Default,,0,0,0,,That transfer student has a dragon crest as well.
+Dialogue: 0,0:05:31.62,0:05:33.14,Default,,0,0,0,,Plus, the crest is all over her body.
+Dialogue: 0,0:05:33.39,0:05:35.39,Default,,0,0,0,,Could she possibly be an ally?
+Dialogue: 0,0:05:35.39,0:05:37.14,Default,,0,0,0,,Hey. Yamamoto.
+Dialogue: 0,0:05:37.14,0:05:39.65,Default,,0,0,0,,Ew, why? You're a girl, right? Why?
 Dialogue: 0,0:05:37.52,0:05:39.05,Default,,0,0,0,,{\an8}Take your seat.
-Dialogue: 0,0:05:39.65,0:05:43.65,Default,,0,0,0,,Regarding factorization, what is\Nmost fundamental as well as important, is...
-Dialogue: 0,0:05:43.65,0:05:45.90,Default,,0,0,0,,Whoa! Rayu chili oil shiitake mushroom flavor!
-Dialogue: 0,0:05:45.90,0:05:48.31,Default,,0,0,0,,It goes well with the cold rice of my bento too!
-Dialogue: 0,0:05:48.31,0:05:51.29,Default,,0,0,0,,What's up with you, Wota?\NYou listening to that Pukari-Pe again?!
-Dialogue: 0,0:05:51.29,0:05:52.16,Default,,0,0,0,,You mean Vocalo-P...
-Dialogue: 0,0:05:52.44,0:05:53.68,Default,,0,0,0,,I wonder why...
-Dialogue: 0,0:05:53.68,0:05:56.75,Default,,0,0,0,,Up until now, something like that\Nhas never happened before...
-Dialogue: 0,0:05:56.75,0:05:57.92,Default,,0,0,0,,By any chance, that girl...
-Dialogue: 0,0:06:01.17,0:06:02.71,Default,,0,0,0,,Has "one"?!
-Dialogue: 0,0:06:02.71,0:06:05.42,Default,,0,0,0,,No, no, no matter what, something like that's just not...
+Dialogue: 0,0:05:39.65,0:05:43.65,Default,,0,0,0,,Regarding factorization, what is\Nmost fundamental as well as important is...
+Dialogue: 0,0:05:43.65,0:05:45.90,Default,,0,0,0,,Whoa! Chili oil shiitake mushroom flavour!
+Dialogue: 0,0:05:45.90,0:05:48.31,Default,,0,0,0,,It really goes well with the cold rice I've got for lunch.
+Dialogue: 0,0:05:48.31,0:05:51.29,Default,,0,0,0,,What's up, Nerd?\NYou listening to that pocalo again?
+Dialogue: 0,0:05:51.29,0:05:52.16,Default,,0,0,0,,You mean vocaloid...
+Dialogue: 0,0:05:52.44,0:05:53.68,Default,,0,0,0,,Just why?
+Dialogue: 0,0:05:53.68,0:05:56.75,Default,,0,0,0,,Nothing like that has ever happened before.
+Dialogue: 0,0:05:56.75,0:05:57.92,Default,,0,0,0,,Could it be that that girl...
+Dialogue: 0,0:06:01.17,0:06:02.71,Default,,0,0,0,,Has one?!
+Dialogue: 0,0:06:02.71,0:06:05.42,Default,,0,0,0,,No, something like that is just too far out.
 Dialogue: 0,0:06:05.42,0:06:08.43,TS,,0,0,0,,{\an8}Sainotama Girls' High School
-Dialogue: 0,0:06:05.42,0:06:07.43,Default,,0,0,0,,This is a girls' high school after all...
-Dialogue: 0,0:06:12.60,0:06:16.78,Default,,0,0,0,,Why, of all things, is Tanaka-san in\Nthe women-only passenger train car?!
+Dialogue: 0,0:06:05.42,0:06:07.43,Default,,0,0,0,,This is a girls' high school after all.
+Dialogue: 0,0:06:12.60,0:06:16.78,Default,,0,0,0,,Why is Tanaka in the womens-only car of all places?
 Dialogue: 0,0:06:17.27,0:06:18.17,Default,,0,0,0,,Oh! Lily!
-Dialogue: 0,0:06:18.17,0:06:21.58,Default,,0,0,0,,I've been found out immediately!\NOn top of that, she's coming over here super-fast!
-Dialogue: 0,0:06:21.58,0:06:24.03,Default,,0,0,0,,Tanaka-san, I see that you use this train car too.
-Dialogue: 0,0:06:24.03,0:06:28.15,Default,,0,0,0,,Nah, today was just by chance. \NEverywhere was crowded, so I thought I'd try it and got on.
-Dialogue: 0,0:06:28.15,0:06:28.90,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:06:32.05,0:06:34.70,Default,,0,0,0,,Just right now, due to the\Nemergency stop button being pressed,
+Dialogue: 0,0:06:18.17,0:06:21.58,Default,,0,0,0,,She noticed me instantly! On top of that, she's basically sprinting over here!
+Dialogue: 0,0:06:21.58,0:06:24.03,Default,,0,0,0,,I see you use this car too, Tanaka.
+Dialogue: 0,0:06:24.03,0:06:28.15,Default,,0,0,0,,Nah, just a coincidence. The other cars were crowded, so I thought I'd give this one a shot.
+Comment: 0,0:06:28.15,0:06:28.90,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:06:32.05,0:06:34.70,Default,,0,0,0,,Due to the emergency stop button being pressed,
 Dialogue: 0,0:06:34.70,0:06:36.16,Default,,0,0,0,,we have made an emergency stop.
-Dialogue: 0,0:06:36.92,0:06:39.65,Default,,0,0,0,,{\an8}Please wait a moment while we conduct a safety check.
-Dialogue: 0,0:06:36.41,0:06:39.00,Default,,0,0,0,,That was close! That totally scared me...
+Dialogue: 0,0:06:36.92,0:06:39.65,Default,,0,0,0,,{\an8}Please be patient while we conduct a safety check.
+Dialogue: 0,0:06:36.41,0:06:39.00,Default,,0,0,0,,Wow, that was really scary...
 Dialogue: 0,0:06:39.00,0:06:40.42,Default,,0,0,0,,Lily, you okay?
-Dialogue: 0,0:06:41.71,0:06:42.79,Default,,0,0,0,,Uh, what's that look about?
-Dialogue: 0,0:06:42.79,0:06:45.76,Default,,0,0,0,,To be disliked that much is, well...
-Dialogue: 0,0:06:45.76,0:06:49.30,Default,,0,0,0,,So, this is how it must feel for the old guys in this world...
+Dialogue: 0,0:06:41.71,0:06:42.79,Default,,0,0,0,,What's with that face?
+Dialogue: 0,0:06:42.79,0:06:45.76,Default,,0,0,0,,Being this hated is really something.
+Dialogue: 0,0:06:45.76,0:06:49.30,Default,,0,0,0,,I guess this is what it's like for the old men of the world.
 Dialogue: 0,0:06:53.80,0:06:55.95,Default,,0,0,0,,Hey, what's with that wall?
 Dialogue: 0,0:06:55.95,0:07:00.02,Default,,0,0,0,,Um, I was thinking that maybe I'll need\Ndictionaries in order to study Japanese.
-Dialogue: 0,0:07:00.02,0:07:02.69,Default,,0,0,0,,I'm more surprised at the number of\Ntissue boxes than the dictionaries, you know.
+Dialogue: 0,0:07:00.02,0:07:02.69,Default,,0,0,0,,It's more the tissue boxes than the dictionaries, honestly.
 Dialogue: 0,0:07:02.69,0:07:05.86,Default,,0,0,0,,Oh, well I kinda have chronic sinusitis.
 Dialogue: 0,0:07:05.86,0:07:08.64,Default,,0,0,0,,You've totally mastered Japanese, haven't you?
-Dialogue: 0,0:07:08.64,0:07:13.29,Default,,0,0,0,,Come to think of it, you said you "can only speak\NJapanese" during your self-introduction, you know.
-Dialogue: 0,0:07:13.29,0:07:15.08,Default,,0,0,0,,Not that I care, but...
+Dialogue: 0,0:07:08.64,0:07:13.29,Default,,0,0,0,,Come to think of it, you said you only speak Japanese during your introduction too.
+Dialogue: 0,0:07:13.29,0:07:15.08,Default,,0,0,0,,Not that I care.
 Dialogue: 0,0:07:15.61,0:07:17.70,Default,,0,0,0,,I gotta be careful with this girl.
-Dialogue: 0,0:07:20.37,0:07:23.61,Default,,0,0,0,,What the hell?! Don't freak out that much.\NYou're a rude jerk.
-Dialogue: 0,0:07:23.61,0:07:25.27,Default,,0,0,0,,S-sorry... But, you're face-
-Dialogue: 0,0:07:25.27,0:07:26.39,Default,,0,0,0,,Face?!
-Dialogue: 0,0:07:26.39,0:07:27.91,Default,,0,0,0,,There's nothing I can do about my face.
+Dialogue: 0,0:07:20.37,0:07:23.61,Default,,0,0,0,,The hell, don't freak out so much. Hella rude.
+Dialogue: 0,0:07:23.61,0:07:25.27,Default,,0,0,0,,S-Sorry... But, your face-
+Dialogue: 0,0:07:25.27,0:07:26.39,Default,,0,0,0,,Face?
+Dialogue: 0,0:07:26.39,0:07:27.91,Default,,0,0,0,,There's nothing I can do about my face!
 Dialogue: 0,0:07:27.91,0:07:29.42,Default,,0,0,0,,Whatever. I'm gonna sleep.
-Dialogue: 0,0:07:29.42,0:07:30.76,Default,,0,0,0,,Huh? Y-you're gonna sleep?
+Dialogue: 0,0:07:29.42,0:07:30.76,Default,,0,0,0,,Huh? Y-You're gonna sleep?
 Dialogue: 0,0:07:32.82,0:07:33.80,Default,,0,0,0,,That was fast!
-Dialogue: 0,0:07:33.80,0:07:36.85,Default,,0,0,0,,{\i1}What's with this girl...? I totally can't figure her out...
-Dialogue: 0,0:07:36.85,0:07:39.52,Default,,0,0,0,,But, no matter how you look at her,\Nshe's a normal girl, right?
-Dialogue: 0,0:07:39.96,0:07:42.14,Default,,0,0,0,,Well, she's not my type, but...
+Dialogue: 0,0:07:33.80,0:07:36.85,Default,,0,0,0,,{\i1}What's with this girl? I can't figure her out at all.
+Dialogue: 0,0:07:36.85,0:07:39.52,Default,,0,0,0,,{\i1}But no matter how you look at her\Nshe's a normal girl, right?{\i0}
+Dialogue: 0,0:07:39.96,0:07:42.14,Default,,0,0,0,,Well she's not my type though.
 Dialogue: 0,0:07:44.27,0:07:45.27,Default,,0,0,0,,Like...
 Dialogue: 0,0:07:45.27,0:07:46.77,Default,,0,0,0,,What? "Like"?!
 Dialogue: 0,0:07:46.77,0:07:47.98,Default,,0,0,0,,Like...
-Dialogue: 0,0:07:47.98,0:07:50.28,Default,,0,0,0,,Like empty stomach and beef.
+Dialogue: 0,0:07:47.98,0:07:50.28,Default,TLC,0,0,0,,Like empty stomach and beef.
 Dialogue: 0,0:07:50.74,0:07:53.23,Default,,0,0,0,,"Empty stomach and beef"?!
 Dialogue: 0,0:07:53.23,0:07:54.78,Default,,0,0,0,,Actually, isn't that normal?
-Dialogue: 0,0:07:54.78,0:07:56.76,Default,,0,0,0,,I'll look it up, just in case.
+Dialogue: 0,0:07:54.78,0:07:56.76,Default,,0,0,0,,I'll look it up just in case.
 Dialogue: 0,0:07:56.76,0:08:00.54,Default,,0,0,0,,"Empty stomach and beef."\NI wonder if it's a proverb or something...
-Dialogue: 0,0:08:00.80,0:08:04.79,Default,,0,0,0,,H-hey! What're you doing,\Neating natto openly at school?!
-Dialogue: 0,0:08:04.79,0:08:07.29,Default,,0,0,0,,On top of that, it's not even lunch break yet, you know!
+Dialogue: 0,0:08:00.80,0:08:04.79,Default,,0,0,0,,H-Hey! What're you doing, brazenly eating natto at school?!
+Dialogue: 0,0:08:04.79,0:08:07.29,Default,,0,0,0,,It's not even lunch break either!
 Dialogue: 0,0:08:07.29,0:08:09.55,Default,,0,0,0,,Anyway, it stinks! It stinks!
-Dialogue: 0,0:08:09.55,0:08:12.68,Default,,0,0,0,,Huh?! Whatever I choose to eat is my choice.
-Dialogue: 0,0:08:12.68,0:08:14.51,Default,,0,0,0,,What? You don't like natto?
+Dialogue: 0,0:08:09.55,0:08:12.68,Default,,0,0,0,,I can eat whatever I want!
+Dialogue: 0,0:08:12.68,0:08:14.51,Default,,0,0,0,,Still, don't you like natto?
 Dialogue: 0,0:08:14.51,0:08:15.67,Default,,0,0,0,,I hate it!
-Dialogue: 0,0:08:15.67,0:08:19.02,Default,,0,0,0,,Anyway, how can you even put something\Nthat smells like that in your mouth?!
+Dialogue: 0,0:08:15.67,0:08:19.02,Default,,0,0,0,,How can you stand to put something\Nthat smells so bad in your mouth?!
 Dialogue: 0,0:08:19.02,0:08:20.18,Default,,0,0,0,,Unbelievable!
 Dialogue: 0,0:08:20.18,0:08:23.81,Default,,0,0,0,,Unbelievable! I've had enough of this seat!
-Dialogue: 0,0:08:26.28,0:08:28.77,Default,,0,0,0,,Sensei! Please let me change seats!
+Dialogue: 0,0:08:26.28,0:08:28.77,Default,,0,0,0,,Mr. Sawatari! Please let me change seats!
 Dialogue: 0,0:08:28.77,0:08:30.57,Default,,0,0,0,,I'm begging you! I can't stand it any-
-Dialogue: 0,0:08:37.70,0:08:42.96,Default,,0,0,0,,{\fad(0,2557)\an8\t(0,5200,1,\fs115)}Noooooo!
+Dialogue: 0,0:08:37.70,0:08:42.96,Default,,0,0,0,,{\fad(0,2557)\an8\t(0,5200,1,\fs115)}No! {Nice meme}
 Dialogue: 0,0:08:40.02,0:08:42.58,Default,,0,0,0,,Very well. I'll allow the seat change.
 Dialogue: 0,0:08:45.54,0:08:48.00,TS,,0,0,0,,Lily
-Dialogue: 0,0:08:55.30,0:08:56.47,Default,,0,0,0,,Over there is...
+Dialogue: 0,0:08:55.30,0:08:56.47,Default,,0,0,0,,On this side...
 Dialogue: 0,0:08:56.47,0:08:58.39,Default,,0,0,0,,{\an8}Introduce me to your boyfriend's friends!
-Dialogue: 0,0:08:56.47,0:08:59.72,Default,,0,0,0,,A group that's high in social rank\Namong the class cliques.
+Dialogue: 0,0:08:56.47,0:08:59.72,Default,,0,0,0,,One of the class's higher-ranked cliques.
 Dialogue: 0,0:08:58.39,0:08:59.72,Default,,0,0,0,,{\an8}I'll ask him next time.
 Dialogue: 0,0:08:59.72,0:09:01.93,Default,,0,0,0,,{\an8}This is only if my rank goes up\N{\an8}in the next nationwide mock exams.
 Dialogue: 0,0:09:01.93,0:09:03.73,Default,,0,0,0,,{\an8}You're so lucky Mika, to have a dad like that.
-Dialogue: 0,0:08:59.72,0:09:03.73,Default,,0,0,0,,{\q2}Over here's also high in social rank among the class cliques, \Nbut they're the honors student group, huh...
+Dialogue: 0,0:08:59.72,0:09:03.73,Default,,0,0,0,,{\q2}On that side, another high-ranking group,\N but this time they're honour students.
 Dialogue: 0,0:09:03.73,0:09:06.48,Default,,0,0,0,,{\an8}The next class is in another room.\NThe three of us should go together.
 Dialogue: 0,0:09:03.73,0:09:06.48,Default,,0,0,0,,Over that way is the normal girls' group and...
 Dialogue: 0,0:09:06.77,0:09:08.86,Default,,0,0,0,,And that group over there is...
-Dialogue: 0,0:09:08.86,0:09:11.79,Default,,0,0,0,,No really, I'm telling you,\Nthis time for sure it's amazing!
-Dialogue: 0,0:09:11.79,0:09:15.74,Default,,0,0,0,,The lowland gorilla I saw on the internet was\Namazingly good-looking and in the next cage...
+Dialogue: 0,0:09:08.86,0:09:11.79,Default,,0,0,0,,No, I'm telling you, this time it's one hundred percent super amazing!
+Dialogue: 0,0:09:11.79,0:09:15.74,Default,,0,0,0,,The lowland gorilla I saw on the internet was\N insanely attractive and in the next cage...
 Dialogue: 0,0:09:13.86,0:09:15.74,Default,,0,0,0,,{\an8}Kinda unclassifiable.
 Dialogue: 0,0:09:15.98,0:09:19.62,Default,,0,0,0,,Since my bangs have grown out quite a bit,\NI probably need go to a beauty salon soon.
 Dialogue: 0,0:09:19.62,0:09:20.87,Default,,0,0,0,,Mikami-san!
-Dialogue: 0,0:09:20.87,0:09:22.84,Default,,0,0,0,,Huh? L..Lily-chan!
-Dialogue: 0,0:09:22.84,0:09:24.66,Default,,0,0,0,,Wanna come with me to the clothing classroom?
+Dialogue: 0,0:09:20.87,0:09:22.84,Default,,0,0,0,,Huh? L-Lily!
+Dialogue: 0,0:09:22.84,0:09:24.66,Default,TLC,0,0,0,,Wanna go to sewing class with me?
 Dialogue: 0,0:09:25.83,0:09:26.97,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:09:26.97,0:09:28.42,Default,,0,0,0,,Y-you sure?!
-Dialogue: 0,0:09:28.42,0:09:32.98,Default,,0,0,0,,That a lowly one like me should walk alongside a sparkling \Ngirl like you, Lily-chan, who's living life to the fullest.
+Dialogue: 0,0:09:26.97,0:09:28.42,Default,,0,0,0,,Y-You sure?!
+Dialogue: 0,0:09:28.42,0:09:32.98,Default,,0,0,0,,That someone like me should walk alongside a beautiful girl like you, who's living life to the fullest.
 Dialogue: 0,0:09:32.98,0:09:34.84,Default,,0,0,0,,What's up with that? I don't get it.
-Dialogue: 0,0:09:34.84,0:09:39.69,Default,,0,0,0,,{\q2}Lily-chan, you're really cute and popular, \Nbut you're unpretentious, so it's easy to talk to you, you know...
+Dialogue: 0,0:09:34.84,0:09:39.69,Default,,0,0,0,,You're really cute and popular, but you're down to earth, so it's easy to talk to you...
 Dialogue: 0,0:09:39.69,0:09:41.39,Default,,0,0,0,,Yeah, you think so?
 Dialogue: 0,0:09:41.95,0:09:44.90,Default,,0,0,0,,And you're also nice to someone like me.
-Dialogue: 0,0:09:44.90,0:09:48.21,Default,,0,0,0,,I wish I could become like you, Lily-chan...
-Dialogue: 0,0:09:48.21,0:09:50.38,Default,,0,0,0,,This! This is what I mean!
-Dialogue: 0,0:09:51.20,0:09:53.69,Default,,0,0,0,,I keep my high social rank in the girl's world.
-Dialogue: 0,0:09:53.69,0:09:54.99,Default,,0,0,0,,{\an8}Oh, it's Lily-chan!
-Dialogue: 0,0:09:54.99,0:09:56.74,Default,,0,0,0,,{\an8}She looks cute again today.
-Dialogue: 0,0:09:53.69,0:09:56.74,Default,,0,0,0,,At the same time, I don't belong to any one\Nspecific group and I get along with everyone.
-Dialogue: 0,0:09:56.74,0:09:58.78,Default,,0,0,0,,{\an8}Is she a comrade after all?
-Dialogue: 0,0:09:56.74,0:09:58.78,Default,,0,0,0,,I stay away from anything troublesome.
-Dialogue: 0,0:09:59.41,0:10:02.03,Default,,0,0,0,,Ah! Feels so good!
-Dialogue: 0,0:10:02.51,0:10:07.40,Default,,0,0,0,,{\an8}I think everyone is well aware of the tag\Nthat is on the inner side of clothing.
-Dialogue: 0,0:10:07.40,0:10:11.54,Default,,0,0,0,,{\an8}Today, we will learn in detail on how to read this tag.
-Dialogue: 0,0:10:11.54,0:10:15.71,Default,,0,0,0,,{\an8}This tag is based on household goods laws and...
-Dialogue: 0,0:10:15.71,0:10:18.26,Default,,0,0,0,,{\an8}Like cotton and silk...
-Dialogue: 0,0:10:18.26,0:10:20.47,Default,,0,0,0,,{\an8}When ironing and such...
-Dialogue: 0,0:10:20.47,0:10:24.10,Default,,0,0,0,,{\an8}Things that need to be paid special attention are listed...
-Dialogue: 0,0:10:05.19,0:10:07.37,Default,,0,0,0,,As to who someone like me has on her mind is...
-Dialogue: 0,0:10:07.37,0:10:11.73,Default,,0,0,0,,Along with an exceptional appearance that\Nappeals to girls; a sincere and caring personality.
-Dialogue: 0,0:10:11.73,0:10:16.94,Default,,0,0,0,,Without a doubt, at this school, she's the\Nnumber one popular girl, Kanade Ninomae.
+Dialogue: 0,0:09:44.90,0:09:48.21,Default,,0,0,0,,I wanna be someone like you...
+Dialogue: 0,0:09:48.21,0:09:50.38,Default,,0,0,0,,This! This is exactly it!
+Dialogue: 0,0:09:51.20,0:09:53.69,Default,,0,0,0,,I hold on to my high social rank in this world.
+Dialogue: 0,0:09:53.69,0:09:54.99,Default,,0,0,0,,{\an8}Oh, it's Lily!
+Dialogue: 0,0:09:54.99,0:09:56.74,Default,,0,0,0,,{\an8}She's as cute as ever.
+Dialogue: 0,0:09:53.69,0:09:56.74,Default,,0,0,0,,I get along with everyone and don't put myself in a specific space.
+Dialogue: 0,0:09:56.74,0:09:58.78,Default,,0,0,0,,{\an8}Is she an ally or not?
+Dialogue: 0,0:09:56.74,0:09:58.78,Default,,0,0,0,,I don't do anything that would make me lose face.
+Dialogue: 0,0:09:59.41,0:10:02.03,Default,,0,0,0,,It feels so great!
+Dialogue: 0,0:10:02.51,0:10:07.40,Default,,0,0,0,,{\an8}I think everyone is well aware of the tag\Non the inside of clothing.
+Dialogue: 0,0:10:07.40,0:10:11.54,Default,,0,0,0,,{\an8}Today, we will learn how to read it in detail.
+Dialogue: 0,0:10:11.54,0:10:15.71,Default,,0,0,0,,{\an8}The tag's guidelines are set by the Competition Bureau.
+Comment: 0,0:10:15.71,0:10:18.26,Default,,0,0,0,,{\an8}Like cotton and silk...
+Comment: 0,0:10:18.26,0:10:20.47,Default,,0,0,0,,{\an8}When ironing and such...
+Comment: 0,0:10:20.47,0:10:24.10,Default,,0,0,0,,{\an8}Things that need to be paid special attention are listed... {how necessary is this??}
+Dialogue: 0,0:10:05.19,0:10:07.37,Default,,0,0,0,,Who might someone like me have on their mind, you ask?
+Dialogue: 0,0:10:07.37,0:10:11.73,Default,,0,0,0,,Both her appearance and her sincere, caring personality appeal to girls.
+Dialogue: 0,0:10:11.73,0:10:16.94,Default,,0,0,0,,Kanade Ninomae is definitely the most popular girl at this chool.
 Dialogue: 0,0:10:16.94,0:10:18.36,Default,,0,0,0,,So, why is it...
-Dialogue: 0,0:10:18.36,0:10:20.49,Default,,0,0,0,,That she's observing Tanaka-san...
-Dialogue: 0,0:10:20.49,0:10:22.81,Default,,0,0,0,,And taking notes...?
-Dialogue: 0,0:10:26.25,0:10:27.57,Default,,0,0,0,,{\an8}What was that, just now?
-Dialogue: 0,0:10:27.57,0:10:30.69,Default,,0,0,0,,{\an8}That was Kikuchi-san just now.\NThat was the sound of her thinking about BL stuff.
-Dialogue: 0,0:10:30.69,0:10:32.31,Default,,0,0,0,,{\an8}What kinda noise is that?!
+Dialogue: 0,0:10:18.36,0:10:20.49,Default,,0,0,0,,...that she's observing Tanaka...
+Dialogue: 0,0:10:20.49,0:10:22.81,Default,,0,0,0,,...and taking notes?
+Dialogue: 0,0:10:26.25,0:10:27.57,Default,,0,0,0,,{\an8}What was that just now?
+Dialogue: 0,0:10:27.57,0:10:30.69,Default,,0,0,0,,{\an8}{\q2}It was Kikuchi, that's the sound of her thinking about BL.
+Dialogue: 0,0:10:30.69,0:10:32.31,Default,,0,0,0,,{\an8}What kinda sound is that?!
 Dialogue: 0,0:10:32.31,0:10:34.96,Default,,0,0,0,,{\an8}Anyway, don't blame it on me!\NAlso, don't say stuff like BL during class!
 Dialogue: 0,0:10:34.96,0:10:36.44,Default,,0,0,0,,{\an8}Then, I'll say boys' love.
 Dialogue: 0,0:10:36.44,0:10:37.61,Default,,0,0,0,,{\an8}Don't say boys' love either!
 Dialogue: 0,0:10:37.61,0:10:38.82,Default,,0,0,0,,{\an8}All right, now...
-Dialogue: 0,0:10:27.17,0:10:30.32,Default,,0,0,0,,Oh! That was me. Oh, e-excuse me, thank you.
+Dialogue: 0,0:10:27.17,0:10:30.32,Default,,0,0,0,,Oh, that's mine. Uh, e-excuse me, thank you.
 Dialogue: 0,0:10:30.32,0:10:31.15,Default,,0,0,0,,Here go you.
 Dialogue: 0,0:10:31.15,0:10:32.31,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:10:34.96,0:10:38.05,Default,,0,0,0,,Hmm... I get it. So, that's it.
-Dialogue: 0,0:10:39.59,0:10:42.25,Default,,0,0,0,,I-I've liked you, all this time...
+Dialogue: 0,0:10:34.96,0:10:38.05,Default,,0,0,0,,I get it. So that's why.
+Dialogue: 0,0:10:39.59,0:10:42.25,Default,,0,0,0,,I've liked you for a while now...
 Dialogue: 0,0:10:42.25,0:10:44.99,Default,,0,0,0,,It's weird, right? Since we're both girls...
-Dialogue: 0,0:10:45.26,0:10:48.25,Default,,0,0,0,,No, not at all...
-Dialogue: 0,0:10:48.25,0:10:49.85,Default,,0,0,0,,I guess I'd call it love at first sight and-
-Dialogue: 0,0:10:49.85,0:10:51.26,Default,,0,0,0,,I'm sorry...
+Dialogue: 0,0:10:45.26,0:10:48.25,Default,,0,0,0,,No, not at all.
+Dialogue: 0,0:10:48.25,0:10:49.85,Default,,0,0,0,,It was like love at first sight-
+Dialogue: 0,0:10:49.85,0:10:51.26,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:10:51.26,0:10:53.38,Default,,0,0,0,,I really appreciate your feelings, but...
-Dialogue: 0,0:10:53.38,0:10:55.38,Default,,0,0,0,,Right now, my duty as a student is...
+Dialogue: 0,0:10:53.38,0:10:55.38,Default,,0,0,0,,...right now, my duty as a student is...
 Dialogue: 0,0:10:59.11,0:11:00.47,Default,,0,0,0,,Kanade!
-Dialogue: 0,0:11:00.47,0:11:01.51,Default,,0,0,0,,Someya-san?!
+Dialogue: 0,0:11:00.47,0:11:01.51,Default,,0,0,0,,Someya?
 Dialogue: 0,0:11:02.62,0:11:04.06,Default,,0,0,0,,I saw that!
 Dialogue: 0,0:11:04.06,0:11:06.78,Default,,0,0,0,,You're awfully popular with the girls, ya know!
 Dialogue: 0,0:11:06.78,0:11:08.39,Default,,0,0,0,,Please don't tease me.
-Dialogue: 0,0:11:08.39,0:11:11.02,Default,,0,0,0,,"What's so good about me, anyway?"
-Dialogue: 0,0:11:11.02,0:11:13.02,Default,,0,0,0,,Or so your expression seems to be wanting to say.
-Dialogue: 0,0:11:13.78,0:11:18.59,Default,,0,0,0,,It's like I get the feeling that everyone is\Njudging me just by appearance and...
+Dialogue: 0,0:11:08.39,0:11:11.02,Default,,0,0,0,,{\i1}"What's so good about me anyway?"{\i0}
+Dialogue: 0,0:11:11.02,0:11:13.02,Default,,0,0,0,,{\i1}Is what your face is saying right now.{\i0}
+Dialogue: 0,0:11:13.78,0:11:18.59,Default,,0,0,0,,It's like everybody is just judging me by my appearance
 Dialogue: 0,0:11:17.71,0:11:19.24,Default,,0,0,0,,{\an8}See? I knew it.
-Dialogue: 0,0:11:18.59,0:11:21.74,Default,,0,0,0,,As for me, my only possible strong point\Nis mental arithmetic...
+Dialogue: 0,0:11:18.59,0:11:21.74,Default,,0,0,0,,If you ask me, my only talent is mental math.
 Dialogue: 0,0:11:21.74,0:11:23.81,Default,,0,0,0,,And I can only go so far as ten digits...
-Dialogue: 0,0:11:23.81,0:11:25.53,Default,,0,0,0,,Actually, isn't that pretty amazing?
-Dialogue: 0,0:11:25.53,0:11:26.66,Default,,0,0,0,,Do you think so...?
-Dialogue: 0,0:11:27.14,0:11:30.71,Default,,0,0,0,,You know, Kanade, isn't it because you\Nso easily lend a hand if you're asked,
-Dialogue: 0,0:11:30.71,0:11:33.17,Default,,0,0,0,,that people immediately misunderstand you?
-Dialogue: 0,0:11:33.77,0:11:35.88,Default,,0,0,0,,I was hoping you could teach me how to study...
+Dialogue: 0,0:11:23.81,0:11:25.53,Default,,0,0,0,,Isn't that actually pretty unbelievable?
+Dialogue: 0,0:11:25.53,0:11:26.66,Default,,0,0,0,,Do you think so?
+Dialogue: 0,0:11:27.14,0:11:30.71,Default,,0,0,0,,You know, isn't it because you're always willing to help
+Dialogue: 0,0:11:30.71,0:11:33.17,Default,,0,0,0,,that people get the wrong idea?
+Dialogue: 0,0:11:33.77,0:11:35.88,Default,TLC,0,0,0,,I was hoping you could help me study...
 Dialogue: 0,0:11:35.88,0:11:36.77,Default,,0,0,0,,Sure!
-Dialogue: 0,0:11:37.30,0:11:39.42,Default,,0,0,0,,We're short a starting lineup player\Nfor the next game again, so...
-Dialogue: 0,0:11:39.42,0:11:40.67,Default,,0,0,0,,If you don't mind that it's me...
+Dialogue: 0,0:11:37.30,0:11:39.42,Default,,0,0,0,,We're short a starter\Nfor the next game again, so...
+Dialogue: 0,0:11:39.42,0:11:40.67,Default,,0,0,0,,As long as you're okay with me...
 Dialogue: 0,0:11:40.67,0:11:43.55,Default,,0,0,0,,Helping a person in need is the obvious thing to do.
-Dialogue: 0,0:11:43.55,0:11:46.90,Default,,0,0,0,,You know, there always seems to be that kinda girl,\Nwho's oblivious to her own popularity!
+Dialogue: 0,0:11:43.55,0:11:46.90,Default,,0,0,0,,You're definitely one of those girls who's totally oblivious to her own popularity.
 Dialogue: 0,0:11:47.64,0:11:49.14,Default,,0,0,0,,{\an8}Oh please.
-Dialogue: 0,0:11:46.90,0:11:50.07,Default,,0,0,0,,I-if that's the case, then Someya-san,\Nyou're also a popular girl too!
+Dialogue: 0,0:11:46.90,0:11:50.07,Default,,0,0,0,,I-If I'm a popular girl then you're definitely popular too, right?
 Dialogue: 0,0:11:50.07,0:11:51.44,Default,,0,0,0,,A whole lot more than me!
 Dialogue: 0,0:11:51.44,0:11:55.22,Default,,0,0,0,,Well, I'm popular because I try to be popular.
-Dialogue: 0,0:11:55.22,0:11:57.44,Default,,0,0,0,,People live their lives with\Nfar more self-interest, you know.
+Dialogue: 0,0:11:55.22,0:11:57.44,Default,,0,0,0,,Most people are way more self-interested.
 Dialogue: 0,0:11:57.44,0:11:58.63,Default,,0,0,0,,Self-interest?
-Dialogue: 0,0:11:58.63,0:12:01.11,Default,,0,0,0,,Yep. Even now, I'm...
-Dialogue: 0,0:12:05.95,0:12:10.37,TS,,0,0,0,,{\an7\pos(266,866)}Uni (sea urchin)\N{\an8}Ikura (salmon roe)
-Dialogue: 0,0:12:01.11,0:12:03.95,Default,,0,0,0,,Hey, look at those two! Isn't that kinda amazing!
-Dialogue: 0,0:12:03.95,0:12:05.95,Default,,0,0,0,,The two of them together is as\Nequally extravagant as an uni-ikura bowl!
+Dialogue: 0,0:11:58.63,0:12:01.11,Default,,0,0,0,,{\i1}Yep. Even now, I'm...{\i0}
+Dialogue: 0,0:12:05.95,0:12:10.37,TS,TS,0,0,0,,{\an7\pos(266,866)}Foie gras\N{\an8}Caviar{fucking based typesetting, the right one is foie gras, the left one is salmon roe @ gsk.}
+Dialogue: 0,0:12:01.11,0:12:03.95,Default,,0,0,0,,Hey, look at those two! Isn't that kinda incredible!
+Dialogue: 0,0:12:03.95,0:12:05.95,Default,,0,0,0,,The two of them together is like a dish of foie gras and caviar!
 Dialogue: 0,0:12:05.95,0:12:07.26,Default,,0,0,0,,A feast for the eyes!
-Dialogue: 0,0:12:07.26,0:12:10.33,Default,,0,0,0,,I'm using Kanade in order to\Nmake myself stand out even more...
+Dialogue: 0,0:12:07.26,0:12:10.33,Default,,0,0,0,,I'm using Kanade in order to\Nmake myself stand out even more.
 Dialogue: 0,0:12:10.98,0:12:12.83,Default,,0,0,0,,Maybe I should toy with her a bit.
-Dialogue: 0,0:12:13.24,0:12:16.84,Default,,0,0,0,,Hey, if you're that unwilling to be popular,\Nthen why don't you become an idiot?
+Dialogue: 0,0:12:13.24,0:12:16.84,Default,,0,0,0,,Hey, if you're that unhappy with popularity,\Nthen why don't you become an idiot?
 Dialogue: 0,0:12:16.84,0:12:17.39,Default,,0,0,0,,What?
-Dialogue: 0,0:12:17.39,0:12:19.84,Default,,0,0,0,,There's already one nearby, who's a good example.
+Dialogue: 0,0:12:17.39,0:12:19.84,Default,,0,0,0,,I know there's at least one person you could look at.
 Dialogue: 0,0:12:20.19,0:12:21.45,Default,,0,0,0,,Why don't you imitate her?
-Dialogue: 0,0:12:21.93,0:12:24.97,Default,,0,0,0,,You're making the effort to takes notes\Nand study her daily anyway, right?
-Dialogue: 0,0:12:26.49,0:12:28.66,Default,,0,0,0,,You've got that "How did you know about that?" look.
+Dialogue: 0,0:12:21.93,0:12:24.97,Default,,0,0,0,,You're basically already treating her like another school subject, right?
+Dialogue: 0,0:12:26.49,0:12:28.66,Default,,0,0,0,,Looks like you're wondering how I knew that.
 Dialogue: 0,0:12:28.66,0:12:30.10,Default,,0,0,0,,It's all quite obvious, you know.
-Dialogue: 0,0:12:30.10,0:12:34.60,Default,,0,0,0,,Or, the person you actually want to study,\Nis someone else...
+Dialogue: 0,0:12:30.10,0:12:34.60,Default,,0,0,0,,Although, maybe the person you're interested in is actually someone else!
 Dialogue: 0,0:12:35.21,0:12:36.23,Default,,0,0,0,,Perhaps.
-Dialogue: 0,0:12:38.21,0:12:39.40,Default,,0,0,0,,Someya-san!
+Dialogue: 0,0:12:38.21,0:12:39.40,Default,,0,0,0,,Someya!
 Dialogue: 0,0:12:40.18,0:12:41.28,Default,,0,0,0,,Please.
 Dialogue: 0,0:12:41.62,0:12:43.04,Default,,0,0,0,,Regarding that matter...
 Dialogue: 0,0:12:43.56,0:12:45.03,Default,,0,0,0,,Please keep it a secret!
-Dialogue: 0,0:12:45.31,0:12:46.78,Default,,0,0,0,,C-close!
+Dialogue: 0,0:12:45.31,0:12:46.78,Default,,0,0,0,,C-Close!
 Dialogue: 0,0:12:46.78,0:12:47.70,Default,,0,0,0,,Too close!
 Dialogue: 0,0:12:47.70,0:12:48.62,Default,,0,0,0,,Too close!
-Dialogue: 0,0:12:49.05,0:12:51.13,Default,,0,0,0,,Too close in many ways!
-Dialogue: 0,0:12:51.50,0:12:54.92,Default,,0,0,0,,Th-this is... In a scene like this,\Nthe next thing that happens is...
+Dialogue: 0,0:12:49.05,0:12:51.13,Default,,0,0,0,,Way too close!
+Dialogue: 0,0:12:51.50,0:12:54.92,Default,,0,0,0,,Th-This is... In this sort of scene,\Nthe next thing that happens is...
 Dialogue: 0,0:12:54.92,0:12:56.42,Default,,0,0,0,,Without a doubt...
 Dialogue: 0,0:12:59.17,0:13:00.17,Default,,0,0,0,,This!
-Dialogue: 0,0:13:01.50,0:13:02.96,Default,,0,0,0,,Oh, it's the first bell...
+Dialogue: 0,0:13:01.50,0:13:02.96,Default,,0,0,0,,Oh, it's the first bell.
 Dialogue: 0,0:13:03.39,0:13:06.15,Default,,0,0,0,,Our conversation went too long. Let's hurry!
-Dialogue: 0,0:13:08.33,0:13:11.19,Default,,0,0,0,,I'd planned on toying with her,\Nbut I got toyed with instead! Scary!
-Dialogue: 0,0:13:11.19,0:13:13.77,Default,,0,0,0,,Oblivious to their own popularity type girls are scary!
+Dialogue: 0,0:13:08.33,0:13:11.19,Default,,0,0,0,,I'd planned on toying with her,\Nbut I got toyed with instead. Scary!
+Dialogue: 0,0:13:11.19,0:13:13.77,Default,,0,0,0,,Those oblivious types are scary!
 Dialogue: 0,0:13:15.36,0:13:19.06,Default,,0,0,0,,Well then, first of all, pair up\Nand do warm-up exercises!
 Dialogue: 0,0:13:19.06,0:13:20.52,Default,,0,0,0,,Yes ma'am!
-Dialogue: 0,0:13:20.83,0:13:22.36,Default,,0,0,0,,If you don't mind, Loli-chan.
-Dialogue: 0,0:13:22.36,0:13:23.65,Default,,0,0,0,,Oh. S-sure.
+Dialogue: 0,0:13:20.83,0:13:22.36,Default,,0,0,0,,If you don't mind, Shortcake!
+Dialogue: 0,0:13:22.36,0:13:23.65,Default,,0,0,0,,Oh. S-Sure.
 Dialogue: 0,0:13:35.37,0:13:38.96,Default,,0,0,0,,She's like... an adult woman.
 Dialogue: 0,0:13:39.80,0:13:41.71,Default,,0,0,0,,Okay, next!
-Dialogue: 0,0:13:42.59,0:13:44.21,Default,,0,0,0,,H-hey...
-Dialogue: 0,0:13:44.53,0:13:49.18,Default,,0,0,0,,Wh-what do you have to do,\Nto get an adult b-body like yours?
-Dialogue: 0,0:13:49.18,0:13:51.26,Default,,0,0,0,,I-I went ahead and asked...
-Dialogue: 0,0:13:51.26,0:13:54.96,Default,,0,0,0,,I haven't really done anything in particular but...
+Dialogue: 0,0:13:42.59,0:13:44.21,Default,,0,0,0,,H-Hey...
+Dialogue: 0,0:13:44.53,0:13:49.18,Default,,0,0,0,,Wh-What do you have to do\Nto get an adult b-body like yours?
+Dialogue: 0,0:13:49.18,0:13:51.26,Default,,0,0,0,,I-I asked it...
+Dialogue: 0,0:13:51.26,0:13:54.96,Default,,0,0,0,,I haven't really done anything in particular, but
 Dialogue: 0,0:13:55.74,0:13:57.94,Default,,0,0,0,,If I had to say, then...
-Dialogue: 0,0:13:57.94,0:14:00.06,Default,,0,0,0,,To get an adult body...
-Dialogue: 0,0:14:00.33,0:14:03.82,Default,,0,0,0,,I guess it would be to have\Nthe person you like touch you a lot...
+Dialogue: 0,0:13:57.94,0:14:00.06,Default,,0,0,0,,...to get an adult body...
+Dialogue: 0,0:14:00.33,0:14:03.82,Default,,0,0,0,,I guess you'd have to touch the person you like a lot.
 Dialogue: 0,0:14:03.82,0:14:04.32,Default,,0,0,0,,Oh...
-Dialogue: 0,0:14:04.81,0:14:06.80,Default,,0,0,0,,Oh, that's it?!
-Dialogue: 0,0:14:06.80,0:14:08.70,Default,,0,0,0,,If that's the case, I have that done every day!
+Dialogue: 0,0:14:04.81,0:14:06.80,Default,,0,0,0,,Oh, that's it?
+Dialogue: 0,0:14:06.80,0:14:08.70,Default,,0,0,0,,All right, I do that every day!
 Dialogue: 0,0:14:08.70,0:14:10.63,Default,,0,0,0,,What? Every day?
-Dialogue: 0,0:14:10.63,0:14:15.39,Default,,0,0,0,,Yeah! Every night before I go to bed,\NI get patted gently. By Grandma.
+Dialogue: 0,0:14:10.63,0:14:15.39,Default,,0,0,0,,Yeah! Every night before bed,\NI snuggle with Grandma.
 Dialogue: 0,0:14:16.38,0:14:18.30,Default,,0,0,0,,Grandma!
-Dialogue: 0,0:14:18.30,0:14:21.67,Default,,0,0,0,,Saku, you're quite the cuddler, you know.
+Dialogue: 0,0:14:18.30,0:14:21.67,Default,,0,0,0,,You love cuddling, don't you my dear.
 Dialogue: 0,0:14:22.21,0:14:23.63,Default,,0,0,0,,Grandma...
-Dialogue: 0,0:14:24.44,0:14:29.65,Default,,0,0,0,,Loli-chan, do you know the topic about\Njust how babies are made?
-Dialogue: 0,0:14:30.41,0:14:31.76,Default,,0,0,0,,Of course, I do!
-Dialogue: 0,0:14:31.76,0:14:35.35,Default,,0,0,0,,I'm already a high schooler, you know!\NIdiot! You making fun of me?!
-Dialogue: 0,0:14:35.35,0:14:38.10,Default,,0,0,0,,R-right. Sorry...
-Dialogue: 0,0:14:38.77,0:14:46.40,Default,,0,0,0,,A-A man and woman who like each other\Nwrite a letter that says they "want a baby" and...
-Dialogue: 0,0:14:46.90,0:14:49.74,Default,,0,0,0,,They submit it to the country\Nand when that gets accepted...
+Dialogue: 0,0:14:24.44,0:14:29.65,Default,,0,0,0,,Shortcake, have you had the talk about how babies are made yet?
+Dialogue: 0,0:14:30.41,0:14:31.76,Default,,0,0,0,,Of course I have!
+Dialogue: 0,0:14:31.76,0:14:35.35,Default,,0,0,0,,I'm already a high schooler, you idiot! You making fun of me?!
+Dialogue: 0,0:14:35.35,0:14:38.10,Default,,0,0,0,,R-Right. Sorry.
+Dialogue: 0,0:14:38.77,0:14:46.40,Default,,0,0,0,,A-A man and woman who like each other\Nwrite a letter that says they "want a baby" and
+Dialogue: 0,0:14:46.90,0:14:49.74,Default,,0,0,0,,they submit it to the country\Nand when that gets accepted...
 Dialogue: 0,0:14:50.19,0:14:52.49,Default,,0,0,0,,the two of them get naked and hug each other, right?
-Dialogue: 0,0:14:49.74,0:14:52.49,Default,,0,0,0,,{\an8}What's that about "accepted"?! And "country"?!
-Dialogue: 0,0:14:53.03,0:14:58.16,Default,,0,0,0,,W-well, to be totally honest, it's only recently\Nthat I found out the details, though.
+Dialogue: 0,0:14:49.74,0:14:52.49,Default,,0,0,0,,{\an8}What do you mean "accepted"? And what's the country got to do with it?
+Dialogue: 0,0:14:53.03,0:14:58.16,Default,,0,0,0,,W-Well, to be totally honest, I only got the details recently.
 Dialogue: 0,0:14:58.16,0:14:59.71,Default,,0,0,0,,I heard it from Tanaka.
-Dialogue: 0,0:14:59.71,0:15:01.25,Default,,0,0,0,,That jerk!
-Dialogue: 0,0:15:01.83,0:15:04.50,Default,,0,0,0,,What?! Did I say something like that?
+Dialogue: 0,0:14:59.71,0:15:01.25,Default,,0,0,0,,That dolt!
+Dialogue: 0,0:15:01.83,0:15:04.50,Default,,0,0,0,,Huh? Did I say something like that?
 Dialogue: 0,0:15:04.50,0:15:05.75,Default,,0,0,0,,Don't remember!
-Dialogue: 0,0:15:05.75,0:15:09.76,Default,,0,0,0,,You may have meant it as a joke,\Nbut that girl is quick to believe things, you know.
+Dialogue: 0,0:15:05.75,0:15:09.76,Default,,0,0,0,,It might have been a joke but you knew she would believe you anyways.
 Dialogue: 0,0:15:09.76,0:15:11.89,Default,,0,0,0,,If you leave her alone, she'll eventually figure it out.
-Dialogue: 0,0:15:11.89,0:15:14.10,Default,,0,0,0,,Loli-chan's the one who'll be embarrassed, you know?
+Dialogue: 0,0:15:11.89,0:15:14.10,Default,,0,0,0,,In the end it'll only be embarassing for her!
 Dialogue: 0,0:15:14.10,0:15:16.14,Default,,0,0,0,,Shut up! You're being overprotective.
-Dialogue: 0,0:15:16.14,0:15:18.35,Default,,0,0,0,,I'm saying this for Loli-chan's sake here!
+Dialogue: 0,0:15:16.14,0:15:18.35,Default,,0,0,0,,This is all for Shortcake's sake, okay?
 Dialogue: 0,0:15:18.35,0:15:21.15,Default,,0,0,0,,If you spoil her, she won't turn into\Na decent adult, you know!
-Dialogue: 0,0:15:21.15,0:15:23.44,Default,,0,0,0,,What?! You of all would say that?!
-Dialogue: 0,0:15:23.44,0:15:25.94,Default,,0,0,0,,It's because it's me, that I can say that!
-Dialogue: 0,0:15:23.97,0:15:25.48,Default,,0,0,0,,{\an8}It's a marital dispute.
-Dialogue: 0,0:15:25.48,0:15:28.69,Default,,0,0,0,,{\an8}It's a marital dispute of a family\Narguing over their child's upbringing.
+Dialogue: 0,0:15:21.15,0:15:23.44,Default,,0,0,0,,You of all people are not allowed to say that.
+Dialogue: 0,0:15:23.44,0:15:25.94,Default,,0,0,0,,I'm the exact type of person who should be allowed to say that!
+Dialogue: 0,0:15:23.97,0:15:25.48,Default,,0,0,0,,{\an8}They're a married couple.
+Dialogue: 0,0:15:25.48,0:15:28.69,Default,,0,0,0,,{\an8}It{\an8}A married couple arguing over the best way to raise their child.
 Dialogue: 0,0:15:25.94,0:15:28.11,Default,,0,0,0,,You're not in any position to say that!
 Dialogue: 0,0:15:28.69,0:15:31.38,Default,,0,0,0,,Oh fine! I got it!
-Dialogue: 0,0:15:32.27,0:15:34.70,Default,,0,0,0,,Then I should just go tell her the truth, right?!
-Dialogue: 0,0:15:35.07,0:15:36.58,Default,,0,0,0,,Loli!
-Dialogue: 0,0:15:36.58,0:15:39.20,Default,,0,0,0,,You know that topic I told you about before...
-Dialogue: 0,0:15:37.99,0:15:39.71,Default,,0,0,0,,Hey! You plan on saying it right now?!
-Dialogue: 0,0:15:39.71,0:15:41.71,Default,,0,0,0,,What? What topic?
+Dialogue: 0,0:15:32.27,0:15:34.70,Default,,0,0,0,,Then I should just go tell her the truth, right?
+Dialogue: 0,0:15:35.07,0:15:36.58,Default,,0,0,0,,Shortcake!
+Dialogue: 0,0:15:36.58,0:15:39.20,Default,,0,0,0,,You know that talk we were having before?
+Dialogue: 0,0:15:37.99,0:15:39.71,Default,,0,0,0,,You're gonna do it right now?
+Dialogue: 0,0:15:39.71,0:15:41.71,Default,,0,0,0,,What? What talk?
 Dialogue: 0,0:15:41.71,0:15:44.46,Default,,0,0,0,,You know, about how babies are made...
 Dialogue: 0,0:15:44.78,0:15:46.34,Default,,0,0,0,,The truth is...
-Dialogue: 0,0:15:46.34,0:15:47.71,Default,,0,0,0,,a man and woman-
+Dialogue: 0,0:15:46.34,0:15:47.71,Default,,0,0,0,,...a man and woman-
 Comment: 0,0:15:50.92,0:15:51.80,Default,,0,0,0,,A...
 Dialogue: 0,0:15:52.09,0:15:55.85,Default,,0,0,0,,A-A man and woman smash their meats together,\Nand they say that's how they're made!
-Dialogue: 0,0:15:55.85,0:15:57.35,Default,,0,0,0,,Oh...
+Dialogue: 0,0:15:55.85,0:15:57.35,Default,,0,0,0,,Oh.
 Dialogue: 0,0:15:57.76,0:16:00.73,Default,,0,0,0,,Why do they smash their meats together?\NWhat does that mean?
-Dialogue: 0,0:16:00.73,0:16:03.60,Default,,0,0,0,,Right...!
+Dialogue: 0,0:16:00.73,0:16:03.60,Default,,0,0,0,,I know, right!
 Dialogue: 0,0:16:03.94,0:16:08.36,Default,,0,0,0,,I-I'll explain it properly, once I've\Nmentally prepared myself, so just wait!
 Dialogue: 0,0:16:10.74,0:16:12.36,Default,,0,0,0,,I'm not cool with this!
-Dialogue: 0,0:16:12.36,0:16:15.56,Default,,0,0,0,,Why is it that among the girls,\NI'm the only that makes you break out in hives?
-Dialogue: 0,0:16:15.56,0:16:18.58,Default,,0,0,0,,Even if you ask me that, I don't know why either.
-Dialogue: 0,0:16:20.33,0:16:21.79,Default,,0,0,0,,You...!
-Dialogue: 0,0:16:21.79,0:16:24.37,Default,,0,0,0,,By any chance, do you think that I'm a man?
-Dialogue: 0,0:16:24.37,0:16:27.73,Default,,0,0,0,,I... I don't think that! At this time...
-Dialogue: 0,0:16:28.46,0:16:31.76,Default,,0,0,0,,In the first place, when one talks about men,\Nthere are children and elderly and all sorts of them,
-Dialogue: 0,0:16:31.76,0:16:35.59,Default,,0,0,0,,but do you have something like,\Nwhich ones are bad and which ones are good?
-Dialogue: 0,0:16:35.59,0:16:38.65,Default,,0,0,0,,I don't know about that either.
+Dialogue: 0,0:16:12.36,0:16:15.56,Default,,0,0,0,,Why am I the only girl that makes you break out in hives?
+Dialogue: 0,0:16:15.56,0:16:18.58,Default,,0,0,0,,I couldn't tell you even if I wanted to.
+Dialogue: 0,0:16:20.33,0:16:21.79,Default,,0,0,0,,Hey, you!
+Dialogue: 0,0:16:21.79,0:16:24.37,Default,,0,0,0,,Do you think I'm a man or something?
+Dialogue: 0,0:16:24.37,0:16:27.73,Default,,0,0,0,,I-I don't think I do? Yet. {maybe a split on this one for meme purposes?}
+Dialogue: 0,0:16:28.46,0:16:31.76,Default,,0,0,0,,You gotta be specific about you men. Is it old men? Babies?
+Dialogue: 0,0:16:31.76,0:16:35.59,Default,,0,0,0,,Do you think some are bad or good?
+Dialogue: 0,0:16:35.59,0:16:38.65,Default,,0,0,0,,I don't know that either!
 Dialogue: 0,0:16:38.65,0:16:39.85,Default,,0,0,0,,Well, then...
 Dialogue: 0,0:16:39.85,0:16:41.86,Default,,0,0,0,,Number one. A male baby.
 Dialogue: 0,0:16:41.43,0:16:42.48,TS,,0,0,0,,{\an7}1. Male baby
@@ -392,139 +392,125 @@ Dialogue: 0,0:16:44.60,0:16:46.61,Default,,0,0,0,,Three. A male cat.
 Dialogue: 0,0:16:46.61,0:16:48.98,Default,,0,0,0,,Four. A male goliath frog.
 Dialogue: 0,0:16:48.98,0:16:50.53,Default,,0,0,0,,Five. The statue of David.
 Dialogue: 0,0:16:50.53,0:16:52.20,Default,,0,0,0,,Six. A stamen.
-Dialogue: 0,0:16:52.20,0:16:53.79,Default,,0,0,0,,If it was among these?
+Dialogue: 0,0:16:52.20,0:16:53.79,Default,,0,0,0,,What about between these?
 Dialogue: 0,0:16:54.24,0:16:56.92,Default,,0,0,0,,I haven't touched most of them, so I don't know!
 Dialogue: 0,0:16:56.92,0:16:59.20,Default,,0,0,0,,Plus, what is up with that\Nnumber four, goliath frog?
 Dialogue: 0,0:16:59.20,0:17:01.87,Default,,0,0,0,,It's the world's largest frog. Dontcha know?
 Dialogue: 0,0:17:01.87,0:17:03.16,Default,,0,0,0,,I didn't know that!
 Dialogue: 0,0:17:03.16,0:17:04.21,Default,,0,0,0,,In her case...
-Dialogue: 0,0:17:04.64,0:17:09.59,Default,,0,0,0,,Most likely, rather than being allergic to men,\Nit's some kind of androphobia.
-Dialogue: 0,0:17:09.59,0:17:11.38,Default,,0,0,0,,Oh! Robo!
-Dialogue: 0,0:17:11.38,0:17:15.53,Default,,0,0,0,,She perceives men as something\Nthat is harmful to her.
-Dialogue: 0,0:17:15.53,0:17:19.46,Default,,0,0,0,,If you put it the other way around, as long as she\Ndoesn't perceive this, then it doesn't appear.
-Dialogue: 0,0:17:19.46,0:17:21.92,Default,,0,0,0,,I will now prove that.
+Dialogue: 0,0:17:04.64,0:17:09.59,Default,,0,0,0,,It's likely that rather than an allergy to men,\Nit's some kind of androphobia.
+Dialogue: 0,0:17:09.59,0:17:11.38,Default,,0,0,0,,Wow, Robot!
+Dialogue: 0,0:17:11.38,0:17:15.53,Default,,0,0,0,,She perceives men as something harmful to her.
+Dialogue: 0,0:17:15.53,0:17:19.46,Default,,0,0,0,,This is preventable. If she doesn't percieve it, there's no problem.
+Dialogue: 0,0:17:19.46,0:17:21.92,Default,,0,0,0,,I will proceed to prove that.
 Dialogue: 0,0:17:21.92,0:17:22.72,Default,,0,0,0,,Prove?
-Dialogue: 0,0:17:23.23,0:17:24.73,Default,,0,0,0,,Try putting this on.
-Dialogue: 0,0:17:24.73,0:17:26.97,Default,,0,0,0,,I've seen that on a certain ranking TV program!
-Dialogue: 0,0:17:26.97,0:17:30.98,Default,,0,0,0,,While in a state of being blindfolded,\Nwe will each randomly touch your hand.
-Dialogue: 0,0:17:31.42,0:17:35.99,Default,,0,0,0,,Even after that, if you react to only Baka's hand,\Nthen your radar is genuine.
-Dialogue: 0,0:17:35.99,0:17:41.56,Default,,0,0,0,,If you don't react, then it's just in your head,\Nand you are self-inducing allergies to appear.
+Dialogue: 0,0:17:23.23,0:17:24.73,Default,,0,0,0,,Please put this o.
+Dialogue: 0,0:17:24.73,0:17:26.97,Default,TLC,0,0,0,,Looks like Mr. Potato Head! {I think this is a reference? OG line: I've seen that on a certain ranking TV program!}
+Dialogue: 0,0:17:26.97,0:17:30.98,Default,,0,0,0,,While you are blindfolded,\Nwe will each randomly touch your hand.
+Dialogue: 0,0:17:31.42,0:17:35.99,Default,,0,0,0,,If you react to Idiot's hand without any visual cues, your radar is clearly genuine.
+Dialogue: 0,0:17:35.99,0:17:41.56,Default,,0,0,0,,If you don't react, it's all mental and your allergies are self-inflicted.
 Dialogue: 0,0:17:42.09,0:17:43.75,Default,,0,0,0,,I-I see...
-Dialogue: 0,0:17:44.12,0:17:47.87,Default,,0,0,0,,As long as you slowly change your mindset,\Nthen there is room for improvement.
-Dialogue: 0,0:17:47.87,0:17:50.31,Default,,0,0,0,,Robo, you're seriously smart, you know!
+Dialogue: 0,0:17:44.12,0:17:47.87,Default,,0,0,0,,As long as you work hard, improvement will come bit by bit.
+Dialogue: 0,0:17:47.87,0:17:50.31,Default,,0,0,0,,You're seriously smart, huh Robot.
 Dialogue: 0,0:17:50.31,0:17:52.50,Default,,0,0,0,,But, why're you carrying around something like this?
-Dialogue: 0,0:17:52.50,0:17:55.14,Default,,0,0,0,,It's for camouflage purposes to doze off during class.
-Dialogue: 0,0:17:56.19,0:17:59.36,Default,,0,0,0,,Now that's dumb of you! As if you could hide that!
-Dialogue: 0,0:17:59.88,0:18:01.39,Default,,0,0,0,,I'll give it a try!
-Dialogue: 0,0:18:01.85,0:18:06.35,Default,,0,0,0,,I want to properly know about myself,\Nand if this physical condition could change...
-Dialogue: 0,0:18:06.35,0:18:08.44,Default,,0,0,0,,I get the feeling that I could take a little step forward.
+Dialogue: 0,0:17:52.50,0:17:55.14,Default,,0,0,0,,It's camouflage so I can sleep in class.
+Dialogue: 0,0:17:56.19,0:17:59.36,Default,,0,0,0,,That's definitely a dumb person's move! Who's that fooling!
+Dialogue: 0,0:17:59.88,0:18:01.39,Default,,0,0,0,,I'll give it a go!
+Dialogue: 0,0:18:01.85,0:18:06.35,Default,,0,0,0,,I want to understand myself better, and if I could change this condition...
+Dialogue: 0,0:18:06.35,0:18:08.44,Default,,0,0,0,,...I get the feeling that I could take a little step forward.
 Dialogue: 0,0:18:08.76,0:18:09.77,Default,,0,0,0,,Lily...
-Dialogue: 0,0:18:09.77,0:18:11.94,Default,,0,0,0,,So, it's been hard for you up until now, after all.
+Dialogue: 0,0:18:09.77,0:18:11.94,Default,,0,0,0,,It's been hard for you up until now after all.
 Dialogue: 0,0:18:11.94,0:18:13.19,Default,,0,0,0,,That's why...
 Dialogue: 0,0:18:14.59,0:18:15.49,Default,,0,0,0,,Please go ahead!
-Dialogue: 0,0:18:15.49,0:18:17.57,Default,,0,0,0,,That only makes it look like you're just making fun of us!
+Dialogue: 0,0:18:15.49,0:18:17.57,Default,,0,0,0,,It just looks like you're making fun of us now!
 Dialogue: 0,0:18:17.57,0:18:19.32,Default,,0,0,0,,Well then, we're going to start right away, okay?
 Dialogue: 0,0:18:19.32,0:18:20.16,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:18:29.96,0:18:30.96,TS,,0,0,0,,{\an9}Thump!
 Dialogue: 0,0:18:30.96,0:18:31.96,TS,,0,0,0,,{\an7}Thump!
 Dialogue: 0,0:18:32.79,0:18:34.68,Default,,0,0,0,,A cold hand...
 Dialogue: 0,0:18:34.68,0:18:37.97,Default,,0,0,0,,I wonder who it is. I can't tell, but it seems okay.
-Dialogue: 0,0:18:37.97,0:18:39.43,Default,,0,0,0,,Next person's going to touch now.
+Dialogue: 0,0:18:37.97,0:18:39.43,Default,,0,0,0,,Next person's up now.
 Dialogue: 0,0:18:39.59,0:18:40.39,TS,,0,0,0,,{\an9}Thump!
 Dialogue: 0,0:18:40.39,0:18:41.60,TS,,0,0,0,,{\an7}Thump!
 Dialogue: 0,0:18:42.76,0:18:45.34,Default,,0,0,0,,This time it's warm and soft.
 Dialogue: 0,0:18:45.34,0:18:47.12,Default,,0,0,0,,I'm totally fine with this one too...
-Dialogue: 0,0:18:47.63,0:18:50.02,Default,,0,0,0,,Maybe I'm okay after all...
+Dialogue: 0,0:18:47.63,0:18:50.02,Default,,0,0,0,,Maybe I'm okay after all.
 Dialogue: 0,0:18:50.02,0:18:51.23,Default,,0,0,0,,Okay, next then.
-Dialogue: 0,0:18:55.86,0:18:58.49,Default,,0,0,0,,It was slimy! Something was slimy just now!
-Dialogue: 0,0:18:59.11,0:19:02.63,Default,,0,0,0,,Right now, something large and slimy\Nthat isn't a hand was...!
-Dialogue: 0,0:19:02.63,0:19:03.78,Default,,0,0,0,,Oh! Oh!
-Dialogue: 0,0:19:03.78,0:19:05.37,Default,,0,0,0,,It's the goliath frog!
-Dialogue: 0,0:19:05.37,0:19:07.95,Default,,0,0,0,,You put a male goliath frog on me, didn't you?!
-Dialogue: 0,0:19:07.41,0:19:10.12,Default,,0,0,0,,{\an8}My hand is a goliath frog...?
-Dialogue: 0,0:19:07.95,0:19:10.12,Default,,0,0,0,,Why?! Why?! Why're you bringing\Na goliath frog to school?!
-Dialogue: 0,0:19:10.12,0:19:13.46,Default,,0,0,0,,Can you even bring one?!\NIt's supposed to be the world's largest, right?!
-Dialogue: 0,0:19:11.30,0:19:13.46,Default,,0,0,0,,{\an8}That girl's radar is genuine...
+Dialogue: 0,0:18:55.86,0:18:58.49,Default,,0,0,0,,Slimy! I just felt something slimy!
+Dialogue: 0,0:18:59.11,0:19:02.63,Default,,0,0,0,,That was definitely not a hand, it was big and slimy!
+Comment: 0,0:19:02.63,0:19:03.78,Default,,0,0,0,,Oh! Oh!
+Dialogue: 0,0:19:03.78,0:19:05.37,Default,,0,0,0,,It was the Goliath frog!
+Dialogue: 0,0:19:05.37,0:19:07.95,Default,,0,0,0,,You put a male Goliath frog on me, didn't you!
+Dialogue: 0,0:19:07.41,0:19:10.12,Default,,0,0,0,,{\an8}My hand is a Goliath frog?
+Dialogue: 0,0:19:07.95,0:19:10.12,Default,,0,0,0,,Why?! Why would you bring a Goliath frog to school?
+Dialogue: 0,0:19:10.12,0:19:13.46,Default,,0,0,0,,Is it even possible? It's supposed to be the biggest one, right?
+Dialogue: 0,0:19:11.30,0:19:13.46,Default,,0,0,0,,{\an8}That girl's radar is genuine.
 Dialogue: 0,0:19:13.46,0:19:14.34,Default,,0,0,0,,{\an8}Yeah.
 Dialogue: 0,0:19:13.46,0:19:15.13,Default,,0,0,0,,What about the Washington Convention?!
 Dialogue: 0,0:19:15.13,0:19:17.84,Default,,0,0,0,,What was that last one? What was it?!
-Dialogue: 0,0:19:18.17,0:19:19.13,Default,,0,0,0,,By any chance, was it David?
-Dialogue: 0,0:19:19.13,0:19:21.43,Default,,0,0,0,,{\an8}Did you mash up and smear a stamen on David?
-Dialogue: 0,0:19:19.63,0:19:21.43,Default,,0,0,0,,I'm the only one who's an amphibian...
+Dialogue: 0,0:19:18.17,0:19:19.13,Default,,0,0,0,,Could it have been David?
+Dialogue: 0,0:19:19.13,0:19:21.43,Default,,0,0,0,,{\an8}Did you spread a mashed-up Stamen onto David?
+Dialogue: 0,0:19:19.63,0:19:21.43,Default,,0,0,0,,I'm the only amphibian here.
 Dialogue: 0,0:19:21.26,0:19:23.93,TS,,0,0,0,,{\an7}Girl\N{\an8}Amphibian\N{\an9}Girl
-Dialogue: 0,0:19:21.43,0:19:23.93,Default,,0,0,0,,{\an8}Was it a combination trick of David and a stamen?!
-Dialogue: 0,0:19:40.40,0:19:44.78,Default,,0,0,0,,Noisy and loud
-Dialogue: 0,0:19:45.08,0:19:48.70,Default,,0,0,0,,But also endearing
-Dialogue: 0,0:19:49.04,0:19:52.92,Default,,0,0,0,,The laughter from that day
-Dialogue: 0,0:19:52.92,0:19:56.92,Default,,0,0,0,,A story that can't be rewound
-Dialogue: 0,0:19:56.92,0:20:00.80,Default,,0,0,0,,The thing about youth is, it's always light and shadows
-Dialogue: 0,0:20:00.80,0:20:02.84,Default,,0,0,0,,Inside the darkness
-Dialogue: 0,0:20:02.84,0:20:04.85,Default,,0,0,0,,A shining inferior star
-Dialogue: 0,0:20:05.10,0:20:08.56,Default,,0,0,0,,Looking back are complicated
-Dialogue: 0,0:20:08.56,0:20:12.98,Default,,0,0,0,,Far too beautiful days
-Dialogue: 0,0:20:13.52,0:20:22.53,Default,,0,0,0,,Springtime has always passed by unexpectedly by then
-Dialogue: 0,0:20:22.53,0:20:29.66,Default,,0,0,0,,Your words reverberate in my heart
-Dialogue: 0,0:20:29.66,0:20:38.17,Default,,0,0,0,,Someday springtime will take it all away
-Dialogue: 0,0:20:38.17,0:20:45.84,Default,,0,0,0,,Until that day, being stupid is all right
-Dialogue: 0,0:20:46.14,0:20:50.39,Default,,0,0,0,,Because I'll run past it
-Dialogue: 0,0:20:56.82,0:20:58.90,Default,,0,0,0,,Someone's calling me...
+Dialogue: 0,0:19:21.43,0:19:23.93,Default,,0,0,0,,{\an8}Was it a collaboration between a Stamen and David? {WHY IS IT DOWN HERE}
+Dialogue: 0,0:20:56.82,0:20:58.90,Default,,0,0,0,,Someone's calling me.
 Dialogue: 0,0:20:59.41,0:21:01.07,Default,,0,0,0,,It's an awfully nostalgic voice...
 Dialogue: 0,0:21:02.69,0:21:05.39,Default,,0,0,0,,Yamamoto!
 Dialogue: 0,0:21:05.82,0:21:08.95,TS,,0,0,0,,{\an8}Career Guidance Room
 Dialogue: 0,0:21:05.82,0:21:08.95,Default,,0,0,0,,Yamamoto, do you have any idea\Nwhy you were called here?
-Dialogue: 0,0:21:08.95,0:21:10.08,Default,,0,0,0,,Nopee.
-Dialogue: 0,0:21:10.08,0:21:13.21,Default,,0,0,0,,That word doesn't exist in Japanese, Yamamoto.
-Dialogue: 0,0:21:13.60,0:21:16.25,Default,,0,0,0,,This is the preferred course request form\NI passed out recently.
-Dialogue: 0,0:21:16.25,0:21:19.84,Default,,0,0,0,,Well, there's one person who hasn't turned it in yet,\Nso this is better than not turning it in, but...
+Dialogue: 0,0:21:08.95,0:21:10.08,Default,,0,0,0,,I dontn't.
+Dialogue: 0,0:21:10.08,0:21:13.21,Default,,0,0,0,,That word doesn't exist in English, Yamamoto.
+Dialogue: 0,0:21:13.60,0:21:16.25,Default,,0,0,0,,This is the course request form\NI passed out recently.
+Dialogue: 0,0:21:16.25,0:21:19.84,Default,,0,0,0,,There's one person who hasn't turned it in,\Nso this isn't the worst possible result, but...
 Dialogue: 0,0:21:19.84,0:21:21.09,TS,,0,0,0,,{\an7}Course Selection\N{\an7}Circle the course.\N{\an7}Humanities Course\N{\an7}Science Course\N{\an7}Other ("Still undecided" or etc., feel free to write in)\N{\an8}Both are correct,\N{\an8}and both are also incorrect.
 Dialogue: 0,0:21:19.84,0:21:21.09,Default,,0,0,0,,What is this?
-Dialogue: 0,0:21:21.09,0:21:23.05,Default,,0,0,0,,Explain the meaning of this.
-Dialogue: 0,0:21:25.14,0:21:29.24,Default,,0,0,0,,Sensei, are you familiar with "Schrödinger's cat?"
-Dialogue: 0,0:21:29.24,0:21:29.85,Default,,0,0,0,,Huh?!
-Dialogue: 0,0:21:30.68,0:21:32.50,Default,,0,0,0,,In other words, that's how it is.
+Dialogue: 0,0:21:21.09,0:21:23.05,Default,,0,0,0,,Explain  this.
+Dialogue: 0,0:21:25.14,0:21:29.24,Default,,0,0,0,,Mr. Sawatari, are you familiar with "Schrödinger's cat?"
+Dialogue: 0,0:21:29.24,0:21:29.85,Default,,0,0,0,,Huh?
+Dialogue: 0,0:21:30.68,0:21:32.50,Default,,0,0,0,,In short, that's how it is.
 Dialogue: 0,0:21:32.50,0:21:34.23,Default,,0,0,0,,I see. I don't understand at all.
 Dialogue: 0,0:21:34.23,0:21:38.23,TS,,0,0,0,,{\an8}Me
 Dialogue: 0,0:21:39.77,0:21:41.27,TS,,0,0,0,,{\an7}Me\N{\an8}Me
 Dialogue: 0,0:21:34.23,0:21:35.56,Default,,0,0,0,,In other words,
 Dialogue: 0,0:21:35.56,0:21:38.61,Default,,0,0,0,,there is a me that could proceed to the sciences, and a me that could proceed to the humanities.
 Dialogue: 0,0:21:38.61,0:21:40.71,Default,,0,0,0,,They can both exist.
-Dialogue: 0,0:21:40.71,0:21:42.48,Default,,0,0,0,,It can therefore be considered as such.
+Dialogue: 0,0:21:40.71,0:21:42.48,Default,,0,0,0,,Therefore, it should be considered as such.
 Dialogue: 0,0:21:41.73,0:21:42.48,TS,,0,0,0,,{\an7}Science me\N{\an8}Humanities me
 Dialogue: 0,0:21:47.41,0:21:50.76,Default,,0,0,0,,I don't know what TV show you were\Ninfluenced by, but answer me seriously.
-Dialogue: 0,0:21:50.76,0:21:53.25,Default,,0,0,0,,Sensei! I am always serious!
+Dialogue: 0,0:21:50.76,0:21:53.25,Default,,0,0,0,,Mr. Sawatari! I am always serious!
 Dialogue: 0,0:21:53.25,0:21:55.94,Default,,0,0,0,,If you're undecided, then ask me for advice.
 Dialogue: 0,0:21:55.94,0:21:57.51,Default,,0,0,0,,Even if it's a vague idea,
 Dialogue: 0,0:21:57.51,0:21:59.44,Default,,0,0,0,,do you have something you're interested in,
 Dialogue: 0,0:21:59.44,0:22:01.13,Default,,0,0,0,,or something you want to become in the future?
 Dialogue: 0,0:22:01.33,0:22:02.75,Default,,0,0,0,,Uh...
 Dialogue: 0,0:22:02.75,0:22:03.63,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:22:04.28,0:22:06.09,Default,,0,0,0,,Whatever it is, you can go ahead and say it.
+Dialogue: 0,0:22:04.28,0:22:06.09,Default,,0,0,0,,It doesn't matter what it is, you can say it.
 Dialogue: 0,0:22:08.30,0:22:09.39,Default,,0,0,0,,Dragon...
 Dialogue: 0,0:22:10.22,0:22:12.64,Default,,0,0,0,,I want to ride on a dragon and go into battle...
 Dialogue: 0,0:22:16.91,0:22:18.23,Default,,0,0,0,,So, is it like this?
 Dialogue: 0,0:22:18.23,0:22:22.12,Default,,0,0,0,,Is my interpretation correct that you want to become\Nlike a sort of entertaining martial artist?
 Dialogue: 0,0:22:22.12,0:22:22.77,Default,,0,0,0,,That's not it!
-Dialogue: 0,0:22:22.77,0:22:26.19,Default,,0,0,0,,I'm not a martial artist.\NI use a bow... I'm an archer!
-Dialogue: 0,0:22:26.19,0:22:27.68,Default,,0,0,0,,Are crazy. That's what you are.
+Dialogue: 0,0:22:22.77,0:22:26.19,Default,,0,0,0,,I'm not a martial artist.\NI use a bow... I'm an eagle eye!
+Dialogue: 0,0:22:26.19,0:22:27.68,Default,,0,0,0,,A birdbrain is what you are.
 Dialogue: 0,0:22:28.27,0:22:31.53,Default,,0,0,0,,I... I want to fight for someone else's sake...
-Dialogue: 0,0:22:31.89,0:22:35.51,Default,,0,0,0,,At some point, I will face two ultimate choices.
+Dialogue: 0,0:22:31.89,0:22:35.51,Default,,0,0,0,,At some point, I will face the ultimate choice.
 Dialogue: 0,0:22:36.06,0:22:37.63,Default,,0,0,0,,World peace...
-Dialogue: 0,0:22:38.16,0:22:40.58,Default,,0,0,0,,Or the life of my loved one...
-Dialogue: 0,0:22:40.58,0:22:44.55,Default,,0,0,0,,No, it's two choices between the sciences or\Nthe humanities that you're faced with right now.
+Dialogue: 0,0:22:38.16,0:22:40.58,Default,,0,0,0,,...or the life of my beloved.
+Dialogue: 0,0:22:40.58,0:22:44.55,Default,,0,0,0,,No, the choice you're facing right now is between the sciences and the humanities.
 Dialogue: 0,0:22:44.98,0:22:45.67,Default,,0,0,0,,But!
 Dialogue: 0,0:22:45.67,0:22:48.38,Default,,0,0,0,,Nevertheless, I have decided!
-Dialogue: 0,0:22:48.38,0:22:51.18,Default,,0,0,0,,I will protect my loved one,\Neven if I make enemies out of everyone!
-Dialogue: 0,0:22:53.15,0:22:55.68,Default,,0,0,0,,But despite that... My loved one...
-Dialogue: 0,0:22:56.24,0:23:01.08,Default,,0,0,0,,Realizes that and in exchange for world peace,\Nshe ends up sacrificing herself...
+Dialogue: 0,0:22:48.38,0:22:51.18,Default,,0,0,0,,I will protect my loved one,\Neven if I make an enemy out of everyone!
+Dialogue: 0,0:22:53.15,0:22:55.68,Default,,0,0,0,,But despite that, my beloved...
+Dialogue: 0,0:22:56.24,0:23:01.08,Default,,0,0,0,,...realizes that, and in exchange for world peace,\Nshe ends up sacrificing herself!
 Dialogue: 0,0:23:01.08,0:23:02.81,Default,,0,0,0,,Princess!
-Dialogue: 0,0:23:03.40,0:23:06.81,Default,,0,0,0,,She's that kinda person, you see. My loved one...
-Dialogue: 0,0:23:09.74,0:23:10.94,Default,,0,0,0,,P-probably...
+Dialogue: 0,0:23:03.40,0:23:06.81,Default,,0,0,0,,She's that kinda person, you see. My beloved.
+Dialogue: 0,0:23:09.74,0:23:10.94,Default,,0,0,0,,P-Probably...
 Dialogue: 0,0:23:13.10,0:23:15.33,Default,,0,0,0,,So, sciences or humanities. Which one will it be?
-Dialogue: 0,0:23:15.33,0:23:18.46,Default,,0,0,0,,Sensei. You're one of those people who don't get it...
-Dialogue: 0,0:23:18.46,0:23:20.94,Default,,0,0,0,,I can't keep... This one...
-Dialogue: 0,0:23:20.94,0:23:23.92,Default,,0,0,0,,Under my control any longer...!
-Dialogue: 0,0:23:25.21,0:23:27.96,Default,,0,0,0,,Hu...rry! Run...!
-Dialogue: 0,0:23:28.19,0:23:31.30,Default,,0,0,0,,While I'm... While I'm still me! Hurry!
-Dialogue: 0,0:23:32.69,0:23:35.31,Default,,0,0,0,,Very well. Let's call your parents at once and talk.
-Dialogue: 0,0:23:35.31,0:23:36.93,Default,,0,0,0,,Oh, I'll choose humanities.
-Dialogue: 0,0:23:38.03,0:23:40.36,Default,,0,0,0,,She decided in two seconds...
+Dialogue: 0,0:23:15.33,0:23:18.46,Default,,0,0,0,,Mr. Sawatari. You're one of those people who don't get it.
+Dialogue: 0,0:23:18.46,0:23:20.94,Default,,0,0,0,,I can't keep this...
+Dialogue: 0,0:23:20.94,0:23:23.92,Default,,0,0,0,,...under control any longer!
+Dialogue: 0,0:23:25.21,0:23:27.96,Default,,0,0,0,,Hurry... Run!
+Dialogue: 0,0:23:28.19,0:23:31.30,Default,,0,0,0,,While I'm... While I'm still myself! Hurry!
+Dialogue: 0,0:23:32.69,0:23:35.31,Default,,0,0,0,,Very well. Let's call your parents and have a talk.
+Dialogue: 0,0:23:35.31,0:23:36.93,Default,,0,0,0,,Oh, humanities is fine.
+Dialogue: 0,0:23:38.03,0:23:40.36,Default,,0,0,0,,It took her two seconds.
