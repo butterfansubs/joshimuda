@@ -15,7 +15,7 @@ See the [project boards](https://github.com/butterfansubs/joshimuda/projects).
 * **Translation Checking:** bucket3432
 * **Encoding:** Vardë
 * **Editing:** luvsick
-* **Timing:** gsk\_
+* **Timing:** gsk\_, LafferStyle (06)
 * **Styling:** bucket3432
 * **Typesetting:** gsk\_, bucket3432 
 * **Quality Checking:** bucket3432
