@@ -4,3 +4,15 @@
 !*.ass
 !*.md
 !*.txt
+
+# SubKt
+!/build.gradle.kts
+!/gradle.properties
+!/gradle
+!/gradle/wrapper
+!/gradle/wrapper/gradle-wrapper.jar
+!/gradle/wrapper/gradle-wrapper.properties
+!/gradlew
+!/gradlew.bat
+!/settings.gradle.kts
+!/sub.properties
