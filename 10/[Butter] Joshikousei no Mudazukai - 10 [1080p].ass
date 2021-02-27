@@ -17,9 +17,9 @@ Keyframes File: [Airota&VCB-Studio] Joshikousei no Mudazukai [10][Ma10p_1080p][x
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 178
-Active Line: 191
-Video Position: 10914
+Scroll Position: 534
+Active Line: 547
+Video Position: 33934
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -225,326 +225,325 @@ Dialogue: 0,0:07:24.20,0:07:25.88,Default,,0,0,0,,Hurry up and try it!
 Dialogue: 0,0:07:32.64,0:07:34.57,Default,,0,0,0,,That felt wicked good!
 Dialogue: 0,0:07:34.57,0:07:35.93,Default,,0,0,0,,Let's do all white next!
 Dialogue: 0,0:07:35.09,0:07:37.14,Default,,0,0,0,,{\an8}She was indeed "legitimate."
-Dialogue: 0,0:07:35.93,0:07:37.68,Default,,0,0,0,,I'll line them up, so you go next, Wota!
-Dialogue: 0,0:07:40.69,0:07:43.94,Default,,0,0,0,,So, like, when I was in elementary school...
-Dialogue: 0,0:07:43.94,0:07:46.44,Default,,0,0,0,,I wanted to try bringing dried sardines back to life,
-Dialogue: 0,0:07:46.44,0:07:47.94,Default,,0,0,0,,so I put them in a fish tank overnight.
-Dialogue: 0,0:07:46.73,0:07:47.94,Default,,0,0,0,,{\an8}"Robo-san."
-Dialogue: 0,0:07:47.94,0:07:48.82,Default,,0,0,0,,{\an8}so I put them in a fish tank overnight.
-Dialogue: 0,0:07:47.94,0:07:50.86,Default,,0,0,0,,I still don't know her real name.
+Dialogue: 0,0:07:35.93,0:07:37.64,Default,,0,0,0,,I'll line them up, so you go next, Wota!
+Dialogue: 0,0:07:40.83,0:07:43.90,Default,,0,0,0,,So, like, when I was in elementary school...
+Dialogue: 0,0:07:43.90,0:07:46.40,Default,,0,0,0,,I wanted to try bringing dried sardines back to life,
+Dialogue: 0,0:07:46.40,0:07:48.65,Default,,0,0,0,,so I put them in a fish tank overnight.
+Dialogue: 0,0:07:46.73,0:07:47.90,Default,,0,0,0,,{\an8}"Robo-san."
+Dialogue: 0,0:07:47.90,0:07:50.86,Default,,0,0,0,,I still don't know her real name.
 Dialogue: 0,0:07:49.69,0:07:52.07,Default,,0,0,0,,{\an8}You are just unrepentantly stupid, aren't you?
-Dialogue: 0,0:07:50.86,0:07:54.03,Default,,0,0,0,,All I know is, that's what her friends call her.
-Dialogue: 0,0:07:52.07,0:07:54.03,Default,,0,0,0,,It must suck to be you.
-Dialogue: 0,0:07:54.28,0:07:56.12,Default,,0,0,0,,Huh? Wota, you've never tried that before?
+Dialogue: 0,0:07:50.86,0:07:54.07,Default,,0,0,0,,All I know is, that's what her friends call her.
+Dialogue: 0,0:07:52.07,0:07:54.07,Default,,0,0,0,,It must suck to be you.
+Dialogue: 0,0:07:54.07,0:07:56.12,Default,,0,0,0,,Huh? Wota, you've never tried that before?
 Dialogue: 0,0:07:54.57,0:07:57.24,Default,,0,0,0,,{\an8}Her friend, "Baka-san," simply talks a lot...
 Dialogue: 0,0:07:56.12,0:07:57.54,Default,,0,0,0,,Why would I do something so idiotic?
 Dialogue: 0,0:07:57.24,0:08:00.83,Default,,0,0,0,,{\an8}All things considered,\Nshe's like a pastry with nothing inside.
 Dialogue: 0,0:07:57.54,0:08:00.83,Default,,0,0,0,,So, the next day, I checked the fish tank all excited,
-Dialogue: 0,0:08:00.83,0:08:02.75,Default,,0,0,0,,but they were still all dried up.
+Dialogue: 0,0:08:00.83,0:08:02.92,Default,,0,0,0,,but they were still all dried up.
 Dialogue: 0,0:08:02.92,0:08:06.21,Default,,0,0,0,,{\an8}"Wota-san" is bright-eyed\Nand always has a witty comeback...
 Dialogue: 0,0:08:02.92,0:08:05.38,Default,,0,0,0,,The only thing I got out of it was some good fish stock.
 Dialogue: 0,0:08:05.38,0:08:07.00,Default,,0,0,0,,Well, they were sardines, after all.
 Dialogue: 0,0:08:06.21,0:08:08.21,Default,,0,0,0,,{\an8}She's like some bird of prey.
-Dialogue: 0,0:08:07.00,0:08:09.05,Default,,0,0,0,,I don't doubt you got some good stock.
-Dialogue: 0,0:08:09.05,0:08:11.34,Default,,0,0,0,,{\an8}Still, it was such a shock at the time
+Dialogue: 0,0:08:07.00,0:08:08.96,Default,,0,0,0,,I don't doubt you got some good stock.
+Dialogue: 0,0:08:08.96,0:08:11.34,Default,,0,0,0,,{\an8}Still, it was such a shock at the time
 Dialogue: 0,0:08:09.30,0:08:11.34,Default,,0,0,0,,I assume they gave each other their nicknames,
 Dialogue: 0,0:08:11.34,0:08:13.84,Default,,0,0,0,,{\an8}but those are some rather bold\Nand straightforward names.
 Dialogue: 0,0:08:11.34,0:08:12.76,Default,,0,0,0,,that it felt like I was in a dream!
 Dialogue: 0,0:08:12.76,0:08:13.84,Default,,0,0,0,,You know what would be more shocking?
-Dialogue: 0,0:08:13.84,0:08:15.64,Default,,0,0,0,,Putting dried sardines in a tank\Nand they do come back to life.
-Dialogue: 0,0:08:14.64,0:08:15.64,Default,,0,0,0,,{\an8}Robo-san is...
-Dialogue: 0,0:08:15.64,0:08:18.35,Default,,0,0,0,,She's as lovely as the bright blue Nemophila!
-Dialogue: 0,0:08:18.68,0:08:23.64,Default,,0,0,0,,It's as if when she boards this train,\Nit becomes a field of Nemophila, a wave of azure!
-Dialogue: 0,0:08:23.89,0:08:26.65,Default,,0,0,0,,Hey, whatcha eat last night?\NWe had yaki udon at my place.
-Dialogue: 0,0:08:26.65,0:08:29.19,Default,,0,0,0,,Uh, we had katsu don over at ours, I think.
+Dialogue: 0,0:08:13.84,0:08:15.81,Default,,0,0,0,,Putting dried sardines in a tank\Nand they do come back to life.
+Dialogue: 0,0:08:14.64,0:08:15.81,Default,,0,0,0,,{\an8}Robo-san is...
+Dialogue: 0,0:08:15.81,0:08:18.68,Default,,0,0,0,,She's as lovely as the bright blue Nemophila!
+Dialogue: 0,0:08:18.68,0:08:23.85,Default,,0,0,0,,It's as if when she boards this train,\Nit becomes a field of Nemophila, a wave of azure!
+Dialogue: 0,0:08:23.85,0:08:26.73,Default,,0,0,0,,Hey, whatcha eat last night?\NWe had yaki udon at my place.
+Dialogue: 0,0:08:26.73,0:08:29.19,Default,,0,0,0,,Uh, we had katsu don over at ours, I think.
 Dialogue: 0,0:08:29.19,0:08:30.40,Default,,0,0,0,,Nice! A big, fat katsu don!
 Dialogue: 0,0:08:30.40,0:08:31.40,Default,,0,0,0,,Cut it out with the "big" and "fat."
-Dialogue: 0,0:08:31.40,0:08:32.28,Default,,0,0,0,,How about you, Robo?
-Dialogue: 0,0:08:32.53,0:08:36.03,Default,,0,0,0,,I imagine Robo-san had salmon\Nwith a spinach cream pasta!
-Dialogue: 0,0:08:36.28,0:08:37.53,Default,,0,0,0,,{\an7}Note: Echoing "Essays in Idleness,"\N{\an7}a work by the Buddhist monk Kenko
-Dialogue: 0,0:08:36.28,0:08:37.53,Default,,0,0,0,,Idle grass.
+Dialogue: 0,0:08:31.40,0:08:32.24,Default,,0,0,0,,How about you, Robo?
+Dialogue: 0,0:08:32.53,0:08:36.24,Default,,0,0,0,,I imagine Robo-san had salmon\Nwith a spinach cream pasta!
+Dialogue: 0,0:08:36.24,0:08:37.49,Default,,0,0,0,,{\an7}Note: Echoing "Essays in Idleness,"\N{\an7}a work by the Buddhist monk Kenko
+Dialogue: 0,0:08:36.24,0:08:37.49,Default,,0,0,0,,Idle grass.
 Dialogue: 0,0:08:37.87,0:08:39.29,Default,,0,0,0,,When asked what she ate last night,
-Dialogue: 0,0:08:39.29,0:08:43.08,Default,,0,0,0,,she responds not with what she ate,\Nbut with the title of the book she read!
-Dialogue: 0,0:08:43.96,0:08:46.83,Default,,0,0,0,,How stately! You are so wonderful, Robo-san!
-Dialogue: 0,0:08:46.83,0:08:49.38,Default,,0,0,0,,We sat in the yard and idly ate grass.
-Dialogue: 0,0:08:49.38,0:08:52.92,Default,,0,0,0,,Again?! Your family always does that\Njust before payday, huh?
-Dialogue: 0,0:08:52.92,0:08:56.64,Default,,0,0,0,,They live in that big house, but it's a mystery\Nwhether they're rich or poor, isn't it?
-Dialogue: 0,0:08:56.64,0:08:59.56,Default,,0,0,0,,Okay! Next, let's tell each other\Nwhat we want the most!
-Dialogue: 0,0:08:59.64,0:09:01.89,Default,,0,0,0,,{\an7}Note: A nod to Doraemon\NI want a 4th dimensional pocket!
-Dialogue: 0,0:08:59.64,0:09:01.89,Default,,0,0,0,,What about you, Wota?
-Dialogue: 0,0:09:01.89,0:09:02.73,Default,,0,0,0,,Talent.
-Dialogue: 0,0:09:02.73,0:09:03.85,Default,,0,0,0,,That's not an object.
-Dialogue: 0,0:09:03.85,0:09:04.94,Default,,0,0,0,,What's the difference?
+Dialogue: 0,0:08:39.29,0:08:43.36,Default,,0,0,0,,she responds not with what she ate,\Nbut with the title of the book she read!
+Dialogue: 0,0:08:43.96,0:08:46.75,Default,,0,0,0,,How stately! You are so wonderful, Robo-san!
+Dialogue: 0,0:08:46.75,0:08:49.38,Default,,0,0,0,,We sat in the yard and idly ate grass.
+Dialogue: 0,0:08:49.38,0:08:52.98,Default,,0,0,0,,Again?! Your family always does that\Njust before payday, huh?
+Dialogue: 0,0:08:52.98,0:08:56.59,Default,,0,0,0,,They live in that big house, but it's a mystery\Nwhether they're rich or poor, isn't it?
+Dialogue: 0,0:08:56.59,0:08:59.60,Default,,0,0,0,,Okay! Next, let's tell each other\Nwhat we want the most!
+Dialogue: 0,0:08:59.60,0:09:02.09,Default,,0,0,0,,{\an7}Note: A nod to Doraemon\NI want a 4th dimensional pocket!
+Dialogue: 0,0:08:59.60,0:09:02.09,Default,,0,0,0,,What about you, Wota?
+Dialogue: 0,0:09:02.09,0:09:02.73,Default,,0,0,0,,Talent.
+Dialogue: 0,0:09:02.73,0:09:03.81,Default,,0,0,0,,That's not an object.
+Dialogue: 0,0:09:03.81,0:09:04.94,Default,,0,0,0,,What's the difference?
 Dialogue: 0,0:09:04.94,0:09:07.69,Default,,0,0,0,,What you want only exists in the world\Nwhere there's cat-shaped robots!
 Dialogue: 0,0:09:05.31,0:09:07.69,Default,,0,0,0,,{\an8}And Robo-san? Don't tell me she wants a boyfriend!
-Dialogue: 0,0:09:07.69,0:09:08.73,Default,,0,0,0,,And you, Robo?
-Dialogue: 0,0:09:08.73,0:09:09.73,Default,,0,0,0,,A bo...
-Dialogue: 0,0:09:10.36,0:09:14.49,Default,,0,0,0,,A body of samples for anti-aging\NDNA manipulation experiments.
-Dialogue: 0,0:09:14.49,0:09:16.70,Default,,0,0,0,,Robo, I think you're going to get\Narrested one of these days.
+Dialogue: 0,0:09:07.69,0:09:08.86,Default,,0,0,0,,And you, Robo?
+Dialogue: 0,0:09:08.86,0:09:09.73,Default,,0,0,0,,A bo...
+Dialogue: 0,0:09:10.32,0:09:14.45,Default,,0,0,0,,A body of samples for anti-aging\NDNA manipulation experiments.
+Dialogue: 0,0:09:14.45,0:09:16.70,Default,,0,0,0,,Robo, I think you're going to get\Narrested one of these days.
 Dialogue: 0,0:09:16.70,0:09:18.41,Default,,0,0,0,,I would not make such a blunder.
-Dialogue: 0,0:09:20.49,0:09:21.49,Default,,0,0,0,,I see...
-Dialogue: 0,0:09:21.49,0:09:24.96,Default,,0,0,0,,I was born so that I could be a sample\Nfor one of her experiments!
+Dialogue: 0,0:09:20.45,0:09:21.40,Default,,0,0,0,,I see...
+Dialogue: 0,0:09:21.40,0:09:24.96,Default,,0,0,0,,I was born so that I could be a sample\Nfor one of her experiments!
 Dialogue: 0,0:09:25.21,0:09:26.17,Default,,0,0,0,,Well, see ya!
-Dialogue: 0,0:09:26.17,0:09:27.08,Default,,0,0,0,,See you tomorrow.
-Dialogue: 0,0:09:27.08,0:09:28.08,Default,,0,0,0,,Goodbye.
-Dialogue: 0,0:09:29.75,0:09:31.88,Default,,0,0,0,,{\an8}Chikuwa Bookstore
-Dialogue: 0,0:09:30.04,0:09:31.88,Default,,0,0,0,,I've made up my mind.
-Dialogue: 0,0:09:34.42,0:09:36.63,Default,,0,0,0,,I was fine with just looking,
-Dialogue: 0,0:09:36.63,0:09:39.68,Default,,0,0,0,,but if I could actually get to speak with you...
-Dialogue: 0,0:09:40.64,0:09:43.85,Default,,0,0,0,,If our eyes could meet as we engaged in talk...
-Dialogue: 0,0:09:43.85,0:09:46.06,Default,,0,0,0,,How brightly this world would shine!
-Dialogue: 0,0:09:50.36,0:09:51.90,Default,,0,0,0,,U-um...!
-Dialogue: 0,0:09:55.36,0:09:56.53,Default,,0,0,0,,Just calm down.
-Dialogue: 0,0:09:56.53,0:09:58.95,Default,,0,0,0,,I've run through this simulation so many times.
-Dialogue: 0,0:09:58.95,0:10:00.57,Default,,0,0,0,,And I have an ace up my sleeve.
-Dialogue: 0,0:10:00.57,0:10:03.66,Default,,0,0,0,,That which is needed for a man and woman\Nwho don't know each other to get acquainted...
-Dialogue: 0,0:10:03.66,0:10:05.41,Default,,0,0,0,,{\an8}Why is my Friend's House
-Dialogue: 0,0:10:05.41,0:10:07.67,Default,,0,0,0,,Yes: Points in common!
-Dialogue: 0,0:10:07.67,0:10:10.92,Default,,0,0,0,,Wh-where did you buy that book?
-Dialogue: 0,0:10:12.71,0:10:17.93,Default,,0,0,0,,Uh, for... For a while now I've thought,\N"That sure looks interesting!"
-Dialogue: 0,0:10:17.93,0:10:20.89,Default,,0,0,0,,I've looked around for it\Nbut I haven't been able to find it.
-Dialogue: 0,0:10:22.89,0:10:26.10,Default,,0,0,0,,These days you can just buy things online,\Nso maybe this was a bit of a stretch...
-Dialogue: 0,0:10:26.10,0:10:28.27,Default,,0,0,0,,The Chikuwa Bookstore\Nat the station's north entrance.
-Dialogue: 0,0:10:28.27,0:10:30.98,Default,,0,0,0,,If you're that interested in it, I will give it to you.
-Dialogue: 0,0:10:31.52,0:10:33.57,Default,,0,0,0,,Sh-she's talking to me!
-Dialogue: 0,0:10:33.73,0:10:36.99,Default,,0,0,0,,It would seem the household of\Na friend of yours is faced with difficulty.
-Dialogue: 0,0:10:36.99,0:10:39.66,Default,,0,0,0,,She's really talking to me right now!
-Dialogue: 0,0:10:40.87,0:10:43.37,Default,,0,0,0,,{\an8}Why is my Friend's House\N{\an8}Slightly Smelly?
-Dialogue: 0,0:10:50.92,0:10:54.59,Default,,0,0,0,,True enough, Sasaki kept five hamsters at home,
-Dialogue: 0,0:10:54.59,0:10:57.88,Default,,0,0,0,,and Aoyama's house, where you had to pass\Nthrough the veranda to get to the bath...
-Dialogue: 0,0:10:57.88,0:10:59.68,Default,,0,0,0,,both of these were slightly smelly.
-Dialogue: 0,0:11:00.63,0:11:03.93,Default,,0,0,0,,Once I've found my own answer\Nto this philosophical dilemma,
-Dialogue: 0,0:11:03.93,0:11:06.60,Default,,0,0,0,,I will try speaking to you again.
-Dialogue: 0,0:11:09.06,0:11:11.60,Default,,0,0,0,,I swear... How bright the setting sun is!
-Dialogue: 0,0:11:13.06,0:11:16.98,Default,,0,0,0,,{\an7}GRAAARGH!
-Dialogue: 0,0:11:14.19,0:11:16.98,Default,,0,0,0,,{\an8}Hmph!
-Dialogue: 0,0:11:14.82,0:11:16.98,Default,,0,0,0,,{\an9}Bzzzt
-Dialogue: 0,0:11:17.32,0:11:19.53,Default,,0,0,0,,C'mon, Robo. I said I'm sorry!!
-Dialogue: 0,0:11:19.53,0:11:21.78,Default,,0,0,0,,{\an8}Let's get along
-Dialogue: 0,0:11:19.53,0:11:21.53,Default,,0,0,0,,This cannot be solved by a simple apology.
-Dialogue: 0,0:11:21.53,0:11:23.03,Default,,0,0,0,,Though it may be hard for me to show it,
-Dialogue: 0,0:11:23.03,0:11:24.58,Default,,0,0,0,,even I can get hurt.
-Dialogue: 0,0:11:23.28,0:11:26.29,Default,,0,0,0,,{\an8}Now Saginomiya-san and Tanaka-san are fighting?
-Dialogue: 0,0:11:27.66,0:11:29.50,Default,,0,0,0,,S..Saginomiya-san!
-Dialogue: 0,0:11:32.25,0:11:33.75,Default,,0,0,0,,P-please wait!
-Dialogue: 0,0:11:35.21,0:11:37.42,Default,,0,0,0,,What the heck's going on?
-Dialogue: 0,0:11:38.17,0:11:41.43,Default,,0,0,0,,I-It's sort of unusual for you two to be fighting.
-Dialogue: 0,0:11:41.43,0:11:44.18,Default,,0,0,0,,Saginomiya-san, what happened?
-Dialogue: 0,0:11:44.18,0:11:46.93,Default,,0,0,0,,You're always so calm,\Nso for you to worked up like this...
-Dialogue: 0,0:11:47.43,0:11:50.31,Default,,0,0,0,,Yeah, Robo doesn't get angry that often.
-Dialogue: 0,0:11:50.31,0:11:53.60,Default,,0,0,0,,She and I don't really get into fights.
-Dialogue: 0,0:11:53.85,0:11:54.90,Default,,0,0,0,,But...
-Dialogue: 0,0:11:55.31,0:11:58.78,Default,,0,0,0,,Yes. There may have been one time, long ago.
-Dialogue: 0,0:11:59.74,0:12:01.82,Default,,0,0,0,,J-just tell me already!
-Dialogue: 0,0:12:01.82,0:12:05.20,Default,,0,0,0,,I can't stand that look you've got on your face!
-Dialogue: 0,0:12:05.20,0:12:07.20,Default,,0,0,0,,Please, you can confide in me.
-Dialogue: 0,0:12:07.20,0:12:10.50,Default,,0,0,0,,If that will make you feel even a little better, that is.
-Dialogue: 0,0:12:10.70,0:12:15.50,Default,,0,0,0,,The thing is, Robo, Wota, and I\Nwent to the same elementary school...
-Dialogue: 0,0:12:15.71,0:12:17.38,Default,,0,0,0,,Let's play Cops and Robbers!
-Dialogue: 0,0:12:17.38,0:12:21.01,Default,,0,0,0,,I'll be the cop, and Kikuchi and Saginomiya\Nwill be the robbers, okay?!
-Dialogue: 0,0:12:21.01,0:12:23.38,Default,,0,0,0,,We always played together after school,
-Dialogue: 0,0:12:21.01,0:12:22.84,Default,,0,0,0,,{\an8}Come on! Again?!
-Dialogue: 0,0:12:23.38,0:12:27.26,Default,,0,0,0,,but Robo ended up going to\Na prep school in the next town over.
-Dialogue: 0,0:12:27.26,0:12:29.97,Default,,0,0,0,,She may not look it, but she's super smart.
-Dialogue: 0,0:12:29.97,0:12:34.27,Default,,0,0,0,,Then, when Wota and I went to different classes,\Nwe just fell out of touch.
-Dialogue: 0,0:12:34.27,0:12:37.69,Default,,0,0,0,,We all led our own lives in middle school...
-Dialogue: 0,0:12:38.44,0:12:40.73,Default,,0,0,0,,but we ran into each other\Nduring the summer of our third year,
-Dialogue: 0,0:12:40.73,0:12:43.32,Default,,0,0,0,,and we started hanging out again.
-Dialogue: 0,0:12:43.32,0:12:47.41,Default,,0,0,0,,By that time, Wota and I had\Nalready decided to go to Saijo. Then...
-Dialogue: 0,0:12:48.41,0:12:50.41,Default,,0,0,0,,I will go to Saijo too.
-Dialogue: 0,0:12:50.41,0:12:53.46,Default,,0,0,0,,Huh? But you could get into\Na much better school, right?
-Dialogue: 0,0:12:53.46,0:12:54.37,Default,,0,0,0,,I have made my decision.
+Dialogue: 0,0:09:26.17,0:09:27.00,Default,,0,0,0,,See you tomorrow.
+Dialogue: 0,0:09:27.00,0:09:28.08,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:09:29.75,0:09:31.88,Signs,,0,0,0,,{\an8}Chikuwa Bookstore
+Dialogue: 0,0:09:30.10,0:09:31.80,Default,,0,0,0,,I've made up my mind.
+Dialogue: 0,0:09:34.49,0:09:36.55,Default,,0,0,0,,I was fine with just looking,
+Dialogue: 0,0:09:36.55,0:09:39.68,Default,,0,0,0,,but if I could actually get to speak with you...
+Dialogue: 0,0:09:40.80,0:09:44.02,Default,,0,0,0,,If our eyes could meet as we engaged in talk...
+Dialogue: 0,0:09:44.02,0:09:45.94,Default,,0,0,0,,How brightly this world would shine!
+Dialogue: 0,0:09:50.54,0:09:52.25,Default,,0,0,0,,U-um...!
+Dialogue: 0,0:09:55.32,0:09:56.47,Default,,0,0,0,,Just calm down.
+Dialogue: 0,0:09:56.47,0:09:59.13,Default,,0,0,0,,I've run through this simulation so many times.
+Dialogue: 0,0:09:59.13,0:10:00.57,Default,,0,0,0,,And I have an ace up my sleeve.
+Dialogue: 0,0:10:00.57,0:10:03.58,Default,,0,0,0,,That which is needed for a man and woman\Nwho don't know each other to get acquainted...
+Dialogue: 0,0:10:03.66,0:10:05.33,Signs,,0,0,0,,{\an8}Why is my Friend's House
+Dialogue: 0,0:10:05.33,0:10:07.58,Default,,0,0,0,,Yes: Points in common!
+Dialogue: 0,0:10:07.58,0:10:11.10,Default,,0,0,0,,Wh-where did you buy that book?
+Dialogue: 0,0:10:12.84,0:10:18.09,Default,,0,0,0,,Uh, for... For a while now I've thought,\N"That sure looks interesting!"
+Dialogue: 0,0:10:18.09,0:10:20.85,Default,,0,0,0,,I've looked around for it\Nbut I haven't been able to find it.
+Dialogue: 0,0:10:22.85,0:10:26.15,Default,,0,0,0,,These days you can just buy things online,\Nso maybe this was a bit of a stretch...
+Dialogue: 0,0:10:26.15,0:10:28.23,Default,,0,0,0,,The Chikuwa Bookstore\Nat the station's north entrance.
+Dialogue: 0,0:10:28.23,0:10:30.86,Default,,0,0,0,,If you're that interested in it, I will give it to you.
+Dialogue: 0,0:10:31.69,0:10:33.69,Default,,0,0,0,,Sh-she's talking to me!
+Dialogue: 0,0:10:33.69,0:10:36.94,Default,,0,0,0,,It would seem the household of\Na friend of yours is faced with difficulty.
+Dialogue: 0,0:10:36.94,0:10:39.80,Default,,0,0,0,,She's really talking to me right now!
+Dialogue: 0,0:10:40.82,0:10:43.33,Default,,0,0,0,,{\an8}Why is my Friend's House\N{\an8}Slightly Smelly?
+Dialogue: 0,0:10:51.02,0:10:54.80,Default,,0,0,0,,True enough, Sasaki kept five hamsters at home,
+Dialogue: 0,0:10:54.80,0:10:58.10,Default,,0,0,0,,and Aoyama's house, where you had to pass\Nthrough the veranda to get to the bath...
+Dialogue: 0,0:10:58.10,0:10:59.68,Default,,0,0,0,,both of these were slightly smelly.
+Dialogue: 0,0:11:00.59,0:11:04.12,Default,,0,0,0,,Once I've found my own answer\Nto this philosophical dilemma,
+Dialogue: 0,0:11:04.12,0:11:06.60,Default,,0,0,0,,I will try speaking to you again.
+Dialogue: 0,0:11:09.21,0:11:11.60,Default,,0,0,0,,I swear... How bright the setting sun is!
+Dialogue: 0,0:11:13.06,0:11:16.98,Signs,,0,0,0,,{\an7}GRAAARGH!
+Dialogue: 0,0:11:14.19,0:11:16.98,Signs,,0,0,0,,{\an8}Hmph!
+Dialogue: 0,0:11:14.82,0:11:16.98,Signs,,0,0,0,,{\an9}Bzzzt
+Dialogue: 0,0:11:17.49,0:11:19.49,Default,,0,0,0,,C'mon, Robo. I said I'm sorry!!
+Dialogue: 0,0:11:19.49,0:11:21.74,Default,,0,0,0,,{\an8}Let's get along
+Dialogue: 0,0:11:19.49,0:11:21.74,Default,,0,0,0,,This cannot be solved by a simple apology.
+Dialogue: 0,0:11:21.74,0:11:24.58,Default,,0,0,0,,Though it may be hard for me to show it, even I can get hurt.
+Dialogue: 0,0:11:23.28,0:11:26.24,Default,,0,0,0,,{\an8}Now Saginomiya-san and Tanaka-san are fighting?
+Dialogue: 0,0:11:27.84,0:11:29.65,Default,,0,0,0,,S..Saginomiya-san!
+Dialogue: 0,0:11:32.10,0:11:33.87,Default,,0,0,0,,P-please wait!
+Dialogue: 0,0:11:35.06,0:11:37.32,Default,,0,0,0,,What the heck's going on?
+Dialogue: 0,0:11:38.17,0:11:41.38,Default,,0,0,0,,I-It's sort of unusual for you two to be fighting.
+Dialogue: 0,0:11:41.38,0:11:44.14,Default,,0,0,0,,Saginomiya-san, what happened?
+Dialogue: 0,0:11:44.14,0:11:46.89,Default,,0,0,0,,You're always so calm,\Nso for you to worked up like this...
+Dialogue: 0,0:11:47.58,0:11:50.27,Default,,0,0,0,,Yeah, Robo doesn't get angry that often.
+Dialogue: 0,0:11:50.27,0:11:53.65,Default,,0,0,0,,She and I don't really get into fights.
+Dialogue: 0,0:11:54.03,0:11:55.34,Default,,0,0,0,,But...
+Dialogue: 0,0:11:55.34,0:11:58.78,Default,,0,0,0,,Yes. There may have been one time, long ago.
+Dialogue: 0,0:11:59.32,0:12:01.78,Default,,0,0,0,,J-just tell me already!
+Dialogue: 0,0:12:01.78,0:12:05.37,Default,,0,0,0,,I can't stand that look you've got on your face!
+Dialogue: 0,0:12:05.37,0:12:07.16,Default,,0,0,0,,Please, you can confide in me.
+Dialogue: 0,0:12:07.16,0:12:10.80,Default,,0,0,0,,If that will make you feel even a little better, that is.
+Dialogue: 0,0:12:10.80,0:12:15.42,Default,,0,0,0,,The thing is, Robo, Wota, and I\Nwent to the same elementary school...
+Dialogue: 0,0:12:15.42,0:12:17.29,Default,,0,0,0,,Let's play Cops and Robbers!
+Dialogue: 0,0:12:17.29,0:12:20.92,Default,,0,0,0,,I'll be the cop, and Kikuchi and Saginomiya\Nwill be the robbers, okay?!
+Dialogue: 0,0:12:20.92,0:12:23.30,Default,,0,0,0,,We always played together after school,
+Dialogue: 0,0:12:20.92,0:12:23.30,Default,,0,0,0,,{\an8}Come on! Again?!
+Dialogue: 0,0:12:23.30,0:12:27.41,Default,,0,0,0,,but Robo ended up going to\Na prep school in the next town over.
+Dialogue: 0,0:12:27.41,0:12:29.93,Default,,0,0,0,,She may not look it, but she's super smart.
+Dialogue: 0,0:12:29.93,0:12:34.45,Default,,0,0,0,,Then, when Wota and I went to different classes,\Nwe just fell out of touch.
+Dialogue: 0,0:12:34.45,0:12:37.88,Default,,0,0,0,,We all led our own lives in middle school...
+Dialogue: 0,0:12:38.40,0:12:40.79,Default,,0,0,0,,but we ran into each other\Nduring the summer of our third year,
+Dialogue: 0,0:12:40.79,0:12:43.28,Default,,0,0,0,,and we started hanging out again.
+Dialogue: 0,0:12:43.28,0:12:47.41,Default,,0,0,0,,By that time, Wota and I had\Nalready decided to go to Saijo. Then...
+Dialogue: 0,0:12:48.57,0:12:50.33,Default,,0,0,0,,I will go to Saijo too.
+Dialogue: 0,0:12:50.33,0:12:53.37,Default,,0,0,0,,Huh? But you could get into\Na much better school, right?
+Dialogue: 0,0:12:53.37,0:12:54.37,Default,,0,0,0,,I have made my decision.
 Dialogue: 0,0:12:54.37,0:12:58.59,Default,,0,0,0,,What the hell are you thinking?!\NDon't throw your life away!
-Dialogue: 0,0:13:00.21,0:13:03.34,Default,,0,0,0,,Do not presume to decide my life for me.
-Dialogue: 0,0:13:04.30,0:13:08.26,Default,,0,0,0,,That was the first time I'd seen Robo get emotional.
-Dialogue: 0,0:13:08.39,0:13:12.77,Default,,0,0,0,,I heard later that she was\Npretty much alone at school.
-Dialogue: 0,0:13:12.77,0:13:16.52,Default,,0,0,0,,Like, people couldn't tell what she was thinking,\Nso they just avoided her.
-Dialogue: 0,0:13:16.52,0:13:19.02,Default,,0,0,0,,You need to figure out why she chose Saijo.
-Dialogue: 0,0:13:19.02,0:13:21.90,Default,,0,0,0,,But then, Wota stopped talking to me too.
-Dialogue: 0,0:13:22.19,0:13:24.65,Default,,0,0,0,,We all went our separate ways again.
-Dialogue: 0,0:13:24.90,0:13:27.03,Default,,0,0,0,,S-so that's what happened?
-Dialogue: 0,0:13:27.03,0:13:29.16,Default,,0,0,0,,That's why I was so happy
-Dialogue: 0,0:13:29.16,0:13:32.70,Default,,0,0,0,,when the three of us met again in high school.
-Dialogue: 0,0:13:31.16,0:13:32.70,Default,,0,0,0,,{\an8}1st-year Class Lists
-Dialogue: 0,0:13:32.87,0:13:34.33,Default,,0,0,0,,We're in the same class?!
-Dialogue: 0,0:13:34.33,0:13:35.50,Default,,0,0,0,,You're right.
-Dialogue: 0,0:13:35.50,0:13:37.25,Default,,0,0,0,,Not to mention, we're in the same grade.
-Dialogue: 0,0:13:37.25,0:13:39.71,Default,,0,0,0,,{\an8}Well of course that's obvious.
-Dialogue: 0,0:13:37.25,0:13:40.25,Default,,0,0,0,,Oh, my! What a wonderful story.
-Dialogue: 0,0:13:40.25,0:13:42.76,Default,,0,0,0,,So, what caused the fight this time?
-Dialogue: 0,0:13:42.76,0:13:44.26,Default,,0,0,0,,The thing is...
-Dialogue: 0,0:13:44.26,0:13:47.55,Default,,0,0,0,,After school yesterday, I kinda killed Robo's pet.
-Dialogue: 0,0:13:47.55,0:13:48.93,Default,,0,0,0,,That's way too flippant!
-Dialogue: 0,0:13:47.55,0:13:49.43,Default,,0,0,0,,{\an8}Yeah, I kinda messed up!
-Dialogue: 0,0:13:49.43,0:13:51.81,Default,,0,0,0,,That's just unacceptable!
-Dialogue: 0,0:13:51.81,0:13:54.02,Default,,0,0,0,,I wouldn't be surprised if she hates you for life!
-Dialogue: 0,0:13:54.02,0:13:55.43,Default,,0,0,0,,What? But, you get where I'm going, right?
-Dialogue: 0,0:13:55.43,0:13:59.15,Default,,0,0,0,,When I say "pet," it's the\Nmicroorganisms that Robo cultivates.
+Dialogue: 0,0:13:00.36,0:13:03.34,Default,,0,0,0,,Do not presume to decide my life for me.
+Dialogue: 0,0:13:04.42,0:13:08.35,Default,,0,0,0,,That was the first time I'd seen Robo get emotional.
+Dialogue: 0,0:13:08.58,0:13:12.73,Default,,0,0,0,,I heard later that she was\Npretty much alone at school.
+Dialogue: 0,0:13:13.07,0:13:16.48,Default,,0,0,0,,Like, people couldn't tell what she was thinking,\Nso they just avoided her.
+Dialogue: 0,0:13:16.83,0:13:18.98,Default,,0,0,0,,You need to figure out why she chose Saijo.
+Dialogue: 0,0:13:18.98,0:13:21.98,Default,,0,0,0,,But then, Wota stopped talking to me too.
+Dialogue: 0,0:13:22.32,0:13:24.86,Default,,0,0,0,,We all went our separate ways again.
+Dialogue: 0,0:13:24.86,0:13:27.19,Default,,0,0,0,,S-so that's what happened?
+Dialogue: 0,0:13:27.19,0:13:29.12,Default,,0,0,0,,That's why I was so happy
+Dialogue: 0,0:13:29.12,0:13:32.62,Default,,0,0,0,,when the three of us met again in high school.
+Dialogue: 0,0:13:31.12,0:13:32.62,Signs,,0,0,0,,{\an8}1st-year Class Lists
+Dialogue: 0,0:13:32.87,0:13:34.41,Default,,0,0,0,,We're in the same class?!
+Dialogue: 0,0:13:34.41,0:13:35.08,Default,,0,0,0,,You're right.
+Dialogue: 0,0:13:35.08,0:13:37.17,Default,,0,0,0,,Not to mention, we're in the same grade.
+Dialogue: 0,0:13:37.17,0:13:39.71,Default,,0,0,0,,{\an8}Well of course that's obvious.
+Dialogue: 0,0:13:37.45,0:13:40.17,Default,,0,0,0,,Oh, my! What a wonderful story.
+Dialogue: 0,0:13:40.17,0:13:42.83,Default,,0,0,0,,So, what caused the fight this time?
+Dialogue: 0,0:13:42.83,0:13:44.17,Default,,0,0,0,,The thing is...
+Dialogue: 0,0:13:44.17,0:13:47.47,Default,,0,0,0,,After school yesterday, I kinda killed Robo's pet.
+Dialogue: 0,0:13:47.47,0:13:48.93,Default,,0,0,0,,That's way too flippant!
+Dialogue: 0,0:13:47.47,0:13:49.39,Default,,0,0,0,,{\an8}Yeah, I kinda messed up!
+Dialogue: 0,0:13:49.39,0:13:51.98,Default,,0,0,0,,That's just unacceptable!
+Dialogue: 0,0:13:51.98,0:13:54.21,Default,,0,0,0,,I wouldn't be surprised if she hates you for life!
+Dialogue: 0,0:13:54.21,0:13:55.39,Default,,0,0,0,,What? But, you get where I'm going, right?
+Dialogue: 0,0:13:55.39,0:13:59.15,Default,,0,0,0,,When I say "pet," it's the\Nmicroorganisms that Robo cultivates.
 Dialogue: 0,0:13:59.15,0:14:00.19,Default,,0,0,0,,Microorganisms?
-Dialogue: 0,0:14:00.19,0:14:01.48,Default,,0,0,0,,Hey, hey! Robo!
-Dialogue: 0,0:14:01.48,0:14:05.40,Default,,0,0,0,,That new comic "Shakure-zamurai"\Nis super entertaining, so you should read it!
-Dialogue: 0,0:14:05.78,0:14:06.61,Default,,0,0,0,,{\an8}New serial\N{\an8}Shakure-zamurai
-Dialogue: 0,0:14:06.61,0:14:07.61,Default,,0,0,0,,Oh...!
-Dialogue: 0,0:14:10.45,0:14:13.29,Default,,0,0,0,,So, I accidentally smashed it!
-Dialogue: 0,0:14:13.29,0:14:16.58,Default,,0,0,0,,I kinda feel like I've wasted my time listening to this...
-Dialogue: 0,0:14:18.25,0:14:19.50,Default,,0,0,0,,Oh! Robo!
-Dialogue: 0,0:14:19.50,0:14:21.38,Default,,0,0,0,,You came back?!
-Dialogue: 0,0:14:21.38,0:14:24.13,Default,,0,0,0,,Shakure-zamurai was quite entertaining,\Nso I will forgive you.
-Dialogue: 0,0:14:24.13,0:14:26.88,Default,,0,0,0,,Wasn't it?! I'm looking forward to the next installment!
-Dialogue: 0,0:14:27.13,0:14:28.93,Default,,0,0,0,,So, that's what happened.
-Dialogue: 0,0:14:28.93,0:14:32.55,Default,,0,0,0,,If it had been me, would I have been able to say\Nshe shouldn't throw her life away?
-Dialogue: 0,0:14:32.55,0:14:36.10,Default,,0,0,0,,I'm ashamed of myself for simply being happy\Nat the grade-level advancement list...
-Dialogue: 0,0:14:37.23,0:14:40.35,Default,,0,0,0,,There's no end of worry for a girl in love, huh?
-Dialogue: 0,0:14:41.44,0:14:46.86,Default,,0,0,0,,What I have for Saginomiya-san is respect,\Nwhich isn't the same as romantic feelings.
-Dialogue: 0,0:14:46.86,0:14:50.32,Default,,0,0,0,,You don't have to try to make it\Nblack and white, you know.
-Dialogue: 0,0:14:50.32,0:14:54.62,Default,,0,0,0,,A person's feelings are vague\Nand can fall into, like, gray areas.
-Dialogue: 0,0:14:54.62,0:14:56.66,Default,,0,0,0,,You seem like you have some experience with this...
-Dialogue: 0,0:14:56.66,0:14:58.37,Default,,0,0,0,,Because I do have experience.
-Dialogue: 0,0:14:58.54,0:15:01.21,Default,,0,0,0,,I've heard a lot of your personal concerns...
-Dialogue: 0,0:15:01.21,0:15:03.42,Default,,0,0,0,,Are you sure you're okay not swearing me to secrecy?
-Dialogue: 0,0:15:03.42,0:15:06.51,Default,,0,0,0,,I might accidentally tell someone, you know.
-Dialogue: 0,0:15:08.67,0:15:11.30,Default,,0,0,0,,I don't think you'd say anything, Someya-san...
-Dialogue: 0,0:15:11.30,0:15:13.30,Default,,0,0,0,,Y-you don't know that.
-Dialogue: 0,0:15:13.30,0:15:15.06,Default,,0,0,0,,But it's what I want to believe.
-Dialogue: 0,0:15:15.26,0:15:19.69,Default,,0,0,0,,A classmate I can share my concerns with...\NSomeya-san, you may be the first one for me.
-Dialogue: 0,0:15:19.89,0:15:22.52,Default,,0,0,0,,Is this what people refer to as "best friends"?
-Dialogue: 0,0:15:23.73,0:15:26.40,Default,,0,0,0,,This! THIS is why you bug me!
-Dialogue: 0,0:15:26.40,0:15:28.53,Default,,0,0,0,,What the hell?! You've got too much potential for this!
-Dialogue: 0,0:15:29.07,0:15:31.49,Default,,0,0,0,,Is this because I went said we might be best friends?
+Dialogue: 0,0:14:00.19,0:14:01.52,Default,,0,0,0,,Hey, hey! Robo!
+Dialogue: 0,0:14:01.52,0:14:05.40,Default,,0,0,0,,That new comic "Shakure-zamurai"\Nis super entertaining, so you should read it!
+Dialogue: 0,0:14:05.78,0:14:06.57,Signs,,0,0,0,,{\an8}New serial\N{\an8}Shakure-zamurai
+Dialogue: 0,0:14:06.57,0:14:07.48,Default,,0,0,0,,Oh...!
+Dialogue: 0,0:14:10.41,0:14:13.46,Default,,0,0,0,,So, I accidentally smashed it!
+Dialogue: 0,0:14:13.46,0:14:16.79,Default,,0,0,0,,I kinda feel like I've wasted my time listening to this...
+Dialogue: 0,0:14:18.34,0:14:19.42,Default,,0,0,0,,Oh! Robo!
+Dialogue: 0,0:14:19.73,0:14:21.42,Default,,0,0,0,,You came back?!
+Dialogue: 0,0:14:21.42,0:14:24.05,Default,,0,0,0,,Shakure-zamurai was quite entertaining,\Nso I will forgive you.
+Dialogue: 0,0:14:24.05,0:14:27.05,Default,,0,0,0,,Wasn't it?! I'm looking forward to the next installment!
+Dialogue: 0,0:14:27.05,0:14:28.83,Default,,0,0,0,,So, that's what happened.
+Dialogue: 0,0:14:28.83,0:14:32.66,Default,,0,0,0,,If it had been me, would I have been able to say\Nshe shouldn't throw her life away?
+Dialogue: 0,0:14:32.66,0:14:36.15,Default,,0,0,0,,I'm ashamed of myself for simply being happy\Nat the grade-level advancement list...
+Dialogue: 0,0:14:37.18,0:14:40.31,Default,,0,0,0,,There's no end of worry for a girl in love, huh?
+Dialogue: 0,0:14:41.60,0:14:46.82,Default,,0,0,0,,What I have for Saginomiya-san is respect,\Nwhich isn't the same as romantic feelings.
+Dialogue: 0,0:14:46.82,0:14:50.32,Default,,0,0,0,,You don't have to try to make it\Nblack and white, you know.
+Dialogue: 0,0:14:50.32,0:14:54.58,Default,,0,0,0,,A person's feelings are vague\Nand can fall into, like, gray areas.
+Dialogue: 0,0:14:54.58,0:14:56.66,Default,,0,0,0,,You seem like you have some experience with this...
+Dialogue: 0,0:14:56.66,0:14:58.46,Default,,0,0,0,,Because I do have experience.
+Dialogue: 0,0:14:58.46,0:15:01.21,Default,,0,0,0,,I've heard a lot of your personal concerns...
+Dialogue: 0,0:15:01.21,0:15:03.34,Default,,0,0,0,,Are you sure you're okay not swearing me to secrecy?
+Dialogue: 0,0:15:03.34,0:15:06.62,Default,,0,0,0,,I might accidentally tell someone, you know.
+Dialogue: 0,0:15:08.82,0:15:11.22,Default,,0,0,0,,I don't think you'd say anything, Someya-san...
+Dialogue: 0,0:15:11.22,0:15:13.30,Default,,0,0,0,,Y-you don't know that.
+Dialogue: 0,0:15:13.30,0:15:15.22,Default,,0,0,0,,But it's what I want to believe.
+Dialogue: 0,0:15:15.47,0:15:20.07,Default,,0,0,0,,A classmate I can share my concerns with...\NSomeya-san, you may be the first one for me.
+Dialogue: 0,0:15:20.07,0:15:22.48,Default,,0,0,0,,Is this what people refer to as "best friends"?
+Dialogue: 0,0:15:23.85,0:15:26.25,Default,,0,0,0,,This! THIS is why you bug me!
+Dialogue: 0,0:15:26.25,0:15:28.49,Default,,0,0,0,,What the hell?! You've got too much potential for this!
+Dialogue: 0,0:15:29.22,0:15:31.49,Default,,0,0,0,,Is this because I went said we might be best friends?
 Dialogue: 0,0:15:31.49,0:15:33.12,Default,,0,0,0,,I'm sorry for any bother-
-Dialogue: 0,0:15:33.12,0:15:34.28,Default,,0,0,0,,There! That face!
-Dialogue: 0,0:15:34.28,0:15:36.12,Default,,0,0,0,,You really stir up feminine instincts, you know!
+Dialogue: 0,0:15:33.12,0:15:34.24,Default,,0,0,0,,There! That face!
+Dialogue: 0,0:15:34.18,0:15:36.12,Default,,0,0,0,,You really stir up feminine instincts, you know!
 Dialogue: 0,0:15:36.12,0:15:39.66,Default,,0,0,0,,The fact you do it without realizing makes it even\Nmore wicked! Five years in prison for you!
 Dialogue: 0,0:15:39.66,0:15:41.04,Default,,0,0,0,,I-I'm sorry...
-Dialogue: 0,0:15:41.04,0:15:42.33,Default,,0,0,0,,See? There's that expression again!
-Dialogue: 0,0:15:42.79,0:15:45.54,Default,,0,0,0,,Sorry to have you come all the way out here with me...
-Dialogue: 0,0:15:45.54,0:15:48.46,Default,,0,0,0,,It's fine, Takahashi. Do you best out there.
-Dialogue: 0,0:15:48.46,0:15:50.01,Default,,0,0,0,,I'll see you at school tomorrow, okay?
+Dialogue: 0,0:15:41.04,0:15:42.25,Default,,0,0,0,,See? There's that expression again!
+Dialogue: 0,0:15:42.82,0:15:45.61,Default,,0,0,0,,Sorry to have you come all the way out here with me...
+Dialogue: 0,0:15:45.61,0:15:47.15,Default,,0,0,0,,It's fine, Takahashi. 
+Dialogue: 0,0:15:47.15,0:15:48.54,Default,,0,0,0,,Do you best out there.
+Dialogue: 0,0:15:48.54,0:15:50.01,Default,,0,0,0,,I'll see you at school tomorrow, okay?
 Dialogue: 0,0:15:50.01,0:15:51.01,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:15:51.18,0:15:53.39,Default,,0,0,0,,Today, I will definitely get closer to Robo-san.
-Dialogue: 0,0:15:53.39,0:15:55.60,Default,,0,0,0,,And if things go well, to us being in a relationship...
-Dialogue: 0,0:15:55.80,0:15:59.06,Default,,0,0,0,,I will watch from here and witness your brave stand.
-Dialogue: 0,0:15:59.06,0:16:01.73,Default,,0,0,0,,After all, I'm your best friend.
-Dialogue: 0,0:16:01.89,0:16:04.31,Default,,0,0,0,,So then, that convenience store employee-
-Dialogue: 0,0:16:04.31,0:16:05.31,Default,,0,0,0,,Robo-san!
-Dialogue: 0,0:16:06.44,0:16:09.44,Default,,0,0,0,,D-do you remember me?
-Dialogue: 0,0:16:09.44,0:16:10.69,Default,,0,0,0,,A guy?!
-Dialogue: 0,0:16:10.69,0:16:13.11,Default,,0,0,0,,You lent me this book a while back.
-Dialogue: 0,0:16:13.11,0:16:14.78,Default,,0,0,0,,Yes, I remember you.
-Dialogue: 0,0:16:14.78,0:16:15.99,Default,,0,0,0,,Do you have a moment?
-Dialogue: 0,0:16:16.28,0:16:17.91,Default,,0,0,0,,I wanted to talk to you.
-Dialogue: 0,0:16:17.91,0:16:19.83,Default,,0,0,0,,Yes, if it will not take long.
-Dialogue: 0,0:16:19.83,0:16:21.87,Default,,0,0,0,,W-well then, we'll just be going now...
-Dialogue: 0,0:16:21.87,0:16:23.96,Default,,0,0,0,,What for?! Let's hear what he has to say!
-Dialogue: 0,0:16:23.96,0:16:25.13,Default,,0,0,0,,Read between the lines, you idiot!
-Dialogue: 0,0:16:25.13,0:16:27.04,Default,,0,0,0,,No! I wanna break this apart!
-Dialogue: 0,0:16:27.04,0:16:28.63,Default,,0,0,0,,I'm not gonna let you get the jump on us, Robo!
+Dialogue: 0,0:15:51.01,0:15:53.48,Default,,0,0,0,,Today, I will definitely get closer to Robo-san.
+Dialogue: 0,0:15:53.48,0:15:55.76,Default,,0,0,0,,And if things go well, to us being in a relationship...
+Dialogue: 0,0:15:55.76,0:15:59.02,Default,,0,0,0,,I will watch from here and witness your brave stand.
+Dialogue: 0,0:15:59.02,0:16:01.77,Default,,0,0,0,,After all, I'm your best friend.
+Dialogue: 0,0:16:01.77,0:16:04.31,Default,,0,0,0,,So then, that convenience store employee-
+Dialogue: 0,0:16:04.31,0:16:05.38,Default,,0,0,0,,Robo-san!
+Dialogue: 0,0:16:06.64,0:16:09.40,Default,,0,0,0,,D-do you remember me?
+Dialogue: 0,0:16:09.40,0:16:10.75,Default,,0,0,0,,A guy?!
+Dialogue: 0,0:16:10.75,0:16:13.07,Default,,0,0,0,,You lent me this book a while back.
+Dialogue: 0,0:16:13.07,0:16:14.86,Default,,0,0,0,,Yes, I remember you.
+Dialogue: 0,0:16:14.86,0:16:15.95,Default,,0,0,0,,Do you have a moment?
+Dialogue: 0,0:16:16.49,0:16:18.00,Default,,0,0,0,,I wanted to talk to you.
+Dialogue: 0,0:16:18.00,0:16:19.75,Default,,0,0,0,,Yes, if it will not take long.
+Dialogue: 0,0:16:19.75,0:16:21.72,Default,,0,0,0,,W-well then, we'll just be going now...
+Dialogue: 0,0:16:21.72,0:16:23.81,Default,,0,0,0,,What for?! Let's hear what he has to say!
+Dialogue: 0,0:16:23.81,0:16:24.98,Default,,0,0,0,,Read between the lines, you idiot!
+Dialogue: 0,0:16:24.98,0:16:26.89,Default,,0,0,0,,No! I wanna break this apart!
+Dialogue: 0,0:16:26.89,0:16:28.63,Default,,0,0,0,,I'm not gonna let you get the jump on us, Robo!
 Dialogue: 0,0:16:28.63,0:16:29.50,Default,,0,0,0,,Get all complicated!
 Dialogue: 0,0:16:29.21,0:16:31.80,Default,,0,0,0,,{\an8}I-I'm sorry. It looks like you were out with your friends...
 Dialogue: 0,0:16:29.50,0:16:31.30,Default,,0,0,0,,May all your front teeth suddenly fall out!
 Dialogue: 0,0:16:31.30,0:16:32.38,Default,,0,0,0,,May you bite the inside of your cheek
-Dialogue: 0,0:16:31.80,0:16:34.51,Default,,0,0,0,,{\an8}I don't mind. So, what did you want to talk about?
-Dialogue: 0,0:16:32.38,0:16:33.59,Default,,0,0,0,,and it gets all throbby!
 Dialogue: 0,0:16:33.59,0:16:35.34,Default,,0,0,0,,Your left and your right cheeks!
-Dialogue: 0,0:16:34.51,0:16:36.80,Default,,0,0,0,,{\an8}Um... Th-that is...
-Dialogue: 0,0:16:36.93,0:16:38.64,Default,,0,0,0,,Me... Me and...
-Dialogue: 0,0:16:39.01,0:16:41.81,Default,,0,0,0,,I can't. When push comes to shove,\NI don't have the courage to...
-Dialogue: 0,0:16:41.81,0:16:42.81,Default,,0,0,0,,"Me and"?
-Dialogue: 0,0:16:42.81,0:16:44.94,Default,,0,0,0,,Y-yeah. Me and...
-Dialogue: 0,0:16:45.31,0:16:46.61,Default,,0,0,0,,Me and...
-Dialogue: 0,0:16:46.61,0:16:49.86,Default,,0,0,0,,Me and this guy, his name is Aoyama.\NWe really get along, you see.
-Dialogue: 0,0:16:50.32,0:16:53.99,Default,,0,0,0,,He's been my friend since middle school,\Nand he's a really good guy.
-Dialogue: 0,0:16:54.28,0:16:57.12,Default,,0,0,0,,But, the thing is, his house is slightly smelly.
-Dialogue: 0,0:16:57.24,0:16:58.99,Default,,0,0,0,,{\an8}Huh? Wait, me?!
-Dialogue: 0,0:16:57.24,0:17:01.66,Default,,0,0,0,,I was wondering why, and when I thought about it,\NI came up with about 10 reasons...
-Dialogue: 0,0:17:02.00,0:17:03.62,Default,,0,0,0,,Wh-what the hell am I talking about?
-Dialogue: 0,0:17:03.62,0:17:05.04,Default,,0,0,0,,She couldn't possibly be interested in listening to this-
+Dialogue: 0,0:16:32.38,0:16:33.59,Default,,0,0,0,,and it gets all throbby!
+Dialogue: 0,0:16:31.80,0:16:34.63,Default,,0,0,0,,{\an8}I don't mind. So, what did you want to talk about?
+Dialogue: 0,0:16:34.63,0:16:36.89,Default,,0,0,0,,{\an8}Um... Th-that is...
+Dialogue: 0,0:16:36.89,0:16:38.64,Default,,0,0,0,,Me... Me and...
+Dialogue: 0,0:16:39.19,0:16:41.77,Default,,0,0,0,,I can't. When push comes to shove,\NI don't have the courage to...
+Dialogue: 0,0:16:42.04,0:16:42.77,Default,,0,0,0,,"Me and"?
+Dialogue: 0,0:16:42.77,0:16:44.94,Default,,0,0,0,,Y-yeah. Me and...
+Dialogue: 0,0:16:45.45,0:16:46.56,Default,,0,0,0,,Me and...
+Dialogue: 0,0:16:46.56,0:16:49.82,Default,,0,0,0,,Me and this guy, his name is Aoyama.\NWe really get along, you see.
+Dialogue: 0,0:16:50.41,0:16:53.95,Default,,0,0,0,,He's been my friend since middle school,\Nand he's a really good guy.
+Dialogue: 0,0:16:54.38,0:16:57.07,Default,,0,0,0,,But, the thing is, his house is slightly smelly.
+Dialogue: 0,0:16:57.07,0:16:58.99,Default,,0,0,0,,{\an8}Huh? Wait, me?!
+Dialogue: 0,0:16:57.07,0:17:01.58,Default,,0,0,0,,I was wondering why, and when I thought about it,\NI came up with about 10 reasons...
+Dialogue: 0,0:17:01.88,0:17:03.57,Default,,0,0,0,,Wh-what the hell am I talking about?
+Dialogue: 0,0:17:03.57,0:17:05.04,Default,,0,0,0,,She couldn't possibly be interested in listening to this-
 Dialogue: 0,0:17:05.04,0:17:06.42,Default,,0,0,0,,Why don't you tell me about it?
-Dialogue: 0,0:17:06.42,0:17:08.13,Default,,0,0,0,,I can't believe it. She's interested in this?
-Dialogue: 0,0:17:08.54,0:17:12.42,Default,,0,0,0,,The thing is, his house faces north,\Nand it's got bad ventilation.
-Dialogue: 0,0:17:12.42,0:17:16.05,Default,,0,0,0,,Plus, there's damp, half-dried laundry\Nconstantly in the room.
-Dialogue: 0,0:17:16.05,0:17:18.30,Default,,0,0,0,,The garbage in the kitchen is in\Na constant state of neglect.
-Dialogue: 0,0:17:18.30,0:17:22.39,Default,,0,0,0,,Also, the shoe cabinet at the front door\Nis stuffed with old, worn-out shoes.
-Dialogue: 0,0:17:22.39,0:17:24.02,Default,,0,0,0,,So, that more than meets the necessary definition.
-Dialogue: 0,0:17:24.18,0:17:29.94,Default,,0,0,0,,Yes! The thing is, I thought about why people\Nperceive odors like that as being "smelly."
-Dialogue: 0,0:17:29.94,0:17:32.48,Default,,0,0,0,,It's the perception of danger, born from instinct.
-Dialogue: 0,0:17:32.48,0:17:36.28,Default,,0,0,0,,Yes! It's an intrinsic function,\Nfor the purpose of avoiding dangerous things.
-Dialogue: 0,0:17:36.28,0:17:38.91,Default,,0,0,0,,When I think of that, I'm left with one hypothesis:
-Dialogue: 0,0:17:39.07,0:17:44.12,Default,,0,0,0,,The smell from Aoyama's house might mean that\NI'm rejecting Aoyama on a genetic level!
-Dialogue: 0,0:17:44.12,0:17:46.62,Default,,0,0,0,,So, I'm being genetically rejected?
-Dialogue: 0,0:17:46.62,0:17:50.00,Default,,0,0,0,,This could also be the case when seen\Nfrom a philosophical viewpoint.
-Dialogue: 0,0:17:50.00,0:17:54.88,Default,,0,0,0,,Does the smell at Aoyama's house\Neven actually exist? In other words...
-Dialogue: 0,0:17:54.88,0:17:57.59,Default,,0,0,0,,Aoyama's house may not even actually be smelly.
-Dialogue: 0,0:17:57.59,0:18:00.80,Default,,0,0,0,,It could be that the aversion I feel toward Aoyama\Nis just making me perceive it that way.
+Dialogue: 0,0:17:06.42,0:17:08.09,Default,,0,0,0,,I can't believe it. She's interested in this?
+Dialogue: 0,0:17:08.56,0:17:12.34,Default,,0,0,0,,The thing is, his house faces north,\Nand it's got bad ventilation.
+Dialogue: 0,0:17:12.34,0:17:15.97,Default,,0,0,0,,Plus, there's damp, half-dried laundry\Nconstantly in the room.
+Dialogue: 0,0:17:15.97,0:17:18.22,Default,,0,0,0,,The garbage in the kitchen is in\Na constant state of neglect.
+Dialogue: 0,0:17:18.22,0:17:22.56,Default,,0,0,0,,Also, the shoe cabinet at the front door\Nis stuffed with old, worn-out shoes.
+Dialogue: 0,0:17:22.56,0:17:23.98,Default,,0,0,0,,So, that more than meets the necessary definition.
+Dialogue: 0,0:17:23.98,0:17:29.90,Default,,0,0,0,,Yes! The thing is, I thought about why people\Nperceive odors like that as being "smelly."
+Dialogue: 0,0:17:29.90,0:17:32.44,Default,,0,0,0,,It's the perception of danger, born from instinct.
+Dialogue: 0,0:17:32.44,0:17:36.38,Default,,0,0,0,,Yes! It's an intrinsic function,\Nfor the purpose of avoiding dangerous things.
+Dialogue: 0,0:17:36.38,0:17:38.87,Default,,0,0,0,,When I think of that, I'm left with one hypothesis:
+Dialogue: 0,0:17:38.87,0:17:44.04,Default,,0,0,0,,The smell from Aoyama's house might mean that\NI'm rejecting Aoyama on a genetic level!
+Dialogue: 0,0:17:44.04,0:17:46.54,Default,,0,0,0,,So, I'm being genetically rejected?
+Dialogue: 0,0:17:46.54,0:17:50.11,Default,,0,0,0,,This could also be the case when seen\Nfrom a philosophical viewpoint.
+Dialogue: 0,0:17:50.11,0:17:54.80,Default,,0,0,0,,Does the smell at Aoyama's house\Neven actually exist? In other words...
+Dialogue: 0,0:17:54.80,0:17:57.51,Default,,0,0,0,,Aoyama's house may not even actually be smelly.
+Dialogue: 0,0:17:57.51,0:18:00.80,Default,,0,0,0,,It could be that the aversion I feel toward Aoyama\Nis just making me perceive it that way.
 Dialogue: 0,0:18:00.80,0:18:02.64,Default,,0,0,0,,He straight-up said "aversion"!
 Dialogue: 0,0:18:04.02,0:18:05.98,Default,,0,0,0,,And what is that aversion?
-Dialogue: 0,0:18:06.44,0:18:09.77,Default,,0,0,0,,Aoyama has a childhood friend, a girl,\Nand they really get along well.
-Dialogue: 0,0:18:09.77,0:18:11.40,Default,,0,0,0,,There might've been a part of me that was jealous,
-Dialogue: 0,0:18:11.40,0:18:14.74,Default,,0,0,0,,because he could go in and out of\Na girl's room like it was nothing.
-Dialogue: 0,0:18:14.74,0:18:16.65,Default,,0,0,0,,Actually, I'm sure of it!
-Dialogue: 0,0:18:16.82,0:18:19.07,Default,,0,0,0,,I see now...
-Dialogue: 0,0:18:19.45,0:18:23.45,Default,,0,0,0,,The book you gave me helped me to identify\Nthe negative feelings I've had.
-Dialogue: 0,0:18:24.29,0:18:27.04,Default,,0,0,0,,Thank you. Today was about me\Nwanting to show you my gratitude, so...
-Dialogue: 0,0:18:27.04,0:18:30.13,Default,,0,0,0,,Hey! Why do we have to\Ntake the time to be considerate?
-Dialogue: 0,0:18:30.13,0:18:33.92,Default,,0,0,0,,Still, if she gets a boyfriend,\Nhe might introduce us to his guy friends!
-Dialogue: 0,0:18:34.13,0:18:36.38,Default,,0,0,0,,You... You are smart.
-Dialogue: 0,0:18:36.72,0:18:40.01,Default,,0,0,0,,If you can get this jealous,\Nyou must like your friend very much.
-Dialogue: 0,0:18:40.01,0:18:42.68,Default,,0,0,0,,Aoyama is my number one best friend...
-Dialogue: 0,0:18:42.68,0:18:44.31,Default,,0,0,0,,Robo!
-Dialogue: 0,0:18:44.77,0:18:46.14,Default,,0,0,0,,{\an8}H-hey!
-Dialogue: 0,0:18:44.77,0:18:46.85,Default,,0,0,0,,I've come to cheer you on!
-Dialogue: 0,0:18:46.85,0:18:47.98,Default,,0,0,0,,Takahashi!
-Dialogue: 0,0:18:49.69,0:18:51.98,Default,,0,0,0,,I like you a lot too, Takahashi!
-Dialogue: 0,0:18:54.02,0:18:56.11,Default,,0,0,0,,Takahashi! Takahashi!
-Dialogue: 0,0:18:56.36,0:18:57.44,Default,,0,0,0,,I like you!
-Dialogue: 0,0:18:56.82,0:18:58.70,Default,,0,0,0,,{\an8}I'll lend this to you.
-Dialogue: 0,0:18:59.78,0:19:02.07,Default,,0,0,0,,It's an odor meter, "Smell Sensor-kun."
+Dialogue: 0,0:18:06.39,0:18:09.97,Default,,0,0,0,,Aoyama has a childhood friend, a girl,\Nand they really get along well.
+Dialogue: 0,0:18:09.97,0:18:11.40,Default,,0,0,0,,There might've been a part of me that was jealous,
+Dialogue: 0,0:18:11.40,0:18:14.84,Default,,0,0,0,,because he could go in and out of\Na girl's room like it was nothing.
+Dialogue: 0,0:18:14.84,0:18:16.65,Default,,0,0,0,,Actually, I'm sure of it!
+Dialogue: 0,0:18:16.65,0:18:19.07,Default,,0,0,0,,I see now...
+Dialogue: 0,0:18:19.59,0:18:23.45,Default,,0,0,0,,The book you gave me helped me to identify\Nthe negative feelings I've had.
+Dialogue: 0,0:18:24.41,0:18:26.96,Default,,0,0,0,,Thank you. Today was about me\Nwanting to show you my gratitude, so...
+Dialogue: 0,0:18:26.96,0:18:30.04,Default,,0,0,0,,Hey! Why do we have to\Ntake the time to be considerate?
+Dialogue: 0,0:18:30.04,0:18:33.92,Default,,0,0,0,,Still, if she gets a boyfriend,\Nhe might introduce us to his guy friends!
+Dialogue: 0,0:18:33.92,0:18:36.42,Default,,0,0,0,,You... You are smart.
+Dialogue: 0,0:18:36.78,0:18:39.93,Default,,0,0,0,,If you can get this jealous,\Nyou must like your friend very much.
+Dialogue: 0,0:18:39.93,0:18:42.68,Default,,0,0,0,,Aoyama is my number one best friend...
+Dialogue: 0,0:18:42.68,0:18:44.68,Default,,0,0,0,,Robo!
+Dialogue: 0,0:18:44.68,0:18:46.14,Default,,0,0,0,,{\an8}H-hey!
+Dialogue: 0,0:18:44.68,0:18:46.70,Default,,0,0,0,,I've come to cheer you on!
+Dialogue: 0,0:18:46.70,0:18:47.89,Default,,0,0,0,,Takahashi!
+Dialogue: 0,0:18:49.75,0:18:52.11,Default,,0,0,0,,I like you a lot too, Takahashi!
+Dialogue: 0,0:18:53.98,0:18:56.32,Default,,0,0,0,,Takahashi! Takahashi!
+Dialogue: 0,0:18:56.32,0:18:56.87,Default,,0,0,0,,I like you!
+Dialogue: 0,0:18:56.87,0:18:58.70,Default,,0,0,0,,{\an8}I'll lend this to you.
+Dialogue: 0,0:18:59.88,0:19:02.07,Default,,0,0,0,,It's an odor meter, "Smell Sensor-kun."
 Dialogue: 0,0:19:02.07,0:19:04.79,Default,,0,0,0,,I made it to measure a wet dog's odor index,
-Dialogue: 0,0:19:04.79,0:19:08.79,Default,,0,0,0,,but it seems like the situation between you two\Nis more dire, so please use it.
-Dialogue: 0,0:19:08.79,0:19:12.67,Default,,0,0,0,,You can return it after the facts regarding\Nyour friend's house have been clarified.
-Dialogue: 0,0:19:12.67,0:19:14.17,Default,,0,0,0,,I shall be waiting.
-Dialogue: 0,0:19:15.67,0:19:17.67,Default,,0,0,0,,Hey, Robo! Wait!
-Dialogue: 0,0:19:16.96,0:19:20.43,Default,,0,0,0,,{\an8}Never mind our almost smothering friendship,
+Dialogue: 0,0:19:04.79,0:19:08.71,Default,,0,0,0,,but it seems like the situation between you two\Nis more dire, so please use it.
+Dialogue: 0,0:19:08.71,0:19:12.71,Default,,0,0,0,,You can return it after the facts regarding\Nyour friend's house have been clarified.
+Dialogue: 0,0:19:12.71,0:19:14.17,Default,,0,0,0,,I shall be waiting.
+Dialogue: 0,0:19:15.59,0:19:17.67,Default,,0,0,0,,Hey, Robo! Wait!
 Dialogue: 0,0:19:17.67,0:19:19.09,Default,,0,0,0,,Hey, wait!
-Dialogue: 0,0:19:20.43,0:19:25.31,Default,,0,0,0,,the odor meter, and the slight awkwardness, she left...
-Dialogue: 0,0:19:27.31,0:19:28.77,Default,,0,0,0,,Aw!
-Dialogue: 0,0:19:28.77,0:19:32.35,Default,,0,0,0,,What happened to the plan to have him\Nintroduce us to some guys?
-Dialogue: 0,0:19:32.35,0:19:35.44,Default,,0,0,0,,By the way, did you actually like that Takahashi dude?
-Dialogue: 0,0:19:35.94,0:19:36.90,Default,,0,0,0,,Well...
-Dialogue: 0,0:19:36.90,0:19:41.61,Default,,0,0,0,,If such represents the elation of having found\Na candidate for the purpose of
-Dialogue: 0,0:19:41.61,0:19:44.78,Default,,0,0,0,,anti-aging DNA manipulation, then yes.
-Dialogue: 0,0:19:44.91,0:19:46.03,Default,,0,0,0,,{\an8}Yasaka Station
-Dialogue: 0,0:19:45.20,0:19:46.03,Default,,0,0,0,,Oh!
-Dialogue: 0,0:19:46.03,0:19:48.45,Default,,0,0,0,,Teishotoku P has uploaded a new song!
-Dialogue: 0,0:19:48.45,0:19:50.96,Default,,0,0,0,,It's that Vocalo P you've been\Nnuts about from before, right?
-Dialogue: 0,0:19:50.96,0:19:55.84,Default,,0,0,0,,He's still pretty unknown,\Nbut he must be an awesome guy. I like-
-Dialogue: 0,0:19:55.84,0:19:58.34,Default,,0,0,0,,To say that you "like" him,\Nwhen you haven't even met him is just, "Ewe!"
-Dialogue: 0,0:19:58.34,0:20:00.84,Default,,0,0,0,,Shut up! You can get a feel\Njust by listening to his songs!
-Dialogue: 0,0:20:00.84,0:20:02.93,Default,,0,0,0,,If you met him in person, what would you do?
-Dialogue: 0,0:20:03.30,0:20:05.39,Default,,0,0,0,,Well, I'd say that I like him, of course!
-Dialogue: 0,0:20:05.39,0:20:06.51,Default,,0,0,0,,Eew!
-Dialogue: 0,0:20:06.60,0:20:11.52,Default,,0,0,0,,{\an8}The afternoon song shines, in the corner of the room
-Dialogue: 0,0:20:08.56,0:20:10.56,Default,,0,0,0,,{\an7}Secret•Sequence\N{\an7}Teishotoku P here. This is my fifth release.\N{\an7}I made this when I was gazing at sushi that just passed me by...\N{\an7}Teishotoku-P-san\N{\an8}Views\N{\an8}# of comments\N{\an9}# in my list
-Dialogue: 0,0:20:08.85,0:20:10.56,Default,,0,0,0,,My numbers aren't going up...
+Dialogue: 0,0:19:17.05,0:19:20.55,Default,,0,0,0,,{\an8}Never mind our almost smothering friendship,
+Dialogue: 0,0:19:20.55,0:19:25.31,Default,,0,0,0,,the odor meter, and the slight awkwardness, she left...
+Dialogue: 0,0:19:27.31,0:19:28.73,Default,,0,0,0,,Aw!
+Dialogue: 0,0:19:28.96,0:19:32.31,Default,,0,0,0,,What happened to the plan to have him\Nintroduce us to some guys?
+Dialogue: 0,0:19:32.31,0:19:35.44,Default,,0,0,0,,By the way, did you actually like that Takahashi dude?
+Dialogue: 0,0:19:35.91,0:19:36.86,Default,,0,0,0,,Well...
+Dialogue: 0,0:19:37.17,0:19:41.61,Default,,0,0,0,,If such represents the elation of having found\Na candidate for the purpose of
+Dialogue: 0,0:19:41.61,0:19:44.87,Default,,0,0,0,,anti-aging DNA manipulation, then yes.
+Dialogue: 0,0:19:44.87,0:19:45.99,Signs,,0,0,0,,{\an8}Yasaka Station
+Dialogue: 0,0:19:45.32,0:19:45.99,Default,,0,0,0,,Oh!
+Dialogue: 0,0:19:45.99,0:19:48.45,Default,,0,0,0,,Teishotoku P has uploaded a new song!
+Dialogue: 0,0:19:48.45,0:19:50.87,Default,,0,0,0,,It's that Vocalo P you've been\Nnuts about from before, right?
+Dialogue: 0,0:19:50.87,0:19:55.75,Default,,0,0,0,,He's still pretty unknown,\Nbut he must be an awesome guy. I like-
+Dialogue: 0,0:19:55.75,0:19:57.99,Default,,0,0,0,,To say that you "like" him,\Nwhen you haven't even met him is just, "Ewe!"
+Dialogue: 0,0:19:57.99,0:20:00.86,Default,,0,0,0,,Shut up! You can get a feel\Njust by listening to his songs!
+Dialogue: 0,0:20:00.86,0:20:03.36,Default,,0,0,0,,If you met him in person, what would you do?
+Dialogue: 0,0:20:03.36,0:20:05.33,Default,,0,0,0,,Well, I'd say that I like him, of course!
+Dialogue: 0,0:20:05.33,0:20:06.51,Default,,0,0,0,,Eew!
+Dialogue: 0,0:20:06.51,0:20:11.52,Default,,0,0,0,,{\an8}The afternoon song shines, in the corner of the room
+Dialogue: 0,0:20:08.56,0:20:10.56,Signs,,0,0,0,,{\an7}Secret•Sequence\N{\an7}Teishotoku P here. This is my fifth release.\N{\an7}I made this when I was gazing at sushi that just passed me by...\N{\an7}Teishotoku-P-san\N{\an8}Views\N{\an8}# of comments\N{\an9}# in my list
+Dialogue: 0,0:20:08.97,0:20:10.52,Default,,0,0,0,,My numbers aren't going up...
 Dialogue: 0,0:20:11.52,0:20:16.69,Default,,0,0,0,,{\an8}All I do is wait, hoping for the revolution to begin
-Dialogue: 0,0:20:11.94,0:20:15.40,Default,,0,0,0,,There was a time I thought\Nthat if I became a famous producer,
-Dialogue: 0,0:20:15.40,0:20:17.82,Default,,0,0,0,,I'd be able to go out with college women.
+Dialogue: 0,0:20:12.12,0:20:15.40,Default,,0,0,0,,There was a time I thought\Nthat if I became a famous producer,
+Dialogue: 0,0:20:15.40,0:20:17.77,Default,,0,0,0,,I'd be able to go out with college women.
 Dialogue: 0,0:20:16.69,0:20:21.99,Default,,0,0,0,,{\an8}I have to hurry and come up with an answer
-Dialogue: 0,0:20:17.82,0:20:19.32,Default,,0,0,0,,{\an8}I'm here today again\N{\an8}You do make nice songs\N{\an8}This song really permeates
-Dialogue: 0,0:20:19.32,0:20:20.57,Default,,0,0,0,,No way!
-Dialogue: 0,0:20:20.57,0:20:21.99,Default,,0,0,0,,There's no way such a sweet deal could be real!
+Dialogue: 0,0:20:17.82,0:20:19.40,Signs,,0,0,0,,{\an8}I'm here today again\N{\an8}You do make nice songs\N{\an8}This song really permeates
 Dialogue: 0,0:20:21.99,0:20:27.16,Default,,0,0,0,,{\an8}Though I don't know the reason why I should hurry
-Dialogue: 0,0:20:21.99,0:20:24.91,Default,,0,0,0,,At the very least, I'm surrounded by high school girls.
-Dialogue: 0,0:20:24.91,0:20:26.58,Default,,0,0,0,,But, no way! I'm glad I don't have one!
-Dialogue: 0,0:20:26.58,0:20:28.37,Default,,0,0,0,,I'm free! I don't have to spend money on them!
+Dialogue: 0,0:20:19.40,0:20:20.57,Default,,0,0,0,,No way!
+Dialogue: 0,0:20:20.57,0:20:21.99,Default,,0,0,0,,There's no way such a sweet deal could be real!
+Dialogue: 0,0:20:21.99,0:20:25.11,Default,,0,0,0,,At the very least, I'm surrounded by high school girls.
+Dialogue: 0,0:20:25.11,0:20:26.53,Default,,0,0,0,,But, no way! I'm glad I don't have one!
 Dialogue: 0,0:20:27.16,0:20:31.79,Default,,0,0,0,,{\an8}Regrets, I repeat them and cry
-Dialogue: 0,0:20:28.37,0:20:31.33,Default,,0,0,0,,I'm glad I don't have a girlfriend! It's awesome!
-Dialogue: 0,0:20:31.79,0:20:36.96,Default,,0,0,0,,{\an8}But I mourn the fact that I can't change
-Dialogue: 0,0:20:32.62,0:20:34.25,Default,,0,0,0,,{\an8}Soft\N{\an8}It's nice\N{\an8}I want the album\N{\an9}It's lovely
-Dialogue: 0,0:20:35.75,0:20:36.96,Default,,0,0,0,,I should get some sleep...
-Dialogue: 0,0:20:39.00,0:20:41.88,Default,,0,0,0,,The same class? Together? Let's see...
-Dialogue: 0,0:20:40.88,0:20:42.09,Default,,0,0,0,,{\an8}Second-year Class Assignments\N{\an8}(If you wish to change courses, please notify staff ASAP)
-Dialogue: 0,0:20:42.09,0:20:45.05,Default,,0,0,0,,{\an8}Shiori Saginomiya\N{\an7}Liberal\N{\an7}Arts\N{\an8}Akane Kikuchi\N{\an8}Nozomu Tanaka\NPending
+Dialogue: 0,0:20:31.79,0:20:36.92,Default,,0,0,0,,{\an8}But I mourn the fact that I can't change
+Dialogue: 0,0:20:32.62,0:20:34.17,Default,,0,0,0,,{\an8}Soft\N{\an8}It's nice\N{\an8}I want the album\N{\an9}It's lovely
+Dialogue: 0,0:20:26.53,0:20:28.37,Default,,0,0,0,,I'm free! I don't have to spend money on them!
+Dialogue: 0,0:20:28.37,0:20:31.79,Default,,0,0,0,,I'm glad I don't have a girlfriend! It's awesome!
+Dialogue: 0,0:20:35.84,0:20:36.92,Default,,0,0,0,,I should get some sleep...
+Dialogue: 0,0:20:38.92,0:20:41.88,Default,,0,0,0,,The same class? Together? Let's see...
+Dialogue: 0,0:20:40.88,0:20:42.09,Signs,,0,0,0,,{\an8}Second-year Class Assignments\N{\an8}(If you wish to change courses, please notify staff ASAP)
+Dialogue: 0,0:20:42.09,0:20:45.05,Signs,,0,0,0,,{\an8}Shiori Saginomiya\N{\an7}Liberal\N{\an7}Arts\N{\an8}Akane Kikuchi\N{\an8}Nozomu Tanaka\NPending
 Dialogue: 0,0:21:01.53,0:21:05.91,Default,,0,0,0,,Sawagashikute yakamashikute
 Dialogue: 0,0:21:06.20,0:21:09.78,Default,,0,0,0,,Demo itoshikute
 Dialogue: 0,0:21:10.12,0:21:14.04,Default,,0,0,0,,Ano hi no warai koe
@@ -559,26 +558,26 @@ Dialogue: 0,0:21:43.65,0:21:50.74,Default,,0,0,0,,Kimi no kotoba mune ni reverb
 Dialogue: 0,0:21:50.74,0:21:59.29,Default,,0,0,0,,Itsuka haru ga zenbu tsure satte shimau
 Dialogue: 0,0:21:59.29,0:22:06.93,Default,,0,0,0,,Sono hi made wa baka de ii
 Dialogue: 0,0:22:07.30,0:22:11.56,Default,,0,0,0,,Kake nukeru kara
-Dialogue: 0,0:22:15.35,0:22:18.81,Default,,0,0,0,,Yamamoto, you know I said I'd be\Ncollecting notebooks after the test.
-Dialogue: 0,0:22:18.81,0:22:21.02,Default,,0,0,0,,The only ones who haven't turned them in\Nare you and Tanaka!
-Dialogue: 0,0:22:22.27,0:22:25.36,Default,,0,0,0,,You can look away all you want,\Nbut that won't make it go away!
-Dialogue: 0,0:22:31.91,0:22:34.62,Default,,0,0,0,,Yo! Last night was the night before the test!
-Dialogue: 0,0:22:34.62,0:22:37.21,Default,,0,0,0,,So, together, come on, say what?
-Dialogue: 0,0:22:37.21,0:22:39.75,Default,,0,0,0,,I went to my usual noodle shop.
-Dialogue: 0,0:22:39.75,0:22:42.46,Default,,0,0,0,,And what I ate there was tsukemen, yeah!
-Dialogue: 0,0:22:42.46,0:22:45.26,Default,,0,0,0,,The store owner's like, "How's today's noodles?"
-Dialogue: 0,0:22:45.26,0:22:48.55,Default,,0,0,0,,Took only a sec to fire back with:
-Dialogue: 0,0:22:48.55,0:22:49.93,Default,,0,0,0,,"Barikata."
-Dialogue: 0,0:22:49.93,0:22:52.85,Default,,0,0,0,,That's "firm" to you, y'all. Oh!
-Dialogue: 0,0:22:55.27,0:22:58.06,Default,,0,0,0,,What's gotten into you this time, Yamamoto?
-Dialogue: 0,0:23:00.40,0:23:02.65,Default,,0,0,0,,{\an7}Note: MEN means "Noodles"
-Dialogue: 0,0:23:00.40,0:23:08.78,Default,,0,0,0,,{\an8}Men men me-me-men! Men me-men!
-Dialogue: 0,0:23:00.56,0:23:04.32,Default,,0,0,0,,Yamamoto. I am asking about your notebook.
-Dialogue: 0,0:23:08.28,0:23:09.40,Default,,0,0,0,,Yamamoto!
-Dialogue: 0,0:23:10.45,0:23:13.41,Default,,0,0,0,,I forgot my backpack at the ramen shop.
-Dialogue: 0,0:23:13.41,0:23:16.20,Default,,0,0,0,,I've caused a lot of trouble for my parents. Seriously.
-Dialogue: 0,0:23:16.20,0:23:20.42,Default,,0,0,0,,So then, it was in your bag,\Nwhich you left behind at the ramen yesterday?
-Dialogue: 0,0:23:21.00,0:23:23.13,Default,,0,0,0,,Why didn't you just say so?
-Dialogue: 0,0:23:23.46,0:23:27.21,Default,,0,0,0,,Also, if you sang that chorus again,\NI would have used a pressure point to immobilize you.
-Dialogue: 0,0:23:27.21,0:23:29.84,Default,,0,0,0,,Wait! Please, just let me just say this!
-Dialogue: 0,0:23:35.31,0:23:36.93,Default,,0,0,0,,Sorry, for real!
+Dialogue: 0,0:22:15.37,0:22:18.91,Default,,0,0,0,,Yamamoto, you know I said I'd be\Ncollecting notebooks after the test.
+Dialogue: 0,0:22:18.91,0:22:20.98,Default,,0,0,0,,The only ones who haven't turned them in\Nare you and Tanaka!
+Dialogue: 0,0:22:22.23,0:22:25.36,Default,,0,0,0,,You can look away all you want,\Nbut that won't make it go away!
+Dialogue: 0,0:22:31.87,0:22:34.62,Default,,0,0,0,,Yo! Last night was the night before the test!
+Dialogue: 0,0:22:34.62,0:22:37.12,Default,,0,0,0,,So, together, come on, say what?
+Dialogue: 0,0:22:37.12,0:22:39.63,Default,,0,0,0,,I went to my usual noodle shop.
+Dialogue: 0,0:22:39.63,0:22:42.38,Default,,0,0,0,,And what I ate there was tsukemen, yeah!
+Dialogue: 0,0:22:42.38,0:22:45.13,Default,,0,0,0,,The store owner's like, "How's today's noodles?"
+Dialogue: 0,0:22:45.37,0:22:48.55,Default,,0,0,0,,Took only a sec to fire back with:
+Dialogue: 0,0:22:48.55,0:22:49.88,Default,,0,0,0,,"Barikata."
+Dialogue: 0,0:22:49.88,0:22:53.01,Default,,0,0,0,,That's "firm" to you, y'all. Oh!
+Dialogue: 0,0:22:55.23,0:22:58.23,Default,,0,0,0,,What's gotten into you this time, Yamamoto?
+Dialogue: 0,0:23:00.52,0:23:02.65,Default,,0,0,0,,{\an7}Note: MEN means "Noodles"
+Dialogue: 0,0:23:00.52,0:23:08.78,Default,,0,0,0,,{\an8}Men men me-me-men! Men me-men!
+Dialogue: 0,0:23:00.52,0:23:04.23,Default,,0,0,0,,Yamamoto. I am asking about your notebook.
+Dialogue: 0,0:23:07.99,0:23:09.61,Default,,0,0,0,,Yamamoto!
+Dialogue: 0,0:23:10.24,0:23:13.51,Default,,0,0,0,,I forgot my backpack at the ramen shop.
+Dialogue: 0,0:23:13.51,0:23:16.25,Default,,0,0,0,,I've caused a lot of trouble for my parents. Seriously.
+Dialogue: 0,0:23:16.25,0:23:20.37,Default,,0,0,0,,So then, it was in your bag,\Nwhich you left behind at the ramen yesterday?
+Dialogue: 0,0:23:20.94,0:23:23.38,Default,,0,0,0,,Why didn't you just say so?
+Dialogue: 0,0:23:23.38,0:23:27.06,Default,,0,0,0,,{\q2}Also, if you sang that chorus again,\NI would have used a pressure point to immobilize you.
+Dialogue: 0,0:23:27.06,0:23:30.13,Default,,0,0,0,,Wait! Please, just let me just say this!
+Dialogue: 0,0:23:35.31,0:23:36.89,Default,,0,0,0,,Sorry, for real!
